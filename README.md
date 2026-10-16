@@ -23,7 +23,12 @@ generations — without diminishing the role of fathers, elders, and mystics.
 manuscript/
   00-front-matter.md        Title page, abstract, central claim
   01-table-of-contents.md   Full outline (all 11 parts + back matter)
+  cover/
+    front-cover.png         Approved front cover artwork (1086 x 1448)
+    README.md               Cover description and print specifications
 ```
+
+![Front cover](manuscript/cover/front-cover.png)
 
 ## Central Claim
 
