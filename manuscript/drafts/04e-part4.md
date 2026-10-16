@@ -1,0 +1,338 @@
+<<<CHAPTER 23
+## Moses and Joshua: The Architecture of Deliberate Succession
+
+There is no succession in Scripture that is described in as much technical detail as the transfer of leadership from Moses to Joshua. The narrative gives us the request, the selection criteria, the ceremony, the charge, the transfer of standing, the written deposit, the divine commissioning, the predecessor's death and burial, and the successor's first orders — and it gives them in an order.
+
+What emerges is not an inspirational story about a young man taking over from an old one. It is a **specification**. Moses did not hope that Joshua would succeed. He built the succession, step by step, and the record preserves the steps.
+
+This chapter examines that architecture, because it is the pattern the rest of the book will keep referring to.
+
+### The request
+
+We begin not with Joshua but with Moses, and with a prayer that is entirely about the next generation.
+
+The setting is the plains of Moab, at the end of the forty years. Moses has been told that he will not enter the land (Numbers 20:12), and the people are about to move. And Moses' response to the news of his own exclusion is not to argue. It is to ask for a successor.
+
+*And Moses spake unto the Lord, saying, Let the Lord, the God of the spirits of all flesh, set a man over the congregation, which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd* (Numbers 27:15–17).
+
+Take the prayer apart, because the vocabulary is exact.
+
+**He addresses God as *the God of the spirits of all flesh*.** The Hebrew is *Elohei haruchoth lekhol basar*. The title is chosen deliberately: Moses is asking the God who knows every individual spirit to select the man, because the selection is not a matter of Moses' judgment. **He does not name a candidate.** He asks God to appoint.
+
+This is the first element of the architecture, and it is the one that is most often missing. **The predecessor does not choose the successor; the predecessor asks for one.**
+
+And there is a second reason the title is apt. Moses says nothing about ability, experience, or seniority. The God of the spirits of all flesh knows the inside of a man, and that is the qualification that matters.
+
+**Then the four verbs.** *Go out before them, go in before them, lead them out, bring them in.* The pairing of out and in is the standard Hebrew idiom for the whole activity of a leader in war and in peace — the phrase used of David in 2 Samuel 5:2 and of Solomon in 1 Kings 3:7. Moses is asking for someone who will command in battle and govern in peace, and the order of the verbs moves the leader forward: he goes out *before* them.
+
+**And the reason clause: *that the congregation of the Lord be not as sheep which have no shepherd.***
+
+That is the stated purpose of the whole succession. Not the preservation of the institution, not continuity of office, not the orderly conduct of affairs. **The congregation must not be left as sheep without a shepherd.** Everything in the mechanism that follows exists to serve that single outcome.
+
+### The selection and the four commands
+
+And God answers with a name, and with four instructions that constitute the ceremony.
+
+*And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him; and set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient* (Numbers 27:18–20).
+
+**First: the man.** *A man in whom is the spirit.* The Hebrew is *asher ruach bo* — in whom there is spirit, or the Spirit. The criterion is not age, lineage, seniority, or administrative capacity. It is the evident presence of the Spirit of God in the man.
+
+And whatever else he was, Joshua had this in a demonstrated form. He had been a man of war (Exodus 17:9), an attendant who would not leave the tabernacle (Exodus 33:11), a faithful spy (Numbers 14:6–9), and a man who was jealous for Moses' standing (Numbers 11:28–29). **The Spirit in him had produced recognisable fruit over decades.**
+
+**Second: the hand.** *Lay thine hand upon him.* The symbol is the transfer. The same gesture Moses uses to commission Joshua is used in the church to ordain (1 Timothy 4:14; 5:22), and the connection is deliberate — the laying on of hands in the New Testament is a continuation of this practice.
+
+And note who lays the hand: the man whose office is being transferred. Not a committee, not a court. **The predecessor personally identifies the successor by physical contact, in public.**
+
+**Third: the setting.** *Set him before Eleazar the priest, and before all the congregation.* The installation is performed in the presence of the high priest and the whole assembled people.
+
+There are two witnesses here, and both are necessary. **Eleazar represents the cultic and institutional order** — the successor is installed inside the sanctuary structure, not outside it. **And the congregation represents the nation** — the transfer is public, not private.
+
+The purpose of the public setting is stated explicitly in the next instruction, but it is worth naming: **an installation that nobody sees does not create authority. It records a preference.**
+
+**And fourth: the charge.** *And give him a charge in their sight.* The Hebrew verb is *tsivvah*, to command, to give orders, to commission. The content of the charge is not given here; Deuteronomy 31:7–8 supplies it. But the form matters. Joshua receives a **command**, in public, from a named authority.
+
+### The transfer of honour
+
+And then the fifth element, which is the most important sentence in the passage and the one that modern leadership almost universally omits.
+
+*And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient* (Numbers 27:20).
+
+**Some of thine honour.** The Hebrew is *mehodekha* — from your *hod*. The noun denotes splendour, majesty, dignity, the visible weight of a person's standing. It is the word used of the majesty of God in Psalm 104:1 and Job 40:10, and of royal dignity in Proverbs 20:29 where the glory of young men is their strength.
+
+**And Moses is told to put *some* of his own *hod* on Joshua.**
+
+This is the hardest part of leadership to give away, and the passage treats it as a command. **Moses' personal standing — accumulated over eighty years of walking with God, forty of them as the leader of a nation — is the asset that must be partially transferred so that the people will obey the successor.**
+
+Note the purpose clause: *that all the congregation of the children of Israel may be obedient.* The transfer is not ceremonial; it is the mechanism of obedience. And it tells us exactly why successions fail.
+
+**A successor without transferred honour is a successor with a title and no compliance.** The congregation will obey the old man's memory and ignore the young man's instruction, because the young man has not been given any of the standing that attaches to the office.
+
+And this is what destroys transitions. The predecessor either cannot bear to part with the standing, or does not think of doing so, or believes that the office itself carries the authority. It does not. The office is a chair. The *hod* is what makes people turn round when someone sits in it.
+
+Moses obeyed the instruction. And the proof is the testimony recorded a generation later:
+
+*On that day the Lord magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life* (Joshua 4:14).
+
+**They feared him as they feared Moses.** That is the transferred honour operating. And the author of Joshua is careful to say that it was *the Lord* who magnified him — the transfer Moses performed was ratified by God.
+
+### The preparation of Joshua
+
+And we cannot understand the ceremony without understanding the man it was performed on. Scripture gives us a considerable record of Joshua's formation, and the pattern is worth setting out because it is the longest apprenticeship in the Bible.
+
+**He was a military commander before he was anything else.** His first appearance is in Exodus 17, at the battle with Amalek: *And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek* (17:9). And Moses stood on the hill with the rod, and when his hands were heavy they held them up, and Joshua *discomfited Amalek and his people with the edge of the sword* (17:13).
+
+Note the arrangement. **Joshua fought on the plain while Moses interceded on the hill, and the battle was decided by the intercession.** That arrangement is a complete lesson in the relationship between the successor's activity and the predecessor's prayer, and Joshua learned it in his first engagement.
+
+**He was Moses' attendant on the mountain.** *And Moses rose up, and his minister Joshua: and Moses went up into the mount of God* (Exodus 24:13). He went part-way up Sinai with Moses and waited.
+
+**He was the one who heard the noise.** When Moses came down the mountain and heard the shouting of the people around the golden calf, it was Joshua who heard it first and said, *There is a noise of war in the camp* (Exodus 32:17). He was hearing what a nation's apostasy sounds like.
+
+**He was the man who would not leave the tabernacle.** *And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle* (Exodus 33:11).
+
+**This is the single most revealing sentence about Joshua in the Pentateuch, and it is easy to read past.** Moses goes back to the camp; the presence of God withdraws to the tent outside it (33:7); and Joshua stays in the tent.
+
+He is described as *a young man* — the Hebrew *na'ar*, the same word Jeremiah uses of himself. And while everyone else had returned to the camp, he remained where the presence of God was, because he did not want to leave it.
+
+**That is the formation.** Joshua's qualification for leadership was not his military record. It was that he had spent his youth in the place where God spoke, waiting outside a tent while the man of God went in, because he preferred the threshold of the presence to the camp.
+
+**He was jealous for Moses' honour and was rebuked.** In Numbers 11, when the Spirit fell on the seventy elders and two of them prophesied in the camp, Joshua — still described as Moses' young man — said, *My lord Moses, forbid them* (11:28). And Moses answered:
+
+*Enviest thou for my sake? would God that all the Lord's people were prophets, and that the Lord would put his spirit upon them!* (Numbers 11:29).
+
+**This is a beautiful and instructive moment.** Joshua's instinct was the institutional instinct: the wrong people are prophesying; the office must be protected. And the old man corrected him, and the correction was one of the last things Moses would teach him about power.
+
+**A man who wanted to restrict the Spirit's operation to one authorised channel was trained to lead a nation by a man who asked God to give the Spirit to everybody.** That correction was part of the curriculum.
+
+**And he was faithful as a spy.** Of the twelve sent into Canaan, ten returned with a report of impossibility and two — Joshua and Caleb — with a report of confidence. *And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes: And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land* (Numbers 14:6–7).
+
+**He had been right in a minority of two, before an assembly that wanted to stone him.** That is a formation in itself: the experience of standing for the truth against the overwhelming majority of one's own people, and being vindicated by God rather than by the crowd.
+
+**So the record gives us roughly forty years of Joshua's preparation**: the battle on the plain, the ascent of the mountain, the hearing of the noise, the years in the tent, the rebuke about jealousy, and the lone report.
+
+**And every one of those elements becomes an asset in the book that bears his name.** He fights; he leads; he knows the sound of apostasy; he knows where the presence of God is kept; he can hold a minority position; and he will not be intimidated by an assembly.
+
+### The disqualification
+
+We must also deal with the reason the succession was necessary, because it establishes a principle that the rest of this book depends on.
+
+Moses was excluded from the land, and the reason is recorded in Numbers 20. At the waters of Meribah, God instructed him to speak to the rock, and Moses struck it twice with the rod, and said: *Hear now, ye rebels; must we fetch you water out of this rock?* (Numbers 20:10).
+
+And the sentence:
+
+*And the Lord spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them* (Numbers 20:12).
+
+**The failure is stated precisely: he did not sanctify God in the eyes of the people.** The sin was in the public representation of God — the leader's action before the congregation misrepresented the character of the One he served.
+
+And the account in Deuteronomy is one of the most affecting passages in Scripture:
+
+*And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the Lord shewed him all the land of Gilead, unto Dan ... And the Lord said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither* (Deuteronomy 34:1–4).
+
+*I have caused thee to see it with thine eyes, but thou shalt not go over thither.*
+
+**The man who had led the people for forty years, who had spoken with God face to face, and who had carried them through the wilderness, was permitted to look at the destination and not to enter it.**
+
+**And what he did with that refusal is the whole architecture of this chapter.** He did not sulk. He did not withdraw. He did not refuse to prepare the man who would do what he could not. He spent his last months — the book of Deuteronomy is the record — building the succession with great thoroughness.
+
+**The greatest leaders in Scripture are men who prepared their successors for work they were forbidden to do themselves.**
+
+### The written deposit
+
+And now the thing Moses did which made the succession permanent rather than personal, and which is the reason we still have the book of Deuteronomy.
+
+*And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the Lord, and unto all the elders of Israel* (Deuteronomy 31:9).
+
+**Note the recipients.** The priests and the elders — the institutional and the civil leadership. Both.
+
+And then the instruction for its use:
+
+*And Moses commanded them, saying, At the end of every seven years, in the solemnity of the year of release, in the feast of tabernacles, when all Israel is come to appear before the Lord thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing ... that they may hear, and that they may learn, and fear the Lord your God, and observe to do all the words of this law: and that their children, which have not known any thing, may hear, and learn to fear the Lord your God, as long as ye live in the land* (Deuteronomy 31:10–13).
+
+**The purpose clause names the next generation explicitly:** *that their children, which have not known any thing, may hear, and learn.*
+
+**Moses built a mechanism by which the word of God would be read aloud to a generation that had never seen the wilderness.** Every seven years, at the feast of tabernacles, the whole law read to the whole people, including the children.
+
+That is a designed transmission system, and its logic is exactly right. The children who did not see the sea divided would hear it read. The children who did not gather the manna would hear it described. The children of a settled, comfortable, agricultural generation would be confronted, every seven years, by the account of what God had done and what He required.
+
+**And then the deposit itself:**
+
+*And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished, that Moses commanded the Levites, which bare the ark of the covenant of the Lord, saying, Take this book of the law, and put it in the side of the ark of the covenant of the Lord your God, that it may be there for a witness against thee* (Deuteronomy 31:24–26).
+
+**Put it inside the ark.** Not beside the altar, not in the archive, not in the custody of a family. Inside the ark of the covenant, next to the tables of stone, in the most sacred object in Israel's possession.
+
+**The written deposit was placed in the one container that could not be casually lost.** And the reason given is extraordinary: *that it may be there for a witness against thee.* The book is deposited as evidence. It will outlive the man who wrote it and it will testify against the generations that depart from it.
+
+**That is why the king was required to copy it** (Deuteronomy 17:18–19), and that is why the discovery of the book in the temple in Josiah's reign was such an event (2 Kings 22). **The whole subsequent history of Israel's reform movement is the history of a book that had been deposited by a man who could not enter the land.**
+
+**A leader who will not write has restricted his succession to people who were in the room.**
+
+### The two charges
+
+And Moses gives Joshua two charges, in two settings, and the successor needs both.
+
+**The first is public, in the sight of all Israel:**
+
+*And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the Lord hath sworn unto their fathers to give them; and thou shalt cause them to inherit it. And the Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed* (Deuteronomy 31:7–8).
+
+**The second is, as far as the text tells us, at the tabernacle, in the presence of God:**
+
+*And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee* (Deuteronomy 31:23).
+
+And note the difference. In the public charge, the ground of courage is *the Lord, he it is that doth go before thee.* In the private charge, the ground is the direct first-person assurance *I will be with thee*.
+
+**And then, after Moses' death, God speaks to Joshua directly, and gives him the charge a third time:**
+
+*Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses' minister, saying, Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them* (Joshua 1:1–2).
+
+*Moses my servant is dead.* God leads with the fact. There is no euphemism and no period of mourning built into the commission. **The successor is told plainly that the predecessor is gone and that the work has begun.**
+
+And then the triple charge, which is one of the most famous passages in the Old Testament, and which is given to a man who had already received the same words twice from Moses:
+
+*Be strong and of a good courage* (1:6) ... *Only be thou strong and very courageous* (1:7) ... *Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed* (1:9).
+
+**Three times, in nine verses.** And in the middle of the three, the condition:
+
+*that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein* (Joshua 1:7–8).
+
+**The courage is commanded, and the content of the courage is obedience to a book.**
+
+**So Joshua receives the charge from Moses publicly, from Moses privately, and from God directly. Three charges, by two agents, in two settings.** A successor who has only one of them is not fully installed.
+
+### The death and burial
+
+And the architecture ends with an act of withdrawal that Moses did not perform and could not have arranged.
+
+*So Moses the servant of the Lord died there in the land of Moab, according to the word of the Lord. And he buried him in a valley in the land of Moab, over against Beth-peor: but no man knoweth of his sepulchre unto this day* (Deuteronomy 34:5–6).
+
+**God buried Moses, and nobody knows where.** The Hebrew of verse 6 is *vayyikbor oto* — and he buried him, the subject being the Lord.
+
+And the reason is almost certainly contained in the next verse:
+
+*And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated* (Deuteronomy 34:7).
+
+**He died in full strength, at a hundred and twenty, with his eyesight intact.** And the grave is unknown.
+
+**Moses had to be removed completely, or the succession would never have happened.** A man of that stature, buried in a known tomb, in full vigour until the day of his death, would have been a permanent alternative to the living leader. The people would have pilgrimaged to the tomb. The successor would have ruled in the shadow of a shrine.
+
+**And Scripture records that this fear was not theoretical.** The epistle of Jude preserves the tradition that *Michael the archangel, when contending with the devil he disputed about the body of Moses* (Jude 9). Whatever one makes of the tradition, the point stands: there was a dispute about the body, and God settled it by hiding it.
+
+**The predecessor's complete withdrawal is part of the architecture of succession.** Not because the predecessor is to be forgotten, but because a living shrine will always compete with a living leader.
+
+### Principles
+
+**First: the predecessor asks for a successor rather than appointing one.** *Let the Lord, the God of the spirits of all flesh, set a man over the congregation.* Moses did not name a candidate. He asked the God who knows the inward parts of a man to choose, and the pattern is the reason Joshua's installation held.
+
+**Second: the qualification is the evident presence of the Spirit, verified over decades.** *A man in whom is the spirit.* And Joshua's forty years of service — the battle, the mountain, the tent, the minority report — were the evidence.
+
+**Third: the installation must be public, institutional and personal at the same time.** Before Eleazar the priest, before all the congregation, by the hand of Moses. A transfer that lacks the institution makes the successor an outsider; a transfer that lacks the congregation makes him a private favourite; a transfer that lacks the predecessor's hand makes him an orphan.
+
+**Fourth: honour must be transferred, or the successor will not be obeyed.** *Thou shalt put some of thine honour upon him, that all the congregation may be obedient.* This is the element most frequently missing in modern institutions, and its absence is the single most common cause of failed succession.
+
+**Fifth: the deposit must be written down and lodged somewhere it cannot be lost.** A book inside the ark, read aloud every seven years to a generation that did not know.
+
+**Sixth: the successor should be told plainly that the predecessor is dead.** *Moses my servant is dead; now therefore arise.* No ambiguity, no period of shadow government, no honorary emeritus role.
+
+**Seventh: the predecessor's withdrawal must be total.** God buried Moses himself, and hid the grave. **A succession is not complete while the predecessor is still available to be appealed to.**
+
+**And eighth, which is the point of the whole chapter: the man who cannot enter the land prepares the man who can.** Moses saw it and did not go over. And he spent his remaining strength making it possible for Joshua — and for every generation after him, because he wrote the book.
+
+### Two successions running in parallel
+
+And there is a second handover in the same period that must be noticed, because it shows that the Moses–Joshua transfer was not an isolated arrangement but one of two coordinated transitions.
+
+In Numbers 20, on the same occasion as Moses' disqualification at Meribah, God gives Aaron his own notice:
+
+*And the Lord spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying, Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the waters of Meribah. Take Aaron and Eleazar his son, and bring them up unto mount Hor: and strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there* (Numbers 20:23–26).
+
+**Take Aaron and Eleazar his son, bring them up, strip Aaron of his garments, and put them upon Eleazar.**
+
+The ceremony is performed on a mountain, in the presence of Moses and the son, and it consists of the physical removal of the high priest's vestments from the father and their transfer to the son. **Aaron dies wearing nothing that belonged to his office, because everything that belonged to his office has already been given away.**
+
+And the next verses record the conclusion:
+
+*And Moses did as the Lord commanded: and they went up into mount Hor in the sight of all the congregation. And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount* (Numbers 20:27–28).
+
+*And Moses and Eleazar came down.* The father is left on the mountain, dead, and **the two men who come down are the predecessor and the successor.**
+
+**This is the pattern running in parallel with the Joshua installation, and it establishes a principle: the institutional succession and the charismatic succession must both be arranged.** Moses passes the leadership of the nation to Joshua, and Aaron passes the high priesthood to Eleazar. The prophetic-military office and the priestly office are transferred in the same season, by the same generation, with the same care.
+
+**An institution that arranges only one of the two will produce a leader without a structure or a structure without a leader.** Joshua could not have led Israel without a functioning priesthood; Eleazar could not have functioned without a leader who would fight.
+
+**And the two men who inherited had to work together.** The record in Numbers 27:21 makes the relationship explicit: *And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the Lord: at his word shall they go out, and at his word shall they come in.*
+
+**Joshua, the military commander, was required to seek counsel from Eleazar, the priest, and to go out and come in at the priest's word.** The successor to Moses was placed under the spiritual direction of the successor to Aaron. Neither was given independence.
+
+**That is the constitutional arrangement of the next generation, and it is the reason the conquest went as it did.** The general did not consult his own instincts; he consulted the Urim through the priest, and the nation waited for the answer.
+
+### The two who survived
+
+And one more detail closes the architecture, and it is the most sobering statistic in the Pentateuch.
+
+Of all the adults who left Egypt under Moses, two entered the land.
+
+*Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun* (Numbers 14:30).
+
+And later: *But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still* (Numbers 14:38).
+
+**Two men, out of an entire generation of fighting-age adults.**
+
+And the reason for their survival is stated by God Himself, in a sentence that defines the whole doctrine of this book:
+
+*But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it* (Numbers 14:24).
+
+**Because he had another spirit with him, and hath followed me fully.**
+
+The Hebrew for *another spirit* is *ruach achereth*, and for *followed me fully* is *vayemalle' acharai* — literally, he filled up after me, he was completely full in following. Moses uses the same construction of Caleb in Deuteronomy 1:36: *and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the Lord.*
+
+**The succession to the wilderness generation went to the two men who had wholly followed the Lord when the whole nation was against it.** And Joshua's entire authority in the book that bears his name rests on the fact that he was one of only two people in the camp who had been right about the land forty years earlier.
+
+**That is the credential of a successor in Scripture: not the years of service, not the closeness to the predecessor, but the evidence that in a moment when everyone else wavered, he did not.**
+
+**A congregation will follow a man who has been vindicated in a minority. It will not follow a man who has only ever been agreeable.**
+
+### The key scriptures in full
+
+> And Moses spake unto the Lord, saying, Let the Lord, the God of the spirits of all flesh, set a man over the congregation, which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.
+> — Numbers 27:15–17
+
+> And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him; and set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient.
+> — Numbers 27:18–20
+
+> And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
+> — Exodus 33:11
+
+> And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the Lord hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.
+> — Deuteronomy 31:7
+
+> Take this book of the law, and put it in the side of the ark of the covenant of the Lord your God, that it may be there for a witness against thee.
+> — Deuteronomy 31:26
+
+> And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the Lord commanded Moses.
+> — Deuteronomy 34:9
+
+> Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
+> — Joshua 1:2
+
+### For the fathers
+
+- **Ask God to name the successor, and do not name him yourself.** Write the prayer of Numbers 27:16–17 out and pray it, without a candidate in mind.
+- **Identify the honour you hold and decide what portion of it to transfer.** In concrete terms: whose introduction, whose endorsement, whose recommendation, whose public statement will make people obey the successor?
+- **Install them in public, before the institution and the congregation.** Do it in a room with witnesses and minutes, and do it in front of the people.
+- **Write the deposit down.** Whatever is in your head is one funeral away from being lost.
+- **Give the charge twice — once in public and once alone.** The public charge creates authority; the private one creates courage.
+- **Withdraw.** Do not remain available as the appeal route. A predecessor who can be consulted informally has not transferred the honour.
+
+### For the young
+
+- **Stay at the threshold of the presence.** Joshua's qualification was that he *departed not out of the tabernacle* when everyone else had gone back to the camp. Nothing substitutes for the years spent where God speaks.
+- **Serve in the unglamorous assignments first.** Choose the men for a fight before you are asked to lead the nation.
+- **Receive the correction.** Joshua was rebuked for wanting to restrict the Spirit to the authorised channel, and the rebuke was part of his preparation.
+- **Learn to hold a minority position without bitterness.** Joshua was right, and the assembly wanted to stone him, and he did not become a man with a grievance.
+- **Expect the charge three times.** If you have received the commission once and feel weak, the pattern is that you will receive it again — from the institution, from the person, and from God.
+
+### Questions for reflection
+
+1. What honour do you hold that has not yet been placed on anyone else?
+2. Who is presently *in the tent* while everyone else has gone back to the camp?
+3. If your leadership ended tomorrow, would anyone be commanded to *arise* — or would the congregation simply be left as sheep without a shepherd?
+4. What is in your head that is not yet written down?
+5. Whose grave are you still visiting? What does the shrine cost the living leader?

@@ -1,0 +1,414 @@
+<<<CHAPTER 50
+## The Generation That Must Finish the Work
+
+**And now the final chapter of this Part, and it must resolve a difficulty that the first chapter created.**
+
+**For we said in the opening of this Part that no generation finishes the work, and that the incompleteness of the possession is not evidence of failure but of the size of the promise. And we are now required to say with equal seriousness that the generation which receives the inheritance must finish.**
+
+**And the two statements are not in conflict, and the reconciliation is the doctrine of this chapter.**
+
+**No generation finishes the work of God, because the work of God is the kingdom, and the kingdom is set up by the God of heaven and stands for ever (Daniel 2:44). And every generation is charged to finish its own assignment, which God has measured to the men who hold it.**
+
+**And the Scriptures contain men who said so about themselves, in full view of the men who were going to bury them:**
+
+*I have glorified thee on the earth: I have finished the work which thou gavest me to do* (John 17:4).
+
+*It is finished* (John 19:30).
+
+*But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God* (Acts 20:24).
+
+*I have fought a good fight, I have finished my course, I have kept the faith* (2 Timothy 4:7).
+
+**Four statements, from the Lord and from His apostle, and every one of them is a claim about a bounded assignment that was completed.**
+
+**And the whole book of Hebrews is built on the same distinction, and it gives God the title that resolves the difficulty: *the author and finisher of our faith* (Hebrews 12:2).**
+
+**Which means the completion of the whole is in His hands, and the completion of your part is in yours.**
+
+### The father who gathered materials he would never use
+
+**And the clearest case in Scripture of a man who finished his assignment without seeing its result is David, and the account is given at length because it is the model of a proper handover.**
+
+**David wanted to build the house of God, and he was refused:**
+
+*Go and tell David my servant, Thus saith the Lord, Thou shalt not build me an house to dwell in* (1 Chronicles 17:4).
+
+*But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood* (1 Chronicles 28:3).
+
+**And the reason given is about the nature of the man's own life and not about any failure in his devotion.** He had shed blood abundantly and made great wars; the house of rest was not to be built by a man whose hands were thus occupied. **And David's response to the refusal is the model for every older man whose work is not the work of his heart:**
+
+*And David said, Solomon my son is young and tender, and the house that is to be builded for the Lord must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death* (1 Chronicles 22:5).
+
+**I will therefore now make preparation for it.**
+
+**And the inventory of the preparation is given in numbers:**
+
+*Now, behold, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto. Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work ... Arise therefore, and be doing, and the Lord be with thee* (1 Chronicles 22:14–16).
+
+**Gold, silver, brass, iron, timber, stone, and workmen — and then *arise therefore, and be doing.***
+
+**Which means David finished a work that consisted entirely of preparation, and he was not the builder.**
+
+**And the phrase *David prepared abundantly before his death* is one of the most instructive sentences in the Old Testament about the end of a ministry.** His last years were not spent defending his record or enjoying his achievement. **They were spent making a pile of materials for a young man to use.**
+
+**And when the whole assembly was gathered for the transfer, he did three things in order, and they are the three duties of a departing generation.**
+
+**He told the people the truth about the successor: *Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the Lord God* (29:1).**
+
+**He stated the scale of the work and admitted the successor's youth in public.** Which is not a criticism of Solomon; it is a statement of fact and a claim on the assembly's patience. **A congregation told in advance that the new man is young will give him the room he needs; a congregation that discovers it will destroy him.**
+
+**And he gave from his own treasure, over and above the national preparation.** *Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house* (29:3).
+
+**Three thousand talents of gold of Ophir and seven thousand talents of refined silver, out of his personal estate.**
+
+**And then he asked the assembly for a consecration, and led them in a prayer that is the correct posture of any generation at the point of handover:**
+
+*But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee ... O Lord our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own* (1 Chronicles 29:14, 16).
+
+**All things come of thee, and of thine own have we given thee.**
+
+**Which is the confession of a man who understands that he has not been the source of anything.** He gathered what God provided and he hands it to a man chosen by God, and he says so in front of the whole nation.
+
+### The charge, and its three parts
+
+**And the personal charge to Solomon is recorded four times in the narrative, and it contains everything a departing leader owes his successor.**
+
+*And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the Lord searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. Take heed now; for the Lord hath chosen thee to build an house for the sanctuary: be strong, and do it* (1 Chronicles 28:9–10).
+
+**Know, serve, take heed, be strong, and do it.**
+
+**And the first item is not about the building.** It is *know thou the God of thy father.* The inheritance being transferred is a relation before it is a project.
+
+**And then the promise, which is calibrated to the completion of the assignment:**
+
+*Be strong and of good courage, and do it: fear not, nor be dismayed: for the Lord God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the Lord* (1 Chronicles 28:20).
+
+**Until thou hast finished.**
+
+**The promise of God's presence is not open-ended and it is not conditional on nothing.** It runs *until the work is finished*, which means the assistance has a terminus, and the terminus is the completion.
+
+**Which is one of the most strengthening statements in Scripture for a generation that has an unfinished job in front of it. The presence of God is promised for the duration of the assignment, and the assignment has an end.**
+
+**And then the successor is given his supply, and it is a list of people:**
+
+*And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment* (1 Chronicles 28:21).
+
+**Priests, Levites, willing skilful men of every kind of workmanship, princes, and the whole people.**
+
+**Which means the handover was not a document and a blessing. It was a workforce, named by category, and a public statement of their obedience.** The successor's authority was announced before he exercised it, **by the man whose own authority they were used to obeying.**
+
+### And the son finished it
+
+**And the record of the completion is set out in the first verse of the fifth chapter of 2 Chronicles, and it is a single sentence that closes a whole generation's work.**
+
+*Thus all the work that Solomon made for the house of the Lord was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God* (2 Chronicles 5:1).
+
+**Solomon brought in all the things that David his father had dedicated.**
+
+**Which means the finished building was furnished with the previous generation's offerings.**
+
+**And the sequence of the next days is the reward of a finished work, and it is one of the high points of the Old Testament:**
+
+*It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the Lord, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the Lord; so that the priests could not stand to minister by reason of the cloud: for the glory of the Lord had filled the house of God* (2 Chronicles 5:13–14).
+
+*Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the Lord filled the house* (2 Chronicles 7:1).
+
+**The trumpeters and singers were as one.**
+
+**Note the requirement, because it is the practical condition of the whole book. The glory filled the house at the moment when the two halves of the musical establishment — trumpeters and singers — ceased to be two and became one sound.**
+
+**And note also what happened when they were one: *the house was filled with a cloud ... for the glory of the Lord had filled the house of God.***
+
+**Which is the conclusion of this entire Part, stated in narrative form. A work was prepared by a father who was refused, finished by a son who was young and tender, furnished with the father's dedicated things, and filled with the glory of God at the moment when every voice in it became one sound.**
+
+**And the generation that finishes is the generation on which the glory falls.**
+
+### What cannot be finished, and what must be
+
+**And having established the completion, we must state the boundary, because the two truths hold together.**
+
+**There are works of God that no generation finishes, and a generation that sets out to finish them will be broken by them or will invent a false completion.**
+
+**The preaching of the gospel to all nations is not finished, and it is the sign of the end:** *And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come* (Matthew 24:14). **Which means the church's work is deliberately open until the last day, and the completion of it will be accomplished by the Lord's return and not by a generation's strategy.**
+
+**The rest of God is not finished being entered:** *There remaineth therefore a rest to the people of God ... Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief* (Hebrews 4:9, 11).
+
+**The harvest is not finished, and it never will be during this age:** *Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest* (John 4:35).
+
+**And the kingdom itself is not built by us at all:** *And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever* (Daniel 2:44).
+
+**The God of heaven sets it up. It is not left to other people, which means it is not transferred to a successor generation to be completed. And it stands for ever.**
+
+**And within that permanent and unfinished kingdom, your assignment is bounded, and it can be finished, and it must be.**
+
+**And the four things a generation must finish are stated plainly across this whole Part, and they are these.**
+
+**The assignment God gave you.** David's was to prepare; Solomon's was to build; Nehemiah's was to raise the wall in fifty-two days. **And the measure of a finished life is not whether the work of God is complete but whether the thing God said to you has been done.**
+
+**The preparation for the men who follow.** *David prepared abundantly before his death.* Materials, plans, a workforce, a written specification — and the specification of the temple was given to David in writing and handed to Solomon (1 Chronicles 28:11–19). **A generation that finishes with no specification for its successor has finished nothing.**
+
+**The deposit, undiminished.** *And Solomon brought in all the things that David his father had dedicated.* The material inheritance is the least of it. **The law, the covenant, the testimony, the record of what God has done — those are the dedicated things, and they must go into the next house entire.**
+
+**And the households.** Because Josiah's reform lasted *all his days* and no longer, and the wall of Jerusalem stood while the children could not read the law. **A work that cannot be continued by the children of the men who built it has not been finished; it has been abandoned at the moment of death.**
+
+### Sowers and reapers, rejoicing together
+
+**And the reason the two generations are not rivals is given by the Lord Himself in a field in Samaria, in the middle of an agricultural metaphor that He turned into a doctrine.**
+
+*Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work. Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest. And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together. And herein is that saying true, One soweth, and another reapeth. I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours* (John 4:34–38).
+
+**Take the four statements in order, because they constitute the theology of the shared harvest.**
+
+**First: *he that reapeth receiveth wages.*** The reaper is paid. Which means the generation that gathers is not working for the sower's benefit and not out of charity. **It has its own reward, and the reward is real.**
+
+**Second: *that both he that soweth and he that reapeth may rejoice together.***
+
+**Together.**
+
+**Not in sequence, not the sower first and then the reaper, and not the reaper's joy compensating for the sower's disappointment.** The design of God is that the two generations stand in the same harvest at the same moment and rejoice together — **which means the sower must live long enough, or be honoured enough, to see it, and the reaper must acknowledge whose labour produced the field.**
+
+**Third: *one soweth, and another reapeth.*** Which is stated as a proverb in common use and accepted as the ordinary arrangement.
+
+**And fourth: *other men laboured, and ye are entered into their labours.***
+
+**Which was said to the twelve, in the first year of their training, about a field they had not planted. And the harvest they reaped that day was the Samaritan city, which came out to see Jesus because of a woman's testimony (4:39). And the men who did the reaping had gone into the town to buy bread.**
+
+**Which means the Lord's own disciples reaped their first harvest in a field they had not sown, and He told them so in plain words, in advance, as a doctrine and not as an apology.**
+
+**And the practical consequence for both generations is stated in the same conversation.**
+
+**The old should not resent the young reaping what they sowed.** They were told in advance that this is how God works, and the promise attached to it is shared joy and not compensation.
+
+**And the young should not claim the field as their own.** They entered into labours; the wages and the fruit are given by the Lord of the harvest, **and the men who broke the ground are standing in the same field with the same right to rejoice.**
+
+### "I cannot come down"
+
+**And the fourth danger of the finishing generation is distraction, and the case is Nehemiah's, and it occurred when the wall was almost done.**
+
+*Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;) that Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief. And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you? Yet they sent unto me four times after this sort; and I answered them after the same manner* (Nehemiah 6:1–4).
+
+**Four invitations, and each of them is courteous, plausible, and described as a meeting.**
+
+**And the wall had no breach in it and the gates were not yet hung, which means the work was at its most vulnerable point: structurally complete and functionally undefended.**
+
+**Which is the moment at which a generation is most likely to leave the work, because the pressure that could not move it during the difficult years is replaced by invitations during the successful ones.**
+
+**And Nehemiah's answer is a sentence every finisher should memorise: *I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?***
+
+**He does not accuse them, does not debate the venue, and does not send a delegation.** He states the value of the work and the cost of the interruption, four times running, in the same words.
+
+**And the completion and its effect on the watchers are recorded in two verses:**
+
+*So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days. And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God* (Nehemiah 6:15–16).
+
+**They perceived that this work was wrought of our God.**
+
+**Which means the completion is the testimony.** The enemies were not convinced by the foundation or the half-built wall, or by the workers' armour, or by Nehemiah's refusals. **They were convinced by a finished wall in fifty-two days, and the record of God's hand in the work came from the mouths of people who did not believe in Him.**
+
+**Which is the strongest argument in Scripture for a generation that finishes what it starts.**
+
+### And the finisher's own end is not secure
+
+**And the account of Solomon must be completed, because the man who finished the house did not finish well.**
+
+**He was the successor who received the fullest handover in Scripture.** Materials measured in talents of gold, a written specification given by God to his father, a workforce named by category, a public charge, and a divine promise that God's presence would remain with him *until he had finished all the work.*
+
+**And he built it. And the record of the building is precise: *in the eleventh year, in the month Bul ... was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it* (1 Kings 6:38).**
+
+**According to all the fashion of it** — the specification was followed exactly.
+
+**And the next chapters record the compromise:**
+
+*But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites; of the nations concerning which the Lord said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love ... For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father* (1 Kings 11:1–4).
+
+**When Solomon was old.**
+
+**The man who finished the house at the age of about forty and wrote the Proverbs and the Preacher and was given the wisest mind in the world, in his old age, had his heart turned by the women of a dozen nations — *and he had seven hundred wives, princesses, and three hundred concubines.***
+
+**And the judgement was that the kingdom would be torn from him and given to his servant (11:11).**
+
+**Which means the generation that finishes the work may still fail at the end of its own life.** And the two statements are both true and both must be preached. **The completion of the assignment is achievable; the security of the man is not automatic.**
+
+**And the consequence fell on his son, and it fell in a single decision, and it is the most instructive political scene in the Old Testament.**
+
+*And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people? And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever. But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him ... And the king answered the people roughly, and forsook the old men's counsel that they gave him; and spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke* (1 Kings 12:6–8, 13–14).
+
+**And the answer of the nation was: *What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel* (12:16). And the kingdom divided, and it never reunited.**
+
+**Which means the counsel of the old men who had served the father was available to the son, and it was tested and rejected in favour of the counsel of men his own age.**
+
+**And that is the tragedy this whole book has been written to prevent.** Ten tribes were lost in a morning by a young king who would not hear the men who had stood before his father. **And the entire architecture of generational revelation — the fathers, the witnesses, the old men's counsel, the finishing generation — was thrown away in three verses.**
+
+### And the final charge to the finisher
+
+**And the book of Joshua opens with the sentence that releases the generation that must finish, and it is a sentence from God about the death of the previous leader.**
+
+*Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses' minister, saying, Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them* (Joshua 1:1–2).
+
+**Moses my servant is dead; now therefore arise.**
+
+**Which is the pattern of every true succession.** God states the fact of the predecessor's death in the first clause, and issues the command to advance in the second, **and He does not spend a verse on the predecessor's greatness, because the successor does not need it. He needs the commission.**
+
+**And the charge that follows is the same charge David gave Solomon, and it is given three times in nine verses:**
+
+*There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee. Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them. Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee ... Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest* (Joshua 1:5–7, 9).
+
+**And there is no mention of Joshua's own gifts.** The charge is strength, courage, obedience to the law of Moses, and the promise of God's presence. **The successor's qualification is a commission and a book.**
+
+**And the last word about the man who did not enter is in the last chapter of Deuteronomy, and it is one of the most beautiful statements in Scripture about the honour of a generation that hands over:**
+
+*And the Lord said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither. So Moses the servant of the Lord died there in the land of Moab, according to the word of the Lord* (Deuteronomy 34:4–5).
+
+**He died *according to the word of the Lord*, which means his death was as obedient as his life. And he died having seen the whole land.**
+
+**And the last verse of the account is that God buried him and no man knows his grave to this day (34:6) — which means the generation he brought out of Egypt could not build a shrine to him, and the generation he brought to the border could not make his memory a rival to the God who sent him.**
+
+**And the last verse of the book grants him a distinction that no successor achieved:** *And there arose not a prophet since in Israel like unto Moses, whom the Lord knew face to face* (34:10).
+
+**Which means the man who handed over was greater than the man who finished, and the man who finished completed the work of both.**
+
+### The seed accounted for a generation
+
+**And the last word of this Part belongs to a psalm that was sung in the assembly of Israel and later quoted by the Lord on the cross:**
+
+*A seed shall serve him; it shall be accounted to the Lord for a generation. They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this* (Psalm 22:30–31).
+
+**A seed shall serve him.**
+
+**And that seed shall be accounted to the Lord for a generation.**
+
+**Which is the promise that closes the whole discussion of this Part.** Where there is a seed that serves Him, God counts it as a generation. **The arithmetic is His, and the accounting is generous, and the criterion is service and not size.**
+
+**And then the seed does what every living generation does, and the psalm states it as a certainty: *they shall come, and shall declare his righteousness unto a people that shall be born.***
+
+**A people that shall be born. Which means the declaration is always addressed to people who do not yet exist, and the declaration is that *he hath done this* — the finished act of God and not the projected plan of men.**
+
+**And the charge to the generation that must finish is therefore the charge given to ten servants in a parable, in four words:**
+
+*And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come* (Luke 19:13).
+
+**Occupy till I come.**
+
+**And the commendation for the man who traded and gained is the sentence that ends the discussion in this book and every other one:**
+
+*Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord* (Matthew 25:21).
+
+**Faithful over a few things. The few things are your years, your assignment, your congregation, your household, your materials and your successor's name. And the many things are the kingdom that the God of heaven has set up, which shall not be destroyed, and stands for ever.**
+
+**And the works of the men who finish follow them, and the record of it is in the last book:**
+
+*Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them* (Revelation 14:13).
+
+**Their works do follow them.**
+
+**And the last instruction to the generation that is working is the apostle's, and it is the proper end of a Part that has been about inheritance, preparation, discovery, prophecy and completion:**
+
+*Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord* (1 Corinthians 15:58).
+
+### Principles
+
+**First: the work of God is not finished by any generation, and the assignment given to a generation can and must be.** *I have finished the work which thou gavest me to do*; and *in the days of these kings shall the God of heaven set up a kingdom ... and it shall stand for ever.*
+
+**Second: God is the author and finisher of the faith, and the completion of the whole rests on Him.** *Looking unto Jesus the author and finisher of our faith.*
+
+**Third: preparation done for the next generation is finished work.** *I will therefore now make preparation for it. So David prepared abundantly before his death.*
+
+**Fourth: a departing leader owes his successor four things — materials, a written specification, a named workforce, and a public statement of his youth and his authority.** *Solomon my son ... is yet young and tender, and the work is great*; *behold, the courses of the priests and the Levites ... shall be with thee.*
+
+**And fifth: the old must tell the people the truth about the successor, including his inexperience, and claim their patience in advance.**
+
+**Sixth: the promise of God's presence is calibrated to the completion of the assignment.** *He will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the Lord.*
+
+**And seventh: the glory falls on a finished work and on a united sound.** *The trumpeters and singers were as one, to make one sound ... that then the house was filled with a cloud.*
+
+**Eighth: God's design is that both generations rejoice together in the same harvest.** *That both he that soweth and he that reapeth may rejoice together*; and *other men laboured, and ye are entered into their labours.*
+
+**Ninth: the nearness of completion is when the invitations to leave the work arrive, and they will be courteous.** *Come, let us meet together ... I am doing a great work, so that I cannot come down.* And the finished wall is what made the heathen perceive that the work was of God.
+
+**And tenth: completing the work does not secure the man who completed it.** *For it came to pass, when Solomon was old, that his wives turned away his heart after other gods.*
+
+**And eleventh: the counsel of the old men is available to every successor, and it has been rejected for the advice of contemporaries at the cost of ten tribes.** *But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him.*
+
+**And twelfth: the successor's charge is strength, courage, obedience to the book, and the presence of God — and the predecessor's death is stated in the same breath as the order to advance.** *Moses my servant is dead; now therefore arise, go over this Jordan.*
+
+### The key scriptures in full
+
+> And David said, Solomon my son is young and tender, and the house that is to be builded for the Lord must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death.
+> — 1 Chronicles 22:5
+
+> Now, behold, in my trouble I have prepared for the house of the Lord an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight ... timber also and stone have I prepared; and thou mayest add thereto. Moreover there are workmen with thee in abundance ... Arise therefore, and be doing, and the Lord be with thee.
+> — 1 Chronicles 22:14–16
+
+> And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the Lord searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. Take heed now; for the Lord hath chosen thee to build an house for the sanctuary: be strong, and do it.
+> — 1 Chronicles 28:9–10
+
+> Be strong and of good courage, and do it: fear not, nor be dismayed: for the Lord God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the Lord.
+> — 1 Chronicles 28:20
+
+> But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee ... all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own.
+> — 1 Chronicles 29:14, 16
+
+> Thus all the work that Solomon made for the house of the Lord was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.
+> — 2 Chronicles 5:1
+
+> It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord ... that then the house was filled with a cloud, even the house of the Lord; so that the priests could not stand to minister by reason of the cloud: for the glory of the Lord had filled the house of God.
+> — 2 Chronicles 5:13–14
+
+> And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together. And herein is that saying true, One soweth, and another reapeth. I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
+> — John 4:36–38
+
+> And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you? ... So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days. And it came to pass, that when all our enemies heard thereof ... they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
+> — Nehemiah 6:3, 15–16
+
+> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
+> — Daniel 2:44
+
+> For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
+> — 1 Kings 11:4
+
+> And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived ... But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him ... What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel.
+> — 1 Kings 12:6, 8, 16
+
+> Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses' minister, saying, Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them.
+> — Joshua 1:1–2
+
+> Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
+> — Joshua 1:9
+
+> I have glorified thee on the earth: I have finished the work which thou gavest me to do ... It is finished.
+> — John 17:4; 19:30
+
+> I have fought a good fight, I have finished my course, I have kept the faith: henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.
+> — 2 Timothy 4:7–8
+
+> A seed shall serve him; it shall be accounted to the Lord for a generation. They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
+> — Psalm 22:30–31
+
+> Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
+> — 1 Corinthians 15:58
+
+### For the fathers
+
+- **Prepare even when you are forbidden to build.** *I will therefore now make preparation for it.* Preparation handed to a successor is finished work, and it is accepted as such.
+- **Give the successor materials, a written specification, a named workforce, and a public claim on the congregation's patience.** And tell the people he is young before they discover it themselves.
+- **Take the confession of stewardship and not the credit.** *Who am I, and what is my people ... for all things come of thee, and of thine own have we given thee.*
+- **And understand that you may hand over a pile of good things and a son who will fail at the end of his life.** *When Solomon was old.* Finishing the work and finishing well are two different graces, and the second must be prayed for daily to the last day.
+- **And keep your counsel available to the men who follow.** It was offered to Rehoboam and rejected, and the loss was ten tribes. Offer it anyway, and be willing to be refused.
+
+### For the young
+
+- **Ask what your assignment is and finish it, rather than aiming at the whole kingdom.** *I have finished the work which thou gavest me to do.* The kingdom is set up by the God of heaven, and your task has a boundary.
+- **Carry in the dedicated things.** *Solomon brought in all the things that David his father had dedicated.* The deposit, the law and the record of what God has done go into your house entire.
+- **Accept that your presence with God is promised for the duration of the task.** *Until thou hast finished all the work.* Which is the deepest security available to a man with an unfinished job.
+- **Refuse the courteous invitations to leave the work, and refuse them in the same words every time.** *I am doing a great work, so that I cannot come down.* Four times, if necessary.
+- **And reap with the sowers, and give them the joy.** *That both he that soweth and he that reapeth may rejoice together.* You did not plant the field you are harvesting, and God intended the two of you to stand in it at the same time.
+- **And hear the counsel of the old men who stood before your father.** It is available to you in most houses, it has been tested, and the price of despising it is recorded in the twelfth chapter of 1 Kings for ever.
+- **And occupy till He comes, and be faithful over the few things, and expect the voice at the end:** *well done, thou good and faithful servant.*
+
+### Questions for reflection
+
+1. What precisely has God given you to finish, as distinct from the whole work of the kingdom, and can you state it in one sentence?
+2. What materials are you preparing for a man who will use them after your death, and is there a written specification among them?
+3. If your congregation were told today that the successor is young and the work is great, would they give him room, and who would tell them?
+4. Which courteous invitation in the plain of Ono is currently in front of you, and what would it cost the work for you to accept it?
+5. Where are you already planning to stop, and what would it take to finish?

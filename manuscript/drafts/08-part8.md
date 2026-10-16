@@ -1,0 +1,342 @@
+<<<CHAPTER 45
+## The Joshua Generation and the Unfinished Promise
+
+**Part Eight turns to the pages of Scripture in which the younger generation receives exactly what their fathers were shown and could not take, and it begins with the most famous case in the Old Testament.**
+
+**A whole generation of adults was disqualified from entering the land, and their children were brought in instead.**
+
+**And the children who entered inherited a promise, a set of boundaries, a written law, a leader trained for forty years, and an unfinished map. And the account of what they did with it is one of the most searching records in Scripture, because they were faithful men and the work was still incomplete when their leader died.**
+
+**And the last sentence of Joshua's life, spoken by God, is the sentence that every successor must learn to hear without flinching: *thou art old and stricken in years, and there remaineth yet very much land to be possessed* (Joshua 13:1).**
+
+### The generation that was buried in the wilderness
+
+**And the mechanism by which the promise passed to the young is stated in a sentence that is almost unbearable to read.**
+
+*Say unto them, As truly as I live, saith the Lord, as ye have spoken in mine ears, so will I do to you: your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me, doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun. But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised* (Numbers 14:28–31).
+
+**Four things in that passage must be extracted, because they are the doctrinal foundation of everything in this Part.**
+
+**The first is the age of accountability: *from twenty years old and upward*.** Everyone who had been counted in the census and had reached the age of responsibility was excluded, **and the exclusion was by death in the wilderness over forty years.**
+
+**The second is that the sentence was pronounced on the fathers for the fathers' unbelief.** *As ye have spoken in mine ears, so will I do to you.* The ten spies' report — *we be not able to go up against the people; for they are stronger than we* — had been accepted by the whole congregation, **and the judgement was the ratification of their own word.**
+
+**And the third is that the postponement was measured: *after the number of the days in which ye searched the land, even forty days, each day for a year*** (Numbers 14:34). **The delay was proportionate to the reconnaissance, and a generation paid a year for each day of the report it had believed.**
+
+**And the fourth is the sentence that matters most for this book: *but your little ones, which ye said should be a prey, them will I bring in.***
+
+**The children were the fathers' argument for not going up.** The congregation had said that their wives and children would become a prey if they advanced (Numbers 14:3), **and God's answer is that the very children whose safety had been used to justify the retreat would be brought in to possess the land the fathers had despised.**
+
+**Which is the sharpest possible statement of a principle that runs through the whole of Scripture. The excuse a generation invents for its own unbelief becomes the inheritance of its children, and the children take what the parents refused.**
+
+**And note the verb: *they shall know the land which ye have despised.***
+
+**The land is not described as a reward. It is described as a thing that had been despised, and the generation that enters it will know it.** Which is what happens in every generation that inherits a work its fathers were afraid to build.
+
+**And two men survived the purge, and their survival is the mechanism by which the memory of the promise crossed the forty years.**
+
+*But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it* (Numbers 14:24).
+
+**And at the end of the wilderness, the census confirms the total loss and the two exceptions:**
+
+*But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai. For the Lord had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun* (Numbers 26:64–65).
+
+**Two men out of an entire generation of adults.**
+
+**And their qualification had nothing to do with ability.** *Because he had another spirit with him, and hath followed me fully.* **Which means the two men who crossed the forty years and entered the land were the two men who had believed the original report, and their qualification was a disposition and a loyalty, and not a gift.**
+
+**And the record of Caleb at eighty-five is one of the great statements of the older generation in Scripture:**
+
+*And now, behold, the Lord hath kept me alive, as he said, these forty and five years ... and now, lo, I am this day fourscore and five years old. As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in. Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said* (Joshua 14:10–12).
+
+**Give me this mountain.**
+
+**An old man, at eighty-five, asking for the hardest assignment in the land — the territory of the giants, the cities with walls, the very place that the spies had reported as impossible.** And he asks for it by name, and cites the promise made to him forty-five years earlier.
+
+**Which means the older generation that crosses into the promise is not a generation of men who have retired. It is a generation of men who are still claiming the mountains their contemporaries refused.**
+
+### "There remaineth yet very much land to be possessed"
+
+**And now the sentence that gives this chapter its theme, and it was spoken by God to the successor on the day when the conquest was supposed to be complete.**
+
+*Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed* (Joshua 13:1).
+
+**Two clauses: the old age of the leader, and the incompleteness of the work.**
+
+**And the incompleteness is quantified in the verses that follow, and the detail matters.** Joshua 13:2–6 lists what remained: *all the borders of the Philistines, and all Geshuri*; the territories of the Sidonians; the land of the Gebalites; and the regions of Lebanon as far as Hamath. **And then the list of the nations that had not yet been driven out continues through the following chapters.**
+
+**So God told His faithful servant that the job was not finished, and He told him precisely what parts of it were outstanding.**
+
+**And here is the point that every successor must be made to understand, because it is the difference between a faithful handover and an accusation:**
+
+**The incompleteness was not Joshua's failure.**
+
+**He had received the land as a gift with the boundaries already drawn by God (Joshua 1:3–4). He had crossed the Jordan, destroyed Jericho and Ai, conquered the south and the north in a series of campaigns, allocated the territory by lot to the nine and a half tribes, and established the cities of refuge and the Levitical cities.** And God's own verdict on the arrangement is unambiguous, and it is stated in the same book:
+
+*And the Lord gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein. And the Lord gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the Lord delivered all their enemies into their hand. There failed not ought of any good thing which the Lord had spoken unto the house of Israel; all came to pass* (Joshua 21:43–45).
+
+**And Joshua himself, at the end of his life, stated it as a settled fact that the whole nation could verify:**
+
+*And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the Lord your God spake concerning you; all are come to pass unto you, and not one thing hath failed thereof* (Joshua 23:14).
+
+**So the same book says that nothing failed and that very much land remained.**
+
+**And the reconciliation of the two statements is the most important doctrinal distinction in this chapter, and it runs as follows.**
+
+**God gave the land, and the giving was complete.** *The Lord gave unto Israel all the land which he sware to give.* The title deeds were executed; the boundaries were specified; the enemy had been delivered into their hand. **Every promise was kept.**
+
+**And Israel had to possess what was given, and the possession was partial.** *And they possessed it, and dwelt therein* is stated of the whole, **and then the remaining territory is itemised in the next chapter as unpossessed.**
+
+**The gift and the occupation are two different acts, and the New Testament uses the same distinction.** *For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it* (Hebrews 4:2).
+
+**Which means that a successor inherits a deed he must still enforce, and a promise he must still occupy, and a territory that has been given to him in law and not yet in fact.**
+
+**And the practical instruction for a young man taking over a work is in that difference. He has not been given a finished estate. He has been given a title, a set of boundaries, and a list of what remains outstanding.**
+
+### The itemised failures of the next generation
+
+**And the book of Judges opens with the account of how the possession was actually carried out, and the account is a list of local and unglamorous omissions.**
+
+*And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron* (Judges 1:19).
+
+*Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them ... Neither did Asher drive out the inhabitants of Accho, nor of Zidon ... neither did Naphtali drive out the inhabitants of Beth-shemesh, nor of Beth-anath; but he dwelt among the Canaanites ... And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley* (Judges 1:29, 31, 33–34).
+
+**Read the reasons, because each of them is a reason that a modern successor will recognise.**
+
+**Judah *could not* drive out the valley dwellers because of the chariots of iron.** Which means the obstacle was real and the enemy had technology the Israelites did not possess. **And the tribe settled for the mountain, and the valley remained in enemy hands for centuries.**
+
+**Ephraim, Asher and Naphtali *did not* drive them out, and the pattern was accommodation: *the Canaanites dwelt among them, and became tributaries* (1:30).**
+
+**Which means the failure was not a failure of strength. It was a failure of intention.** The tribes found that the Canaanites were economically useful — they paid tribute, they worked the land — **and the arrangement was comfortable, and the command was *thou shalt make no covenant with them, nor with their gods* (Exodus 23:32) and *thou shalt utterly drive them out* (23:31).**
+
+**And Dan was *forced* into the mountain, which is a different failure again: the tribe was driven off its own inheritance by an enemy it should have displaced.**
+
+**So the unpossessed land was not lost in a war. It was lost in a series of local decisions, each of which had a reasonable explanation.**
+
+**And the consequences are stated by the angel of the Lord at Bochim, and they are the most important verses in the book of Judges:**
+
+*And an angel of the Lord came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you. And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this? Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you* (Judges 2:1–3).
+
+**Thorns in your sides, and a snare.**
+
+**Which is the sentence that explains the whole of the book that follows.** The tolerated enemy does not remain neutral. **He becomes a thorn, and then he becomes a snare, and then he becomes the object of worship.**
+
+*And the children of Israel did evil in the sight of the Lord, and served Baalim: and they forsook the Lord God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them* (Judges 2:11–12).
+
+**And the mechanism of the corruption is stated in three verses that describe a religious strategy rather than a military failure:**
+
+*Now these are the nations which the Lord left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan; only that the generations of the children of Israel might know, to teach them war, at least such as before knew nothing thereof ... And they were to prove Israel by them, to know whether they would hearken unto the commandments of the Lord, which he commanded their fathers by the hand of Moses. And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites: and they took their daughters to be their wives, and gave their daughters to their sons, and served their gods* (Judges 3:1–2, 4–6).
+
+**The nations left in the land were left to teach the next generation war — and the next generation married them and worshipped their gods.**
+
+**Which is the doctrine of the unfinished possession stated in full.** A generation that inherits a partially occupied territory and does not finish the work will not simply live with the remainder. **It will eventually adopt the remainder's religion, because partial obedience always produces a partial god.**
+
+**And the failure is rarely visible in the year it occurs.** The tribes that put the Canaanites to tribute had peace, revenue and an easier life. **And their grandchildren were worshipping Baal and Ashtaroth, and being sold into the hands of spoilers, and crying out to a God their grandparents had abandoned the assignment for.**
+
+### The children who had no knowledge between good and evil
+
+**And there is a detail in Moses' account of the sentence that describes the generation which entered, and it is one of the most merciful statements in the Torah.**
+
+*Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it* (Deuteronomy 1:39).
+
+**The Hebrew for *had no knowledge between good and evil* is a description of moral infancy.** It is the language of a child who cannot yet distinguish, and it is used elsewhere of a king who had not yet learned to refuse the evil and choose the good (Isaiah 7:15–16).
+
+**And the point of its appearance here is that the exclusion from the land applied to those who had reached the age of moral responsibility, and the inclusion applied to those who had not.**
+
+**Which tells us something important about the judgement that fell on the wilderness generation, and something more important about how God treats the young.**
+
+**The generation that died in the desert died for a decision it made in full knowledge.** They had seen the plagues, the sea, the manna, the water from the rock, and the fire on Sinai. **They sent twelve men into the land and received a report that confirmed everything God had said about it, and they chose to believe the ten who said they could not take it.**
+
+**And their children, who had done nothing and decided nothing, were not merely spared the sentence. They were given the promise.**
+
+**Which is the pattern that governs the whole of this book. God's judgement falls on those who refuse in knowledge, and His promise runs to those who have not yet had the opportunity to refuse.**
+
+**And note the specific provision: *unto them will I give it, and they shall possess it.***
+
+**The giving and the possessing are in the same sentence, addressed to people who had no capacity to receive anything yet.** A child of five in the wilderness was named in a land grant by God, and he walked toward it for thirty-five years before he could see it.
+
+**Which means that a promise over a child is not absurd and is not sentimental.** It is the ordinary method by which a generation is brought into an inheritance — including the many years in which the child has no idea that the title exists.
+
+**And there is a second feature of that generation that must be named, and it is uncomfortable.**
+
+**They entered the land with a memory problem.**
+
+*And the people served the Lord all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the Lord, that he did for Israel ... And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the Lord, nor yet the works which he had done for Israel* (Judges 2:7, 10).
+
+**The generation that entered had seen the crossing of Jordan and the walls of Jericho falling and the sun standing still.** And by the time their own children had grown, the knowledge was gone.
+
+**Which means that the wilderness generation's children carried the promise into the land and carried it no further than their own lifetimes.** They possessed partially, they did not finish, and they did not hand over the memory. **And the failure compounded: the unpossessed land produced thorns and snares, and the unhanded memory produced a generation that knew nothing.**
+
+**Both failures had the same root, and the root was that they did not complete what they had received.** They did not clear the land and they did not clear the record.
+
+### When there was no king in Israel
+
+**And the book that follows Joshua closes with a phrase that diagnoses the end state of a partial possession, and it repeats it four times as a refrain.**
+
+*In those days there was no king in Israel* (Judges 18:1; 19:1; 21:25). *And there was no king in Israel: every man did that which was right in his own eyes* (Judges 21:25).
+
+**Note the connection.** The book of Judges opens with the tribes failing to drive out the inhabitants and closes with the tribes unable to govern themselves.
+
+**The middle of the book is a series of cycles in which the nation is oppressed, cries out, is delivered by a judge, and relapses.** And the two episodes at the end — the migration of the tribe of Dan and the outrage at Gibeah — are the account of a society in which the tribe can no longer act against a common enemy and has begun to consume itself.
+
+**Which is what an unpossessed inheritance finally produces.** A generation that tolerates its enemies eventually loses the capacity to distinguish between an enemy and a neighbour, **and its violence turns inward and its religion becomes whatever each household finds convenient.**
+
+**And the diagnosis given by the narrator is not religious and not moral. It is structural: *there was no king in Israel.***
+
+**Which means the question of leadership and succession is not a secondary matter of administration. It is the difference between a people that can occupy its inheritance and a people that is picked apart.**
+
+**And the same phrase applies to a church.** A congregation with no recognised leadership, no accountability, no inheritance to hand over and no memory of what God has done will not merely decline. **It will do religiously what the last chapters of Judges describe: every man doing what is right in his own eyes, and calling it freedom.**
+
+**Which is why the transfer of honour and authority is a work of mercy and not a matter of ambition.** Joshua died leaving a nation whose tribes each had their own inheritance and nobody over the whole. **And the book of Judges is the record of that arrangement.** The next generation paid for it in blood and in bondage, and the eventual remedy was a kingdom — which, when it was finally established, was troubled from its beginning by the same generational question.
+
+### The two men who carried the memory across
+
+**And the reason the next generation had anything to inherit at all is stated in the two surviving witnesses, and the manner of their survival is instructive.**
+
+**Both had believed the original report when the whole nation did not.** *And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes* (Numbers 14:6) — **and then they spoke against the congregation:**
+
+*The land, which we passed through to search it, is an exceeding good land. If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey. Only rebel not ye against the Lord, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the Lord is with us: fear them not* (Numbers 14:7–9).
+
+**And the congregation's response was to take up stones to stone them (14:10).**
+
+**Which means the two men who bridged the generations were men who had stood alone in public, been threatened with death for it, and been vindicated forty-five years later.**
+
+**And this is the qualification for the older member of a transitional generation.** He must be a man who has held the promise for a long time without seeing it fulfilled, and who has not adjusted the promise to fit his circumstances. **Caleb had waited forty-five years and then asked for the mountain.**
+
+**And the second element is that their conviction was a matter of spirit and not of calculation.** *Because he had another spirit with him, and hath followed me fully.*
+
+**The Hebrew is *ruach achereth*, another spirit.** God does not say that Caleb was braver, or more intelligent, or stronger. **He says the man had a different spirit and had followed Him fully, and the two statements are one statement.**
+
+**And the two witnesses' existence is why the generation that entered the land had any knowledge at all of what had been promised and why.** They had two living men who had seen the report, seen the refusal, seen the judgement, and crossed the decade and a half of wilderness.
+
+**Which is what an older generation in a church is for, and it is why the covenant should keep them close and let them speak.** A man who has held a promise for forty years and not adjusted it is the single most valuable asset in a house of God, **and he is most valuable precisely at the times when his account sounds least realistic.**
+
+### And the rest was not the end
+
+**And the final element of this chapter goes beyond Joshua, because the letter to the Hebrews takes the unfinished conquest and makes it a doctrine about everything.**
+
+*Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it ... For if Jesus had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his. Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief* (Hebrews 4:1, 8–11).
+
+**The argument is this: if Joshua's conquest had been the rest God was talking about, God would not have spoken centuries later about *another day* in Psalm 95.**
+
+**Therefore the land was a type, and the rest it offered was partial, and the full rest remained.**
+
+**Which means the unfinished work of every generation is not a defect in the plan. It is the nature of the plan.**
+
+**Joshua did not complete the possession, and Joshua was faithful.** Moses saw the land and did not enter it, and Moses was faithful. **Abraham received a promise that his descendants would have the land, and he died owning a cave (Genesis 23:19–20).**
+
+**And the theology of the whole canon is that no generation finishes, because the promise is larger than any generation, and the last generation will enter a rest that none of the previous ones could take.**
+
+*These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them* (Hebrews 11:13).
+
+**Which is the answer to the young man who inherits an unfinished work and asks whether his predecessor failed.** If the promise is complete and the possession is not, the incompleteness is not evidence of failure. **It is evidence of the size of the thing.**
+
+**And it is the answer to the older man who is about to hand over a work he did not finish.** He can hand over a deed, a boundary, and an itemised list of what remains — **and the itemisation is the greatest gift he can give, because it saves his successor from the appearance that everything was done.**
+
+### What the successor inherits, and what he must do
+
+**And the practical content of this chapter can be set out as an inventory, because Joshua 13:1–6 is an inventory.**
+
+**He inherits a title deed.** The land was given by God with the boundaries stated. **The successor of a church inherits a commission that was not written by the man in front of him but by God, and its terms are in Scripture.**
+
+**He inherits a memory of what God has done, held by two living witnesses.** Caleb and Joshua. **Every congregation with older believers in it has an asset that cannot be purchased, and the asset is the memory of what God did which the newcomers did not see.**
+
+**He inherits an itemised list of unfinished work.** The Philistines' borders, Geshur, Sidon, the Lebanon region. **Which means the successor's first task is reconnaissance and not innovation.** He needs to know what was supposed to have been taken and was not, before he starts anything new.
+
+**He inherits a set of local accommodations that have been in place for years.** The Canaanites as tributaries, the valley in the enemy's hands, the Amorites holding the tribes in the hills. **Every inheritance in ministry contains at least one of these, and they are usually protected by the argument that they generate revenue.**
+
+**And he inherits the option of doing exactly what the book of Judges records, which is nothing.** The tribes received the map and did not finish it, and the price was paid by a generation they did not live to see.
+
+**And the instruction to him is therefore in two movements, and they are both from the book of Joshua.**
+
+**First, ask for the mountain.** *Now therefore give me this mountain, whereof the Lord spake in that day.* **Not the easiest territory and not the most promising one, but the one that was promised and never taken.**
+
+**And second, drive out the remainder, and do not accept tribute instead of obedience.** The command was *thou shalt utterly drive them out*, and the replacement of obedience with revenue is the oldest compromise in the history of the people of God.
+
+**Which brings us to the builders who had to work on a pile of rubble, and to the generation whose inheritance was a ruin.** And that is the subject of the next chapter.
+
+### Principles
+
+**First: the excuse a generation invents for its unbelief becomes the inheritance of its children.** *Your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.*
+
+**Second: the older generation that crosses into the promise is characterised by a different spirit and a full following, and not by ability.** *Because he had another spirit with him, and hath followed me fully* — said of a man who at eighty-five asked for the mountain of the giants.
+
+**Third: the gift is complete and the possession is partial, and the two must be kept distinct.** *The Lord gave unto Israel all the land ... and they possessed it*, and in the same book, *there remaineth yet very much land to be possessed.*
+
+**Fourth: every unfilled promise of God was kept.** *There failed not ought of any good thing which the Lord had spoken ... all came to pass.* And Joshua stated it to the nation as a fact they could verify.
+
+**Fifth: the failures are local, itemised and reasonable.** Chariots of iron in the valley; the Canaanites as tributaries; the Amorites holding Dan in the hills. **No generation loses a whole territory at once; it loses it town by town, with an explanation for each one.**
+
+**Sixth: the tolerated enemy becomes a thorn, then a snare, and then a god.** *They shall be as thorns in your sides, and their gods shall be a snare unto you*, and two chapters later Israel is serving Baalim.
+
+**Seventh: partial possession passes the problem to the grandchildren.** The nations left to teach Israel war taught them to marry their daughters and serve their gods.
+
+**Eighth: the two witnesses are the mechanism by which the memory crosses.** *There was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.* A house of God needs its old men and must let them speak, especially when the account sounds unrealistic.
+
+**And ninth: an unfinished work is not a failure, because the promise is larger than any generation.** *For if Jesus had given them rest, then would he not afterward have spoken of another day.* The rest remains, and the incompleteness is the size of the thing.
+
+### The key scriptures in full
+
+> But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
+> — Numbers 14:31
+
+> But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
+> — Numbers 14:24
+
+> Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said.
+> — Joshua 14:12
+
+> Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.
+> — Joshua 13:1
+
+> And the Lord gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein ... There failed not ought of any good thing which the Lord had spoken unto the house of Israel; all came to pass.
+> — Joshua 21:43, 45
+
+> And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
+> — Judges 1:19
+
+> And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out.
+> — Judges 1:28
+
+> Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.
+> — Judges 2:3
+
+> And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites: and they took their daughters to be their wives, and gave their daughters to their sons, and served their gods.
+> — Judges 3:5–6
+
+> Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
+> — Hebrews 4:1–2
+
+> For if Jesus had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God.
+> — Hebrews 4:8–9
+
+> We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old. How thou didst drive out the heathen with thy hand, and plantedst them ... For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.
+> — Psalm 44:1–3
+
+> Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways: unto whom I sware in my wrath that they should not enter into my rest.
+> — Psalm 95:10–11
+
+### For the fathers
+
+- **Hand over an itemised list of what remains.** God gave Joshua the outstanding borders by name. A successor who is told *everything is in order* will spend years discovering what was not.
+- **Do not disguise the unpossessed territory as growth.** The Canaanites as tributaries looked like revenue and became gods within two generations.
+- **Keep the witnesses alive and let them speak.** Caleb and Joshua were the only adults who crossed the wilderness, and their memory was the mechanism by which the promise survived. **Do not let the congregation treat its old men as decorative.**
+- **And accept that you may not finish.** *There remaineth yet very much land to be possessed*, said to a faithful man at the end of a faithful life.
+- **And claim your own mountain before you go.** Caleb asked at eighty-five. The older man's last assignment in Scripture was the hardest territory in the land.
+
+### For the young
+
+- **Find out what your inheritance says was promised and never taken.** Reconnaissance before innovation. The unpossessed territory is listed, and reading the list is your first task.
+- **Do not accept tribute in place of obedience.** The tribes settled for revenue, and their grandchildren served Baal. **Any arrangement that makes an enemy profitable will outlive your resolve to remove him.**
+- **Ask for the mountain.** *Now therefore give me this mountain.* And expect it to be the hardest part of the inheritance, and the one held by giants.
+- **Do not despise the old man with the long memory.** He may be the only person in the room who knows what was promised before you arrived, and his account will sound unrealistic precisely when you need it most.
+- **And do not be discouraged by the size of the unfinished work.** The deed was complete and the occupation was not; and the incompleteness is not a verdict on your predecessor, and it will not be a verdict on you.
+- **And remember whose sword did not win the land.** *They got not the land in possession by their own sword, neither did their own arm save them: but thy right hand.* The promise is God's, and the possession is by the same hand.
+
+### Questions for reflection
+
+1. What was promised in your house, and is it possessed? Who can still tell you the difference?
+2. Which of your inherited arrangements is a Canaanite paying tribute — useful, profitable, and commanded to be removed?
+3. What is the mountain you have been avoiding because giants are in it?
+4. Who in your congregation has held a promise for forty years without adjusting it, and is he being heard?
+5. If your work is unfinished when you hand it over, will your successor know exactly where the boundary stopped?

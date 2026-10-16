@@ -1,0 +1,283 @@
+<<<CHAPTER 14
+
+
+There is no book in Scripture in which the interior life of a prophet is exposed as completely as in Jeremiah. He is the only prophet whose prayers we possess at length, and the prayers are not dignified. He accuses God of deceiving him, curses the day of his birth, wishes he had died in the womb, and complains that his calling has made him a laughing-stock. He also weeps, for forty years, over a nation that will not listen.
+
+And it began with a boy saying, *I am a child* — and with God refusing the objection.
+
+This chapter examines the call of Jeremiah for what it teaches about the deliberate formation of a young prophet, the generational wound he inherited, the price of speaking to a dying generation, and the reason God insisted on a young man.
+
+### The historical setting
+
+*The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin: to whom the word of the Lord came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign* (Jeremiah 1:1–2).
+
+Take the details in order.
+
+**He is a priest.** Jeremiah is of the tribe of Levi, and specifically of the priests who were settled in Anathoth.
+
+**Anathoth is a Levitical city.** Joshua 21:18 assigns Anathoth to the sons of Aaron among the Kohathites. It lies about three miles northeast of Jerusalem — close enough to see the smoke of the temple sacrifices and far enough to be a village.
+
+**And Anathoth has a history.** It was the home of Abiathar, who had served as priest alongside Zadok under David and who had backed Adonijah in the succession dispute after David's death. Solomon, having secured the throne, dealt with him: *Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord God before David my father, and because thou hast been afflicted in all wherein my father was afflicted. So Solomon thrust out Abiathar from being priest unto the Lord* (1 Kings 2:26–27).
+
+Three hundred and fifty years before Jeremiah's birth, his ancestor had been stripped of the priesthood and sent home to the family fields. The line of Eli, which had produced Abiathar, had been under judgment since 1 Samuel 2 — the sentence pronounced on Eli's house had followed his descendants for generations, and Abiathar's expulsion was its final act.
+
+**Jeremiah was born into a priestly family that had been in eclipse for three and a half centuries.** He was not of the Jerusalem establishment. He was not of the Zadokite line that held the high priesthood. He was from the village where the disgraced priest had been sent home.
+
+That fact matters enormously for everything that follows. When Jeremiah denounces the temple and the priesthood of Jerusalem, he is not a village crank resenting the institution from outside. He is a member of a priestly house that had itself been judged by God for its failure, speaking to a priestly house that was in the process of committing the same failures.
+
+**And the date.** *In the thirteenth year of his reign* puts the call around 627 or 626 BC. Josiah had begun to reign as a boy of eight (2 Kings 22:1), and the thirteenth year of his reign is therefore somewhere in his early twenties. This is the period of Josiah's early reforms, before the discovery of the book of the law in the temple in his eighteenth year (2 Kings 22:3, 8).
+
+So the call of Jeremiah comes at the beginning of a genuine revival, not at the beginning of a decline. This is worth noting, because it determines how we read the forty years that follow. Jeremiah was called *into a revival* and lived to see the revival fail.
+
+### The three verbs before the womb
+
+And now the words that the book is built on.
+
+*Then the word of the Lord came unto me, saying, Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations* (Jeremiah 1:4–5).
+
+Three verbs, in a clear sequence, each describing an act of God that occurred before Jeremiah existed as a conscious person.
+
+**I knew thee.** The verb is *yada'*, and it is a word with a much wider range than the English *know*. It is used of knowledge in the intellectual sense, of skill, of acquaintance, and of the marital relationship: *And Adam knew Eve his wife* (Genesis 4:1). When God says *I knew thee*, in the context of a person not yet conceived, it means knowledge in the sense of a prior relationship — a knowledge that precedes the existence of its object.
+
+This is the same word God uses of Abraham: *For I know him, that he will command his children and his household after him* (Genesis 18:19). And of Israel: *You only have I known of all the families of the earth* (Amos 3:2). And in the Psalms: *Thou hast searched me, and known me ... thou knowest my downsitting and mine uprising* (Psalm 139:1–2).
+
+**I sanctified thee.** The verb is *qadash*, to set apart, to consecrate, to declare holy. It is the verb used of the consecration of the priests (Exodus 28:41), of the holiness of the Sabbath (Genesis 2:3), and of the setting apart of the firstborn (Exodus 13:2). Before Jeremiah was born, he was *set apart* — designated for a use that was not his own.
+
+**I ordained thee a prophet unto the nations.** The verb here is *natan*, which simply means *to give*. The translation renders it *ordained*; the Hebrew says *I gave thee as a prophet*. The construction is the same one used of God giving people, cities and lands into the hands of others, and it carries the same sense of an act of disposal.
+
+And note the scope: *unto the nations*. *Laggoyim* — to the nations, the Gentiles. This is the same commission given to Abraham, that in him all families of the earth would be blessed. Jeremiah is told at his commissioning that his message is not confined to Judah.
+
+**Now consider what these three verbs are doing.** They establish that Jeremiah's existence was not prior to his calling. He was known before he was formed, set apart before he was born, and designated for the prophetic office before he drew breath.
+
+The implication for our subject is direct. **The calling of a person is not a response to their development; their development is a response to their calling.** God does not wait to see what a young person will become before deciding how to use him. The decision is prior to the person.
+
+That is why the young can be trusted with the word of God. They were not consulted about the appointment, and they cannot claim it as a merit. It was settled before they were.
+
+### The objection
+
+And now Jeremiah's response, which is the reason the chapter is worth writing.
+
+*Then said I, Ah, Lord God! behold, I cannot speak: for I am a child* (Jeremiah 1:6).
+
+The opening exclamation is *ahah*, a cry of distress, the same word used elsewhere as the sound of a wounded man. It is not a considered demurral; it is an involuntary protest.
+
+And it contains two objections, and they are worth separating, because the second is the one the book is interested in.
+
+**Objection one: I cannot speak.** Jeremiah claims a deficiency of competence. The prophetic office requires speech, and Jeremiah asserts that he does not possess the necessary verbal skill. Whether this was a genuine impediment — a stutter, or a slowness of tongue, or simply the reticence of the inconspicuous — the text does not say. But the pattern is familiar from Moses: *O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue* (Exodus 4:10).
+
+**Objection two: I am a child.** The Hebrew word is *na'ar*, and it is famously flexible. It is used of:
+- Isaac, at the age of approximately thirty-seven, when he carries the wood for his own sacrifice (Genesis 22:5–6);
+- Joseph, at seventeen (Genesis 37:2);
+- Benjamin, when his brothers describe him as *a child*, though he is an adult with ten sons (Genesis 43:8; 46:21);
+- David, when Samuel anointed him (1 Samuel 16:11);
+- Solomon, at the beginning of his reign, who uses exactly this language: *I am but a little child: I know not how to go out or come in* (1 Kings 3:7). Solomon was probably in his late teens or early twenties;
+- and a servant attached to a household, in the technical sense of one under authority.
+
+The word therefore does not pin down an age. What it does convey is *junior status*: an unmarried young man, without independent standing, still under the roof and authority of his father's household. Jeremiah is not claiming to be an infant. He is saying: *I am not yet a man. I have no standing. I have no credentials. I am nobody.*
+
+That is the objection God is about to refuse, and the reasons He gives are worth setting out carefully, because they constitute the Lord's own answer to every young person who feels the inadequacy of his position.
+
+### The refusal
+
+*But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak. Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord* (Jeremiah 1:7–8).
+
+There are four elements in this answer, and each one addresses a distinct component of Jeremiah's fear.
+
+**First: *Say not, I am a child.*** God does not argue with Jeremiah's assessment of his status. He does not tell him that he is actually mature, or that youth is an advantage, or that he will feel better with experience. He forbids him to *make the objection*. The instruction is about what Jeremiah is to say, and the words *I am a child* are removed from his vocabulary.
+
+This is a harder answer than reassurance. It means the demographic fact is irrelevant to the assignment, and it must therefore not be pleaded.
+
+**Second: *For thou shalt go to all that I shall send thee.*** The first element of the commission concerns *destination*. Jeremiah's movements will not be his own. The verb *send* establishes that he is under orders, and the phrase *all that* establishes that he does not get to negotiate the itinerary.
+
+And there is a subtle point here. Jeremiah had objected that he could not speak. God answers first with where he will go. The sending determines the speech. He will be told what to say in the place he is sent to.
+
+**Third: *And whatsoever I command thee thou shalt speak.*** The second element concerns *content*. Jeremiah is not required to compose a message; he is required to transmit one. The verb *command* establishes that the content is given, and the verb *speak* establishes that his role is delivery.
+
+This is the fundamental relief of the prophetic office, and it is the reason the office is bearable at all. The prophet is not responsible for the message; he is responsible for its transmission. And this is why the *fear of faces* is such an acute temptation — the prophet knows that the message he has been given is not the message the audience wants.
+
+**Fourth: *Be not afraid of their faces: for I am with thee to deliver thee.*** The third element concerns *fear*, and the answer given is God's presence. *For I am with thee* is the same formula used to Isaac (Genesis 26:24), to Jacob (Genesis 28:15), to Moses (Exodus 3:12), to Joshua (Joshua 1:5), to Gideon (Judges 6:12), and to Mary (Luke 1:28).
+
+And note the purpose clause: *to deliver thee*. God's presence is not offered as a comfort but as a *guarantee of survival*. The implication is that Jeremiah will need delivering, repeatedly, from the faces he is told not to fear.
+
+That promise was not ornamental. Jeremiah was beaten (Jeremiah 20:2), put in the stocks (20:2), tried for his life by the men of his own town (11:19–21), threatened by the priests and prophets (26:7–8), struck by a prophet named Hananiah's associate (28:10–11), arrested (37:13–15), thrown into a muddy dungeon (38:6), and dragged to Egypt against his will (43:6–7). *I am with thee to deliver thee* was fulfilled many times over.
+
+### The touch and the words
+
+And then the act that completes the commissioning.
+
+*Then the Lord put forth his hand, and touched my mouth. And the Lord said unto me, Behold, I have put my words in thy mouth* (Jeremiah 1:9).
+
+The divine hand touches the prophet's mouth. The same gesture is recorded in Isaiah's vision, where the seraph takes a live coal from the altar and lays it on the prophet's lips, with the words: *Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged* (Isaiah 6:7).
+
+The touch is the physical sign of the transfer. And the accompanying word is the substance of it: *I have put my words in thy mouth.* The Hebrew is *nathati debarai be-phika* — I have given my words in your mouth.
+
+This is the definition of the prophetic office, and it is stated in the same terms elsewhere in the book:
+
+*Thus saith the Lord God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them* (Jeremiah 5:14).
+
+And it is the reason for the constraint placed on every prophet:
+
+*But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die* (Deuteronomy 18:20).
+
+**A prophet's mouth is not his own.** That is the whole office, and it is why the fear of faces is so absurd. The man is not being asked to defend his own opinions in front of a hostile audience. He is being asked to deliver words that are not his, which he did not compose, and against which the audience's objection is ultimately an objection to God.
+
+### The commission to destroy and to build
+
+And then the commissioning that follows, which is one of the most extraordinary statements in the prophets.
+
+*See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant* (Jeremiah 1:10).
+
+Six verbs, and they are in a deliberate order: four of demolition, and then two of construction. And the four come first.
+
+**Root out** — *nathash*, to pull up by the roots, the word used of tearing up a plant.
+**Pull down** — *nathats*, to break down, the word used of demolishing buildings and altars.
+**Destroy** — *'abad*, to cause to perish, a verb used of total loss.
+**Throw down** — *haras*, to overthrow, to demolish.
+
+And then:
+**Build** — *banah*, the ordinary verb for construction.
+**Plant** — *nata'*, the verb for establishing a vineyard or an orchard.
+
+And the astonishing phrase at the start: *I have this day set thee over the nations and over the kingdoms.* The Hebrew is *hiphqadti'aka* — I have appointed you, or given you oversight, over nations and kingdoms.
+
+A young man from a village, whose family had been removed from the priesthood three centuries earlier, is appointed over nations and kingdoms. And the appointment is *this day* — immediately, at the moment of commissioning, before he had preached a single sermon or been heard by a single person.
+
+**That is how God appoints.** The appointment precedes the exercise of the office, and it is not announced publicly. Nobody in Jerusalem knew that Jeremiah had been appointed over kingdoms. He had a private word, a touched mouth, and a commission he could not explain.
+
+And the order of the verbs is a permanent warning about how God's work operates in a degenerate situation. **Nothing can be built until something has been pulled down.** The prophet's first assignment is demolition. The building comes later, and it comes to a generation he would not live to see.
+
+### The two visions and the almond branch
+
+The chapter ends with two visions, and they function as the authentication of the call.
+
+*Moreover the word of the Lord came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree. Then said the Lord unto me, Thou hast well seen: for I will hasten my word to perform it* (Jeremiah 1:11–12).
+
+A wordplay has come through the English and can be recovered. The Hebrew for almond tree is *shaqed*, and the almond is called that because it is the *watcher* — the tree that blossoms earliest in the year, in late January or February, before almost anything else in the Palestinian landscape. It *wakes* first.
+
+And the verb God uses is *shoqed*, from the same root, meaning *to watch, to be wakeful, to be on the alert*: *for I will hasten my word to perform it.* The better rendering is: *I am watching over my word to perform it.*
+
+The wordplay is: *You have seen the watcher-tree; I am the watcher of my word.*
+
+This is an enormous consolation embedded in a commissioning, and it is the answer to the deepest fear a person with a word from God can have. The fear is that the word will be spoken and nothing will happen — that you will say what you were given to say and the world will go on as before.
+
+And God says: *I am watching over my word.* The word is not released into a void. It has a keeper, and the keeper does not sleep.
+
+**The second vision is the opposite.**
+
+*And the word of the Lord came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north. Then the Lord said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land* (Jeremiah 1:13–14).
+
+A pot, boiling, tipped so that its contents will spill toward the south. The north is the direction from which invasion comes down the Levantine corridor — Babylon, Assyria, and every empire before them.
+
+And the interpretation: *Out of the north an evil shall break forth upon all the inhabitants of the land.* And then the explanation: *For, lo, I will call all the families of the kingdoms of the north, saith the Lord; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah* (Jeremiah 1:15).
+
+So the two visions are a pair, and they establish the shape of the prophetic ministry: **the word will certainly be fulfilled, and its content is judgment.**
+
+That is the message Jeremiah received at his commissioning, and it is the message he preached for forty years, and it is the reason he was hated.
+
+### The three-part charge
+
+And the chapter closes with the Lord's description of what He is making Jeremiah into, and it is drawn from architecture and warfare.
+
+*For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land. And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee* (Jeremiah 1:18–19).
+
+**A defenced city.** A fortified place — a walled town that cannot be taken by a raiding party.
+**An iron pillar.** The word is *'ammud barzel*, an iron column. The pillars of the temple were bronze (1 Kings 7:15); Jeremiah is given an iron one.
+**Brasen walls.** Bronze walls — the material of the temple's furnishings.
+
+And then the list of those who will fight against him, and this is the part that must be understood: *the kings of Judah, the princes thereof, the priests thereof, and the people of the land.*
+
+That is everyone. That is the whole institutional and social structure of the nation — the monarchy, the aristocracy, the religious establishment, and the general population. The Lord is telling a young man at the moment of his commissioning that he will be opposed by the entire society he is being sent to.
+
+**And he was.** Every one of those groups is recorded in the book as opposing him. Zedekiah the king imprisoned him. The princes put him in the dungeon. Pashur the priest struck him. The people accused him of deserting to the Babylonians. And his own family and the men of his own town plotted to kill him (Jeremiah 11:18–21; 12:6).
+
+*They shall fight against thee; but they shall not prevail against thee.* This is the promise a young prophet needs, and it is a very particular promise. It does not say that they will not fight. It says that they will not win. And the difference between those two statements is the difference between a young person who lasts and one who does not.
+
+### The internal cost
+
+We must now turn to the part of Jeremiah's life that makes his book unique in the prophetic corpus, and that this chapter would be incomplete without. Jeremiah's personal prayers — the passages scholars call the *confessions* — are the record of what the commission cost the man who received it.
+
+**The complaint of deception.** *O Lord, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me. For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily* (Jeremiah 20:7–8).
+
+*Thou hast deceived me.* The verb is *pathah*, to entice, to persuade, to seduce. The prophet accuses God of having talked him into a calling he would not otherwise have accepted. This is an astonishing thing to find in Scripture, and its presence is itself part of the revelation. The book is honest about the cost.
+
+**The fire in the bones.** And immediately after the complaint: *Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay* (Jeremiah 20:9).
+
+He resolves to resign, and finds that he cannot. The word is a fire that he cannot hold and cannot extinguish. The compulsion is not volitional; it is more like a physical condition. He continues preaching because silence is intolerable.
+
+**The curse of his birth.** *Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed* (Jeremiah 20:14). And he goes on for four more verses, wishing he had died in the womb and never seen the sun.
+
+This is a prophet in the depth of depression, and he uses the language of despair that is found in Job 3 and nowhere else in Scripture. And the book preserves it without rebuke.
+
+**Why the record matters.** The presence of these prayers in Scripture tells us something important about the formation of a prophet that no amount of doctrinal instruction can convey. **The people God uses for long assignments are people who have learned to keep obeying after the assignment has stopped making sense.**
+
+Jeremiah did not feel successful. He was not successful by any measurable standard. He preached for forty years and the nation went to destruction anyway. He had no converts to point to, no movement, no institution, no successor to take the office after him — beyond one scribe named Baruch. And the prayers show that he knew it, and said so to God's face, and kept preaching.
+
+That is the substance of what a young prophet needs, and it cannot be imparted by a lecture. It is acquired, and it is acquired in the place where nobody is watching.
+
+### The two prohibitions
+
+And God added two further restrictions to Jeremiah's life that are not found anywhere else in the prophetic books, and both of them are about *solidarity* rather than ministry.
+
+*The word of the Lord came also unto me, saying, Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place* (Jeremiah 16:1–2).
+
+And: *Enter not into the house of mourning, neither go to lament nor bemoan them ... Neither shalt thou go into the house of feasting, to sit with them to eat and to drink* (Jeremiah 16:5, 8).
+
+**No wife, no children.** Jeremiah is forbidden the ordinary consolations of a household. In a society where marriage and sons were the definition of blessing and the guarantee of continuity, he is denied both.
+
+**No mourning feasts, no festive meals.** He is forbidden both the gravest and the most joyful of social gatherings. He cannot sit with the bereaved and he cannot celebrate with the happy.
+
+Why? The reason given is that these prohibitions are *signs*. The absence of marriage and children, and the absence of a normal social life, are themselves a prophecy: they enact the coming destruction of families, where mothers and fathers will die and there will be no one to bury them, and where joy will cease from the land.
+
+But there is a further reading, and it is the one that matters for our subject. **Jeremiah was set apart not only in his message but in his ordinary life.** The man called to speak against the whole of society was also called to stand outside its ordinary ties. He was to be an unreserved witness, unencumbered for the duration of his commission, and the price was solitude.
+
+This is the hardest thing in the chapter, and it should not be softened. There is a form of bearing witness that is possible only to people who have been emptied of ordinary attachments, and God asks it of some and not of others. Jeremiah's loneliness was not a failure of community; it was an assignment.
+
+### Baruch: the successor who exists but does not inherit the office
+
+We must notice, finally, the man whose name occurs four times in the book and who is the nearest thing Jeremiah had to a successor.
+
+Baruch the son of Neriah was Jeremiah's scribe (Jeremiah 36:4). He wrote the scroll from Jeremiah's dictation, read it in the temple in the fifth year of Jehoiakim, read it again to the princes, and then had to hide, along with Jeremiah, from a king who burned the scroll piece by piece in the fire and ordered their arrest — *but the Lord hid them* (Jeremiah 36:26).
+
+And in Jeremiah 45, a chapter of only five verses, we have the private word that Baruch received, and it is addressed to his own disappointment:
+
+*The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, Thus saith the Lord the God of Israel unto thee, O Baruch; Thou didst say, Woe is me now! for the Lord hath added grief to my sorrow; I fainted in my sighing, and I find no rest. Thus shalt thou say unto him, The Lord saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land. And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the Lord: but thy life will I give unto thee for a prey in all places whither thou goest* (Jeremiah 45:1–5).
+
+*Seekest thou great things for thyself? seek them not.*
+
+That is the message to the young man attached to a prophet whose ministry was failing. Baruch had expected more. He had attached himself to the most significant prophetic figure in the nation and had received nothing but grief, danger, and the prospect of exile. And the answer he receives is not a promise of vindication but of survival: *thy life will I give unto thee for a prey.*
+
+The phrase is vivid. In a siege, everything is lost except what can be carried out with your life. God tells Baruch: that is the level of preservation you can expect, and it is enough.
+
+**And Baruch did inherit something, though not the office.** He is named in the very last chapter of the book, in Egypt, still with Jeremiah (Jeremiah 43:6). And the tradition of the scribes — the class of men who would preserve, copy, transmit and eventually canonise the Hebrew Scriptures — ran through his hands. The scroll he wrote is the reason we have the book.
+
+So the answer to the question *what happens to a young man who attaches himself to a prophet who fails?* is this: the ministry may not continue, but the word does. And the young men who keep the scroll are the reason the word survives the death of the prophet who dictated it.
+
+### Why God wanted a young man
+
+We can now answer the question this chapter set out to ask.
+
+**First, because a forty-year assignment requires a person with forty years.** Jeremiah was called around 627 BC and was still ministering after the fall of Jerusalem in 586 BC, and was carried to Egypt by the remnant after that (Jeremiah 43:6–7). That is over forty years of continuous ministry. No man called at sixty could have done it. The length of the task dictated the age of the instrument.
+
+**Second, because the message had to be delivered by someone with no interest in the status quo.** Jeremiah had no office to protect, no position in the religious establishment, and no stake in the existing order. His family had been out of the high priesthood for three centuries. He could pronounce judgment on the temple because he had nothing to lose when it fell.
+
+**Third, because a revival generation needed a voice that would outlast the revival.** Jeremiah was called in the thirteenth year of Josiah, at the height of the reform, and he lived to see the reform undone within twenty years. God placed a young man in the middle of the good years so that he would still be there in the bad ones. A message given only to the generation of the revival would have died with the revival.
+
+**Fourth, because the demolition had to precede the building, and demolition takes time.** The four verbs of judgment in Jeremiah 1:10 had to be worked out over decades — through the reign of Josiah, the death of Josiah at Megiddo, the reign of Jehoiakim, the first deportation, the reign of Zedekiah, the fall of the city, the destruction of the temple, the assassination of Gedaliah, and the flight to Egypt. Jeremiah was given a commission he could not complete in his lifetime, and he was given the lifetime in which to begin it.
+
+**And fifth, because God's pattern is to place His word in the hands of the young and let it be vindicated over the objections of the old.** The priests and prophets of Jerusalem were certain that the temple could not fall. Jeremiah was the young man who said it would. And he was right, and they were carried off.
+
+### The summing up
+
+Let me draw the chapter's teaching together, because it is not the same lesson as the previous chapter.
+
+Chapter 13 dealt with God's *preference* for the unexpected — the pattern of choosing what nobody would choose. This chapter deals with something harder: **what it costs to be chosen for a ministry of demolition, and why God assigns that ministry to the young.**
+
+Jeremiah was promised that the word would be fulfilled, and he lived to see it. He was promised that he would be delivered, and he was, repeatedly, narrowly, and at great cost. He was promised that his opponents would not prevail, and they did not — Babylon took the city anyway, and Jeremiah outlived the kingdom he had spent his life denouncing.
+
+And the man who was called as a *child*, and who objected on the grounds that he was a child, lived to be an old man in Egypt, still carrying the word of the Lord, and left behind a scroll that has outlived Babylon, Jerusalem, Rome, and every empire that has ever opposed it.
+
+That is the shape of the assignment. The nation ends. The word does not.
+
+And the young men who are called to speak it are told, at the beginning, before they know anything else: *Behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land ... and they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.*
+
+The promise is not that they will be received. The promise is that they will survive, and that the word they carried will be watching over by the God who gave it, until the day it comes to pass.

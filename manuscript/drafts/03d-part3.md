@@ -1,0 +1,263 @@
+<<<CHAPTER 16
+
+
+There is a particular kind of loneliness that belongs to the young person who is attached to a great man, and the New Testament does not hide it. Timothy spent roughly fifteen years beside the most consequential apostle in the history of the church, was named as co-author of six of his letters, and was trusted with the hardest assignments Paul had to give. And the letters Paul wrote to him are full of instructions that only make sense if Timothy was struggling.
+
+*Let no man despise thy youth.* *Stir up the gift of God, which is in thee.* *Be not thou therefore ashamed.* *God hath not given us the spirit of fear.* *Do thy diligence to come shortly unto me.*
+
+Those are not the sentences a man writes to a confident lieutenant. They are the sentences a father writes to a son who is frightened.
+
+This chapter examines the formation of Timothy from four angles: the household he came from, the crisis he witnessed, the ordination he received, and the specific difficulty of being the junior partner to a giant.
+
+### The household
+
+We meet Timothy at the beginning of Paul's second missionary journey, in a sentence packed with information.
+
+*Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek: which was well reported of by the brethren that were at Lystra and Iconium* (Acts 16:1–2).
+
+Set out what we are told.
+
+**He was a disciple already.** Timothy is not converted on this visit. He is *a certain disciple* — already a believer, already known, already part of the assembly at Lystra.
+
+**His mother was a Jewish believer.** *A certain woman, which was a Jewess, and believed.* The Greek is *gunaikos Ioudaias pisteos* — a Jewish woman of the faith. Her name, supplied by Paul, is Eunice (2 Timothy 1:5).
+
+**His father was a Greek.** *Hellenos*. This matters, and we shall come to why.
+
+**And he was well reported of by the brethren at Lystra and Iconium.** Two towns, and the phrase indicates something stronger than a good reputation. The Greek is *emartyreito* — the verb from which we get *martyr*. He was *testified of*. Other people were the witnesses to his character.
+
+That is the first thing to notice about Timothy, and it is the foundation of everything Paul does with him: **he had a reputation before he had a position.** Before any ordination, before any appointment, before any journey, the brothers in two towns could say what he was.
+
+Now add the detail from Paul's last letter, which gives us the previous generation:
+
+*When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also* (2 Timothy 1:5).
+
+Three generations of faith, named in one sentence: Lois, Eunice, Timothy. And the word Paul uses is *unfeigned* — *anypokritos*, unhypocritical, un-simulated, without a mask. It is the adjective that gives us *hypocrite* with the negative prefix.
+
+**The faith ran down the maternal line.** There is no mention of Timothy's father in relation to the faith. The chain is grandmother → mother → son. And Paul does not apologise for this or treat it as unusual; he treats it as the mechanism.
+
+This is the pattern in the household of a mixed marriage, and it recurs in Scripture. The believing parent is the transmission line, and Scripture records it without embarrassment:
+
+*For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy* (1 Corinthians 7:14).
+
+And then the thing that made the transmission effective, stated by Paul in the same letter:
+
+*But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them; and that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus* (2 Timothy 3:14–15).
+
+*From a child.* The Greek is *apo brephous* — from infancy, from the age of a nursing child. The word *brephos* is used of the unborn John the Baptist (Luke 1:41) and of the infant Jesus in the manger (Luke 2:12, 16). It means the very earliest stage of life.
+
+**So Timothy's scriptural education began before he could talk.** The holy scriptures — the Old Testament — were in his ears from infancy, taught by a grandmother and a mother in a household whose head did not share the faith.
+
+Note the two clauses Paul puts together in 2 Timothy 3:14–15: *knowing of whom thou hast learned them*, and *from a child thou hast known the holy scriptures*. There are two elements to Timothy's formation — **the content** and **the persons**. Paul reminds him not only of what he learned but of whom he learned it from. And when Paul says *of whom*, the Greek is plural and refers, in context, to Lois and Eunice.
+
+**Doctrine transmitted by persons is remembered differently from doctrine transmitted by institutions.** Timothy's knowledge of Scripture was bound up in the memory of a grandmother's voice.
+
+### The crisis he witnessed
+
+Now we must account for something that is easy to miss, because it explains a great deal about the man Timothy became.
+
+Paul arrived at Lystra on his first missionary journey in Acts 14, and the sequence of events at that town is one of the most violent reversals in the book of Acts.
+
+*And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead. Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe* (Acts 14:19–20).
+
+Paul was stoned at Lystra, dragged out of the city as a corpse, and left. And *the disciples stood round about him* — there were believers in Lystra who gathered around what they believed was a dead body.
+
+Timothy was a disciple at Lystra. He was almost certainly in that crowd, or nearby, when the man who would become his father in the gospel was carried out of the gate and left for dead.
+
+And Paul himself makes the connection, in the last letter, when he encourages Timothy by reminding him of what he has already seen:
+
+*But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience, persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me* (2 Timothy 3:10–11).
+
+*At Lystra.* Paul names the place to Timothy, and says: *thou hast fully known* — the Greek verb is *parakoloutheo*, to follow closely alongside, to trace out. Timothy had followed the whole sequence of Paul's *doctrine* and Paul's *sufferings* in the same towns, at the same time, and had watched the deliverance.
+
+**This is the most important point in the chapter about Timothy's preparation.** He did not decide to follow Christ because a well-argued lecture convinced him. He watched a man get stoned, dragged out of a city, get up, and walk back in. Then he watched the same man return to the town a year or two later and ask him to come along.
+
+Timothy's willingness to be Paul's companion on the second journey is not a mystery once we have seen Lystra. He had already priced the cost. He had seen the worst it could come to, and he had seen the man walk away from it.
+
+And that is why he could be entrusted with the hard assignments, and why he could be frightened, and why his fear never turned into abandonment.
+
+### The two circumcisions
+
+And now the detail that links this chapter to the last one, and that establishes a critical principle about how the older generation should handle the young.
+
+*Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek* (Acts 16:3).
+
+Paul circumcised Timothy. And in the letter to the Galatians, written about the same period, Paul states that he refused to circumcise Titus, who was also a Greek:
+
+*But neither Titus, who was with me, being a Greek, was compelled to be circumcised* (Galatians 2:3).
+
+Two young men of mixed or Gentile background, two opposite decisions, and Paul does not regard them as contradictory. The difference is precise.
+
+**Titus was not circumcised because the question at stake was the gospel.** At Jerusalem, the demand was that circumcision was *necessary to salvation* (Acts 15:1, 5). To have circumcised Titus would have been to concede the point — that a Gentile must become a Jew to be saved. Paul refused, and the reason was doctrinal.
+
+**Timothy was circumcised because the question at stake was access.** Timothy was already a believer; his salvation was not in question. But his mother was Jewish, so he was regarded as a Jew by the Jewish communities he and Paul would visit, and an uncircumcised adult male in that position would be a barrier to the gospel in every synagogue they entered. Paul removed the barrier, and the reason was expedient.
+
+**The principle:** *unto the Jews I became as a Jew, that I might gain the Jews* (1 Corinthians 9:20). Paul was prepared to surrender a liberty where nothing doctrinal was at stake, in order to gain access, and he was prepared to refuse the same act when it was made a condition of salvation.
+
+And there is a further lesson in the Timothy case which is worth stating plainly, because it bears directly on the young. **Paul did not ask Timothy to do something Paul had not done, and he did not ask it without explaining it.** When Paul circumcised Timothy, he was asking a young man to submit to a painful operation for the sake of the mission. The Greek text does not record the conversation, but the context shows Paul acted *because of the Jews which were in those quarters*. Luke records the reason, and we may assume Timothy was told it.
+
+Which means: **the older generation may ask the younger to surrender preferences for the sake of the work — and must say why.**
+
+### The ordination
+
+We must now deal with the commissioning of Timothy, because the New Testament records its mechanism three separate times and the three accounts do not agree, which is itself informative.
+
+**In 1 Timothy 1:18:** *This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare.*
+
+**In 1 Timothy 4:14:** *Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.*
+
+**In 2 Timothy 1:6:** *Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.*
+
+Set the three accounts side by side and the structure appears:
+
+| Element | Reference | What it contributes |
+|---|---|---|
+| prophecy | 1 Tim 1:18; 4:14 | a specific divine word naming Timothy's calling |
+| the presbytery | 1 Tim 4:14 | the corporate recognition of the body of elders |
+| Paul's own hands | 2 Tim 1:6 | the apostolic authorisation |
+
+**Three independent witnesses.** A word from God, the agreement of the elders, and the hand of the apostle. And none of the three is dispensable in the account as Paul gives it.
+
+**The prophecies.** The Greek for *prophecies which went before on thee* is *proagousas epi se propheteias* — the prophecies that preceded you, that went ahead of you. The picture is of prophetic utterances that pointed at Timothy before the ordination happened. Possibly at Lystra, or during the journey, some of the prophets of the churches had spoken over him.
+
+And note that Paul's instruction is not simply to remember them but to *war a good warfare by them*. The prophecies are treated as a resource for combat. This is important: **the word spoken over a young person at their commissioning is a piece of spiritual equipment, not a piece of flattery.** It is to be deployed in difficulty.
+
+**The presbytery.** *Presbyterion*, the body of elders. The gift was *given* through the laying on of their hands, which means that the corporate leadership of the church was instrumental in Timothy's commissioning. He was not Paul's private protégé appointed without reference to the body. The elders of the churches acted.
+
+**And Paul's own hands.** Paul claims a distinct role in the same gift, in a different letter. He lays his hands on Timothy personally.
+
+**Now note the tension, because it is real and it is instructive.** Timothy's gift came through a prophecy, through the elders, and through Paul. Three agents. Modern churches tend to have one mechanism and treat the others as illegitimate — either a prophetic moment, or a formal ordination by a body, or a personal apostolic appointment. The New Testament pattern here is that all three operated in the case of one young man.
+
+And there is one further element Paul adds, and it needs to be quoted precisely because it is so easily sentimentalised:
+
+*For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind* (2 Timothy 1:7).
+
+*Fear* is *deilia*, timidity, cowardice. *Power* is *dynamis*. *Love* is *agape*. And *a sound mind* is *sophronismos* — a word that appears only here in the New Testament, and which means something like *self-discipline* or *sound-mindedness* or the state of being in control of one's own faculties.
+
+**These four words are a description of what a young leader's ordination actually conferred.** Not a personality change, not a promotion, not a licence. Power, love, and a disciplined mind, in place of timidity. And Paul has to remind Timothy of them years later, which tells us that Timothy had lost sight of them.
+
+That is the ordinary condition of young leaders: **they possess by ordination what they have not yet learned to use by habit.** And the older man's task is not to give them something more but to remind them of what was given.
+
+### The man in the shadow
+
+And now the central difficulty of Timothy's life, which is the reason this chapter belongs in this part of the book.
+
+Look at what Timothy actually was. He was named as co-author of 2 Corinthians (1:1), Philippians (1:1), Colossians (1:1), 1 Thessalonians (1:1), 2 Thessalonians (1:1) and Philemon (1). He was Paul's envoy to Thessalonica (1 Thessalonians 3:2), to Corinth (1 Corinthians 4:17), and to Philippi (Philippians 2:19). He was entrusted with the oversight of the church at Ephesus (1 Timothy 1:3). He was imprisoned at some point (Hebrews 13:23).
+
+And he was always introduced as Paul's companion.
+
+Consider what the church's memory of Timothy must have been in his lifetime. He was the man who came with Paul. When the churches received a letter, Paul's name came first and Timothy's second. When Paul arrived somewhere, Timothy arrived with him. For fifteen years, in the public memory, Timothy was a function of Paul.
+
+**That is the shadow, and it is a very particular pressure.** It produces two characteristic responses in a young man, and Timothy exhibits both.
+
+**The first response is timidity.** The man who has spent years in the presence of an overwhelming personality begins to doubt his own standing. He cannot say a thing without wondering how the old man would have said it. He has authority on paper and none in his own chest.
+
+And this is exactly what the letters address. *Let no man despise thy youth* assumes that people might. *Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner* (2 Timothy 1:8) assumes that Timothy was tempted to be. *I beseech thee, that thou wouldest not be ashamed of my testimony* — the phrase *the spirit of fear* is prefaced by *wherefore*, which links it directly to Timothy's need to stir up the gift.
+
+**The second response is dependence on the old man's presence.** Timothy's authority was borrowed, and borrowed authority requires the lender to be in the room.
+
+And Paul's answer to that is deliberate, and it is a model for every older leader handing over to a younger one.
+
+**He sent Timothy alone.** To Thessalonica (1 Thessalonians 3:2), to Corinth (1 Corinthians 4:17), to Philippi (Philippians 2:19), to Ephesus (1 Timothy 1:3). Each of these is a solo assignment. Each one required Timothy to stand in a place without Paul and be the representative of the apostle.
+
+**And he publicly transferred the authority.** The clause in 1 Corinthians 16 is the key: *Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do. Let no man therefore despise him: but conduct him forth in peace* (1 Corinthians 16:10–11).
+
+Paul writes ahead of the young man's arrival, to a church that had reason to doubt his standing, and tells them three things: do not intimidate him, do not despise him, send him on his way. **He used his own enormous authority to create space for Timothy's smaller authority.** That is what it looks like when an older leader prepares the way for a successor.
+
+**And he did not hide Timothy's weaknesses.** In 1 Timothy 5:23, Paul instructs: *Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.* This is a public instruction about a young man's health in a letter that would be read to a congregation. Paul is not embarrassed that his delegate is unwell.
+
+**And he called him what he was.** In Philippians, Paul states his assessment of Timothy in terms that could have destroyed a lesser man, and are instead the highest praise in the epistles:
+
+*But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state. For I have no man likeminded, who will naturally care for your state. For all seek their own, not the things which are Jesus Christ's. But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel* (Philippians 2:19–22).
+
+*I have no man likeminded.* The Greek is *oudena echo isopsychon* — I have no one of equal soul. The word is used only here in the New Testament, and it means of the same disposition, of one mind.
+
+**And Paul says it to the Philippians, not to Timothy.** This is the point. He does not tell Timothy that he is unreplaceable. He tells the church, in writing, so that the church will know what standing to give the young man when he arrives.
+
+**That is how a father prepares a son's welcome.**
+
+*As a son with the father, he hath served with me in the gospel.* The verb is *edouleusen* — he served as a slave. And the comparison Paul chooses is the household relationship of father and son, in which the son's service is not employment but inheritance. Timothy served *with* Paul, as a son with a father.
+
+### The final letter
+
+And the deepest test of the relationship came at the end, and the record is preserved in 2 Timothy, the last document Paul wrote.
+
+Look at the circumstances. Paul is in a dungeon in Rome, on the second imprisonment this time, and he is not coming out. *For I am now ready to be offered, and the time of my departure is at hand* (2 Timothy 4:6).
+
+And the people around him are gone. *For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia. Only Luke is with me* (2 Timothy 4:10–11).
+
+*Only Luke is with me.* The churches he founded are not represented. The majority of his coworkers have scattered. And the first thing he asks for, after the manuscripts (4:13), is Timothy.
+
+*Do thy diligence to come shortly unto me* (2 Timothy 4:9).
+
+**The giant, at the end, alone, asks his son to come.**
+
+And in that letter, between the request and the request for a cloak, Paul writes the sentence that is the charter of every successive generation in the church:
+
+*And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also* (2 Timothy 2:2).
+
+Count the links, because there are four and the number is deliberate:
+
+1. **Paul** — the source, who received and spoke.
+2. **Timothy** — the hearer, *among many witnesses*, meaning the transmission was public and verifiable.
+3. **Faithful men** — the ones Timothy is to entrust it to. *Pistois anthropois*, faithful people, men and women of trust.
+4. **Others also** — the next generation, who are to be taught by the third.
+
+**Four generations in one verse.** And note the criterion for the third link: *faithful*, not gifted, not eloquent, not energetic. The Greek *pistos* means reliable, trustworthy. The filter for who receives the deposit is character.
+
+And note the further criterion, which is the point of the whole chain: *who shall be able to teach others also*. The men to whom Timothy commits the message must be men who can pass it on. **The test of whether someone should receive the deposit is whether they can transmit it.**
+
+Paul does not say: find people who will value it, or people who will preserve it, or people who will be blessed by it. He says: find people who can teach it to others. The chain only counts if it continues.
+
+### What Timothy was given
+
+Let us now gather what the New Testament records about the endowments of this particular young man, because the list is instructive.
+
+**He had a name that meant something.** *Timotheos* — honouring God, or honoured by God. It was given to him by a Greek father and a Jewish mother, and it may have been a Greek rendering of a Hebrew name.
+
+**He had three generations of faith behind him**, two of them on the female line, and the Scriptural education of a child who learned the text before he could read it.
+
+**He had witnessed the worst.** He had stood in the group of disciples around a stoned man in the street of his own town.
+
+**He had a reputation before a role.** *Well reported of by the brethren that were at Lystra and Iconium.*
+
+**He had a triple commissioning.** Prophecy, presbytery, apostle.
+
+**He had a personal gift**, which Paul twice tells him to stir up and not to neglect — implying it could rust.
+
+**He had a spiritual equipment stated in four nouns:** power, love, and a sound mind, in place of fear.
+
+**He had physical weakness** — *thine often infirmities*, and the instruction about wine for his stomach.
+
+**He had a task he had not chosen:** the oversight of the church at Ephesus, the most demanding post in the church of the Aegean and the one most thick with false teaching (1 Timothy 1:3–7).
+
+**And he had a father who told the churches about him before he arrived.**
+
+### The principles
+
+Let me draw the chapter's teaching together.
+
+**First: the household is the first seminary.** Timothy knew the holy Scriptures from infancy because a grandmother and a mother taught him in a house whose head did not believe. The most formative scriptural education in the New Testament happened in a mixed household taught by women.
+
+**Second: a young person must be tested by something before their commissioning.** Timothy had watched Paul stoned at Lystra. It would be sentimental and unbiblical to suggest that all young leaders must witness violence; it is not sentimental to observe that Timothy was trusted with hard missions because he had already seen what the mission could cost.
+
+**Third: the ordination of a young man should be public and multiple.** Prophecy, presbytery, apostolic hands. Three witnesses. A young person's calling should not rest on one man's private judgment.
+
+**Fourth: the older man's job is to create standing for the younger man, not to keep it.** Paul told the Corinthians not to despise Timothy and told the Philippians he had no one else like him. He used his reputation to build the young man's.
+
+**Fifth: the transition must include being sent alone.** Timothy's maturity was produced by assignments where Paul was not present.
+
+**Sixth: timidity is not disqualified by calling; it is addressed by reminding.** The whole content of 2 Timothy is Paul reminding Timothy of what he already had: the gift, the faith of his mother, the prophecies, the power. The corrective to a frightened young leader is not new anointing but accurate memory.
+
+**Seventh: the transfer is not complete until the young man can install a fourth generation.** *Faithful men, who shall be able to teach others also.* Paul's succession planning was four links deep, and he wrote it down.
+
+### The mantle and the manuscript
+
+We should end with the detail that the tradition preserves and that the text implies.
+
+Paul, in the last letter, asks for three things: Timothy, Mark, and the case of books and parchments (2 Timothy 4:11, 13). And he says of Mark — the young man who had abandoned the first journey and whom Paul had once refused to take (Acts 15:38) — *take Mark, and bring him with thee: for he is profitable to me for the ministry* (2 Timothy 4:11).
+
+So the last chapter of Paul's life contains the recovery of one young man he had written off, and the summons of another who had been with him from the beginning, and a request for the manuscripts.
+
+**And the manuscripts are how the chain reached us.** Four links in one verse, and then nineteen centuries of transmission, and this book being read by you. Timothy received a deposit from Paul, gave it to faithful men who could teach others, and the thing that was handed on is the thing we have.
+
+So the chapter closes where the four-link chain closes. Timothy's reward for fifteen years in a shadow was not freedom from the shadow. It was this: the letters he is named in are read in Christian assemblies all over the world, and the last words of the man who overshadowed him are addressed to him by name, from a Roman prison, asking him to come quickly, and to bring the parchments.

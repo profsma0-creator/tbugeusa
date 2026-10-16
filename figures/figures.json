@@ -1,0 +1,570 @@
+{
+  "fig-00-1": {
+    "label": "Figure 0.1",
+    "file": "out/fig-00-1.svg",
+    "width": 1.0,
+    "caption": "The architecture of generational revelation: six movements through which a divine word passes from speech to fulfilment.",
+    "source": "Author's construction.",
+    "chapter": 0
+  },
+  "fig-00-2": {
+    "label": "Figure 0.2",
+    "file": "out/fig-00-2.svg",
+    "width": 1.0,
+    "caption": "The five movements of the book's argument.",
+    "source": "Author's construction.",
+    "chapter": 0
+  },
+  "fig-00-3": {
+    "label": "Figure 0.3",
+    "file": "out/fig-00-3.svg",
+    "width": 1.0,
+    "caption": "The cycle of transmission that Psalm 78 and 2 Timothy 2:2 describe.",
+    "source": "Psalm 78:1–7; 2 Timothy 2:2.",
+    "chapter": 0
+  },
+  "fig-01-1": {
+    "label": "Figure 1.1",
+    "file": "out/fig-01-1.svg",
+    "width": 1.0,
+    "caption": "The custody chain of Psalm 78: hearing becomes keeping, keeping becomes declaration, and declaration becomes hope.",
+    "source": "Drawn from Psalm 78:1–7.",
+    "chapter": 1
+  },
+  "fig-01-2": {
+    "label": "Figure 1.2",
+    "file": "out/fig-01-2.svg",
+    "width": 1.0,
+    "caption": "The three houses through which a single testimony is transmitted and preserved.",
+    "source": "Deuteronomy 6:4–9; Psalm 78:1–7; 2 Timothy 1:5.",
+    "chapter": 1
+  },
+  "fig-01-3": {
+    "label": "Figure 1.3",
+    "file": "out/fig-01-3.svg",
+    "width": 1.0,
+    "caption": "The four verbs by which Scripture describes the duty of one generation to the next.",
+    "source": "Psalm 78:4; Psalm 145:4; Deuteronomy 6:7; 2 Timothy 2:2.",
+    "chapter": 1
+  },
+  "fig-01-5": {
+    "label": "Figure 1.5",
+    "file": "out/fig-01-5.svg",
+    "width": 1.0,
+    "caption": "The four stages by which a living testimony becomes a lost memory.",
+    "source": "Judges 2:7–10.",
+    "chapter": 5
+  },
+  "fig-01-6": {
+    "label": "Figure 1.6",
+    "file": "out/fig-01-6.svg",
+    "width": 1.0,
+    "caption": "What David could do and what he could not: the distinction between receiving a revelation and executing it.",
+    "source": "1 Chronicles 22:5–19; 28:1–21; 29:1–5.",
+    "chapter": 3
+  },
+  "fig-01-7": {
+    "label": "Figure 1.7",
+    "file": "out/fig-01-7.svg",
+    "width": 1.0,
+    "caption": "Inheritance can be transferred; assignment must be personally received.",
+    "source": "Numbers 27:18–23; Joshua 1:1–9.",
+    "chapter": 5
+  },
+  "fig-01-8": {
+    "label": "Figure 1.8",
+    "file": "out/fig-01-8.svg",
+    "width": 1.0,
+    "caption": "The covenant name is itself a statement of generational continuity.",
+    "source": "Exodus 3:6, 15; Matthew 22:31–32.",
+    "chapter": 4
+  },
+  "fig-01-10": {
+    "label": "Figure 1.10",
+    "file": "out/fig-01-10.svg",
+    "width": 1.0,
+    "caption": "The promise of Genesis travels through four generations before it reaches a land.",
+    "source": "Genesis 12–50; Exodus 1:1–7.",
+    "chapter": 2
+  },
+  "fig-02-1": {
+    "label": "Figure 2.1",
+    "file": "out/fig-02-1.svg",
+    "width": 1.0,
+    "caption": "The four offices by which Scripture describes those who perceived what others could not.",
+    "source": "1 Samuel 9:9; Numbers 12:6; Amos 3:7; Daniel 2.",
+    "chapter": 6
+  },
+  "fig-02-2": {
+    "label": "Figure 2.2",
+    "file": "out/fig-02-2.svg",
+    "width": 1.0,
+    "caption": "Concealment is not failure of revelation; it is scheduling of it.",
+    "source": "Deuteronomy 29:29; Daniel 2:20–22; Colossians 1:26–27.",
+    "chapter": 7
+  },
+  "fig-02-3": {
+    "label": "Figure 2.3",
+    "file": "out/fig-02-3.svg",
+    "width": 1.0,
+    "caption": "Joseph's revelation provoked the very generation it would eventually save.",
+    "source": "Genesis 37:1–11; 41:14–16.",
+    "chapter": 8
+  },
+  "fig-02-4": {
+    "label": "Figure 2.4",
+    "file": "out/fig-02-4.svg",
+    "width": 1.0,
+    "caption": "The transition of prophetic hearing from an established priest to a child.",
+    "source": "1 Samuel 3:1–21.",
+    "chapter": 9
+  },
+  "fig-02-5": {
+    "label": "Figure 2.5",
+    "file": "out/fig-02-5.svg",
+    "width": 1.0,
+    "caption": "The same facts, differently weighed, produced two opposite conclusions.",
+    "source": "1 Samuel 17:1–51.",
+    "chapter": 10
+  },
+  "fig-02-6": {
+    "label": "Figure 2.6",
+    "file": "out/fig-02-6.svg",
+    "width": 1.0,
+    "caption": "The succession of Elisha: possession of the mantle preceded proof of the power.",
+    "source": "1 Kings 19:19–21; 2 Kings 2:1–15.",
+    "chapter": 11
+  },
+  "fig-02-7": {
+    "label": "Figure 2.7",
+    "file": "out/fig-02-7.svg",
+    "width": 1.0,
+    "caption": "Divine revelation did not replace imperial learning; it exceeded it.",
+    "source": "Daniel 1:8–20; 2:17–23.",
+    "chapter": 12
+  },
+  "fig-02-8": {
+    "label": "Figure 2.8",
+    "file": "out/fig-02-8.svg",
+    "width": 1.0,
+    "caption": "The six movements by which Scripture describes the making of a seer.",
+    "source": "Amos 3:7; 1 Samuel 3; Jeremiah 1.",
+    "chapter": 6
+  },
+  "fig-03-1": {
+    "label": "Figure 3.1",
+    "file": "out/fig-03-1.svg",
+    "width": 1.0,
+    "caption": "The contradiction between human qualification and divine selection.",
+    "source": "Psalm 8:2; Matthew 21:15–16; 1 Corinthians 1:26–29.",
+    "chapter": 13
+  },
+  "fig-03-2": {
+    "label": "Figure 3.2",
+    "file": "out/fig-03-2.svg",
+    "width": 1.0,
+    "caption": "The divine confrontation with the insecurity of youthful calling.",
+    "source": "Jeremiah 1:4–10.",
+    "chapter": 14
+  },
+  "fig-03-3": {
+    "label": "Figure 3.3",
+    "file": "out/fig-03-3.svg",
+    "width": 1.0,
+    "caption": "A young king's reformation, and the recovery of a book his predecessors had neglected.",
+    "source": "2 Kings 22:1–23:25; 2 Chronicles 34.",
+    "chapter": 15
+  },
+  "fig-03-4": {
+    "label": "Figure 3.4",
+    "file": "out/fig-03-4.svg",
+    "width": 1.0,
+    "caption": "Paul's charge to a young man: five things to guard and one to become.",
+    "source": "1 Timothy 4:12–16; 2 Timothy 1:13–14.",
+    "chapter": 16
+  },
+  "fig-03-5": {
+    "label": "Figure 3.5",
+    "file": "out/fig-03-5.svg",
+    "width": 1.0,
+    "caption": "Spiritual reproduction as a deliberate chain rather than an accident.",
+    "source": "Titus 1:4–5; 2:1–8.",
+    "chapter": 17
+  },
+  "fig-03-6": {
+    "label": "Figure 3.6",
+    "file": "out/fig-03-6.svg",
+    "width": 1.0,
+    "caption": "The boundary between rightful youthful confidence and youthful presumption.",
+    "source": "1 Timothy 4:12; 1 Peter 5:5.",
+    "chapter": 18
+  },
+  "fig-04-1": {
+    "label": "Figure 4.1",
+    "file": "out/fig-04-1.svg",
+    "width": 1.0,
+    "caption": "The six deposits an elder is responsible to leave behind.",
+    "source": "Psalm 71:17–18; Psalm 145:4; Judges 2.",
+    "chapter": 19
+  },
+  "fig-04-2": {
+    "label": "Figure 4.2",
+    "file": "out/fig-04-2.svg",
+    "width": 1.0,
+    "caption": "Judges 2:10 read as a failure of transmission rather than of opportunity.",
+    "source": "Judges 2:7–10; Hosea 4:6.",
+    "chapter": 20
+  },
+  "fig-04-3": {
+    "label": "Figure 4.3",
+    "file": "out/fig-04-3.svg",
+    "width": 1.0,
+    "caption": "A new prophetic generation emerging from within a failing order.",
+    "source": "1 Samuel 2:27–36; 3:1–21.",
+    "chapter": 21
+  },
+  "fig-04-4": {
+    "label": "Figure 4.4",
+    "file": "out/fig-04-4.svg",
+    "width": 1.0,
+    "caption": "David's final instruction: what a father leaves in his son's hands.",
+    "source": "1 Kings 2:1–12.",
+    "chapter": 22
+  },
+  "fig-04-5": {
+    "label": "Figure 4.5",
+    "file": "out/fig-04-5.svg",
+    "width": 1.0,
+    "caption": "Five movements by which Moses deliberately handed over to Joshua.",
+    "source": "Numbers 27:18–23; Deuteronomy 31:1–8, 23; Joshua 1:1–9.",
+    "chapter": 23
+  },
+  "fig-04-6": {
+    "label": "Figure 4.6",
+    "file": "out/fig-04-6.svg",
+    "width": 1.0,
+    "caption": "2 Timothy 2:2 as the apostolic mechanism for preserving revelation.",
+    "source": "2 Timothy 2:1–2.",
+    "chapter": 24
+  },
+  "fig-04-7": {
+    "label": "Figure 4.7",
+    "file": "out/fig-04-7.svg",
+    "width": 1.0,
+    "caption": "Four stages between possessing wisdom and losing it.",
+    "source": "Proverbs 13:22; 20:7; Psalm 78:5–6.",
+    "chapter": 25
+  },
+  "fig-05-1": {
+    "label": "Figure 5.1",
+    "file": "out/fig-05-1.svg",
+    "width": 1.0,
+    "caption": "The interval between a word spoken and the generation appointed to fulfil it.",
+    "source": "Habakkuk 2:2–3; Galatians 4:4.",
+    "chapter": 26
+  },
+  "fig-05-2": {
+    "label": "Figure 5.2",
+    "file": "out/fig-05-2.svg",
+    "width": 1.0,
+    "caption": "The growth of a divine purpose through successive stages, none of which can be hurried.",
+    "source": "Genesis 8:22; Ecclesiastes 3:1–8; Mark 4:26–29.",
+    "chapter": 27
+  },
+  "fig-05-3": {
+    "label": "Figure 5.3",
+    "file": "out/fig-05-3.svg",
+    "width": 1.0,
+    "caption": "The widening scope through which a revelation becomes a responsibility.",
+    "source": "Isaiah 59:21; 2 Timothy 2:2.",
+    "chapter": 28
+  },
+  "fig-05-4": {
+    "label": "Figure 5.4",
+    "file": "out/fig-05-4.svg",
+    "width": 1.0,
+    "caption": "Distinguishing spiritual inheritance from personality imitation.",
+    "source": "2 Kings 2:9–15; 1 Corinthians 3:4–7.",
+    "chapter": 29
+  },
+  "fig-05-5": {
+    "label": "Figure 5.5",
+    "file": "out/fig-05-5.svg",
+    "width": 1.0,
+    "caption": "The moment a learner becomes responsible for what he has received.",
+    "source": "John 14:12; Acts 2:14–21.",
+    "chapter": 30
+  },
+  "fig-05-7": {
+    "label": "Figure 5.7",
+    "file": "out/fig-05-7.svg",
+    "width": 1.0,
+    "caption": "The elder's test: can he rejoice in a work he does not control?",
+    "source": "Numbers 11:27–29; Acts 21:8–9; Mark 9:38–40.",
+    "chapter": 32
+  },
+  "fig-06-1": {
+    "label": "Figure 6.1",
+    "file": "out/fig-06-1.svg",
+    "width": 1.0,
+    "caption": "The progressive sequence by which insecurity hardens into opposition.",
+    "source": "1 Samuel 18:6–16.",
+    "chapter": 33
+  },
+  "fig-06-2": {
+    "label": "Figure 6.2",
+    "file": "out/fig-06-2.svg",
+    "width": 1.0,
+    "caption": "Two counsels, one decision, and the division of a kingdom.",
+    "source": "1 Kings 12:1–19.",
+    "chapter": 34
+  },
+  "fig-06-3": {
+    "label": "Figure 6.3",
+    "file": "out/fig-06-3.svg",
+    "width": 1.0,
+    "caption": "Scripture refuses to equate age with wisdom, or youth with discernment.",
+    "source": "1 Kings 12:6–15; Proverbs 1:7; 12:15; 16:31.",
+    "chapter": 35
+  },
+  "fig-06-4": {
+    "label": "Figure 6.4",
+    "file": "out/fig-06-4.svg",
+    "width": 1.0,
+    "caption": "A young worker's failure, and the twenty years that followed it.",
+    "source": "Acts 12:12; 13:5, 13; 15:36–40; 2 Timothy 4:11.",
+    "chapter": 36
+  },
+  "fig-06-5": {
+    "label": "Figure 6.5",
+    "file": "out/fig-06-5.svg",
+    "width": 1.0,
+    "caption": "Exhaustion in one generation became the occasion for preparing another.",
+    "source": "1 Kings 19:1–21.",
+    "chapter": 37
+  },
+  "fig-06-6": {
+    "label": "Figure 6.6",
+    "file": "out/fig-06-6.svg",
+    "width": 1.0,
+    "caption": "The same memory can preserve a people or imprison them.",
+    "source": "Isaiah 43:18–19; Philippians 3:13–14.",
+    "chapter": 38
+  },
+  "fig-07-1": {
+    "label": "Figure 7.1",
+    "file": "out/fig-07-1.svg",
+    "width": 1.0,
+    "caption": "The six statements in which Christ described His own succession from the Father.",
+    "source": "John 5:19–20; 8:28–29; 14:10.",
+    "chapter": 39
+  },
+  "fig-07-2": {
+    "label": "Figure 7.2",
+    "file": "out/fig-07-2.svg",
+    "width": 1.0,
+    "caption": "The five movements of Christ's preparation of His successors.",
+    "source": "Mark 3:13–19; 6:7–13; Matthew 28:18–20.",
+    "chapter": 40
+  },
+  "fig-07-3": {
+    "label": "Figure 7.3",
+    "file": "out/fig-07-3.svg",
+    "width": 1.0,
+    "caption": "What John 14:12 does and does not claim about those who follow Christ.",
+    "source": "John 14:12; Acts 1:8.",
+    "chapter": 41
+  },
+  "fig-07-4": {
+    "label": "Figure 7.4",
+    "file": "out/fig-07-4.svg",
+    "width": 1.0,
+    "caption": "The multigenerational character of the prophetic outpouring.",
+    "source": "Joel 2:28–29; Acts 2:16–18.",
+    "chapter": 42
+  },
+  "fig-08-1": {
+    "label": "Figure 8.1",
+    "file": "out/fig-08-1.svg",
+    "width": 1.0,
+    "caption": "Two generations, one promise: the second entered what the first could only approach.",
+    "source": "Joshua 1:1–9; 21:43–45.",
+    "chapter": 45
+  },
+  "fig-08-2": {
+    "label": "Figure 8.2",
+    "file": "out/fig-08-2.svg",
+    "width": 1.0,
+    "caption": "Four leaders, one recovery: the rebuilding of a broken inheritance.",
+    "source": "Ezra 3:8–13; Nehemiah 2:17–20.",
+    "chapter": 46
+  },
+  "fig-08-3": {
+    "label": "Figure 8.3",
+    "file": "out/fig-08-3.svg",
+    "width": 1.0,
+    "caption": "Renewal that repairs a structure rather than destroying it.",
+    "source": "1 Samuel 3:19–21.",
+    "chapter": 47
+  },
+  "fig-08-4": {
+    "label": "Figure 8.4",
+    "file": "out/fig-08-4.svg",
+    "width": 1.0,
+    "caption": "Reformation as the recovery of an inherited text.",
+    "source": "2 Kings 22:8–13; 23:1–25.",
+    "chapter": 48
+  },
+  "fig-08-5": {
+    "label": "Figure 8.5",
+    "file": "out/fig-08-5.svg",
+    "width": 1.0,
+    "caption": "The democratisation of prophetic witness at Pentecost.",
+    "source": "Joel 2:28–29; Acts 2:17–18.",
+    "chapter": 49
+  },
+  "fig-08-6": {
+    "label": "Figure 8.6",
+    "file": "out/fig-08-6.svg",
+    "width": 1.0,
+    "caption": "Inheriting an assignment without claiming ownership of it.",
+    "source": "John 4:34–38; 1 Corinthians 3:6–9.",
+    "chapter": 50
+  },
+  "fig-09-1": {
+    "label": "Figure 9.1",
+    "file": "out/fig-09-1.svg",
+    "width": 1.0,
+    "caption": "The dangers that face each generation, and the narrow path between them.",
+    "source": "Proverbs 1:7; 12:15; Matthew 15:1–9; 1 Peter 5:5.",
+    "chapter": 51
+  },
+  "fig-09-2": {
+    "label": "Figure 9.2",
+    "file": "out/fig-09-2.svg",
+    "width": 1.0,
+    "caption": "The same word describes a faithful inheritance and a fatal substitute.",
+    "source": "Mark 7:6–13.",
+    "chapter": 53
+  },
+  "fig-09-3": {
+    "label": "Figure 9.3",
+    "file": "out/fig-09-3.svg",
+    "width": 1.0,
+    "caption": "Six tests Scripture applies to every claim of revelation.",
+    "source": "Isaiah 8:20; Acts 17:10–11; 1 Thessalonians 5:19–22.",
+    "chapter": 54
+  },
+  "fig-09-4": {
+    "label": "Figure 9.4",
+    "file": "out/fig-09-4.svg",
+    "width": 1.0,
+    "caption": "Why divine gifting cannot substitute for spiritual maturity.",
+    "source": "Matthew 7:21–23; Galatians 5:22–23.",
+    "chapter": 55
+  },
+  "fig-09-5": {
+    "label": "Figure 9.5",
+    "file": "out/fig-09-5.svg",
+    "width": 1.0,
+    "caption": "The difference between preserved knowledge and embodied obedience.",
+    "source": "James 1:22–25.",
+    "chapter": 56
+  },
+  "fig-10-1": {
+    "label": "Figure 10.1",
+    "file": "out/fig-10-1.svg",
+    "width": 1.0,
+    "caption": "The difference between an audience and an inheritance.",
+    "source": "1 Corinthians 4:14–17; 1 Thessalonians 2:10–12.",
+    "chapter": 57
+  },
+  "fig-10-2": {
+    "label": "Figure 10.2",
+    "file": "out/fig-10-2.svg",
+    "width": 1.0,
+    "caption": "Four houses in which wisdom can be preserved for a generation not yet born.",
+    "source": "Deuteronomy 6:6–9; 2 Timothy 1:5; 2:2.",
+    "chapter": 58
+  },
+  "fig-10-3": {
+    "label": "Figure 10.3",
+    "file": "out/fig-10-3.svg",
+    "width": 1.0,
+    "caption": "How four leaders in Scripture deliberately prepared their successors.",
+    "source": "Deuteronomy 31:7–8; 1 Kings 2:1–4; 2 Kings 2:9–15; 2 Timothy 2:2.",
+    "chapter": 59
+  },
+  "fig-10-4": {
+    "label": "Figure 10.4",
+    "file": "out/fig-10-4.svg",
+    "width": 1.0,
+    "caption": "The five movements of a right reception.",
+    "source": "Proverbs 23:22; Ephesians 6:1–3; 1 Peter 5:5.",
+    "chapter": 60
+  },
+  "fig-10-5": {
+    "label": "Figure 10.5",
+    "file": "out/fig-10-5.svg",
+    "width": 1.0,
+    "caption": "The mutual exchange on which a generational covenant depends.",
+    "source": "Psalm 145:4; Acts 2:17–18.",
+    "chapter": 61
+  },
+  "fig-10-6": {
+    "label": "Figure 10.6",
+    "file": "out/fig-10-6.svg",
+    "width": 1.0,
+    "caption": "What a generational covenant is made of, and in what order it is built.",
+    "source": "2 Timothy 2:2; Psalm 78:5–7.",
+    "chapter": 62
+  },
+  "fig-11-1": {
+    "label": "Figure 11.1",
+    "file": "out/fig-11-1.svg",
+    "width": 1.0,
+    "caption": "The four categories Joel names, and the servants added in Joel 2:29.",
+    "source": "Joel 2:28–29; Acts 2:17–18.",
+    "chapter": 63
+  },
+  "fig-11-2": {
+    "label": "Figure 11.2",
+    "file": "out/fig-11-2.svg",
+    "width": 1.0,
+    "caption": "Complementary generations rather than competing generations.",
+    "source": "Joel 2:28.",
+    "chapter": 64
+  },
+  "fig-11-3": {
+    "label": "Figure 11.3",
+    "file": "out/fig-11-3.svg",
+    "width": 1.0,
+    "caption": "The restoration of fathers and children as part of divine preparation.",
+    "source": "Malachi 4:5–6; Luke 1:16–17.",
+    "chapter": 65
+  },
+  "fig-01-4": {
+    "label": "Figure 1.4",
+    "file": "out/fig-01-4.svg",
+    "width": 1.0,
+    "caption": "The four occasions Deuteronomy 6:7 names for instruction.",
+    "source": "Deuteronomy 6:7.",
+    "chapter": 1
+  },
+  "fig-01-9": {
+    "label": "Figure 1.9",
+    "file": "out/fig-01-9.svg",
+    "width": 1.0,
+    "caption": "Each patriarch died holding a promise his successor had to walk into.",
+    "source": "Genesis 12; 26; 28; 45.",
+    "chapter": 2
+  },
+  "fig-05-6": {
+    "label": "Figure 5.6",
+    "file": "out/fig-05-6.svg",
+    "width": 1.0,
+    "caption": "The equilibrium Scripture requires between the two dangers.",
+    "source": "Malachi 4:5–6; Titus 2:1–8.",
+    "chapter": 31
+  }
+}

@@ -1,1 +1,41 @@
-# tbugeusa
+# Why God Left It to the Young
+
+### *The Mystics, the Fathers and the Hidden Architecture of Generational Revelation*
+
+**Revd Prof Adeleke Daniel Durojaiye (PhD)**
+
+---
+
+A biblical theology of generational revelation, exploring why Scripture repeatedly shows
+God entrusting certain assignments, visions, recoveries, and transitions to younger
+generations — without diminishing the role of fathers, elders, and mystics.
+
+| | |
+|---|---|
+| **Parts** | 11 |
+| **Chapters** | 68 |
+| **Appendices** | 8 |
+| **Status** | Outline locked; drafting not yet begun |
+
+## Repository Structure
+
+```
+manuscript/
+  00-front-matter.md        Title page, abstract, central claim
+  01-table-of-contents.md   Full outline (all 11 parts + back matter)
+  cover/
+    front-cover.png         Approved front cover artwork (1086 x 1448)
+    README.md               Cover description and print specifications
+```
+
+![Front cover](manuscript/cover/front-cover.png)
+
+## Central Claim
+
+God does not necessarily choose the young because the old have failed, nor does He
+preserve the old merely because they are old. Scripture presents a deeper architecture in
+which **fathers preserve, elders interpret, mentors prepare, sons and daughters receive,
+and new generations carry divine purposes into territories their predecessors could not
+enter.**
+
+*Key Scriptures: Psalm 78:5–7; Joel 2:28; Malachi 4:5–6; 2 Timothy 2:2.*

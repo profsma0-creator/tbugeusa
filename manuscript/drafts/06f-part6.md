@@ -1,0 +1,385 @@
+<<<CHAPTER 38
+## The Battle Between Memory and Movement
+
+**Part Six has examined the collisions one at a time: the old guard against the emerging generation, the heir against the counsel of elders, the cohort against the kingdom, the failure against the second chance, the exhausted mentor against his successor.**
+
+**And this final chapter sets out the two forces that underlie all of them, because the collision is almost never between two generations as such. It is between a memory that has stopped moving and a movement that has stopped remembering.**
+
+**Neither of those is a faithful generation. Both are common. And each of them believes that the other is the enemy.**
+
+### The generation that knew not
+
+**And Scripture gives the whole nation's experience of the failure in three verses, and it does not attribute the disaster to apostasy.**
+
+*And the people served the Lord all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the Lord, that he did for Israel ... And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the Lord, nor yet the works which he had done for Israel* (Judges 2:7, 10).
+
+**Read the shape of that transition and note what is not said.**
+
+**Nothing is said about the older generation falling into idolatry.** They served the Lord, and they served Him all the days of Joshua and of the elders who outlived him. **They were faithful for the whole of their lives.**
+
+**And nothing is said about a decision by the next generation to abandon the God of their fathers.** There is no assembly, no debate, no act of renunciation. **They are simply described as a generation that arose, and as a generation that did not know.**
+
+**The verb is *yada*, which in the covenant vocabulary means to know by relationship and not merely by information.** And the failure is described in two parts: *they knew not the Lord, nor yet the works which he had done for Israel.*
+
+**They did not know the Person, and they did not know the record.**
+
+**Which is a precise diagnosis, and it explains why so many faithful ministries produce an unfaithful generation.** A man can raise a company of young people who are thoroughly instructed in his methods, attentive to his teaching, and able to recite his achievements, **and still not have transferred either the knowledge of God or the works of God, because he transferred only his own administration of them.**
+
+**And the mechanism of the loss is stated in the previous verse: *all that generation were gathered unto their fathers.***
+
+**They died, and the record died with them, because the record was stored in their memories rather than in a mechanism that could outlive them.**
+
+**And note the second clause of verse 7: the elders had *seen all the great works of the Lord.***
+
+**The knowledge was held by eyewitnesses.** And eyewitnesses are a perishable archive, and the whole of the book of Joshua records the installation of substitute archives — the stones, the covenant document, the song, the altar — **which tells us that the leadership understood the danger and took measures against it, and the measures were not enough.**
+
+**Which should produce humility in everyone who is currently running a house of God.** The generation that entered Canaan under Joshua was the best-catechised, best-led, best-resourced generation in Israel's history, and it produced the book of Judges.
+
+### The memorial stones
+
+**And the measure that God commanded at the crossing of the Jordan is the pattern for how a memory is meant to be kept, and it is deliberately material.**
+
+*And Joshua said unto them, ... That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones? Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord ... and these stones shall be for a memorial unto the children of Israel for ever* (Joshua 4:6–7).
+
+*When your children shall ask their fathers in time to come, saying, What mean these stones? Then ye shall let your children know, saying, Israel came over this Jordan on dry land ... That all the people of the earth might know the hand of the Lord, that it is mighty: that ye might fear the Lord your God for ever* (Joshua 4:21–24).
+
+**Four design features are in that passage, and every one of them is the opposite of how religious memory is usually attempted.**
+
+**The first is that the memory was given a physical object.** Twelve stones taken out of the bed of the Jordan and set up at Gilgal. **Not a doctrine, not a feeling, not a legend: an object that would sit in the landscape and be visible to children who had not been born.**
+
+**The second is that the object was designed to provoke a question.** *What mean ye by these stones?* The stones had no explanation written on them. **They were strange enough to require one, and the requirement is stated twice, as though the designers understood that the value of a memorial lies in the question it produces.**
+
+**The third is that the answering was assigned to the fathers, personally.** *When your children ask their fathers.* Not the priests, not the Levites, not the school of the prophets. **The transmission was to happen in families, in response to a child's curiosity, in a conversation that the child initiated.**
+
+**And the fourth is that the content of the answer was both a deed and a Person.** *Israel came over this Jordan on dry land* — the record of a work of God, **followed by *that all the people of the earth might know the hand of the Lord, that it is mighty.***
+
+**And this is why a memory without a mechanism decays.** The older generation knows and does not build anything that asks; the younger generation loses interest and does not ask; and the loss is blamed on the young, who were never given a stone.
+
+**And note that the law provides for the same mechanism in three further places, which means it is a system and not an episode.**
+
+*And it shall come to pass, when your children shall say unto you, What mean ye by this service? That ye shall say, It is the sacrifice of the Lord's passover* (Exodus 12:26–27).
+
+*And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the Lord brought us out from Egypt* (Exodus 13:14).
+
+*And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God hath commanded you? Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand* (Deuteronomy 6:20–21).
+
+**Three ordinances and three provoked questions.** The Passover meal, the redemption of the firstborn, and the whole body of the statutes, **each of them arranged so that a child would one day ask what it all meant, and so that a father would be required to give an account.**
+
+**And the answers are all the same shape: a narrative of what God did, told in the first person plural — *us*, *our houses*, *we were bondmen.***
+
+**Which means the older generation is required to tell the story as its own, and not as the history of a previous era.** The father in Deuteronomy 6 does not say *the Lord brought your ancestors out of Egypt.* **He says *the Lord brought us out of Egypt* — and he says it to a son who was not there, and the identification is the mechanism by which the son is included.**
+
+### Ephraim: armed, equipped, and turned back
+
+**And the sharpest verse in the whole Psalter about generational failure is a single line about a tribe that was fully equipped.**
+
+*The children of Ephraim, being armed, and carrying bows, turned back in the day of battle. They kept not the covenant of God, and refused to walk in his law; and forgat his works, and his wonders that he had shewed them* (Psalm 78:9–11).
+
+**Take the three verses in the order given, because the order is the doctrine.**
+
+**First the failure: *being armed, and carrying bows, turned back in the day of battle.***
+
+**The problem was not capability.** Ephraim was armed; Ephraim carried bows; the Hebrew for *carrying bows* is *roshey qashet*, those who draw the bow, which is to say trained archers. **They had weapons, skill, and a position in the line, and they turned back.**
+
+**And this is the specific danger that faces every well-resourced young generation in Christian work.** The training is better than it has ever been, the resources are extraordinary, the institutions are numerous — **and none of that is what makes a generation stand in the day of battle.**
+
+**Second, the cause as the psalmist gives it: *they kept not the covenant of God, and refused to walk in his law.***
+
+**The refusal is a matter of the will, and the word *refused* is deliberate.** They did not fail to know the law; they declined to walk in it.
+
+**And third, the diagnosis of what lay behind the refusal: *and forgat his works, and his wonders that he had shewed them.***
+
+**They forgot.** The memory failure came first, and then the moral decline, **and the sequence in the psalm is that forgetting is the root of the refusal and not its consequence.**
+
+**Which means the battle for a generation is fought in the area of memory, and it is lost before the battle begins.** A young man who has no idea what God has done — in his own house, in the history of his people, in the record of Scripture — **has no reason to hold a line when holding it becomes expensive. He is armed and he has a bow, and he will turn back, and he will be unable to explain why.**
+
+**And the psalm that contains those verses was written for exactly this purpose, and its opening states the arrangement:**
+
+*We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old* (Psalm 44:1).
+
+**Fathers told. Children heard. And the psalm is the residue of what was handed over, which is why the community still possesses it.**
+
+### "Ask for the old paths" and the question that is not wise
+
+**And now the two errors must be distinguished, because a great deal of damage is done by men who think they are defending memory when they are in fact opposing God.**
+
+**The first text is the older: the call of God through Jeremiah to a generation that had abandoned the road.**
+
+*Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein* (Jeremiah 6:16).
+
+**Note the three elements and note what the command actually requires.**
+
+**The command is to ask — to investigate, to consider, to weigh.** *Stand ye in the ways, and see, and ask.* **This is not a command to submit to whatever is oldest; it is a command to examine the roads and identify *the good way*, which is a distinct thing from the ancient one.**
+
+**The command is to walk therein.** Not to preserve it, not to build a monument beside it, not to hold a festival in its honour. **To walk, which means movement.**
+
+**And the promise attached is *rest for your souls***.
+
+**So the faithful option in Jeremiah 6 is neither conservatism nor innovation. It is the recovery of an old road in order to walk on it now.** And the generation in the passage rejected it — *we will not walk therein* — **and their reason is not recorded, but the same refusal is made in every generation by people who prefer either the comfort of a shrine or the excitement of a road that nobody has walked.**
+
+**And the second text is the preacher's warning, and it addresses the error of the men who will not move:**
+
+*Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this* (Ecclesiastes 7:10).
+
+**The Hebrew for *enquire wisely* is the same verb of investigation used in Jeremiah 6, and the verdict here is that the question itself is badly formed.**
+
+**Because the former days were not better as a general proposition.** They were the days of the judges, or the days of the apostasy under Manasseh, or the days when the altars were thrown down and the prophets were killed. **And a man who asks why the former days were better is usually asking why he was more comfortable then, and calling it a question about God.**
+
+**Which produces the first diagnostic test of this chapter: a memory that produces movement is living, and a memory that produces lament is dying.**
+
+**The proof is in the two texts together.** Jeremiah commands asking where the good way is *and walking in it*. The preacher forbids asking why the former days were better. **The difference between the two enquiries is whether the answer is going to be used.**
+
+**And the application to any older man reading this is exact.** If your account of the past leads your young men to ask how they should walk now, your memory is alive. **If your account of the past leads them to conclude that nothing good can be done in their own time, you have taught them the question the preacher calls unwise.**
+
+### "Remember ye not the former things"
+
+**And there is a text that seems to command the opposite of remembering, and it must be reconciled or the whole chapter will be misread.**
+
+*Remember ye not the former things, neither consider the things of old. Behold, I will do a new thing; now it shall spring forth, shall ye not know it? I will even make a way in the wilderness, and rivers in the desert* (Isaiah 43:18–19).
+
+**Read it beside the memorial stones and the passover, and the reconciliation becomes visible.**
+
+**The stones at Gilgal memorialised an act of God that had already happened, and the command to remember them was a command to expect God to be the same God again.** The father who told his son *Israel came over this Jordan on dry land* was teaching him what kind of God he served, **and the whole purpose of that teaching was that the son would trust the same God in his own crossing.**
+
+**And Isaiah 43 forbids the use of former things as a substitute for that expectation.**
+
+**The verse before it is the key: *I am the Lord, your Holy One, the creator of Israel, your King* (Isaiah 43:15) — and the whole chapter is a record of what God had already done, given so that the people would believe Him for the new thing.**
+
+**The difference, then, is not between remembering and forgetting. It is between two uses of the past.**
+
+**A memory that is used as the ground of faith for the next act of God is commanded, and it is the substance of the Psalms.** *I will remember the years of the right hand of the most High* (Psalm 77:10) is the sentence of a man who is arguing his way back to trust.
+
+**And a memory that is used as the replacement for the next act of God is forbidden, because it has become a claim that God has finished.**
+
+**Which is the second diagnostic test, and it is the one that distinguishes a movement from a monument. Ask what your memory of the past is producing: an expectation, or an explanation of why nothing happens now.**
+
+### The householder's treasure: new and old together
+
+**And the Lord Jesus states the arrangement in a single sentence, and gives it as the definition of a well-instructed man.**
+
+*Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old* (Matthew 13:52).
+
+**Note the components.**
+
+**There is one treasure, not two.** The old and the new are in the same store, and the man brings out both from the one place. **Which means that a memory and a movement are not rival parties in the house; they are two categories of goods in a single inventory.**
+
+**And the man is defined by what he brings out, not by what he holds.** *Bringeth forth* — the Greek is *ekballei*, he throws out, he produces, he distributes. **A store that is never emptied is not a treasure; it is a hoard.**
+
+**And both kinds of goods are necessary, and each of them fails without the other.**
+
+**A treasury with only old things is a warehouse, and warehouses do not reproduce.** The scribe who can quote everything and produce nothing new has become the curator of a collection that will not survive him, because a collection has no children.
+
+**And a treasure with only new things is a novelty shop.** And a novelty shop generates excitement, turnover, and nothing that lasts, because nothing it produces has any relation to the goods that were accumulated by the men who came before.
+
+**And the householder's skill is stated in the participle: *instructed unto the kingdom of heaven.***
+
+**He is a man who has been formed, and whose formation is oriented toward the kingdom and not toward a tradition or a market.** And it is out of that formation that he knows which of the stored goods to bring out for the person in front of him, and which new thing is the right application of an old one.
+
+### The tradition that voids the commandment
+
+**And the New Testament gives the hard case, which is what happens when memory hardens into a rule that fights against the present command of God.**
+
+*Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition? For God commanded, saying, Honour thy father and mother ... But ye say, Whosoever shall say to his father or to his mother, It is a gift, by whatsoever thou mightest be profited by me; and honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition* (Matthew 15:2–6).
+
+**Note carefully what the tradition had become.**
+
+**It had not denied the Scripture. It had provided a mechanism by which the Scripture could be avoided while being formally honoured.** A man could declare his property *corban*, dedicated to God, **and thereby keep it while refusing to support his parents — and the tradition supported him in it.**
+
+**And the Lord's verdict is that this is not a minor addition to the law. It is *making the commandment of God of none effect*, the Greek *ekyrosate*, you have voided it, you have cancelled its authority.**
+
+**Which gives the third diagnostic test of this chapter, and it is the sharpest of the three. Test any inherited practice by asking whom it protects and what it prevents.**
+
+**If a tradition protects the position of the men who administer it while preventing the obedience that the word of God currently requires, it has become the tradition of the elders in the sense of Matthew 15, and its antiquity does not sanctify it.** And the men who keep it will usually be among the most serious and diligent people in the house, which is what makes the matter so difficult.
+
+**And the corollary must be stated for the other party.** The remedy for a tradition that voids the commandment is not the abolition of all tradition. **The Lord did not tell the Pharisees that memory was worthless; He told them that He had not come to destroy the law but to fulfil it.** And a generation that reacts to a dead tradition by discarding the whole inheritance has done the same thing in the opposite direction.
+
+### Josiah: the young man who found what his fathers lost
+
+**And Part Six closes with the most hopeful case in the histories, and it is a case of a young man recovering a memory that two generations had misplaced.**
+
+**Josiah came to the throne at eight years old, and the temple had been neglected for decades, and the book of the law had been lost in the house of God.**
+
+*And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the Lord* (2 Kings 22:8).
+
+**The book was found during a building repair.** Nobody had gone looking for it; the workmen found it while renovating a temple that had been used for other purposes for two generations. **Which is a picture of what happens when a house keeps functioning after the deposit is lost: the building is still there, the services are still running, and the document is in a cupboard.**
+
+**And the response of the young king is the whole of the recovery:**
+
+*And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes. And the king commanded Hilkiah the priest ... saying, Go ye, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us* (2 Kings 22:11–13).
+
+**Three things in that passage.**
+
+**He recognised the book as the standard and himself as the one judged by it.** *He rent his clothes.* **A man who reads the deposit and finds that it condemns him has just made the deposit authoritative over himself, which is the first act of a real recovery.**
+
+**He included the whole nation in the repentance, and he named the problem as a generational one:** *our fathers have not hearkened ... to do according unto all that which is written concerning us.* **The older generation's failure is not hidden; the young king states it plainly, because he cannot repair what nobody is allowed to name.**
+
+**And he asked for a direct word from God about his own generation, and he got one** — that the judgement would be deferred because of his humility, **and he was spared from seeing it (2 Kings 22:18–20).**
+
+**And the reform itself was thorough, and Scripture's verdict on him is the highest given to any king:**
+
+*And like unto him was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him* (2 Kings 23:25).
+
+**So a young man recovered what two generations had lost, and did it more completely than the kings who had the book in front of them.**
+
+**And the next two verses give the limit, and they must be read, because the chapter would be dishonest without them.**
+
+*Notwithstanding the Lord turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal. And the Lord said, I will remove Judah also out of my sight, as I have removed Israel* (2 Kings 23:26–27).
+
+**Josiah's generation repented, and the captivity came anyway, because the debt incurred by the previous generation was larger than the recovery of the present one.**
+
+**Which is the sober doctrine of this chapter and the whole of Part Six. A memory can be recovered; the consequences of a lost memory are not always reversible in the lifetime of the man who recovers it.**
+
+**And note that the reform of Josiah was destroyed within a decade of his death, by his own son.** *And he did that which was evil in the sight of the Lord, according to all that his fathers had done* (2 Kings 23:32, 37, of Jehoahaz and Jehoiakim).
+
+**And Jehoiakim's method is the mirror image of the memorial stones.**
+
+*And it came to pass, that when Jehudi had read three or four leaves, he cut it with the penknife, and cast it into the fire that was on the hearth, until all the roll was consumed in the fire that was on the hearth* (Jeremiah 36:23).
+
+**The king sat by a fire and destroyed the record page by page, and the record had to be rewritten.** A generation can build a memorial or it can burn a scroll, **and the difference between those two acts is the whole of the judgment and the mercy of the books of Kings.**
+
+### The ordinance that holds both together
+
+**And the New Testament provides the mechanism in which memory and movement are made one act, and it is the ordinance at the centre of Christian worship.**
+
+*For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread: and when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come* (1 Corinthians 11:23–26).
+
+**Look at the two directions in the last verse.**
+
+**In one sentence, the Supper is *in remembrance of me* — an act of memory directed backwards to a death that has already occurred. And the same act is *ye do shew the Lord's death till he come* — a proclamation directed forwards to a return that has not yet occurred.**
+
+**And the Greek for *shew* is *katangellete*, to announce, to proclaim publicly.** So the ordinance is simultaneously the church's most ancient inheritance and its most future-oriented declaration. **A congregation that eats the bread and drinks the cup is remembering something and announcing something, in the same action, with the same hands.**
+
+**Which makes it the model for everything in this chapter.** The memory is not the opposite of the movement; the memory is *how* the movement knows what it is moving toward.
+
+**And the Spirit's two offices are described in the same pair of functions.**
+
+*But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you* (John 14:26).
+
+*Howbeit when he, the Spirit of truth, is come, he will guide you into all truth ... and he will shew you things to come* (John 16:13).
+
+**In John 14 He is the remembrancer: He brings back to the apostles what Jesus had said. And in John 16 He is the guide into truth they do not yet have, and the One who shows them things to come.**
+
+**The same Spirit performs both offices, which settles the argument permanently.** A house that claims to be led by the Spirit into new things while despising the deposit is not being led by the Spirit of John 14. **And a house that claims to honour the deposit while refusing to be led into anything it has not already known is not being led by the Spirit of John 16.**
+
+**And the New Testament's own language for the inheritance assumes both:** *earnestly contend for the faith which was once delivered unto the saints* (Jude 3) — a fixed deposit, contended for, **by people who are *pressing toward the mark* (Philippians 3:14) at the same time.**
+
+### The five practices of a house that keeps both
+
+**And the chapter closes with the practical arrangement, because the whole of Part Six has been about collisions and this is the mechanism by which collisions are prevented.**
+
+**The first practice is the written record.**
+
+*This shall be written for the generation to come: and the people which shall be created shall praise the Lord* (Psalm 102:18).
+
+**Every house should keep an account of what God has done in it, in writing, in a form that survives the deaths of the people who remember.** Peter's *I will endeavour* (2 Peter 1:15) is the same instinct, **and the reason is stated there: so that they may have these things in remembrance after my decease.**
+
+**The second practice is the annual telling.** The Passover, the memorial stones, the statutes of Deuteronomy 6 — all of them require a recurring occasion at which the story is told to people who were not there. **A house that never gathers to tell the old story is relying on the memories of its oldest members, and those memories are the least durable archive in existence.**
+
+**The third practice is the physical object.** Twelve stones at Gilgal. **Something in the house that a child can point at and ask about, whose meaning has to be explained, because what can be explained can be handed on.**
+
+**The fourth practice is the invited question.** All three of the law's memory passages assume that the child will ask, and the father is commanded to be ready. **Which means the older generation must raise children who feel free to interrogate the record, and must not treat the questions as impertinence.** A house where the young cannot ask has already lost the mechanism.
+
+**And the fifth practice is the recording of the present acts of God.** *Behold, I will do a new thing; now it shall spring forth, shall ye not know it?* (Isaiah 43:19).
+
+**A house that only tells old stories teaches its young people that God worked once.** And a house that only reports new things teaches them that God has no history. **The householder brings out of his treasure things new and old, and the practice of recording what God is doing now is what keeps the treasure from becoming a museum.**
+
+**And the fifth practice is the one the older generation usually neglects, and the neglect is the reason the young conclude that nothing is happening.** Elijah's complaint in the wilderness was that he was the only one left, and God had seven thousand. **The house that does not count what God is doing will always believe it is diminished.**
+
+### Principles
+
+**First: the failure of a generation is usually amnesia rather than apostasy.** *There arose another generation after them, which knew not the Lord, nor yet the works which he had done.* The older generation served God faithfully all their days, and the record died with them.
+
+**Second: memory must be given a mechanism, or it will be lost.** Stones that provoke a question, an ordinance that requires an explanation, a written account, and an annual telling. **The generation that keeps everything in its own head is planning to lose it.**
+
+**Third: a well-equipped generation can still turn back.** *The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.* Equipment, training and resources are not what holds a line in the day of battle.
+
+**And the order in the psalm is the doctrine: first they forgot, then they refused.** *They kept not the covenant of God ... and forgat his works.* The moral failure is downstream of the memory failure.
+
+**Fourth: ask for the old paths in order to walk in them, and do not ask why the former days were better.** Jeremiah commands the enquiry and the walk; the preacher forbids the enquiry that produces only lament. **The test of a memory is whether it produces movement.**
+
+**Fifth: remembering and not remembering are both commanded, and the difference is the use made of the past.** Memorial stones were commanded; *remember ye not the former things* was commanded in the same Scripture, **because a memory that replaces the expectation of a new act of God is a form of unbelief.**
+
+**Sixth: the instructed man brings out of one treasure things new and old.** *One* treasury, two categories, and a man defined by what he produces, **not by what he holds.**
+
+**Seventh: a tradition that protects its administrators while preventing present obedience has voided the commandment.** *Thus have ye made the commandment of God of none effect by your tradition.* And the remedy is not the abolition of all tradition.
+
+**Eighth: a young man can recover what two generations lost.** Josiah found the book at twenty-six and reformed more thoroughly than any king before or after him. **And the consequence of the previous generation's debt was not reversible in his lifetime.**
+
+**And ninth: the ordinance at the centre of Christian worship holds memory and movement in one act.** *This do in remembrance of me ... ye do shew the Lord's death till he come.* And the Spirit who brings all things to remembrance is the same Spirit who guides into all truth and shows things to come.
+
+### The key scriptures in full
+
+> And the people served the Lord all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the Lord, that he did for Israel. And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the Lord, nor yet the works which he had done for Israel.
+> — Judges 2:7, 10
+
+> That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones? Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord.
+> — Joshua 4:6–7
+
+> And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God hath commanded you? Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand.
+> — Deuteronomy 6:20–21
+
+> The children of Ephraim, being armed, and carrying bows, turned back in the day of battle. They kept not the covenant of God, and refused to walk in his law; and forgat his works, and his wonders that he had shewed them.
+> — Psalm 78:9–11
+
+> We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
+> — Psalm 44:1
+
+> Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein.
+> — Jeremiah 6:16
+
+> Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.
+> — Ecclesiastes 7:10
+
+> Remember ye not the former things, neither consider the things of old. Behold, I will do a new thing; now it shall spring forth, shall ye not know it?
+> — Isaiah 43:18–19
+
+> Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
+> — Matthew 13:52
+
+> Thus have ye made the commandment of God of none effect by your tradition.
+> — Matthew 15:6
+
+> I have found the book of the law in the house of the Lord ... And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes ... Go ye, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is kindled against us, because our fathers have not hearkened unto the words of this book.
+> — 2 Kings 22:8, 11, 13
+
+> And like unto him was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
+> — 2 Kings 23:25
+
+> This do in remembrance of me ... For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.
+> — 1 Corinthians 11:24–26
+
+> But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+> — John 14:26
+
+> This shall be written for the generation to come: and the people which shall be created shall praise the Lord.
+> — Psalm 102:18
+
+> Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+> — Jude 3
+
+### For the fathers
+
+- **Put your memory into a mechanism.** Stones that provoke a question, a written account, an annual telling. A generation that keeps the record only in its own head is planning to lose it.
+- **Answer the question personally and as your own story.** *We were Pharaoh's bondmen in Egypt* — not *your ancestors were.* The identification is how a child who was not there is included.
+- **Test your memory by what it produces.** If your account of the past leads your young men to ask how to walk now, it is alive. If it leads them to conclude that nothing can be done in their time, you have taught them the question the preacher calls unwise.
+- **Do not equip a generation and call it formed.** Ephraim was armed and carrying bows, and turned back in the day of battle, because they had forgotten. Weapons are not what holds a line.
+- **Ask what your traditions protect and what they prevent.** A practice that secures the position of its administrators while obstructing present obedience is the tradition of Matthew 15.
+- **And record what God is doing now.** *Behold, I will do a new thing.* A house that only tells old stories teaches its young that God worked once.
+
+### For the young
+
+- **You can recover what your fathers lost.** Josiah found the book in a neglected room and reformed the nation more thoroughly than any king before or after him.
+- **When you find the book, rend your clothes before you reform anything.** The first act of a real recovery is submitting to the deposit as the standard by which you are judged.
+- **Name the generational failure plainly, as Josiah did.** *Our fathers have not hearkened.* You cannot repair what nobody is permitted to mention.
+- **And know the limits of recovery.** Josiah's generation repented and the captivity still came, because the debt of the previous generation was larger than one generation's reform. **Recover the memory anyway.**
+- **Do not confuse a monument with a road.** The command in Jeremiah 6 was to ask for the old paths *and walk therein*, and the generation that refused it said *we will not walk therein.*
+- **Do not discard the whole inheritance because a tradition has gone wrong.** The Lord did not abolish the law to correct the Pharisees; He fulfilled it.
+- **And keep the two directions of the table.** *In remembrance of me* and *till he come* happen in the same act, with the same hands. That is what a generation that has both memory and movement looks like.
+
+### Questions for reflection
+
+1. Who in your house knows the record of what God has done, and is it written anywhere that will outlive them?
+2. What object, ordinance or question in your house invites a child to ask, and who is assigned to answer?
+3. What is your memory producing in the young men around you — expectation or lament?
+4. Which of your inherited practices protects its administrators while preventing obedience that the word of God now requires?
+5. What has God done in your generation that nobody has written down?

@@ -1,0 +1,320 @@
+<<<CHAPTER 44
+## The Church That Must Become a Generational Family
+
+**Everything in Part Seven has been building to one conclusion, and it is a conclusion about the shape of the local church.**
+
+**The words the New Testament uses for the church are overwhelmingly household words. It is a house, a household, a family, a brotherhood. Its members are children, brothers, sisters, fathers and mothers. Its leaders are fathers and elders. Its smallest unit is a table in somebody's home.**
+
+**And this is not devotional language attached to an organisational reality. It is the organisational reality, and the vocabulary is the instruction.**
+
+**Because a generation cannot be handed an inheritance by an institution. Institutions transfer roles, and roles can be vacated without loss of substance. It takes a household to transfer a deposit, because a household is the only arrangement in which a man can give another man his own soul.**
+
+### The household of God
+
+**And the definition is given by Paul in a letter written to explain how a church should be run.**
+
+*These things write I unto thee, hoping to come unto thee shortly: but if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth* (1 Timothy 3:14–15).
+
+**Three things in that verse.**
+
+**The church is *the house of God*.**
+
+**The Greek is *oikos theou*, and the whole letter from which the sentence comes is organised around the management of a household — the qualifications of elders and deacons are household qualifications, and the treatment of widows, elders and slaves is household regulation.** Paul is not using a metaphor to warm the atmosphere. **He writing a manual for the ordering of a house.**
+
+**And the purpose of the house is stated: *the pillar and ground of the truth.***
+
+**The Greek for *pillar* is *stylos*, and for *ground* is *hedraioma*, a support, a foundation.** Which means the church exists to hold the truth up and to hold it firm. **A house that no longer supports the deposit has not failed in its branding; it has failed in its function, and it does not matter how many people are inside it.**
+
+**And the identity is stated twice elsewhere: *ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God* (Ephesians 2:19), and *let us do good unto all men, especially unto them who are of the household of faith* (Galatians 6:10).**
+
+**So the New Testament's own designation for a local church is a household of faith, and the household has an order, a table, a name, a common purse, and children in it.**
+
+**And a house that has been run as a company — with customers, products, and a brand — will find that it has no mechanism for handing anything to anybody.** Which is why the children of large and successful churches so frequently leave. **They were served, and they were not fathered, and the difference is only visible in the second generation.**
+
+### The Lord's redefinition of family
+
+**And the doctrinal basis for all of this is a scene in which the Lord's own family came to fetch Him, and He refused to treat the natural relationship as decisive.**
+
+*While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him ... But he answered and said unto him that told him, Who is my mother? and who are my brethren? And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren! For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother* (Matthew 12:46–50).
+
+**And He stretched forth His hand toward His disciples.**
+
+**Note what He did not say.** He did not say that His mother and brothers were unimportant, and He did not say that family ties were abolished. **He said that the deciding relationship is obedience to the will of the Father, and that the people sitting in front of Him qualified.**
+
+**Which means that the household of God is not an imitation of a natural family and not a substitute produced by sentiment. It is a real family, constituted by a real birth, with real obligations.** *Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God* (John 1:13). **And the new birth produces the new household, and the household contains brothers, sisters, mothers and children who were not related by blood.**
+
+**And the promise attached to the loss of natural family is specific and material:**
+
+*Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's, but he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life* (Mark 10:29–30).
+
+**A hundredfold now, in this time — houses, brothers, sisters, mothers, children, lands.**
+
+**And note the clause attached: *with persecutions.***
+
+**The promise of a family a hundred times larger comes with trouble, and the trouble is explicitly in the same sentence.** Which means the Lord expected that the substitute family would cost those who joined it, **and that the trouble would look like the natural family resenting the transaction.**
+
+**And the implication for a local church is severe.** If a congregation does not function as a hundredfold family — with the actual provision of houses, mothers, brothers and lands — **then the Lord's promise to the men and women who left everything for Him is being defaulted on by the very community that was supposed to keep it.**
+
+**Which is the theological reason a young convert from a broken home must be given a household and not a programme.** He has lost a father, and he was promised a hundred. **And the promise is administered by the church or it is not administered at all.**
+
+### The three ages, addressed by name
+
+**And the New Testament letters address whole congregations in generational categories, and what is said to each category is worth studying because the instructions differ.**
+
+*I write unto you, little children, because your sins are forgiven you for his name's sake. I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father. I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one* (1 John 2:12–14).
+
+**Three groups, addressed twice, and the doubling is deliberate.**
+
+**The *little children* are addressed with two things: *your sins are forgiven you for his name's sake*, and *ye have known the Father.*** Forgiveness and the knowledge of God as Father. **Which is the whole of what an immature believer needs, and there is no rebuke in it.**
+
+**The *young men* are addressed with strength, the abiding word, and victory over the wicked one.** *Ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.* **This is the fighting generation, and the apostle approves of them without qualification.**
+
+**And the *fathers* are addressed with one thing, twice, and it is the same thing both times: *ye have known him that is from the beginning.***
+
+**No task is assigned to the fathers. No exhortation is given to them. They are not told to fight, or to grow, or to be forgiven anything.** The entire statement about them is that they have known the eternal God.
+
+**Which tells us what the older generation is for in a congregation.** Their contribution is not energy and not novelty and not activity. **It is the accumulated knowledge of the One who has been from the beginning, held by men who have walked with Him for decades, and available to everyone younger in the room.**
+
+**And it tells us what the young generation is for.** Strength, an abiding word, and victory. **A church that has silenced its young men has disconnected its own arm.**
+
+**And the pastoral instructions in Titus are arranged the same way, with specific duties assigned by age:**
+
+*That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things; that they may teach the young women ... Young men likewise exhort to be sober minded. In all things shewing thyself a pattern of good works* (Titus 2:2–7).
+
+**Note the two assignments that matter most for our subject.**
+
+**The aged men are to be *sound in faith, in charity, in patience*** — the third of which is the fruit that only time produces. **And the aged women are to be *teachers of good things*, with the specific duty of teaching the young women.** The Greek word is *kalodidaskalous*, teachers of that which is good, and it is the only place in the New Testament where a teaching office is assigned by age and sex within the congregation.
+
+**Which means the transmission of practical godliness to the next generation of women was assigned to the older women and not to the pastor.** The household arrangements, the love of husbands and children, the discretion, the conduct — **all of it was to be taught by women old enough to have done it.**
+
+**And Titus himself, a younger man in charge of a rough island church, is given one criterion: *in all things shewing thyself a pattern of good works.*** The Greek is *typon kalon ergon* — a type, a stamped impression of good works. **His authority was to be his own visible life.**
+
+### The two directions of obligation
+
+**And now the passage that settles the question of authority in a generational house, because it obliges both parties and it ends in mutual submission.**
+
+*The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; neither as being lords over God's heritage, but being ensamples to the flock. And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away. Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble* (1 Peter 5:1–5).
+
+**Set out the two sides.**
+
+**The elders are given four prohibitions and one positive duty.**
+
+**Not by constraint — *me anankastos* — not under compulsion, not as men who would rather not.** Which means an unwilling elder is disqualified by his unwillingness.
+
+**Not for filthy lucre — *me aischrokerdos*, not for shameful gain.** The ministry is not a business, and the man who is in it for the income has sold the office.
+
+**Not as being lords over God's heritage.** The Greek is *me katakyrieuontes ton kleron* — not domineering over the allotments, not treating the congregation as property assigned to them.
+
+**And positively: *being ensamples to the flock.*** *Tupoi ginomenoi* — becoming types, examples, patterns. **The elder's authority is exercised by being the thing he wants the flock to become.**
+
+**And the younger are told to submit — *and then the sentence is generalised over everybody: all of you be subject one to another.***
+
+**Which is the precise arrangement a generational family requires and which a mere hierarchy cannot supply.** The eldest owes service, example and non-domination to the youngest; the youngest owes submission to the eldest; **and both owe submission to one another, and both wear humility as a garment.**
+
+**A house in which the older men demand submission and do not give it has not yet become a family.** And a house in which the young demand to be heard and will not submit has not yet become one either. **The mutual clause makes the arrangement symmetrical in obligation and asymmetrical in office, which is exactly how a household works.**
+
+### The manner of address
+
+**And there is a small passage in the pastoral letters that contains more practical instruction about generational relationships in a church than most books on the subject, and it is about how a young pastor should speak to people.**
+
+*Rebuke not an elder, but intreat him as a father; and the younger men as brethren; the elder women as mothers; the younger as sisters, with all purity* (1 Timothy 5:1–2).
+
+**Four categories, and Timothy is told how to address each one.**
+
+**An older man is not to be rebuked. He is to be entreated — the Greek is *parakalei*, to exhort, to appeal to, to speak alongside — and he is to be treated as a father.**
+
+**Younger men are to be treated as brothers.** Not as juniors, and not as subordinates. Brothers.
+
+**Older women as mothers.**
+
+**And younger women as sisters, with all purity.**
+
+**Which means that the entire vocabulary of ecclesiastical relationships is domestic.** Timothy was a young man in charge of the church at Ephesus, and he was dealing with men and women older than himself, **and the instruction is not that he should assert his office. It is that he should speak to every person in the congregation in the register of a family relationship.**
+
+**And this is the mechanism by which a congregation becomes a household rather than a meeting.** A house is created by the way its members address each other. **A church in which a young man speaks to a seventy-year-old as a colleague, and a seventy-year-old speaks to a young man as a subordinate, has already become something other than the house of God — whatever its documents say.**
+
+**And the commands about affection confirm it:**
+
+*Be kindly affectioned one to another with brotherly love; in honour preferring one another* (Romans 12:10).
+
+**The Greek is *te philadelphia eis allelous philostorgoi* — in brotherly love, devoted to one another with family affection.** *Philostorgos* is the word for the natural affection of parents and children and siblings. **The command is that the congregation should feel toward one another what a healthy family feels.**
+
+**And it is founded on the new birth:** *Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever* (1 Peter 1:22–23).
+
+**Born again by incorruptible seed, and therefore able to love unfeignedly.** Which means the family affection of the church is not a natural disposition that some congregations happen to have. **It is the fruit of a birth, and the seed is incorruptible, which is why the family can outlast every one of its members.**
+
+### The elders who watch for your souls
+
+**And the accountability of the older generation is stated in two verses of Hebrews, and the two must be read together, because one commands the congregation and the other limits the elders.**
+
+*Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation* (Hebrews 13:7).
+
+*Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you* (Hebrews 13:17).
+
+**In the first verse, three instructions are given to the congregation.**
+
+**Remember your leaders.** *Mnemosyneuete* — keep them in memory. **A congregation's amnesia about its own fathers is a spiritual disease.**
+
+**Follow their faith.** *Mimeisthe ten pistin* — imitate the faith. **Not the personality and not the style: the faith.**
+
+**And consider the end of their conversation.** The Greek is *anatheorountes ten ekbasin tes anastrophes* — looking attentively at the outcome, the exit, the issue of their way of life. **Which means the congregation is to assess the leaders by how their lives finish, and to imitate accordingly.**
+
+**That clause is the succession principle embedded in a single word.** The *ekbasis* of a man's conduct — where his manner of life arrives — is the thing to be examined and copied. **Which means an older man is on trial by his own outcome, and the church is commanded to look at it.**
+
+**And in the second verse, the limit of the elders' authority is stated: they watch *as they that must give account.***
+
+**The Greek is *hos logon apodosontes* — as those who will render a reckoning.** And the object of the reckoning is *your souls*.
+
+**Which means that an elder's authority is entirely accountable.** He is not a proprietor; he is a steward who will answer for the condition of the people assigned to him. **And a steward who has lost the people will not be able to plead that they would not obey him, because the verse says he is watching for their souls and not merely administering their affairs.**
+
+**And the purpose clause is for the congregation's benefit: *that they may do it with joy, and not with grief: for that is unprofitable for you.***
+
+**The writer says plainly that a grieving eldership is unprofitable for the church.** Which means the congregation's obedience is not a courtesy to the leadership. **It is a condition of the leadership's usefulness.**
+
+### The assembly that includes the children
+
+**And the pattern for the gathered assembly runs from the covenant at Moab through the reading of the law at Shechem and down to the letters to the churches, and in every case the children are present.**
+
+*Ye stand this day all of you before the Lord your God; your captains of your tribes, your elders, and your officers, with all the men of Israel, your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water: that thou shouldest enter into covenant with the Lord thy God, and into his oath, which the Lord thy God maketh with thee this day: that he may establish thee to day for a people unto himself* (Deuteronomy 29:10–13).
+
+**And the reading of the law in the land, which was the first act of the conquest's worship:**
+
+*There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them* (Joshua 8:35).
+
+**Four categories are named in both passages, and they are the same four: the leadership, the men, the women, the little ones, and the stranger.**
+
+**And note the reason given for including the little ones in the covenant ceremony: *that he may establish thee to day for a people unto himself.***
+
+**The children were not excluded pending comprehension.** They were included in a covenant that they could not yet understand, **because the establishment of a people unto God is a multi-generational act and the presence of the next generation is part of what constitutes it.**
+
+**And the entire argument of this book has been that the young must hear the deposit as it is being made rather than as it is reported.** Children who are present when the word is read hear the words; children whose parents never bring them hear a summary years later, at second hand, if at all. **And the difference between those two positions is the difference between the generation that knew the Lord and the generation that arose after them and knew nothing.**
+
+**Which is why the physical presence of children in the assembly is not a matter of preference, and why the churches of the New Testament met in houses.** The house is the only building in which the whole of a household can be present at once.
+
+### What a house must have
+
+**And the subject reduces to a list, because the New Testament's description of the church is concrete and the concrete requirements can be audited.**
+
+**A house must have a table.** *They continued daily with one accord in the temple, and breaking bread from house to house* (Acts 2:46). **A congregation that never eats together is not a household, whatever else it does.**
+
+**A house must have an order.** *They ordained them elders in every church* (Acts 14:23), and elders who feed the flock willingly, are not domineering, are examples, and will render an account.
+
+**A house must have a shared purse.** *Neither said any of them that ought of the things which he possessed was his own; but they had all things common* (Acts 4:32), and *distribution was made unto every man according as he had need* (4:35).
+
+**A house must have a memory.** The memorial stones, the passover, the written record, and the account of what God has done — which is the whole of chapter 38.
+
+**A house must have an inheritance to pass on.** *The pillar and ground of the truth*, the apostles' doctrine, kept and transmitted.
+
+**A house must have children in the room.** The covenant assembly of Deuteronomy 29 and the household meetings of Acts, and the promise of Acts 2:39 extended to the children.
+
+**And a house must have an open door, because the family of God grows by adoption and not by natural descent.** *As many as received him, to them gave he power to become the sons of God* (John 1:12). *A father of the fatherless, and a judge of the widows, is God in his holy habitation. God setteth the solitary in families* (Psalm 68:5–6). **And the two great promises are that God will be a Father and that the solitary will be placed: *I will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty* (2 Corinthians 6:18).**
+
+**Which means that the household of God is a family in which most of the members were adopted, and the door must remain open.** A church that has become a comfortable household of its own children has ceased to be the family of the promise, **because the promise was to men and women who were strangers and foreigners, and to the solitary, and to those who had no father.**
+
+### The failure modes
+
+**And there are four ways a church fails at this, and each of them is common enough to be named.**
+
+**The first is the church run as a company.** Its members are customers, its leaders are executives, its language is strategic, and its measurements are financial and numerical. **Everything in it works except the transmission, because a customer relationship cannot confer an inheritance.**
+
+**And the diagnostic question is simple.** Ask a young man in such a church who his spiritual father is. **If the answer is the name of a programme, or the name of a pastor he has spoken to twice, the house is a business.**
+
+**The second is the church run as a clique.** It is a genuine household, and it contains only its own. **Its children are well taught, and the stranger does not get in, and the fatherless are not placed.** Which is a failure of the same abundance it thinks it is protecting, since *God setteth the solitary in families* and the family that receives no solitary person is not performing the function of a family.
+
+**The third is the father who will not become an ancestor.** He runs a household with himself at the centre, and it works, and it dies with him. **Which is the entire content of chapters thirty-one and thirty-two, and the remedy is the same: name the successor, give the deposit, build the capacity, and hand it over while you can still be contradicted.**
+
+**And the fourth is the young man who wants the inheritance without the household duties.**
+
+**He wants the deposit, the authority, the platform and the recognition, and he does not want to carry water for an old man for ten years, sit at a table every week, submit to an eldership he did not choose, or have his ambition dismantled in front of other people.**
+
+**And that is the error of a generation that has been told it is the future without being told what the present costs.** It ends in a cohort, and cohorts destroy kingdoms.
+
+### Principles
+
+**First: the New Testament's word for the church is a household word.** *The house of God, which is the church of the living God, the pillar and ground of the truth.* And its purpose is to hold the truth up and hold it firm.
+
+**Second: the family of God is a real family, constituted by a real birth.** *Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.* And the Lord stretched out His hand toward His disciples and said *behold my mother and my brethren.*
+
+**Third: the promise attached to the loss of family is material and immediate.** *An hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions.* The church that does not keep this promise is defaulting on the Lord's own word.
+
+**Fourth: the three ages are addressed differently.** Children, for forgiveness and the knowledge of the Father; young men, for strength, the abiding word and victory; fathers, for having known Him that is from the beginning. **And the fathers are given no task — only depth.**
+
+**Fifth: obligation runs in both directions and ends in mutual submission.** *Feed the flock ... not by constraint, but willingly; not for filthy lucre ... neither as being lords over God's heritage, but being ensamples to the flock ... Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another.*
+
+**Sixth: relationships in the house are conducted in family registers.** *Intreat him as a father; and the younger men as brethren; the elder women as mothers; the younger as sisters, with all purity.* And *be kindly affectioned one to another with brotherly love*, with *philostorgos* — the affection of a household.
+
+**Seventh: the older generation is accountable and limited by its accountability.** *They watch for your souls, as they that must give account.* And the congregation is told to *consider the end of their conversation* — to examine the outcome of a life and imitate it.
+
+**Eighth: the children belong in the assembly.** *Your little ones, your wives, and thy stranger* stood at the covenant; and Joshua read every word of the law *before all the congregation of Israel, with the women, and the little ones, and the strangers.*
+
+**And ninth: the house needs a table, an order, a purse, a memory, an inheritance, children in the room, and an open door.** Because the family of God grows by adoption, and *God setteth the solitary in families.*
+
+### The key scriptures in full
+
+> But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+> — 1 Timothy 3:15
+
+> Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God.
+> — Ephesians 2:19
+
+> And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren! For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+> — Matthew 12:49–50
+
+> Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's, but he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.
+> — Mark 10:29–30
+
+> I write unto you, little children, because your sins are forgiven you for his name's sake. I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one ... I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
+> — 1 John 2:12–14
+
+> That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. The aged women likewise, that they be in behaviour as becometh holiness ... teachers of good things; that they may teach the young women.
+> — Titus 2:2–4
+
+> The elders which are among you I exhort ... Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; neither as being lords over God's heritage, but being ensamples to the flock ... Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility.
+> — 1 Peter 5:1–5
+
+> Rebuke not an elder, but intreat him as a father; and the younger men as brethren; the elder women as mothers; the younger as sisters, with all purity.
+> — 1 Timothy 5:1–2
+
+> Be kindly affectioned one to another with brotherly love; in honour preferring one another.
+> — Romans 12:10
+
+> Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.
+> — Hebrews 13:7
+
+> Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+> — Hebrews 13:17
+
+> Ye stand this day all of you before the Lord your God ... your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water: that thou shouldest enter into covenant with the Lord thy God ... that he may establish thee to day for a people unto himself.
+> — Deuteronomy 29:10–13
+
+> There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
+> — Joshua 8:35
+
+> But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+> — John 1:12–13
+
+### For the fathers
+
+- **Ask the diagnostic question of your own house.** Can a young man in your congregation name his spiritual father? If the honest answer is a programme, you are running a company.
+- **Give the hundredfold family or admit you are not keeping the promise.** Houses, brothers, sisters, mothers, children, lands — *now in this time.* A young convert from a broken home must be given a household.
+- **Do not be lords, and do not be unwilling, and do not be in it for the money.** *Not by constraint, but willingly; not for filthy lucre, but of a ready mind; neither as being lords over God's heritage, but being ensamples to the flock.*
+- **Let your life be the examinable thing.** *Whose faith follow, considering the end of their conversation.* Your outcome is the syllabus.
+- **Conduct your relationships in family registers.** *Intreat him as a father ... the elder women as mothers; the younger as sisters.* How you address people is how the house is built.
+- **And keep the door open.** Your own children are not the whole household. *God setteth the solitary in families*, and the promise was to strangers and foreigners.
+
+### For the young
+
+- **Take the household duties with the inheritance, or do not expect the inheritance.** Sit at the table, submit to the eldership, carry water for an old man, and let your ambition be dismantled in front of witnesses.
+- **Give your strength, and do not despise the fathers' silence.** They are not assigned a task in 1 John 2; they are described as having known Him that is from the beginning. **That knowledge is the thing you need most and cannot manufacture.**
+- **Submit while you are strong.** *Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another.* And remember that a grieving eldership is unprofitable for you.
+- **Be subject one to another, which means the older men owe you service too.** If your leaders are domineering and unwilling and their conduct does not survive the examination of Hebrews 13:7, that is a matter for the house and not a licence for a coup.
+- **Do not let the children be absent from the assembly.** *Your little ones* stood in the covenant, and the law was read before them. The next generation belongs in the room, and their comprehension is not the criterion.
+- **And be adopted, and adopt.** You came into this household by a birth that was not of blood. **The door you came through is the door you are obliged to keep open.**
+
+### Questions for reflection
+
+1. In what specific ways does your congregation function as a household rather than as a meeting, and what is missing?
+2. Can every young person in your care name a spiritual father — and is that name a man, or a programme?
+3. Which of the four prohibitions of 1 Peter 5 is your leadership most in danger of violating — compulsion, money, domination, or lack of example?
+4. What would it cost your church to keep the hundredfold promise to a young convert who has no family?
+5. Who has examined the outcome of your life lately, and what did they conclude?
