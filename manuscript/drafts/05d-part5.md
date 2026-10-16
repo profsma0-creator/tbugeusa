@@ -1,0 +1,342 @@
+<<<CHAPTER 29
+## The Mantle, the Message and the Man
+
+Three things are transmitted from one generation to the next, and they are not the same thing. Scripture keeps them distinct with a consistency that is easy to miss, and almost every failure in succession comes from confusing them.
+
+**There is the mantle** — the office, the standing, the visible sign of a calling.
+**There is the message** — the content, the deposit, the body of truth received and to be handed on.
+**And there is the man** — the character, the inner life, the person that has been formed by years of walking with God.
+
+A man may possess any one or two of the three and lack the rest, and the resulting failure is different in each case. This chapter sets out what each is, how they are transferred, and what happens when they are separated.
+
+### The mantle in Scripture
+
+The word translated *mantle* in the King James Version renders several Hebrew nouns, and the variety is informative.
+
+**The *addereth*.** The word used of Elijah's garment, and it denotes something large, heavy and costly — a cloak of some size. It is used of the garment of a prophet, and elsewhere of a king's robe (Jonah 3:6).
+
+**The *simlah*.** The ordinary outer garment, the cloak a man wrapped around himself at night. It is the word used in Exodus 22:26–27, where a man's cloak taken as a pledge had to be returned before sundown because it was his only covering.
+
+**And the *me'il*.** A robe, an outer tunic — the garment of the high priest (Exodus 28:4), of Samuel as a child (1 Samuel 2:18–19), and of Saul when he was torn (1 Samuel 15:27; 24:4).
+
+**And in the New Testament, Paul's *phelones*** — the cloak he left at Troas with Carpus and asked Timothy to bring with the books and the parchments (2 Timothy 4:13).
+
+**Three functions are attached to the mantle in the narratives.**
+
+**It is a garment** — it keeps a man warm and covered, and it is the ordinary possession of a traveller.
+
+**It is a token of office.** When Samuel turned to leave Saul, Saul *laid hold upon the skirt of his mantle, and it rent. And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou* (1 Samuel 15:27–28).
+
+**The garment was the visible sign of the anointing, and its tearing was the enacted prophecy of the removal of the kingdom.** Samuel does not need to explain the symbolism; the correspondence is immediate and Saul understands it.
+
+**And it is an instrument of power.** Elijah *took his mantle, and wrapped it together, and smote the waters, and they were divided* (2 Kings 2:8). And Elisha, having picked up the same garment, *smote the waters, and said, Where is the Lord God of Elijah? and when he also had smitten the waters, they parted hither and thither* (2 Kings 2:14).
+
+**So the mantle is a thing a man wears, a thing that identifies his office, and a thing that carries the power of his calling.**
+
+### The mantle is transferable
+
+And the mechanism of its transfer is one of the most striking images in the Old Testament, and it happens in an afternoon, in a field, without a word.
+
+*So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him* (1 Kings 19:19).
+
+**Elijah passes by and throws his cloak over a ploughman.** He does not stop, explain, or invite. The garment lands on Elisha, and Elijah keeps walking.
+
+**And the garment is later picked up in the same way, from the ground:**
+
+*He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan* (2 Kings 2:13).
+
+**The mantle falls, and the successor picks it up.** That is the whole mechanism. **No ceremony, no laying on of hands, no commissioning service.** A garment is dropped and a garment is retrieved, and the office has changed hands.
+
+**Now note what the mantle does not do.**
+
+**It does not confer the anointing.** Elisha received the mantle in 1 Kings 19 and received the double portion in 2 Kings 2, and the interval between them is years of service. **The visible sign of a calling and the substance of it are not the same thing, and the sign can be given long before the substance arrives.**
+
+**And it does not confer the character.** This is the point that Scripture makes with the most force, and it does so through a man who is a warning to every assistant who has ever wanted the position without the person.
+
+### Gehazi and the perquisites
+
+*But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the Lord liveth, I will run after him, and take somewhat of him* (2 Kings 5:20).
+
+**Set out what Gehazi was and what he did.**
+
+Gehazi was Elisha's personal servant — the man closest to the prophet, the one who carried his staff (4:29), the one who stood in the room when the great things happened. **By any institutional measure, he was the heir apparent.**
+
+And he wanted what the office produced. He ran after Naaman, invented a story about two visiting sons of the prophets, and took two talents of silver and two changes of garments. And then he hid them, and went back in, and lied to his master's face: *Thy servant went no whither* (5:25).
+
+**And Elisha's reply is the sentence that defines the difference between a servant who wants the office and a man who carries the calling:**
+
+*And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?* (2 Kings 5:26).
+
+**And the sentence:**
+
+*The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow* (2 Kings 5:27).
+
+**Gehazi got the perquisites of the mantle and not the mantle.** He acquired the silver and the garments that belonged to a prophet's honour, and he was excluded from the office, and the exclusion passed to his children. **His descendants are still lepers in the narrative four chapters later (2 Kings 8:4–5).**
+
+**That is the most severe case of a succession failure in the historical books after Eli, and it is a failure of a servant who wanted the rewards of a position he had not been given.**
+
+**And the lesson is exactly the one set out in 2 Timothy 2:2.** The men who receive the deposit are the men who are *faithful*, not the men who are nearest.
+
+### The message
+
+**The second thing transmitted is the message, and the New Testament is precise about its handling in a way the Old Testament narratives are not.**
+
+Paul does not speak of the message as a garment. He speaks of it as a **deposit** (*paratheke*), a **form of sound words** (*hypotyposis*), a **trust** (*parakatatheke*), and a **dispensation** (*oikonomia*). **And he states the requirement in one word: faithfulness.**
+
+*Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful* (1 Corinthians 4:1–2).
+
+**And the content of the message is not vague. It has a shape:**
+
+*Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus* (2 Timothy 1:13).
+
+**The message is a body of teaching with a definite outline.** It can be stated, taught, checked, written down, and transmitted, and it is not diminished by being so handled. **The reason the word of God can survive the death of every generation that holds it is that it is a *message* and not an experience.** Experiences die with the person who had them. Messages can be written.
+
+**And that is why Scripture is at the centre of everything in this book.** The message is the only one of the three things that can be transferred without loss, because it is the only one that can be put on paper.
+
+### The man
+
+**And the third thing, which is the hardest to define and the one Scripture treats with the most reverence, is the man himself.**
+
+Consider how the Old Testament refers to the prophets, because the formula is a title of the highest order:
+
+*Now by this I know that thou art a man of God, and that the word of the Lord in thy mouth is truth* (1 Kings 17:24).
+
+*And she said unto her husband, Behold now, I perceive that this is an holy man of God, which passeth by us continually* (2 Kings 4:9).
+
+**The title is *ish ha-Elohim* — man of God.** And note what produces the recognition in both cases. In the first, it is a resurrection. In the second, it is a pattern of continual passing by — the woman has observed the prophet repeatedly and has concluded from his conduct that he is holy.
+
+**The phrase is *kadosh*, holy, and she draws the conclusion from an ordinary habit of his life rather than from a miracle.**
+
+**And the New Testament takes the title and applies it directly to the young man:**
+
+*But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness* (1 Timothy 6:11).
+
+**Paul calls Timothy *O man of God*.** The young man in a hostile city, with a weak stomach and a timid disposition, is addressed with the highest title the Old Testament knows for a prophet. **And the instruction attached to it is entirely about character.**
+
+**Which is the point.** *Man of God* is not an office. It is not conferred by a ceremony, listed on a certificate, or transferred by a hand. **It describes what a person is, and it is the third thing that must pass between generations and the one that cannot be handed over quickly.**
+
+**Which is why the previous two chapters matter so much.** The message can be given in a document. The mantle can be given in a room. **The man is given only in years, and only by proximity, and only to someone willing to be shaped.**
+
+### The three failures
+
+And now the three cases, because each combination produces a recognisable type, and each type has a characteristic effect on the next generation.
+
+**The mantle without the message: the official.**
+
+This is the man who has the position and not the content. He was installed, in a public ceremony with witnesses, and he has nothing to hand on. He may be a good administrator, a decent pastor, a competent manager of an institution. **And the deposit in his care has stopped moving, because it was never in his hands.**
+
+**The consequence for the next generation is a drought.** The office is intact and the stream is dry. **And the people who leave — usually the young, and usually the most serious — cannot explain the difference, because the functional machinery is all present.**
+
+**The message without the mantle: the teacher.**
+
+This is the man with an accurate grasp of the deposit and no transferred standing in the community. He can explain it and he cannot be heard on it. **He may be right about everything and have no platform from which to say it.**
+
+**And this is frequently the most painful and most gifted type in an institution, because he is being penalised for a failure that was not his own.** The predecessor who handed him the books and withheld the *hod* — the standing — from Numbers 27:20 produced precisely this man.
+
+**And the mantle and the message without the man: the scandal.**
+
+This is the exchange that has wrecked more Christian institutions than any other, and its shape is always the same. The position was held, the doctrine was accurate, the succession was formal and public — **and the person was not formed.**
+
+**And the effect on the next generation is the most damaging of the three, because it produces something worse than ignorance: it produces cynicism about the whole category.**
+
+**A young person who watches a man with the mantle and the message fall into scandal does not merely lose confidence in that man. He loses confidence in the mantle and the message.**
+
+**Which is why 1 Timothy 3 and Titus 1 devote the qualifications for office almost entirely to character and hardly at all to competence.** The list in 1 Timothy 3:2–7 requires blamelessness, sobriety, hospitality, an ability to teach, temperance in drink, gentleness, and a well-governed household, and then adds *not a novice, lest being lifted up with pride he fall into the condemnation of the devil* (3:6).
+
+**Not a novice.** The Greek is *me neophyton* — not newly planted, not a fresh plant. **A new convert in the episcopate is an untested man in a position that will test everything, and the reason given is pride.**
+
+**The root of the scandal is that the untested man was given the mantle before the man was formed.**
+
+### The sign that the man has been formed
+
+And how is the third thing recognised? Scripture gives one clear sign, and it is not eloquence, giftedness or reputation.
+
+**The man whose presence is enough.**
+
+Note what happens to the bones of Elisha, in a passage that reads like an afterthought and is the most astonishing verse in 2 Kings:
+
+*And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year. And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet* (2 Kings 13:20–21).
+
+**A dead man thrown into a prophet's grave was revived by contact with the prophet's bones.**
+
+**The man who had asked for a double portion of his master's spirit had so much of God upon him that his skeleton raised the dead.** There is no record of Elisha speaking, or praying, or being present in any active sense. **The body was there, and the power had saturated it.**
+
+**That is what the third thing is.** It is not a quality a man performs. It is what a man has become by years of walking with God, and it persists in him after every other thing has been taken away.
+
+**And a mantle can be lost, and a message can be corrupted, and a life can go on leaving traces of God on people who touch it long after the man himself has stopped being useful for anything.**
+
+**The transfer of that quality is the whole purpose of the two chapters that follow.**
+
+### Principles
+
+**First: three things pass between generations and they are distinct.** The mantle — the office and its standing. The message — the deposit and its content. And the man — the character formed by God over years.
+
+**Second: the mantle can be transferred instantly and the man cannot.** A cloak can be dropped on a ploughman in an afternoon. What the ploughman becomes takes years.
+
+**Third: the mantle does not confer the anointing or the character.** Elisha had the garment in 1 Kings 19 and the double portion in 2 Kings 2, and Gehazi had proximity to the prophet and got his master's perquisites and his leprosy.
+
+**Fourth: the message survives because it is written.** It is the only one of the three that can be transferred without loss, which is why Scripture is at the centre of every succession.
+
+**Fifth: the title *man of God* is a description of character, not of office.** The woman at Shunem drew the conclusion from *passing by continually*, not from a miracle.
+
+**Sixth: the three failures are distinguishable and all three are destructive.** The man with the mantle only produces a drought; the man with the message only produces a silenced teacher; and the man with both and no character produces cynicism about the whole faith in the generation that watches him.
+
+**And seventh: the third thing is recognised by what remains in a man after everything else has been taken away.** Elisha's bones raised the dead. Whatever a man has accumulated in God is the only asset he can leave in the ground that will still work.
+
+### Saul: the man who wanted the mantle back
+
+And there is one further incident, twenty years after the mantle was torn, and it completes the picture. It is the most desolate scene in the books of Samuel.
+
+Saul is at the end. The Philistines are gathered against him at Gilboa, and *the Lord answered him not, neither by dreams, nor by Urim, nor by prophets* (1 Samuel 28:6). He has killed the priests of Nob, he has driven David into the wilderness, and he has exhausted every legitimate channel of divine guidance in Israel.
+
+And he goes to a woman with a familiar spirit at En-dor and asks her to bring up Samuel.
+
+**And note what the woman sees, because the description is the point:**
+
+*And he said unto her, What form is he of? And she said, An old man cometh up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself* (1 Samuel 28:14).
+
+**The identifying feature of the prophet, from the mouth of a necromancer, is the mantle.**
+
+**And then note what Saul does with the interview, because it is the exact failure this chapter describes.**
+
+*And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do* (1 Samuel 28:15).
+
+**Saul wants a decision. He does not want a relationship and he does not want a word about his own condition.** He has come to consult the mantle.
+
+**And Samuel's answer refuses the consultation:**
+
+*Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy?* (1 Samuel 28:16).
+
+**And what follows is a repetition of the sentence pronounced twenty years earlier:**
+
+*And the Lord hath done to him, as he spake by me: for the Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David* (1 Samuel 28:17).
+
+**The mantle was torn in 1 Samuel 15 and it never came back.** Saul spent twenty years trying to recover by violence, by pursuit, by the slaughter of priests and finally by consulting a medium, the standing that had been removed from him.
+
+**And he could not have it back, because the thing that had been removed was not the garment. It was the anointing, and the anointing was not his to recover.**
+
+**Which is the warning for a generation whose time has passed.** A mantle that has been taken by God cannot be retrieved by any amount of effort, and the effort to retrieve it is the thing that destroys the man who makes it. Saul's last years are a record of precisely that pursuit.
+
+### The mantle as a costume
+
+And the prophets give the final warning about the third confusion — using the mantle to substitute for the man — and they give it in the form of a prediction about a day when the garment becomes an embarrassment.
+
+*And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive: but he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth* (Zechariah 13:4–5).
+
+**The phrase is *lo yilbeshu addereth sa'ar lema'an kachesh* — they shall not wear a hairy mantle in order to deceive.** The rough garment had become a costume that could be put on to produce credibility.
+
+**And note the connection to Elijah, whose mantle was precisely a hairy garment.** The king's messengers describe him to Ahaziah as *an hairy man, and girt with a girdle of leather about his loins* (2 Kings 1:8) — the same description that John the Baptist receives in the Gospels: *And John was clothed with camel's hair, and with a girdle of a skin about his loins* (Mark 1:6).
+
+**The hairy garment was the recognised dress of a prophet for centuries, and by Zechariah's time it could be rented.**
+
+**And the New Testament makes the same point in the language of the animal rather than the fabric:**
+
+*Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits* (Matthew 7:15–16).
+
+**And Paul goes further, and names the mechanism of the deception:**
+
+*For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ. And no marvel; for Satan himself is transformed into an angel of light. Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness* (2 Corinthians 11:13–15).
+
+**The word Paul uses three times in three verses is *metaschematizo* — to transform oneself, to change one's outward form.** It is the word for changing the presentation and not the substance. **The false apostle does not deny being an apostle; he dresses as one.**
+
+**Which is why the Lord's test is *by their fruits* rather than by their appearance.** Fruit is the only credential that cannot be counterfeited, because it takes a season to produce and a costume can be bought in an afternoon.
+
+**And it is why the whole of this chapter matters.** **A mantle can be worn by a man who does not carry the message, and a message can be recited by a man who has not become the man, and both can be presented convincingly for a considerable time.**
+
+**And the third thing is the only one that cannot be faked, and it is the only one that leaves anything behind when the man is dead.**
+
+### The four things a garment cannot do
+
+Let me state the limit of the mantle as plainly as Scripture does, because the whole chapter depends on it.
+
+**A garment cannot make a man a prophet.** Elisha wore Elijah's cloak and asked *Where is the Lord God of Elijah?* — the question is asked precisely because possessing the garment proved nothing. **The answer came, and it came from God, and it was not in the cloak.**
+
+**A garment cannot keep an anointing that God has removed.** Saul tore Samuel's mantle by accident and the kingdom went with it, and every attempt he made in the following twenty years to recover what the torn garment signified failed.
+
+**A garment cannot confer character.** Gehazi, who lived closer to a prophet than anyone in the Old Testament except Elisha himself, took the prophet's perquisites and inherited the leprosy of a foreign general.
+
+**And a garment cannot be distinguished from the real thing by an observer — only by fruit and by time.** Which is the reason the New Testament keeps returning to the test of a life rather than the test of a claim.
+
+**And the positive counterpart is one sentence from the woman of Shunem, who had watched a prophet go past her house for years.**
+
+*Behold now, I perceive that this is an holy man of God, which passeth by us continually* (2 Kings 4:9).
+
+**She did not conclude it from the miracles. She concluded it from the habit.** That is the third thing — the man — and it is recognised by the people who watch him over time, which is the only way it has ever been recognised.
+
+### The three things listed in one verse
+
+And the New Testament puts the three together in a single sentence, in the last letter Paul wrote, and the list is the whole doctrine of this chapter in the order in which a successor acquires each item.
+
+*But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience, persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra* (2 Timothy 3:10–11).
+
+**Take the list apart and the three categories appear.**
+
+***My doctrine*** — the message. The body of teaching, which Timothy received and which Paul has just told him to guard and deposit.
+
+***Manner of life, purpose, faith, longsuffering, charity, patience*** — the man. Six items, and every one of them a quality of character rather than a proposition. **Timothy knew these because he had watched them over years, not because Paul had described them.**
+
+***Persecutions, afflictions ... at Antioch, at Iconium, at Lystra*** — and here the third category becomes concrete, because these are the events Timothy witnessed. **He was at Lystra when Paul was stoned and dragged out of the city for dead.** The man he was to become was formed by having watched another man's conduct under those conditions.
+
+**And note the verb: *thou hast fully known***. The Greek is *parekolouthesas* — you followed alongside, you traced out, you were present through the whole course of it. **It is the verb of a companion who has observed a process from beginning to end.**
+
+**Which is the answer to the practical question of how the third thing is transmitted.** Not by instruction, not by examination, not by the laying on of hands. **By being in the room, over years, through the difficult events as well as the successful ones.**
+
+**And the two formal mechanisms are named elsewhere, and each corresponds to a different item on the list.**
+
+**The honour transferred by a hand** — Numbers 27:20, *thou shalt put some of thine honour upon him.* This is the mantle.
+
+**The gift conferred through the presbytery** — 1 Timothy 4:14, *the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.* This is the anointing that accompanies the office.
+
+**And the message, written down and deposited, to be committed to faithful men who can teach others also.**
+
+**Three things, three mechanisms, and only one of them is instantaneous.** The hand can be laid in a moment. The deposit can be handed over in an afternoon. **The man takes as long as it takes, and no ceremony shortens it, and no institution can schedule it.**
+
+### The key scriptures in full
+
+> So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
+> — 1 Kings 19:19
+
+> He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan; and he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the Lord God of Elijah? and when he also had smitten the waters, they parted hither and thither.
+> — 2 Kings 2:13–14
+
+> And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent. And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
+> — 1 Samuel 15:27–28
+
+> And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?
+> — 2 Kings 5:26
+
+> And the woman said unto Elijah, Now by this I know that thou art a man of God, and that the word of the Lord in thy mouth is truth.
+> — 1 Kings 17:24
+
+> But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+> — 1 Timothy 6:11
+
+> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
+> — 1 Timothy 3:6
+
+> And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
+> — 2 Kings 13:21
+
+### For the fathers
+
+- **Audit the handover on all three counts.** Did you convey the office? Did you convey the deposit? And did you give enough years of proximity for the man to be formed? Most handovers are strong on one and weak on the other two.
+- **Do not confuse the servant's usefulness with his fitness for the office.** Gehazi carried the staff and manufactured the miracle story. The test is character observed over years, not proximity measured in months.
+- **Give the standing with the office.** Numbers 27:20 again: *thou shalt put some of thine honour upon him.* A mantle transferred without the *hod* produces the silenced teacher — a man with the deposit and no platform.
+- **Refuse to install a novice, and say so.** *Not a novice, lest being lifted up with pride.* The most loving thing you can do for a gifted young man is to deny him the position until the man has been formed.
+- **Write the message down.** The mantle can be given in a room; the message can be given in a document and outlives everyone in the room.
+- **And ask what will be left in your bones.** Not your reputation, not your institution, not your writings. What will still work after you have stopped being able to do anything?
+
+### For the young
+
+- **Do not want the perquisites.** Gehazi's error was not that he stole; it was that he wanted what a prophet was owed without being a prophet. Watch the same instinct in yourself, and it is easier to see in others than in yourself.
+- **You can hold a mantle you have not been given.** The garment is the visible thing and the anointing is the real thing, and it is possible to wear one and lack the other for years without anyone noticing.
+- **Make the message yours by handling it, not by quoting it.** The deposit becomes yours when you can state it in your own words, defend it against objections, and find where it addresses a situation your teacher never faced.
+- **And let the man be formed in the years nobody is watching.** Elisha's bones raised a dead man. That does not happen to a man who has spent his ministry managing his reputation.
+
+### Questions for reflection
+
+1. Which of the three — mantle, message, man — is weakest in the line you have received?
+2. Who in your institution has the office and nothing to hand on?
+3. Who has the deposit and no standing to speak it, and is that partly your fault?
+4. What would still be working in you if every position and every title were removed tomorrow?
+5. Whose bones are you planning to be?
