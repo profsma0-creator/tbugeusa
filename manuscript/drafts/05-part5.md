@@ -1,0 +1,306 @@
+<<<CHAPTER 26
+## Revelation Has a Timeline
+
+Everything in this book depends on a fact that is easy to state and difficult to live with: **the revelation of God is not a delivery of information. It is a schedule.**
+
+A word from God comes with a time attached to it. It has a *when*, and the when is usually not the moment of the giving. Abraham was given a promise and waited twenty-five years for the first instalment of it, and four hundred for the rest. Daniel was given a vision and told to seal it for a period he would not live to see. The prophets of the Old Testament searched their own prophecies to find out *what manner of time* the Spirit was indicating — and the answer was not given to them.
+
+And almost every failure in generational work that this book has described so far — the impatient young man, the despairing old man, the institution that replaced a purpose with a programme — is at root **a failure to read the clock.**
+
+### The vocabulary of time
+
+Scripture has a technical vocabulary for this, and it repays attention because the New Testament writers use it with precision.
+
+**The Hebrew *mo'ed*.** The word denotes an appointed time, a fixed season, a date set in advance. It is used of the festivals — *the feasts of the Lord, even holy convocations* (Leviticus 23:2) — and of the tabernacle of meeting, the *ohel mo'ed*, the tent of the appointed time. Its root is *ya'ad*, to appoint, to assign, to betroth. **A *mo'ed* is a time fixed by someone with the authority to fix it.**
+
+**The Hebrew *eth*.** Broader: a season, a time, an occasion. *To every thing there is a season, and a time to every purpose under the heaven* (Ecclesiastes 3:1) uses *zeman* for the first and *eth* for the second. The word covers the general category of *when*.
+
+**The Greek *chronos*.** Duration, elapsed time, the succession of moments. This is where the English *chronology* comes from.
+
+**The Greek *kairos*.** The right moment, the opportune time, the decisive instant. It is not the amount of time but the fitness of it.
+
+**And the Greek *pleroma*.** Fulness, completeness, the point at which a vessel is filled. It is used of the *fulness of the time* in Galatians 4:4, and the metaphor is precise: **time is a vessel, and it fills, and when it is full the thing happens.**
+
+**And the Greek *prothesmia*** (Galatians 4:2), a term from law and guardianship meaning a time previously appointed — the date before which a minor cannot inherit.
+
+Put together, these words describe a universe in which events are not merely sequential but **appointed**. And the God of Scripture is repeatedly described as the one who sets the appointments:
+
+*And he changeth the times and the seasons: he removeth kings, and setteth up kings* (Daniel 2:21).
+
+**The Hebrew for *times* is *'iddanayya'* and for *seasons* is *zimnayya'* — the Aramaic pair, and the verse places the control of both directly in God's hand, in the same sentence as the control of empires.** Changing the times and removing kings are operations of the same order.
+
+### The vision and its appointed time
+
+And the foundational text for the whole subject is a single verse in the minor prophets.
+
+*For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry* (Habakkuk 2:3).
+
+Take the sentence apart, because every clause addresses a different failure.
+
+**The vision is yet for an appointed time.** The Hebrew is *ki 'od chazon lammo'ed* — for the vision is still for the appointed time. Not *the vision is delayed*, and not *the vision has failed*. **The vision has a *mo'ed*, and the *mo'ed* has not arrived.** The apparent inactivity is the appointed time in progress.
+
+**But at the end it shall speak, and not lie.** The Hebrew is *veyapheach laqqets velo yekhazev* — and it shall breathe out, or break forth, at the end, and shall not lie. The verb *puach* is the verb of exhaling, of panting, of a thing struggling to get out. **The vision is described as something that will eventually break through.**
+
+**Though it tarry, wait for it.** The Hebrew is *im-yithmahmeh chakkeh-lo* — if it delays, wait for it. And the word *chakah* means to wait with expectation, not merely to endure. **The command is addressed to the interval.**
+
+**Because it will surely come, it will not tarry.** The Hebrew is *bo yavo lo ye'acher* — coming, it will come; it will not delay. **The infinitive absolute with the finite verb is the strongest form of the Hebrew verb — the idiom of certainty.**
+
+**And notice the last clause, which seems to contradict the third.** *Though it tarry ... it will not tarry.* The apparent contradiction is the whole doctrine. **From the standpoint of the waiting man the vision tarries; from the standpoint of the appointed time it is punctual.** The delay is measured by the observer's clock, and the arrival is measured by God's.
+
+**That verse is God's answer to the young man who has received a word he cannot yet act on, and to the old man who has acted on it and seen nothing.**
+
+### Two clocks in one promise
+
+And the doctrine becomes concrete in the covenant with Abraham, where God gives a timeline that contains **three separate measurements of the same interval.**
+
+*And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; and also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age. But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full* (Genesis 15:13–16).
+
+**Set the measurements out, because they do not agree, and their disagreement is the point.**
+
+- **Four hundred years** of affliction.
+- **And thou shalt go to thy fathers in peace** — Abraham will die before any of it begins.
+- **But in the fourth generation they shall come hither again.**
+- **For the iniquity of the Amorites is not yet full.**
+
+**Four hundred years and four generations are not the same period.** The first is 400 years of elapsed time; the second is four generations, and in the ancient Near East four generations could cover 160 years or 400, depending on the length of a generation. **The point is that God is running more than one clock.**
+
+**And the fourth clause names the third clock, which is the most striking of all.** *The iniquity of the Amorites is not yet full.* The Hebrew is *lo-shalem 'avon ha'Emori* — the iniquity of the Amorite is not yet complete.
+
+**The return of Israel to the land is timed not only by Israel's duration in Egypt but by the moral condition of a nation that has nothing to do with Israel.** God is waiting for the Amorites to fill up a measure of guilt, and the possession of the land is scheduled against that filling.
+
+**This is one of the most important sentences in the Old Testament about the timeline of revelation, and it has an immediate practical consequence.** **You cannot deduce the timetable of God from your own circumstances and your own clock alone.** The fulfilment of the promise to your generation may be conditioned on events in the life of a people you have never met, and their moral maturity or deterioration is part of your schedule.
+
+**Which means that the meaning of your own delay may not be about you at all.**
+
+**And note what God gives Abraham in the middle of the promise.** Not a strategy, not an exit plan, not a named successor for the Egyptian crisis. **He gives him a death notice:** *thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.*
+
+**The man who received the promise was told plainly that he would not see it.** And the text presents this as comfort, not as disappointment — the peace and the good old age are the substance of the provision.
+
+### The punctuality of the fulfilment
+
+And four centuries later, the fulfilment is recorded with a precision that is almost pedantic, and the pedantry is deliberate.
+
+*Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years. And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt* (Exodus 12:40–41).
+
+**Even the selfsame day.** The Hebrew is *be'etsem hayyom hazzeh* — in the very bone of that day, in the substance of it. The phrase appears elsewhere in the Pentateuch for the day of the exodus and the day of the atonement, and it is a phrase about exactness.
+
+**Four hundred and thirty years, to the day.** And the figure itself reconciles two other figures: four hundred years of affliction (Genesis 15:13) and four hundred and thirty years of sojourning in total (Exodus 12:40; Galatians 3:17). **The affliction had a start date and the sojourn had an earlier one, and both are accounted for.**
+
+**This is what the tarrying vision looks like at the other end.** From inside the interval, the promise looks like it has failed. From the far side, the arithmetic is exact to the day, and the delay was not a delay at all.
+
+**And the people who walked out of Egypt had no idea that the day was the selfsame day.** They simply left when told to leave. **The exactness of the schedule was invisible to the participants, and it is visible only in the record.**
+
+### Daniel, who read the clock and then could not read it
+
+And the clearest case study in the whole of Scripture on the relationship between revelation and time is Daniel, and it is instructive because he makes both errors and is corrected in both directions.
+
+**First he reads a timeline.** *In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem* (Daniel 9:2).
+
+**He read the books.** The Hebrew is *binothi basepharim* — I understood, or gave attention, in the books, the scrolls. **The recognition of the moment came from the study of a written prophecy.** Jeremiah had written that the exile would last seventy years (Jeremiah 25:11–12; 29:10), and Daniel did the arithmetic and realised that the period was nearly complete.
+
+**And what he does with the knowledge is decisive.** *And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes* (Daniel 9:3).
+
+**He did not assume that a fixed timeline made prayer unnecessary.** The most common error in the face of an announced schedule is quietism — the reasoning that since the time is fixed, nothing I do matters. **Daniel reasoned the opposite: because the seventy years are nearly up, I must pray.**
+
+**And Daniel 9 goes on to record the prayer, and it is one of the great intercessory prayers of Scripture, containing a full confession of national sin, a plea based entirely on the mercy of God, and no claim of merit whatsoever (9:4–19).**
+
+**And then, in answer to the prayer, he is given a timeline he cannot use.**
+
+*Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and the prophecy, and to anoint the most Holy* (Daniel 9:24).
+
+**Seventy weeks — four hundred and ninety years, on the standard reckoning, and considerably more on others.** And Daniel is an old man in Babylon, and the return from exile is about to be authorised, and he is handed a schedule that runs to the coming of the Messiah.
+
+**The man who asked for the ending of the seventy years was answered with a prophecy of four hundred and ninety.**
+
+**And this is the pattern of how God handles a man who is eager to see the end of the timeline: He gives him more of the timeline.** The revelation is not narrowed to fit the man's lifespan; the man is given a portion of a plan that will outlast him by centuries, and he is expected to write it down and hand it over.
+
+**And then the instruction at the very end of the book:**
+
+*But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days* (Daniel 12:13).
+
+**Go thy way till the end be.** The Hebrew is *ve'attah lek laqqets* — and you, go to the end. **The instruction to the man who has received a timeline he will not live to see is to walk in it until he dies.**
+
+**For thou shalt rest** — the sleep of death. **And stand in thy lot at the end of the days** — the resurrection and the assigned inheritance.
+
+**That is a complete theology of a life spent inside an unfinished schedule.** Walk; die; rest; and stand in your allotted place at the end. **Nothing about the plan depends on Daniel's survival to see it.**
+
+### The New Testament and the fulness of time
+
+And the New Testament asserts the same doctrine in its most concentrated form, in a single verse.
+
+*But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law* (Galatians 4:4).
+
+**The fulness of the time.** The Greek is *to pleroma tou chronou* — the filling-up of the time. **Not the passing of the time, or the arrival of a date, but the filling of a vessel.**
+
+**And the verse is in the middle of an argument about minority and inheritance.** Look at what immediately precedes it:
+
+*Even so we, when we were children, were in bondage under the elements of the world: but when the fulness of the time was come, God sent forth his Son* (Galatians 4:3–4). And further back: *the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all; but is under tutors and governors until the time appointed of the father* (Galatians 4:1–2).
+
+**Paul's illustration is a legal one.** Under the law of the time, a father set a date in his will before which his heir could not take possession. Until that date, the heir was legally a minor and lived under guardians, **even though he was already the owner of everything.**
+
+**And Paul applies it to the whole history of the people of God.** They were heirs, and they were minors, and they were under tutors, *until the time appointed of the father*. And then the date arrived, and the Son was sent.
+
+**That is the model for every generation.** The inheritance is real, the heir is genuine, the ownership is settled — **and the possession is scheduled.**
+
+**And the disciples got the timing wrong in exactly the way you would expect:**
+
+*When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power* (Acts 1:6–7).
+
+**They asked for the date, and they were told that the date is not in their jurisdiction.** The Greek for *times* is *chronous* and for *seasons* is *kairous* — both words, and both withheld. **The Father has placed them *en te idia exousia*, in His own authority.**
+
+**And the Lord does not answer the question. He gives them a task instead:**
+
+*But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth* (Acts 1:8).
+
+**The withholding of the timeline is followed immediately by the assignment of the work.** This is the regular pattern of God's dealings, and it establishes the practical rule: **when the time is not disclosed, the work is disclosed. The question of *when* is not answerable, and the question of *what* is.**
+
+### The prophets who searched their own prophecies
+
+And there is one more passage, in Peter's first letter, that describes the position of men who received revelation on a schedule they could not read, and it is one of the most affecting statements in the New Testament about what it is like to be a carrier of an unfulfilled word.
+
+*Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into* (1 Peter 1:10–12).
+
+**Set out what the passage claims, because every clause matters.**
+
+**They enquired and searched diligently.** Two verbs, and the second intensifies the first: *exezetesan*, to search out thoroughly, to track down. **The prophets did not merely receive the revelation; they investigated it.**
+
+**Searching what, or what manner of time.** The Greek is *eis tina e poion kairon* — into who, or what sort of season. **They were trying to identify a person and a period from the text of their own prophecies.**
+
+**And they were told the answer:** *not unto themselves, but unto us they did minister.*
+
+**The revelation was not for their own generation.** The Greek is *ouch heautois hymin de diakonoun* — not to themselves but to you, they ministered. **They spent their lives on material that belonged to people who had not been born.**
+
+**And the last clause is the most remarkable: *which things the angels desire to look into.***
+
+The Greek verb is *parakypsai* — to stoop down and peer, the verb used of bending forward to look into something at close range. The picture is of angels bending over the edge of the revelation, straining to see how it comes out. **The fulfilment of the schedule is an object of curiosity to beings who are not subject to it.**
+
+**So the position of a prophet is this: he is given material that belongs to another generation, he searches it for a time he cannot identify, he is told that it is not for him, and he hands it on.**
+
+**And that is the exact position of most of the people who will read this book.**
+
+### The errors of timing
+
+And now, because the whole chapter is practical, we must name the three failures that arise from a misunderstanding of the schedule. Every one of them is common and every one of them is destructive.
+
+**The first is presumption: acting before the appointed time.**
+
+The classic case is Abraham and Hagar (Genesis 16). The promise had been given; the fulfilment had not come; Sarai proposed a solution, and Abram *hearkened to the voice of Sarai* (16:2). And Ishmael was born, and the result was a division in the household of the promise that has not been resolved in four thousand years.
+
+**The mechanism is always the same.** A genuine word from God is received; the schedule is not disclosed; and a plausible method for accelerating the fulfilment presents itself, and it works, and it produces something that is not the promised thing.
+
+**The diagnostic is whether the result requires God.** Ishmael did not require God; he required a servant and a decision. Isaac required God, because Abraham was a hundred years old and Sarah's womb was dead (Romans 4:19).
+
+**The second is despair: concluding that the word has failed because the appointed time has not arrived.**
+
+And the case study is the two disciples on the road to Emmaus, and they are the most sympathetic figures in the Gospels:
+
+*But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done* (Luke 24:21).
+
+**They were in the middle of the fulfilment of the prophecies they were citing as evidence of failure.** The Messiah had risen that morning. They were walking away from the empty tomb, and they said the words *we trusted* in the past tense.
+
+**And the Lord's rebuke is about the reading of the schedule:**
+
+*Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: ought not Christ to have suffered these things, and to enter into his glory?* (Luke 24:25–26).
+
+**The Greek for *fools* is *anoetoi* — without understanding, senseless. And the failure is not a failure of information; it is a failure to believe *all* that the prophets had spoken.**
+
+**The prophets had spoken of a suffering Messiah and a glorified one. The disciples had accepted the second and filtered out the first, and therefore a crucifixion looked to them like the failure of the promise rather than the fulfilment of half of it.**
+
+**Which is precisely the error of every despairing generation: the part of the schedule that has not happened is read as the collapse of the whole, because a part of the schedule that is uncongenial has been quietly excluded from the reading.**
+
+**And the third error is the freeze: continuing to wait when the appointed time has come.**
+
+**This is the error of the generation after a fulfilled promise.** Israel stood at the edge of the Jordan for forty days while the spies reported (Numbers 13–14), and the report was that the land was good and the inhabitants were strong, and the conclusion drawn was that the time had not come. **And God's verdict on that generation was that they would never enter, and the reason was unbelief (Hebrews 3:19).**
+
+**The failure of the wilderness generation was not impatience. It was caution after the schedule had arrived.**
+
+**And a warning of the opposite error is given to the church of Laodicea and to every institution that has stopped expecting anything:**
+
+*Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked* (Revelation 3:17).
+
+**Three errors, then: too early, too late, and never.** And the diagnosis of which one is operating requires no great insight. **The man who has never risked anything is probably in the first category or the second. The man who is still waiting for a condition that was met five years ago is in the third.**
+
+### How to read the clock
+
+And this raises the practical question the chapter has to answer. **If the times and seasons are in the Father's own authority, how is a generation to know what part of the schedule it occupies?**
+
+Scripture gives five instruments, and they are all ordinary.
+
+**First, read the written word.** *I Daniel understood by books.* The recognition of a moment came from studying a document. **A generation that does not read will not know where it is.**
+
+**Second, pray for the specific thing you are seeking.** Daniel set his face to seek God by prayer and supplication with fasting, sackcloth and ashes, **and the revelation of the seventies came in answer to a prayer about the seventy.** The timing was disclosed on the other side of the intercession.
+
+**Third, watch what God is doing among the nations.** *The iniquity of the Amorites is not yet full.* Part of the schedule is legible in the moral condition of the surrounding world, and a generation with no view beyond its own institution will not see it.
+
+**Fourth, ask the people who are further along.** *Ask thy father, and he will shew thee; thy elders, and they will tell thee* (Deuteronomy 32:7). **The aged have seen a longer stretch of the same schedule and can tell what season it resembles.**
+
+**And fifth, act on the part of the schedule that is disclosed, and withhold action on the part that is not.** **The disciples were told that the timing was none of their business and that they would be witnesses.** That is the pattern: **where the timing is withheld, the work is given.**
+
+### Principles
+
+**First: revelation is a schedule as well as a content.** *The vision is yet for an appointed time.* Every word from God has a *mo'ed*, and the interval between the word and the fulfilment is part of the word.
+
+**Second: the delay is real to the observer and non-existent in the schedule.** *Though it tarry, wait for it; because it will surely come, it will not tarry.* Both clauses are true and they are measured on different clocks.
+
+**Third: your fulfilment may be timed against someone else's condition.** *The iniquity of the Amorites is not yet full.* The delay in your life may be calibrated to a moral process in a place you have never been.
+
+**Fourth: God routinely tells those He uses that they will not see it.** Abraham was told he would die in peace; Daniel was told to go his way and rest. **The provision for a man who will not see the fulfilment is not the fulfilment. It is peace, a good old age, and the promise of standing in his lot at the end of the days.**
+
+**Fifth: the people inside a fulfilment cannot see it.** The Israelites leaving Egypt did not know it was the selfsame day; the disciples on the road to Emmaus were walking away from the resurrection saying *we trusted*. **Being in the middle of the schedule confers no special visibility, and this should make a generation modest about its own assessments.**
+
+**Sixth: an unfulfilled prophecy is a stewardship, not a frustration.** The prophets searched their own prophecies, were told that the material was not for them, and handed it on. **That is the ordinary calling of most of the people God uses, and it is not a lesser calling.**
+
+**And seventh: the three errors — presumption, despair and the freeze — are all errors about time, and all three are corrected by the same instrument. Read the book, pray about the season, watch the nations, ask the aged, and do the part of the work that has been given.**
+
+**Which is what a generation looks like when it knows it is inside a schedule it did not write and cannot see the end of.**
+
+### The key scriptures in full
+
+> For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
+> — Habakkuk 2:3
+
+> And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age. But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full.
+> — Genesis 15:15–16
+
+> And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt.
+> — Exodus 12:41
+
+> And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding.
+> — Daniel 2:21
+
+> But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.
+> — Daniel 12:13
+
+> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law.
+> — Galatians 4:4
+
+> Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you.
+> — 1 Peter 1:11–12
+
+> These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.
+> — Hebrews 11:13
+
+### For the fathers
+
+- **Tell your people what season you think you are in, and on what evidence.** A generation without a reading of the times will either rush or freeze, and both are your responsibility if you taught them neither.
+- **Say plainly what you will not live to see.** Abraham was told, and it was presented as a provision. Concealing it does not postpone it and does leave your successor unprepared.
+- **Distinguish the promise from the method of its fulfilment.** Ishmael was a method; Isaac was the promise. Most disasters in this area come from a good idea that required no God.
+- **Pray about the season, not only about the need.** Daniel prayed about the seventy years and was answered with the seventy weeks. Intercession about timing is treated in Scripture as a legitimate and fruitful prayer.
+- **Resist the temptation to declare the timeline closed.** The wilderness generation refused to enter because they judged the time had not come, and God's verdict was unbelief.
+
+### For the young
+
+- **Do not read the delay as a denial.** *Though it tarry, wait for it.* The interval between the word and the fulfilment is not evidence that you misheard.
+- **And do not accelerate.** Presumption produces an outcome that works and is not the promise, and the outcome will be in your household for the rest of your life.
+- **Read.** Daniel understood the moment *by books*. The generation that reads the documents has an advantage that no amount of zeal replaces.
+- **Ask the aged what season this is.** They have seen more of the same schedule than you have, and the question is commanded in Deuteronomy 32:7.
+- **Expect that the material you were given may not be for you.** The prophets searched their own prophecies and were told *not unto themselves, but unto us*. If that is your portion, it is the portion of Isaiah and Daniel and every prophet in the canon, and it is not a demotion.
+- **Do the part of the work that has been given, and leave the timing in the Father's authority.** The disciples asked for a date and were given a commission. That exchange has been repeated in every generation since.
+
+### Questions for reflection
+
+1. What word have you received that has an appointed time you cannot read?
+2. Which of the three errors of timing is most active in you — presumption, despair, or the freeze?
+3. Is there a delay in your life that might be calibrated to a condition outside your own circumstances, as the Amorites' iniquity was to Israel's possession of the land?
+4. What have you concluded that the prophets did not say, in the way the disciples concluded that the Messiah would not suffer?
+5. If you were told today that you would not see the fulfilment, what would you do with the remainder of your time?

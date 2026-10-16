@@ -1,0 +1,320 @@
+<<<CHAPTER 28
+## The Transfer Principle: From Revelation to Responsibility
+
+The previous two chapters established that revelation has a schedule and that its growth follows the laws of seed. This chapter addresses the third element, and it is the one that determines whether anything moves from one generation to the next at all.
+
+**Revelation received creates liability. And the transfer of revelation to another person is a transfer of liability, not merely of information.**
+
+That is the principle, and it is stated in Scripture not as a metaphor but in the technical language of law and estate management. The words are worth learning, because the doctrine is carried by them.
+
+### The vocabulary
+
+**The Greek *oikonomia*.** The management of a household — *oikos*, house, and *nomos*, law. It gives us the English *economy*, and in the New Testament it is the word for a *dispensation*: an arrangement of responsibility committed to a person for the administration of someone else's property.
+
+It is used of Paul's own ministry three times:
+*For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me* (1 Corinthians 9:17).
+*If ye have heard of the dispensation of the grace of God which is given me to you-ward* (Ephesians 3:2).
+*Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God* (Colossians 1:25).
+
+**And note the structure of the claim in each case.** The gospel is not Paul's message; it is a *dispensation given to him for others* — *eis hymas*, to you-ward, *hyper hymon*, for you. **He is the administrator of an estate whose beneficiaries are other people.**
+
+**The Greek *oikonomos*.** The steward, the household manager. It gives us *economist* and, by a different route, *bishop* is not far off in function, since Titus 1:7 calls the bishop *the steward of God*.
+
+**And the Greek *paratheke*.** The deposit, which we examined in the chapter on Paul. Something placed with a custodian for safekeeping.
+
+**Put the three together and the picture is complete.** A steward (*oikonomos*) is entrusted with a deposit (*paratheke*) under an arrangement (*oikonomia*) that specifies his obligations and his accountability.
+
+**And the whole New Testament doctrine of ministry is built on this figure, not on the figure of the professional or the proprietor.**
+
+### The definition and the single requirement
+
+And Paul states the definition and the requirement in two verses, and the second is one of the most exacting sentences in the epistles.
+
+*Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful* (1 Corinthians 4:1–2).
+
+**First the definition: *stewards of the mysteries of God.***
+
+The Greek is *oikonomous mysterion Theou* — household managers of the secret things of God. **Paul is describing himself and Apollos as men who have been handed the contents of God's counsel and are responsible for administering them.**
+
+**And the second verse states the requirement, and it does something remarkable with it: it names one requirement and excludes everything else.**
+
+*Moreover it is required in stewards, that a man be found faithful.*
+
+The Greek is *hina pistos tis heurethe* — that a man be found faithful, or trustworthy. **And note what Paul does not list.** He does not require eloquence, education, seniority, gifting, results, numerical growth, or administrative competence. **He requires reliability.**
+
+**What are you being asked to do? Be found faithful. That is the entire job description of a steward.**
+
+**And the context makes the point sharper still.** Paul has just been defending himself against the Corinthians' evaluation of his ministry, and what follows is one of the most freeing statements in Scripture:
+
+*But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self. For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord* (1 Corinthians 4:3–4).
+
+**Paul refuses the audit of his own congregation and the audit of his own conscience, and reserves the judgment to the Lord.**
+
+**The reason is exactly the steward's position.** A steward does not set his own terms of reference, does not evaluate his own performance, and does not answer to the other servants. **He answers to the owner, and the accounting is the owner's business.**
+
+### The two parables of accountability
+
+And the doctrine is delivered in Scripture in two parables that are frequently confused, and the confusion is instructive.
+
+**The parable of the talents** (Matthew 25:14–30) records a man travelling into a far country who *called his own servants, and delivered unto them his goods.*
+
+*And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey* (Matthew 25:15).
+
+**And the parable of the pounds** (Luke 19:11–27) records a nobleman who *called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come* (19:13).
+
+**The two parables differ in exactly one respect: the distribution.** In Matthew the amounts differ — five, two, one — *according to his several ability*. In Luke every servant receives the same amount, ten pounds, one each.
+
+**And the two parables agree on everything else.** Both men leave. Both return. Both call for an accounting. Both reward the servants who traded and condemn the one who preserved and returned the deposit intact.
+
+**So Scripture gives the principle in both forms, and the two together establish the doctrine.**
+
+**Where capacities differ, the requirement scales with the endowment** — Matthew's version. **Where capacities are equal, the requirement is identical for all** — Luke's version. **And in both cases the standard is not the size of the return in absolute terms but the correspondence between what was given and what was produced.**
+
+**Note this in Matthew's account: the man with two talents receives precisely the same commendation as the man with five.** *Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord* (Matthew 25:21, 23).
+
+**Identical words, to a man who produced four hundred per cent less than the other.** Which means that the accounting is not competitive, and that the reward is not proportional to the size of the achievement but to the fidelity of the administration.
+
+### The third servant's error
+
+And the parable's negative case deserves its own treatment, because it is the most common failure in the area this book is about, and it is not the failure anyone expects.
+
+*Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed: and I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine* (Matthew 25:24–25).
+
+**Set out what the servant does, because his conduct is entirely defensible on the surface.**
+
+**He preserved the deposit.** He did not lose it, spend it, or waste it. *Lo, there thou hast that is thine.* He returns the full amount.
+
+**He was prudent.** Given a master he describes as harsh and extracting, the safest course was to avoid risk. A man who is *reaping where thou hast not sown* may well punish a loss; he is unlikely to punish a preservation.
+
+**He understood the danger accurately.** His description of the master's conduct is not contradicted by the master, who repeats it in his reply.
+
+**And his failure is named by the master as two things, and both are worth examining:**
+
+*His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed: thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury* (Matthew 25:26–27).
+
+**Wicked and slothful.** The Greek is *ponere kai oknere* — evil and sluggish. **The master's charge is not that the servant made a wrong judgment. It is that he did nothing, and that doing nothing was evil.**
+
+**And the master's argument is precise: if you believed I was a hard man who reaps where he has not sown, you should have acted accordingly.** *Thou oughtest therefore* — the reasoning is from the servant's own premise to the conclusion he failed to draw. **Even a wrong view of the master was no excuse for inaction.**
+
+**Which is the single most important thing in this chapter for the transmission of revelation between generations.**
+
+**The servant who buries the deposit is not the man who squanders it. He is the man who protects it.** And the parable says that protecting it is the failure.
+
+**A generation that receives a body of revelation and does nothing with it that could possibly lose it has misunderstood its position entirely.** It is not a trustee of a museum piece. It is a steward of a working estate, and the master expects the estate to have grown when he returns.
+
+**And the diagnosis of the third servant's inaction is given in his own words: *and I was afraid.***
+
+**The Greek is *ephobethen* — I was afraid. And the fear had two components: a fear of loss, and a false view of the master's character.**
+
+**Which is exactly the condition of a generation that keeps what it has been given and passes on nothing that could be criticised.** The motive is not laziness but fear, and the fear is of a God who is imagined as harsh — and the imagined harshness is precisely what produces the burying.
+
+**And the parable's conclusion is the harshest sentence in the whole discourse:**
+
+*Take therefore the talent from him, and give it unto him which hath ten talents. For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath. And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth* (Matthew 25:28–30).
+
+**The deposit is taken from the man who preserved it and given to the man who multiplied it.** And the principle stated is that the capacity to hold an endowment grows by use and is lost by disuse.
+
+**A generation that does not transmit does not merely fail to pass on what it has. It loses what it has.**
+
+### Proportional liability
+
+And the principle is stated in its general form by the Lord in a single sentence that governs everything in this book.
+
+*For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more* (Luke 12:48).
+
+**The statement is about liability, not about privilege.** *Much is required* — the Greek is *pollon zetetheseiai*, much will be demanded, sought for, required of him.
+
+**And it has two halves, and the second is the one usually forgotten.** Not only does the requirement scale with the gift; **the account is demanded by the people who did the committing.** *Of him they will ask the more* — those who entrusted the thing will make the greater demand.
+
+**Which means that the accounting for revelation is conducted not only by God but by the generations that passed it on.** A man who receives a deposit from his fathers and keeps it in the earth will be asked about it by the men who gave it.
+
+**And this is why the whole structure of the book of Ezekiel's watchman passages is framed as a transfer of liability rather than a transfer of truth.** The watchman who does not blow the trumpet is told that *his blood will I require at the watchman's hand* (Ezekiel 33:6) — **and the man who dies in his iniquity dies for his own sin.** Two liabilities, both real, on the same event.
+
+**And Numbers 18:1 states the same principle for the priestly office in terms that are extraordinary:**
+
+*And the Lord said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.*
+
+**Three levels of liability in one verse.**
+
+**The sanctuary's iniquity** — the defilement of the holy place — borne by Aaron, his sons and his father's house.
+
+**And the priesthood's iniquity** — the failures of the office itself — borne by Aaron and his sons.
+
+**Note that the liability is attached to the office and it passes down the line.** *Thou and thy sons with thee.* **The priestly liability is an inheritance, and it runs in the family.**
+
+**Which is the frightful answer to the question of what exactly is being transferred between generations.** Not only a blessing, a name, a position and a body of knowledge — **but a liability, weighted in proportion to what was received.**
+
+### Four things that transfer with revelation
+
+And this gives us the precise content of a handover. Whenever revelation passes from one person to another, four things move with it, and the failure to transfer any of them produces a specific defect.
+
+**The first is liability.** The successor becomes accountable for the deposit. **A handover that refuses to convey the liability produces a successor who can be replaced without consequence and who knows it.**
+
+**The second is authority.** Numbers 27:20 — *thou shalt put some of thine honour upon him, that all the congregation may be obedient.* **Without the transfer of authority the successor has the accountability and no means of discharging it, which is the definition of an impossible position.**
+
+**The third is resource.** David gave Solomon the gold, the silver, the brass, the iron, the timber, the stone, the workforce and the plans (1 Chronicles 22:14–16). **A handover of responsibility without the transfer of the means to discharge it is not a succession; it is an abandonment with a ceremony attached.**
+
+**And the fourth is time.** The successor needs a period in which the deposit can be worked. **Which is why a transfer made at the last possible moment, on a deathbed or in a crisis, is almost always a failure** — the substance changes hands and no time remains in which to trade with it.
+
+**Four things, and the diagnosis of most failed successions is the transfer of one or two of them and the withholding of the rest.** Authority without liability produces a tyrant. Liability without authority produces a scapegoat. Responsibility without resource produces a burnout. And resource without time produces a hoard.
+
+### The two opposite errors
+
+**And now the two failures, because a chapter on stewardship that only warns about inaction will produce a different disaster.**
+
+**The first error is the man who takes the authority and refuses the liability.** He wants to be recognised as the leader and to be exempt from being questioned about the deposit. **And the diagnostic question is simple: what would happen if what I am responsible for failed? If the answer is *someone else would answer for it*, the liability has not been accepted.**
+
+**The second error is the man who takes the liability and refuses the authority.** And this one is more common among conscientious people, and it is the reason so many faithful ministers burn out. He carries the burden of the deposit without the transferred honour, and therefore he cannot discharge the responsibility he has accepted, and he is ground down by an obligation that is impossible to fulfil.
+
+**And note which of the two the Lord addresses in the parable of the talents: the second, in a specific form.** The third servant had the liability — the talent was in his hands — and he had no sense that he was permitted to use it. **His failure was not presumption but the absence of permission.**
+
+**Which means that part of the older generation's duty is not only to give the deposit but to give the licence to trade with it.** Nothing in the parable suggests the master would have been displeased by a loss. The only conduct that draws condemnation is the burial.
+
+### Principles
+
+**First: revelation is entrusted, not owned.** *Stewards of the mysteries of God.* The mysteries belong to God, the household belongs to God, the accounting belongs to God, and the steward holds the keys for a season.
+
+**Second: the single requirement is faithfulness.** *Moreover it is required in stewards, that a man be found faithful.* Not results, not growth, not eloquence. And the judgment of whether a man was faithful is reserved to the Lord, not to his congregation and not to his own conscience.
+
+**Third: the standard scales with the endowment.** *Unto whomsoever much is given, of him shall be much required.* The two-talent servant receives identical commendation to the five-talent servant, and the ten-pound servants were all given the same.
+
+**Fourth: preserving the deposit is the failure the parable warns about.** The third servant did not squander the talent. He buried it and returned it intact, and he was called wicked and slothful. **A generation that runs no risk with what it has received has not been careful; it has been unfaithful.**
+
+**Fifth: fear, and a false view of God, is what produces the burial.** *I knew thee that thou art an hard man ... and I was afraid.* **Most failure to transmit comes from a wrong picture of what God will do to a man who tries and fails.**
+
+**Sixth: liability attaches to office and passes down the line.** *Thou and thy sons with thee shall bear the iniquity of your priesthood.* Between the generations, blessing and obligation travel together.
+
+**Seventh: four things must move in a handover, and the omission of any one of them produces a predictable failure.** Liability, authority, resource and time. **A handover that conveys fewer than four is a settlement, not a succession.**
+
+**And eighth: the deposit that is not traded does not merely fail to grow. It is taken away.** *From him that hath not shall be taken away even that which he hath.* **A generation can lose what it was given by declining to use it.**
+
+### The steward who prepared for his own removal
+
+And there is a further parable about stewardship that speaks more directly to the situation of a man who knows he is being replaced than any other passage in Scripture, and it is the parable of the unjust steward.
+
+*And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods. And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward* (Luke 16:1–2).
+
+**The situation is the situation of every man approaching the end of his tenure.** The audit has been called. *Give an account of thy stewardship; for thou mayest be no longer steward.* **And the steward's response is not to defend himself. It is to act.**
+
+*Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed. I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses* (Luke 16:3–4).
+
+**Note what the man works out.** He is finished as steward, and he knows it, and he does not spend his remaining time arguing about the decision. **He spends it arranging for what comes after his removal.**
+
+**And then the mechanism:**
+
+*So he called every one of his lord's debtors unto him, and said unto the first, How much owest thou unto my lord? And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty ... Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore* (Luke 16:5–7).
+
+**He goes to the people who owe his master and reduces their debts.** He uses the standing he still has, in the time he still has, to create obligations in the people who will outlast his position.
+
+**And the master's reaction is the shock of the parable:** *And the lord commended the unjust steward, because he had done wisely* (Luke 16:8).
+
+**The master does not commend the dishonesty. He commends the foresight.** And the Lord draws the lesson explicitly:
+
+*For the children of this world are in their generation wiser than the children of light* (Luke 16:8).
+
+**That sentence is one of the sharpest rebukes in the Gospels, and it is addressed to the people of God.** The phrase *in their generation* is *eis ten genean ten heauton* — toward their own generation, with respect to their own generation. **The unrighteous are wiser than the righteous in one specific respect: how they handle the transition out of their position.**
+
+**A dishonest man facing the loss of his job did more to secure his future in a fortnight than most religious men do in a lifetime.** And the Lord says that the difference is not intelligence but *foresight* — the children of light do not think about their generation the way the children of this world do.
+
+**And then the instruction:**
+
+*And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations* (Luke 16:9).
+
+**Use what you have, while you have it, to create standing in the people who will still be there when you are not.**
+
+**And then the four contrasts that follow are a complete doctrine of the stewardship of position:**
+
+*He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much. If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? And if ye have not been faithful in that which is another man's, who shall give you that which is your own?* (Luke 16:10–12).
+
+**Read the final clause slowly, because it is the most important sentence in the parable for our subject.**
+
+***If ye have not been faithful in that which is another man's, who shall give you that which is your own?***
+
+**The position you hold is another man's.** The office, the congregation, the institution, the household, the estate — none of it belongs to the man who holds it. **And the inheritance that will be your own is conditioned on how you handled the thing that was never yours.**
+
+**Which means that a generation's faithfulness in an office it does not own is the qualification for receiving an inheritance it will own.** And the reverse is the warning: a man who mishandles the deposit entrusted to him will not be given one of his own.
+
+### The books that are written
+
+And the accounting that the parables describe is not metaphorical in Scripture. It is conducted from a written record, and the metaphor is used consistently.
+
+*Then they that feared the Lord spake often one to another: and the Lord hearkened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name* (Malachi 3:16).
+
+**Note what triggers the writing.** *They that feared the Lord spake often one to another.* The book of remembrance is written because people talked to each other about God. **Malachi records this at the end of the Old Testament, in a nation where the priests were corrupt and the offerings were blemished, and the one thing God is recorded as treasuring is a group of people who spoke to one another about Him.**
+
+**Which is a remarkable commentary on the value of ordinary conversation between believers — and on the fact that it is recorded.**
+
+**And in Esther, the reading of the record changes the course of an empire:**
+
+*On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king* (Esther 6:1).
+
+**The king cannot sleep, calls for the record of his own reign, and hears it read all night — and in the reading comes the entry about Mordecai, which he had forgotten, and the entry is the hinge of the whole book.** A record kept for no immediate purpose, read on a sleepless night, saved a nation.
+
+**And the final accounting is described in the same terms:**
+
+*And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works* (Revelation 20:12).
+
+**The books were opened, and the dead were judged out of the things written in the books.**
+
+**And the parable of the talents ends in the same register:** *After a long time the lord of those servants cometh, and reckoneth with them* (Matthew 25:19). **The Greek is *synairei logon met' auton* — he settles accounts, he takes up a reckoning with them.**
+
+**Which establishes the final point of this chapter, and it applies to both sides of the generational line.**
+
+**The deposit you hold is held under a written arrangement, and it will be read out.** Not because God needs a record, but because the record is the thing that makes the arrangement a stewardship rather than an improvisation. **You will be asked about what you did with what you were given, and the question will be specific, and the account will be settled.**
+
+**The men who buried their talents were not asked whether they had preserved them. They were asked what they had gained.**
+
+And the reckoning is not conducted in the abstract. **It is conducted on the specific things that were placed in the specific hands of a specific person at a specific time** — the congregation, the household, the knowledge, the office, the money, the years. Nothing about it is general.
+
+**Which is why the practical question of this chapter is answerable tonight.** Not *have I been a good steward?* — an invitation to vagueness — but *what exactly was placed in my hands, and what have I done with each item of it?* A steward who cannot answer that question has not yet understood that he is one.
+
+### The key scriptures in full
+
+> Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful.
+> — 1 Corinthians 4:1–2
+
+> But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self. For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
+> — 1 Corinthians 4:3–4
+
+> And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.
+> — Matthew 25:15
+
+> His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+> — Matthew 25:21
+
+> Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed: and I was afraid, and went and hid thy talent in the earth.
+> — Matthew 25:24–25
+
+> For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
+> — Luke 12:48
+
+> And the Lord said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
+> — Numbers 18:1
+
+> As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
+> — 1 Peter 4:10
+
+### For the fathers
+
+- **Hand over the liability with the deposit.** Say to your successor in explicit terms what he is now answerable for, and to whom. An unstated liability is an unaccepted one.
+- **Hand over the licence to trade.** Nothing in the parable of the talents suggests the master would have punished a loss. Tell your successor plainly that he is permitted to risk the deposit, and mean it.
+- **Give the resource and protect the time.** A responsibility without means is an abandonment; a means without time cannot be traded with. Plan for both.
+- **Reserve the audit to God.** *He that judgeth me is the Lord.* If you evaluate your successor by your own congregation's estimate, you will transfer your anxieties with the office.
+- **Do not demand of a two-talent servant what belongs to a five-talent one.** The commendation in Matthew is identical for both, and the standard is correspondence, not magnitude.
+- **Ask what your own generation has buried.** Every generation buries something. Name yours.
+
+### For the young
+
+- **You have received a liability, not a legacy.** The deposit in your hands is an estate belonging to someone else, administered for the benefit of people who are not you.
+- **Faithfulness is the whole job description.** The question you will be asked is not whether you were effective, but whether you were found faithful. Those are different questions and they frequently have different answers.
+- **Refuse the fear that produces burials.** *I was afraid, and went and hid thy talent.* The most dangerous belief in a steward is that his master will punish an honest attempt.
+- **Trade with the deposit.** Preach it, teach it, write it, argue about it, revise your understanding of it. **A deposit that is only admired is already going into the ground.**
+- **And expect that the accounting is real.** God *will* ask. That is not a threat designed to produce the fear that buries the talent; it is a statement that the work is serious.
+
+### Questions for reflection
+
+1. What precisely are you accountable for, and to whom, and does your successor know it?
+2. Which of the four — liability, authority, resource, time — has been withheld from you, and what has it cost?
+3. Is there a deposit in your hands that you have protected rather than traded with?
+4. What is your honest picture of the master? Would he punish an honest failure, or has the third servant's assessment taken hold of you?
+5. If your stewardship were audited tomorrow, what would be the finding — faithfulness, or preservation?
