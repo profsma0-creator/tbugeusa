@@ -1,0 +1,398 @@
+<<<CHAPTER 53
+## When Tradition Becomes a Prison
+
+**And this chapter must be written with more care than the two that precede it, because the word tradition is handled in two opposite ways in the New Testament, and both of them are apostolic.**
+
+**The same apostle who wrote *hold the traditions which ye have been taught, whether by word, or our epistle* (2 Thessalonians 2:15) also wrote *beware lest any man spoil you ... after the tradition of men, after the rudiments of the world, and not after Christ* (Colossians 2:8).**
+
+**And the same Lord who said *the scribes and the Pharisees sit in Moses' seat: all therefore whatsoever they bid you observe, that observe and do* (Matthew 23:2–3) also said of those same men *in vain they do worship me, teaching for doctrines the commandments of men* (Matthew 15:9).**
+
+**Which means the question is never whether a house will have tradition. Every house has one, and the New Testament commands the keeping of it.** The question is what is being transmitted, on whose authority, and whether the thing transmitted has become a prison in which a man cannot obey God and remain in the house.
+
+**And the difference is not age. It is warrant.**
+
+### The deposit that must be kept
+
+**And the case for a kept inheritance has been made at length in the earlier Parts of this book and does not need repeating.** The faith was *once delivered unto the saints* (Jude 3). The Lord commanded His apostles to teach the nations *to observe all things whatsoever I have commanded you* (Matthew 28:20). The Corinthians were praised for holding the ordinances as they had been delivered (1 Corinthians 11:2). Paul told Timothy to *hold fast the form of sound words* which he had heard (2 Timothy 1:13).
+
+**And the form of that deposit is fixed by the text and not by preference.** The tabernacle was built *after their pattern, which was shewed thee in the mount* (Exodus 25:40), and the writer to the Hebrews, arguing for the superiority of the new covenant, still cites that instruction as the rule of a sanctuary — *see, saith he, that thou make all things according to the pattern shewed to thee in the mount* (Hebrews 8:5).
+
+**Which means there are things in the house of God that are not to be adjusted, and any generation that treats the deposit as material for its own creativity has already begun to lose it.**
+
+**And there are also things that God Himself abolished, and the record of how He did it is the instruction of this chapter.**
+
+### The high places, and three hundred years of a tolerated tradition
+
+**And the case study is the longest-running tolerated practice in the history of Israel, and the way Scripture handles it is a masterclass in how a tradition becomes a prison.**
+
+**The law was explicit. There was to be one place of sacrifice:**
+
+*But unto the place which the Lord your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come ... Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest: but in the place which the Lord shall choose in one of thy tribes, there thou shalt offer thy burnt offerings* (Deuteronomy 12:5, 13–14).
+
+**And the reason for the rule was stated in the verses immediately before, and it was about the difference between the worship of God and the worship of the Canaanites:**
+
+*Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree ... Ye shall not do so unto the Lord your God* (Deuteronomy 12:2, 4).
+
+**One place. Not a thousand hilltops. And the point of the rule was that God's people were not to worship as their neighbours did.**
+
+**And the record of the kings, from the conquest to the captivity, contains a refrain that a careful reader cannot miss.**
+
+*But the high places were not removed: nevertheless Asa's heart was perfect with the Lord all his days* (1 Kings 15:14).
+
+*But the high places were not taken away: the people still sacrificed and burnt incense in the high places* (2 Kings 12:3 — of Jehoash).
+
+*Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places* (2 Kings 14:4 — of Amaziah).
+
+*Save that the high places were not removed: the people sacrificed and burnt incense still on the high places* (2 Kings 15:4 — of Azariah, that is Uzziah).
+
+*Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places* (2 Kings 15:35 — of Jotham).
+
+**Five reigns, three hundred years, and one sentence repeated.**
+
+**And note the phrasing: *as yet the people did sacrifice.*** Which means the practice had a congregation, and the congregation was the people, **and the kings — including good kings, including Asa whose heart was perfect with the Lord, and Uzziah and Jotham and Jehoash — left it standing.**
+
+**Which is the anatomy of a tradition that has become a prison.**
+
+**It was not commanded by God.** The law said one place, and the high places were Canaanite in origin.
+
+**It was ancient.** It had been there for centuries, which is the only credential that a corrupt tradition ever needs.
+
+**It was popular.** *The people still sacrificed* — and a king who removed it would be removing something the people had always done.
+
+**And it was not corrected by a general instruction.** Hezekiah, reigning seven hundred years after the settlement, was the first to remove it (2 Kings 18:4). **Which means that an uncorrected practice does not merely survive; it compounds, and the generations after it inherit the obligation to undo three centuries of habit.**
+
+**And the cost of the correction is the detail that every reformer should be made to read in advance. When the Assyrian commander came to Jerusalem to demand its surrender, his argument was that Hezekiah's reform had been an act of impiety:**
+
+*But if ye say unto me, We trust in the Lord our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?* (2 Kings 18:22).
+
+**Which is the accusation that every man who removes an inherited practice will hear, and it will come from the enemies of God as well as from the elders of the house.**
+
+**Hezekiah took away the high places, and the heathen said he had attacked the God of Israel.**
+
+**Which means that the removal of a tradition cannot be defended by argument about the tradition. It can only be defended by the text that the tradition was violating.**
+
+### What God Himself abolished, and who resisted it
+
+**And the second case is greater than the high places, because it was God and not a king who abolished it, and the men who resisted the abolition were devout believers who quoted Scripture for their position.**
+
+**The whole argument of the letter to the Hebrews is that the Levitical priesthood and its sacrificial system were superseded:**
+
+*For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof. For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God* (Hebrews 7:18–19).
+
+**A disannulling of the commandment going before.**
+
+**Which means that God disannulled, on His own authority, a commandment that He had given, because of its weakness and unprofitableness — not because it was evil, and not because the men who kept it were wicked, and not because it had been misused.**
+
+**It was a genuine, God-given, centuries-old arrangement, and it was replaced.**
+
+**And the men who resisted the replacement were not apostates:**
+
+*But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses* (Acts 15:5).
+
+**Which believed.**
+
+**The men who demanded that Gentile converts be circumcised and keep the law were believers in Christ, zealous for the Scripture, and in possession of an argument that had centuries of divine warrant behind it.** They were not the enemies of the gospel; **they were the men who thought the gospel needed the old arrangement to be safe.**
+
+**And the council's answer has three elements, and every one of them is a permanent rule for the handling of tradition.**
+
+**The first is that the old yoke was unbearable, and that imposing it was tempting God:**
+
+*Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?* (Acts 15:10).
+
+**Which is Peter's argument, and it is an argument from experience: the tradition was a burden nobody had successfully carried, including the generation that imposed it.**
+
+**The second is that the men imposing it had no commission:**
+
+*Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment* (Acts 15:24).
+
+**To whom we gave no such commandment.**
+
+**Which is the test of a tradition that has become a prison: it is being enforced by men who were never given the authority to enforce it.**
+
+**And the third is the letter's own conclusion, and it is a formula worth memorising for every house that has to decide between two generations:**
+
+*For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things* (Acts 15:28).
+
+**No greater burden than these necessary things.**
+
+**Which means the church's default in the matter of requirements is minimal and not maximal, and the burden of proof lies on the man who wants to add a yoke and not on the man who declines to carry one.**
+
+**And the four things the letter did require were all matters of conscience and fellowship rather than of ceremonial law** — abstinence from things offered to idols, from blood, from things strangled, and from fornication (15:29). **Which is to say that the council did impose requirements, and it imposed the ones that the house could not function without.**
+
+### What makes a tradition a prison
+
+**And the difference between a deposit and a prison can be stated as a set of tests, and the tests are derived from the passages already set out.**
+
+**The first test is warrant. Is the practice commanded, or has it been accumulated?**
+
+**The deposit is commanded: *teaching them to observe all things whatsoever I have commanded you.* The prison is inherited: *your vain conversation received by tradition from your fathers* (1 Peter 1:18), which is Peter's description of the whole religious inheritance of his nation, and which he sets against the blood of Christ.**
+
+**And note that he does not call it wicked. He calls it vain — empty, futile, and useless.**
+
+**The second test is direction. Does the practice bind where God has not bound, or release where God has commanded?**
+
+**A tradition that binds where God has not bound is the burden on men's shoulders: *they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers* (Matthew 23:4).**
+
+**And a tradition that releases where God has commanded is the Corban of the previous chapter: *thus have ye made the commandment of God of none effect by your tradition* (Matthew 15:6).**
+
+**And both errors grow from the same root, which is the substitution of human judgement for the divine word.**
+
+**The third test is the defence. What does the tradition do when it is questioned?**
+
+**A deposit defends itself from the text.** Which is what the Lord did, and what the prophets did, and what the apostles did at Jerusalem: they argued from Scripture and from the evidence of the Spirit's work.
+
+**And a prison defends itself with anathemas, with procedure, and with the threat of exclusion.** *The Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue* (John 9:22). **Which is a rule made in advance so that nobody would have to argue.**
+
+**The fourth test is fruit. Does the practice produce obedience to God, or merely conformity to us?**
+
+**And the Lord's statement on this point is devastating in its brevity: *in vain they do worship me, teaching for doctrines the commandments of men* (Matthew 15:9).**
+
+**Note what is being called vain. Not the worship of idols. The worship of God, offered in the house of God, by the appointed men, according to a received tradition — and called vain, because its doctrine was human.**
+
+**And the fifth test is the oldest, and it is the one that the book of Joshua supplies in the days of the conquest, when Israel was commanded to build a memorial out of twelve stones from the bed of the Jordan:**
+
+*That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones? Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord ... and these stones shall be for a memorial unto the children of Israel for ever* (Joshua 4:6–7).
+
+**And the command is repeated at the end of the chapter with the same question in view:**
+
+*When your children shall ask their fathers in time to come, saying, What mean these stones? Then ye shall let your children know, saying, Israel came over this Jordan on dry land* (Joshua 4:21–22).
+
+**Which is the model of a transmitted inheritance: it is a visible practice, established by command, with an answer ready for the next generation's question.**
+
+**And the same structure is given to the Passover:**
+
+*And it shall come to pass, when your children shall say unto you, What mean ye by this service? That ye shall say, It is the sacrifice of the Lord's passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses* (Exodus 12:26–27).
+
+**And to the whole body of the law:**
+
+*And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God hath commanded you? Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand* (Deuteronomy 6:20–21).
+
+**Which gives the fifth test, and it is the one that a young man can apply without any scholarship at all.**
+
+**Does the tradition have an answer for the child who asks what it means?**
+
+**A deposit does.** Stones from a river bed, unleavened bread, a lamb, the phylacteries, the feast days — every one of them has a reason attached, and the reason is a work of God.
+
+**And a prison does not.** Ask it what it means and the answer will be that it has always been done this way, **and then it will ask you why you are asking.**
+
+### The vessels of the old tradition, filled with the new wine
+
+**And the most beautiful case in the Gospels of the relationship between an inherited form and a new work of God is in the first miracle, and it is a scene that most readings of the passage pass over in the hurry to reach the wine.**
+
+*And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim. And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it* (John 2:6–8).
+
+**The waterpots were the apparatus of the Jewish purification rituals.** They were there *after the manner of the purifying of the Jews* — the inherited form of the old order, in stone, holding perhaps a hundred and twenty gallons between them.
+
+**And the Lord did not smash them.** He did not denounce them, did not explain their obsolescence, **and did not command the servants to fetch new vessels.**
+
+**He filled them to the brim with water, and turned the water into wine, and the wine was the best of the feast.**
+
+**Which means that the old form, correctly filled, can carry the new work of God.** And the servants who filled the pots with water were the ones who knew where the wine had come from (2:9).
+
+**And the contrast is deliberate, because the same Lord said elsewhere that new wine cannot be put into old bottles (Matthew 9:17).** Which means the question is not the age of the vessel. **It is whether the vessel will hold what is being poured into it.** A stone pot has no weakness of its own; an old wineskin is already stretched past its capacity.
+
+**And the practical difference for a house of God is this: a vessel that can be filled is a tradition worth keeping. A vessel that will burst is a prison.**
+
+**And the test of which one you are holding is what happens when the wine is poured in. If the filling breaks the house, the house was the problem.**
+
+### The mountain, and the fathers of both nations
+
+**And there is one conversation in the Gospels in which the whole question of an inherited tradition is settled by the Lord in a single answer, and it is far more radical than most churches would be willing to be.**
+
+**The Lord was at a well in Samaria, and He had told the woman the facts of her own life — five husbands, and the man she was living with not her husband. And her response was to change the subject, and she changed it to the oldest argument in her nation's history:**
+
+*Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship* (John 4:20).
+
+**Our fathers worshipped in this mountain.**
+
+**Which is the sentence of a person reaching for a tradition in order to avoid a personal question. And it is the oldest form of the move.** The Lord had spoken about her; she answered about her ancestors.
+
+**And the dispute was real, and it was ancient, and both sides had fathers.** The Samaritans had built their sanctuary on Mount Gerizim centuries earlier and claimed Moses as their authority. The Jews maintained Jerusalem and the temple of Solomon. **And the woman's sentence — *and ye say* — means she had been told this argument all her life, and it had divided her nation from its neighbours for four hundred years.**
+
+**And the answer she received did not give her one of the two positions:**
+
+*Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father ... But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. God is a Spirit: and they that worship him must worship him in spirit and in truth* (John 4:21, 23–24).
+
+**Neither in this mountain, nor yet at Jerusalem.**
+
+**Which means that the whole dispute — the traditions of both nations, on both mountains, with both sets of fathers — was going to be settled by being superseded.**
+
+**And note that the Lord did not say the two traditions were equal.** He said the opposite in the verse between them: *ye worship ye know not what: we know what we worship: for salvation is of the Jews* (4:22). **The Jewish tradition was the true one; the mountain of Jerusalem was the place God had chosen; and the Samaritan sanctuary was a corruption.**
+
+**And He abolished the place of the true tradition anyway.**
+
+**Which is the hardest doctrine in this chapter, and it is for the older generation far more than for the young.** A man may hold the true tradition, on the true ground, with a genuine warrant, and be told by the Lord that the hour has come when the form he is holding will no longer be the location of worship at all.
+
+**And the reason given is about the worship itself and not about the buildings: *the Father seeketh such to worship him.***
+
+**Which means God is not looking for worshippers at a proper address.** He is seeking worshippers of a particular kind, **and the address has been demoted from the question.**
+
+**And there is a second detail in the passage that belongs in this chapter, because the woman's question about the mountain came immediately after a promise about water:**
+
+*But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life* (John 4:14).
+
+**A well of water in the man, and no more pilgrimage to a mountain.** Which means the new covenant's arrangement relocated the presence of God from a place to a person — **and every tradition in a house of God must be examined for whether it is still operating as though the location of the presence were an address.**
+
+**And the practical instruction for a generation that finds itself in a dispute about a place, a form, a lineage or a name is therefore severe.** It is possible to win the argument about the mountain and lose the hour, **because the hour comes to the men who are arguing on both sides of it.**
+
+**And the caution is equally necessary, and it is the whole reason this book has spent fifty chapters on the deposit.** The fact that a form will pass away is not a licence to despise it while it stands. **The Lord did not tell the woman that her fathers' worship was worthless; He told her that the Father was seeking a different kind of worshipper, and that the hour for the change had come, and that He was standing in front of her.**
+
+**And that is the difference between a reform and a demolition.** A reform keeps the true tradition until the hour of its replacement arrives, and knows the hour when it comes. **A demolition treats the true tradition as though it had never been given, and calls that the hour.**
+
+### And the traditions that the young make
+
+**And this chapter must end with a warning to the younger generation, because a prison is something that both generations build, and the young build them faster than they know.**
+
+**Every practice that a generation invents for the sake of the work of God in its own day acquires, within twenty years, the status of a conviction.**
+
+**The songs become the liturgy. The order of service becomes the rubric. The meeting times become the sabbath. The methods become the message. And the second generation, which inherits them without the conditions that produced them, defends them with a zeal that the first generation would have found embarrassing.**
+
+**And the Lord's warning about this is in a passage that is usually applied only to the old:**
+
+*Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved* (Matthew 9:17).
+
+**Which means that the new bottles of one generation become the old bottles of the next.**
+
+**The church that introduced the new wine is the church that will, thirty years later, be defending the bottles.**
+
+**And the remedy is not to avoid forming practices, because no community can worship together without them. The remedy is to keep the warrant of the practice written down.**
+
+**Which is what the stones at Gilgal were for, and what the Passover liturgy was for, and what Deuteronomy 6 was for.** The practice and its explanation were transmitted together, **and a generation that transmits the practice without the explanation has manufactured the prison its grandchildren will live in.**
+
+**And the second remedy, and it is harder, is to be willing to be the generation that asks the question.** The child who says *what mean ye by this service?* (Exodus 12:26) is pronouncing a blessing, and he does not know it, **and a house that answers him honestly will keep its deposit and lose its prison in the same conversation.**
+
+### The practical instruction of the chapter
+
+**And the instruction can be set out as five sentences, and a house of God can apply them in a single meeting.**
+
+**First: distinguish what is commanded from what is inherited, and write both lists.** The deposit is what Christ and His apostles commanded; the inheritance is what your house has always done. **Most congregations have never made the distinction in writing, and until it is made, everything is defended at the same weight.**
+
+**Second: examine every inherited practice by the five tests — warrant, direction, defence, fruit, and the answer given to the children.**
+
+**Third: keep the vessel if it can be filled, and break it if it cannot.** *Fill the waterpots with water.* And do not break a vessel merely because it is old, and do not keep one merely because it is; **the question is capacity and not age.**
+
+**And fourth: when God disannuls a thing, do not fight Him for it.** *There is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.* And the men who fought it at Jerusalem were believers, and they were wrong.
+
+**And fifth: transmit the reason with the practice.** *When your children shall ask their fathers in time to come, saying, What mean these stones?* **The question is the point. A house with an answer is a house of deposit. A house without one has already become a prison and has not been told.**
+
+**And the closing word of the chapter belongs to the Lord's own handling of a tradition, because it settles the whole matter in one sentence and it is spoken about the sabbath:**
+
+*And he said unto them, The sabbath was made for man, and not man for the sabbath: therefore the Son of man is Lord also of the sabbath* (Mark 2:27–28).
+
+**The institution was made for the man.**
+
+**Which is the principle that decides every question in this chapter.** Where a practice serves the obedience and the good of the people of God, it is a gift and is to be kept and explained. **Where a man is made to serve the practice, the practice has taken the place of the Lord of the practice, and the man who said that sentence is standing outside it waiting to be admitted.**
+
+### Principles
+
+**First: the New Testament commands the keeping of traditions, and it commands the rejection of traditions of men, and both commands are apostolic.** *Hold the traditions which ye have been taught*; and *beware lest any man spoil you ... after the tradition of men, after the rudiments of the world, and not after Christ.*
+
+**Second: the difference between a deposit and a prison is warrant, and not age.** *Teaching them to observe all things whatsoever I have commanded you*; and *your vain conversation received by tradition from your fathers.*
+
+**And third: a tolerated practice can outlive every reform around it for three centuries.** Five kings, including Asa *whose heart was perfect with the Lord*, and the refrain: *the high places were not taken away.*
+
+**Fourth: the man who removes an inherited practice will be accused of impiety, and the accusation will come from the enemies of God.** *Is not that he, whose high places and whose altars Hezekiah hath taken away?*
+
+**Fifth: God disannulled a commandment He had Himself given, and the men who resisted the abolition were believers with a Scriptural argument.** *There is verily a disannulling of the commandment going before*; and *there rose up certain of the sect of the Pharisees which believed.*
+
+**And sixth: the church's default in the matter of burdens is minimal, not maximal.** *It seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things.*
+
+**Seventh: a tradition that binds where God has not bound lays a yoke nobody could carry, and a tradition that releases where God has commanded nullifies the word.** *They bind heavy burdens and grievous to be borne*; and *thus have ye made the commandment of God of none effect by your tradition.*
+
+**And eighth: a prison defends itself by exclusion, and a deposit by Scripture.** *If any man did confess that he was Christ, he should be put out of the synagogue.*
+
+**Ninth: worship offered according to human doctrine in the house of God is called vain.** *In vain they do worship me, teaching for doctrines the commandments of men.*
+
+**And tenth: the commanded inheritance comes with a question from the children and an answer from the fathers, and a house that has neither has already become a prison.** *What mean ye by these stones? ... What mean ye by this service? ... What mean the testimonies?*
+
+**And eleventh: the vessel that can be filled is worth keeping, whatever its age, and the vessel that will burst is a prison, however recently it was made.** *Fill the waterpots with water.*
+
+**And twelfth: the institution exists for the man and the man does not exist for the institution.** *The sabbath was made for man, and not man for the sabbath.*
+
+### The key scriptures in full
+
+> Hold the traditions which ye have been taught, whether by word, or our epistle ... Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
+> — 2 Thessalonians 2:15; 3:6
+
+> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
+> — Colossians 2:8
+
+> But unto the place which the Lord your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come ... Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest.
+> — Deuteronomy 12:5, 13
+
+> But the high places were not removed: nevertheless Asa's heart was perfect with the Lord all his days.
+> — 1 Kings 15:14
+
+> But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
+> — 2 Kings 12:3
+
+> Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the Lord.
+> — 2 Kings 15:35
+
+> But if ye say unto me, We trust in the Lord our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?
+> — 2 Kings 18:22
+
+> For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof. For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.
+> — Hebrews 7:18–19
+
+> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses ... Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?
+> — Acts 15:5, 10
+
+> Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment ... For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things.
+> — Acts 15:24, 28
+
+> Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; but with the precious blood of Christ, as of a lamb without blemish and without spot.
+> — 1 Peter 1:18–19
+
+> For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.
+> — Matthew 23:4
+
+> And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+> — John 2:6–7
+
+> Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
+> — Matthew 9:17
+
+> And it shall come to pass, when your children shall say unto you, What mean ye by this service? That ye shall say, It is the sacrifice of the Lord's passover, who passed over the houses of the children of Israel in Egypt.
+> — Exodus 12:26–27
+
+> That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones? Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the Lord.
+> — Joshua 4:6–7
+
+> And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God hath commanded you? Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand.
+> — Deuteronomy 6:20–21
+
+> And he said unto them, The sabbath was made for man, and not man for the sabbath: therefore the Son of man is Lord also of the sabbath.
+> — Mark 2:27–28
+
+> Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
+> — Titus 1:14
+
+> Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.
+> — 2 Timothy 1:13
+
+### For the fathers
+
+- **Write the two lists, and do not defend them at the same weight.** What Christ commanded is the deposit; what your house has always done is the inheritance. Both matter, and they are not the same.
+- **Look for the high places in your house — the practice that three generations have left standing because the people are used to it.** *The high places were not taken away* is not a commendation in Scripture, even when it is attached to a good king.
+- **Expect to be accused of impiety when you remove it.** *Is not that he, whose high places and whose altars Hezekiah hath taken away?* The argument you will have to use is the text, not the tradition.
+- **Transmit the reason with the practice, and teach the children the answer before they ask the question.** *What mean ye by these stones?*
+- **And if God disannuls something you love, do not fight Him for it.** The men who did were believers, and they had Scripture, and they were still wrong.
+- **And remember the default of the council:** *no greater burden than these necessary things.* A house that adds burdens is a house that will be explaining them to its grandchildren.
+
+### For the young
+
+- **Do not despise the vessel before you have tried to fill it.** The Lord used six stone waterpots of the Jewish purification rite for the first miracle of the new covenant.
+- **Distinguish the practice from the man who defends it, and the principle from its application.** Asa had a perfect heart and left the high places standing; both facts are in the same verse.
+- **Do not build a prison of your own.** *They put new wine into new bottles* — and your bottles will be the old ones in thirty years.
+- **Ask the question and receive the answer.** *What mean ye by this service?* is a child's question and it is commanded in the text, **and a father who answers it is handing you the deposit rather than the shell.**
+- **And when a house's tradition cannot answer the question, take the matter to the text and not to the congregation.** A prison is broken open by Scripture, and it is rarely broken open by argument.
+- **And judge every practice by the sentence of the Lord:** *the sabbath was made for man, and not man for the sabbath.* Whatever serves your obedience is a gift; whatever demands your obedience in place of God is the thing He came to end.
+
+### Questions for reflection
+
+1. Which of the practices in your house can be traced to a command of Christ, and which to a decision of men, and has anybody written the two lists down?
+2. What are your high places — the ancient, popular practice that no reform has touched?
+3. What is the answer your house would give if a child asked what the service means?
+4. Which vessel in your keeping can still be filled, and which one has been bursting for years?
+5. Who was made to serve an institution in your generation, and did anybody notice?

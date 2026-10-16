@@ -1,0 +1,423 @@
+<<<CHAPTER 51
+## The Arrogance of Youth
+
+**And now the book turns, because a case that has been argued for six Parts must be examined for its abuses, and it is a matter of plain integrity that the examination begin with the young.**
+
+**For every argument in this book so far has been that the young receive revelation, that the sons and daughters prophesy, that the Spirit was poured out on young men as well as old, that Samuel and David and Daniel and Jeremiah and Timothy were given the word of God in their youth, and that a generation which silences its young men is disobeying the plain terms of the promise.**
+
+**And none of that is a licence, because the same Scriptures that record the calling of the young record the destruction of the presumptuous young, and they record it in more detail.**
+
+**And the doctrine is stated in six words that Paul gave to a young man about the appointment of other men:**
+
+*Not a novice, lest being lifted up with pride he fall into the condemnation of the devil* (1 Timothy 3:6).
+
+**Which is the only place in the New Testament where a comparison is drawn between a man's fall and the devil's, and the sin named is pride, and the man named is a novice.**
+
+**And Paul's other instruction on the same subject is a prohibition on speed: *Lay hands suddenly on no man, neither be partaker of other men's sins* (1 Timothy 5:22).**
+
+**Which means the New Testament is as conscious of the danger of premature promotion as it is of the danger of youthful silence, and it names both, and it treats neither as an excuse for the other.**
+
+### Joseph, who told his dreams
+
+**And the case that must be worked through first is the case of a young man whose revelation was completely true and who delivered it in a way that cost him twenty-two years.**
+
+**Joseph was seventeen years old, and he was the son of his father's old age, and his father had given him a coat that distinguished him from his brothers. And the record of his boyhood begins with a piece of information that is usually passed over:**
+
+*And the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report* (Genesis 37:2).
+
+**Which means the first thing we are told about Joseph is that he carried reports about his brothers to his father.**
+
+**And then two dreams, and he told them.**
+
+*And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more. And he said unto them, Hear, I pray you, this dream which I have dreamed: for, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf* (Genesis 37:5–7).
+
+**And the second dream, which involved his father and mother as well as his brothers, he also told:**
+
+*And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth? And his brethren envied him; but his father observed the saying* (Genesis 37:10–11).
+
+**Now the facts of the case, stated carefully.**
+
+**The dreams were from God.** Every later event confirmed them to the letter: the brothers did bow before him in Egypt, and his father's household was preserved through him.
+
+**And the telling of them was a disaster.** The Hebrew of the first dream is in the imperative and Joseph's invitation is almost taunting: *hear, I pray you, this dream which I have dreamed.* And the second dream he reported immediately after the rebuke for the first, **and he told it as a statement of future supremacy over his own father and mother.**
+
+**And the result was hatred and sale.** He was thrown into a pit by his brothers, sold to Midianite traders, and carried to Egypt as a slave at seventeen (37:28).
+
+**And there is no verse that says his conduct as a boy was sinless, and there is no verse that says his telling of the dreams was a mistake, and both facts are the point.** The Scripture reports it flat, and the consequence is reported flat, **and the reader is left to notice that the dream needed twenty-two years, a false accusation, a prison and a famine before it was deliverable.**
+
+**And the doctrine is stated most clearly by Joseph himself when he finally stood before the only audience that mattered:**
+
+*And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace* (Genesis 41:16).
+
+**It is not in me.**
+
+**Which is the sentence the seventeen-year-old could not say, and the price of learning it was the distance between the pit at Dothan and the court at Thebes.**
+
+**And the application for a young man who has been given a word about his future is therefore exact and unromantic.** The revelation is not a schedule. **It does not authorise the telling, and it does not authorise the timing, and the two things it requires of him are secrecy and preparation.**
+
+**And the test of a genuine call is that it survives being spoken against and delayed.** Jacob rebuked the dream and *observed the saying*, and the brothers' envy turned to violence, **and the dream was not a day nearer because it had been announced — but Joseph was twenty-two years further from it than he had been when he announced it.**
+
+### Korah, who argued for equality
+
+**And the second case is the most dangerous in the whole of the Old Testament, because its argument was true in its premises.**
+
+**Korah was a Levite, a cousin of Moses and Aaron, and he gathered a company — ** *two hundred and fifty princes of the assembly, famous in the congregation, men of renown* (Numbers 16:2) — and he stood before Moses and Aaron and said:**
+
+*Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?* (Numbers 16:3).
+
+**Take the argument apart, because it is the argument of every generation that has decided that the existing order is an imposition.**
+
+**The premise is true:** the whole congregation was called holy (Exodus 19:6). **The conclusion is false:** because the holiness of the congregation does not abolish the appointment of particular men to particular service.
+
+**And note the words *the Lord is among them.*** Korah's argument was not secular and not democratic in the modern sense. It was theological: God is with all of us, therefore no man may stand above us. **Which is a sentence that has wrecked more congregations than open unbelief ever has.**
+
+**And Moses' response is the model for how a leader should answer it, and there are three elements.**
+
+**He did not reply in kind.** He fell on his face (16:4) — the posture of a man who puts the matter in God's hands and not in his own.
+
+**He did not defend his own position but proposed a test, which is the challenge every generation has to face:**
+
+*Even to morrow the Lord will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him* (Numbers 16:5).
+
+**And he exposed the real motive, and this is the part that young men in a hurry should read slowly:**
+
+*Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the Lord, and to stand before the congregation to minister unto them? And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?* (Numbers 16:9–10).
+
+**And seek ye the priesthood also?**
+
+**Korah already had a position that the whole congregation did not have.** He was of the tribe appointed to the service of the tabernacle, brought near to God, permitted to minister before the congregation. **And the grievance was not that he had no place; it was that he had a place and wanted the next one.**
+
+**Which is the precise anatomy of the arrogance of a young man in the house of God.** It is not usually the demand for a room to serve in. **It is the demand for a room that belongs to another man, argued from the equality of all believers.**
+
+**And Moses' closing statement goes to the root: *for which cause both thou and all thy company are gathered together against the Lord: and what is Aaron, that ye murmur against him?* (16:11).**
+
+**What is Aaron?** The man was nothing. **So the murmur against Aaron was a murmur against God, and the rebellion that appeared to be against a man was against the appointment.**
+
+**And the outcome is recorded with a severity that no generation has been able to soften:**
+
+*But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the Lord. And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that was under them ... They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation* (Numbers 16:30–33).
+
+**And the sequel is worth recording because it settles the question of how such a dispute is to be resolved.** God did not settle it by debate. He settled it by a sign:
+
+*And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds* (Numbers 17:8).
+
+**A dead stick produced blossoms and fruit overnight, and it was laid up before the testimony as a token (17:10).**
+
+**Which means that the authority in the house of God is not established by seniority, nor by eloquence, nor by congregational vote, and not by the strength of a young man's case.** It is established by the living choice of God, and the evidence of that choice is fruit where there was none.
+
+### Absalom, who stole the hearts of the men of Israel
+
+**And the third case is the most complete in Scripture, and it is a case study in method rather than in motive, because it shows exactly how a young man with gifts and a grievance dismantles an older man's house.**
+
+*And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him. And Absalom rose up early, and stood beside the way of the gate: and it was so, that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city art thou? ... And Absalom said unto him, See, thy matters are good and right; but there is no man deputed of the king to hear thee. Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice! And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him. And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel* (2 Samuel 15:1–6).
+
+**Take the method apart, element by element, because every element has been used since.**
+
+**He built a retinue before he had an office.** Chariots, horses, and fifty runners — the apparatus of a king, assembled by a man who was not one (15:1).
+
+**He rose up early.** The text notes the time of day, and the implication is deliberation. **The work began before the king was at his post.**
+
+**He stationed himself at the gate, where the king's judgements were given.** Not in a rival place — in the same place, so that every man coming to the legitimate authority met the alternative first.
+
+**He asked each man his city and his case.** He gathered the details of every grievance, name by name, at the doorway.
+
+**And then the three sentences that did the damage.**
+
+**The first is the assessment: *thy matters are good and right.*** He agreed with every complainant, before knowing the law and before hearing the other party. **Which is the technique of a man building a constituency out of grievances he did not create and cannot adjudicate.**
+
+**The second is the accusation: *but there is no man deputed of the king to hear thee.*** He did not attack the king's character; he impugned the king's administration. **Which is why the slander of a father's house so often takes the form of a complaint about structures.**
+
+**The third is the aspiration: *Oh that I were made judge in the land.*** Which is the whole rebellion in nine words, spoken to a stranger at a gate, **and it was said a thousand times over months before a single sword was drawn.**
+
+**And then the kiss: *he put forth his hand, and took him, and kissed him.***
+
+**The kiss is the most important detail in the passage.** Absalom had no jurisdiction, no commission and no judgement to give. **What he could give was affection, and he gave it indiscriminately to every man who came, and by it *he stole the hearts of the men of Israel.***
+
+**Which is the counterfeit of pastoral care, and the difference between the two is the whole subject of this chapter.** The shepherd gives his life for the sheep; the thief comes to steal. **And Absalom's method was not preaching, not teaching, and not the exercise of any gift that could be examined. It was personal attention, given to every man with a grievance, at the door of his father's court.**
+
+**And the conspiracy that followed is recorded with three details that show a mature and patient operation:**
+
+*But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron. And with Absalom went two hundred men out of Jerusalem, that were called; and they went in their simplicity, and they knew not any thing. And Absalom sent for Ahithophel the Gilonite, David's counsellor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom* (2 Samuel 15:10–12).
+
+**He had a network in every tribe before he moved.** He recruited two hundred men who did not know what they were joining — **which means most of his following was innocent of the conspiracy and was carried along by the association.** And he secured the king's own counsellor, Ahithophel, a man of such reputation that his counsel was *as if a man had enquired at the oracle of God* (16:23).
+
+**So the rebellion was not a youth movement.** It was a young man's ambition, an elder counsellor's defection, two hundred sincere travellers, and a network of informers — and it nearly succeeded.
+
+**And Absalom's death is one of the most humiliating portraits in Scripture.** He rode a mule, and the mule went under the thick boughs of a great oak, and *his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away* (18:9).
+
+**The man who had assembled chariots and fifty runners and a network in every tribe was suspended by his own hair from a tree, between heaven and earth, which is to say belonging to neither.**
+
+**And Joab, the commander who had served David through everything, thrust three darts through his heart while he hung there, and ten young men who bore Joab's armour finished him (18:14–15).**
+
+**And the last detail is the one that indicts the whole project:**
+
+*Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place* (2 Samuel 18:18).
+
+**He had no son, and he built a monument to his own name.**
+
+**Which is the exact inversion of everything in this book.** Absalom stood outside the covenant of transmission — he had no son to carry his name, and instead of seeking the God who sets the solitary in families (Psalm 68:6), **he erected a stone with his own name on it, and the stone is what remains of him.**
+
+**And his name meant *my father is peace*, and he drove his father out of Jerusalem and out of the city weeping (15:14, 15:30).**
+
+### Adonijah, and the father who never asked the question
+
+**And the next case introduces a factor that belongs equally in the chapter on the idolatry of elders, and it must be stated here because the young man did not manufacture his own presumption.**
+
+*Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him. And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom* (1 Kings 1:5–6).
+
+**Two clauses, and the second explains the first.**
+
+**Adonijah exalted himself — and his father had never displeased him at any time by asking why he had done something.**
+
+**Which means the arrogance of a young man is frequently the product of a father's silence.**
+
+**And note the parallels with Absalom, listed deliberately by the narrator: the chariots, the horsemen, and the fifty men to run before him. Adonijah repeated the apparatus of the previous rebellion fourteen chapters after it had failed and its author had been killed.** And the text even notes that his mother bore him after Absalom, **which puts him in the shadow of the same pattern.**
+
+**And he was *a very goodly man*, which is to say he had the appearance of a king.**
+
+**And the presumption did not end when it was defeated.** Solomon was installed, the plot collapsed, and Adonijah fled to the horns of the altar and was pardoned on condition of good behaviour (1:50–53). **And within the same book he came back through the queen mother with a request for Abishag the Shunammite, who had been David's nurse in his last days.**
+
+*And he said, Thou knowest that the kingdom was mine, and that all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother's: for it was his from the Lord* (1 Kings 2:15).
+
+**The kingdom was mine, and all Israel set their faces on me.**
+
+**And his request for a woman of the previous king's household was understood immediately by Solomon for what it was:**
+
+*And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother* (1 Kings 2:22).
+
+**And the man was executed that day (2:24–25).**
+
+**Which is the last stage of the pattern, and it is the stage that a young man with a sense of destiny most needs to be told about.** The presumption was not cured by being pardoned, and it was not cured by being disarmed, **and it came back in the form of a modest request, framed as a favour, made through a woman of influence.** And the request was the kingdom, and everyone involved knew it except the man who made it.
+
+### When he was strong, his heart was lifted up
+
+**And the mechanism of this sin is not a matter of age, and three kings demonstrate it, which is why the diagnosis in this chapter is not *youth* but *strength without the memory of being little*.**
+
+**The first is Saul, who set up a monument:**
+
+*And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal* (1 Samuel 15:12).
+
+**He had just been told that he was to destroy Amalek utterly, and he had spared the king and the best of the sheep, and while the prophet was on the road he erected a monument to himself.**
+
+**And Samuel's diagnosis is a single sentence about the past:**
+
+*And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?* (1 Samuel 15:17).
+
+**When thou wast little in thine own sight.**
+
+**Which means the qualification for the crown was Saul's small opinion of himself, and the loss of the crown was the loss of that opinion.**
+
+**And the sentence that followed is the most severe statement in the Old Testament about the nature of rebellion:**
+
+*For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king* (1 Samuel 15:23).
+
+**The second is Amaziah, who was warned in plain words and did not hear them:**
+
+*Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?* (2 Chronicles 25:19).
+
+**Thine heart lifteth thee up to boast.** And the warning included the cost to the people he ruled: *even thou, and Judah with thee.*
+
+**And the third is the clearest, and it states the sequence in one verse:**
+
+*And his name spread far abroad; for he was marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense* (2 Chronicles 26:15–16).
+
+**He was marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction.**
+
+**Uzziah was one of the best kings of Judah.** He built towers, dug cisterns, raised an army, invented engines of war, and his name spread abroad. **And the precise turning point of his life is given: he succeeded, and then he decided that the office of the priest was also his.**
+
+**And the priests withstood him, and their words are the sentence every presumptuous man in a house of God should expect to hear:**
+
+*It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God* (2 Chronicles 26:18).
+
+**And he was wroth, and while he was angry with the priests the leprosy rose up in his forehead, and he was thrust out, and *himself hasted also to go out, because the Lord had smitten him* (26:19–20).**
+
+**And he was a leper until the day of his death, and dwelt in a several house, cut off from the house of the Lord, and his son judged the people in his place (26:21).**
+
+**Which is the pattern of strength without the memory of being little, and it is not a young man's disease.** It is the disease of every man who has been helped, prospered, and promoted, and who concludes from the record that the next boundary is not a boundary.
+
+**And the remedy is not youth and not age, and it is stated by the psalm that a young man is given for his own defence:**
+
+*Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word. With my whole heart have I sought thee: O let me not wander from thy commandments. Thy word have I hid in mine heart, that I might not sin against thee* (Psalm 119:9–11).
+
+### And the mockery of the anointed
+
+**And the last case is the one that most directly concerns the transfer of authority between generations, and it must be handled with care and stated exactly.**
+
+*And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head. And he turned back, and looked on them, and cursed them in the name of the Lord. And there came forth two she bears out of the wood, and tare forty and two children of them* (2 Kings 2:23–24).
+
+**The setting is the chapter in which Elijah has just ascended and Elisha has received the double portion, crossed Jordan on dry ground, and healed the waters of Jericho.**
+
+**And at Bethel — the site of Jeroboam's golden calf and of the old prophet who had deceived the young man of God — a group of lads came out of the city and mocked the new prophet.**
+
+**And the words of the mockery are not about his head. *Go up* is the operative phrase, and it is a reference to the ascension of Elijah, and to the rapture of a man, delivered as a taunt.**
+
+**Which means the mockery was of the prophetic office, of the miracle that authenticated it, and of the God who had done it.** And it was public, collective, and aimed at a man who had been in office for a matter of days.
+
+**And the curse was pronounced *in the name of the Lord*, which means Elisha did not act on his own grievance. And forty-two of the mockers died.**
+
+**And the passage is in Scripture, and it is not presented as a model of prophetic temper. It is presented as a judgement, and the judgement teaches a doctrine that the whole book of Deuteronomy rests on:** the word of God's messenger is not a matter of personal opinion, **and contempt for the man who carries it is contempt for the One who sent him.**
+
+**And the practical instruction for a young man is the negative form of the same truth, and it is the sentence Paul wrote to the Corinthians:**
+
+*Wherefore let him that thinketh he standeth take heed lest he fall* (1 Corinthians 10:12).
+
+**If mocking the anointed of God brought forty-two men to their deaths in a wood outside Bethel, then a young man who makes his own advancement out of the humiliation of his father's generation is in a far more dangerous position than he knows.**
+
+### The anatomy of the danger
+
+**And the mechanism of this sin can be set out as a list of parts, because it is diagnosable before it is fatal.**
+
+**It mistakes a gift for a rank.** *For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?* (1 Corinthians 4:7). **The question is unanswerable, and the arrogant man never asks it.**
+
+**It confuses the anointing with the appointment.** Miriam and Aaron had genuine prophetic standing and were still answered with a distinction between the ordinary prophetic mode and the mediation of Moses (Numbers 12:6–8). **A true word from God about your future is not a warrant for your present action.**
+
+**It measures by comparison.** *For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise* (2 Corinthians 10:12). **Which means the comparison is not merely unwise; it is a category error, because the standard is God's calling and not another man's performance.**
+
+**It seeks honour from men.** *How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?* (John 5:44). **Note the logic: the search for human honour is presented as an impediment to faith itself.**
+
+**It assumes the office before the appointment to it.** *Not a novice, lest being lifted up with pride he fall into the condemnation of the devil*; and *lay hands suddenly on no man* (1 Timothy 3:6; 5:22).
+
+**It builds monuments, and the monuments are always to itself.** Saul set him up a place at Carmel. Absalom reared a pillar in the king's dale and called it after his own name. **And the man who builds the monument is the man who cannot trust the covenant to carry his name.**
+
+**And it treats the inheritance as a conquest.** Which is the failure the first chapter of this Part described in the book of Judges, **and it is the same sin wearing the opposite coat: instead of failing to possess the land, the young man claims as his own what his fathers planted.**
+
+### The distinction that must be preserved
+
+**And a boundary has to be drawn, because the remedy for the arrogance of youth is not the silence of youth, and a young man in a house that is genuinely wrong is not required to be still.**
+
+**The apostle Paul withstood Peter to the face at Antioch, in public, because Peter's conduct was dissimulation and it compromised the gospel (Galatians 2:11–14).** Which was a younger man correcting a senior apostle on a matter of doctrine, and the record treats it as a defence of the truth.
+
+**And Absalom stole the hearts of the men of Israel at the gate.**
+
+**And the difference between those two acts is not the content of the disagreement. It is the method and the audience.**
+
+**Paul spoke to the man, in the man's presence, about the man's conduct, on a matter that was public.** Absalom spoke to every man about the king's administration, in the king's absence, **and never once said to David what he said at the gate.**
+
+**Which gives the test that a young man can apply to himself before he opens his mouth. Are you speaking to the man, or about him? Is your objection about the truth, or about a grievance that has become a cause? Have you gone to him first, or only to the people you are trying to persuade?**
+
+**And the test for the older generation is equally plain, and it is the subject of the next chapter.** A house that cannot receive a correction from its young men will produce Absaloms, **because the young men will either be heard in the gate or steal it.**
+
+**And the practical instruction for a young man who has been given a word, a gift and a future is therefore what Joseph learned over twenty-two years, and it fits in a sentence.**
+
+**Keep the dream to yourself until God fulfils it, and when He does, say *it is not in me* (Genesis 41:16).**
+
+### Principles
+
+**First: the New Testament is as careful about the presumption of the young as this book has urged the church to be about the silencing of the young.** *Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.*
+
+**Second: the revelation of a man's future does not authorise his announcement of it.** Joseph told his dreams at seventeen and entered his promotion at thirty (Genesis 41:46), and he learned to say *it is not in me.*
+
+**Third: the argument for equality among the congregation is the oldest argument for the abolition of God's appointments.** *All the congregation are holy, every one of them ... wherefore then lift ye up yourselves above the congregation of the Lord?*
+
+**And fourth: the rebellion of a young man is rarely against a lack of position; it is against the position he has not been given.** *Seemeth it but a small thing unto you, that the God of Israel hath separated you ... and seek ye the priesthood also?*
+
+**Fifth: God settles such disputes by fruit and by sign, not by the strength of the case.** The rod of Aaron budded, bloomed, and yielded almonds overnight, and was laid up before the testimony.
+
+**Sixth: the counterfeit of pastoral care is indiscriminate personal attention given to every man with a grievance.** *So Absalom stole the hearts of the men of Israel.* And the gate is where it happened, in the same place where the legitimate judgement was given.
+
+**Seventh: the presumption of a young man may be the product of a father's silence.** *And his father had not displeased him at any time in saying, Why hast thou done so?*
+
+**And eighth: being pardoned, disarmed and warned does not cure presumption.** Adonijah came back through the queen mother with a modest request, and it was the kingdom.
+
+**Ninth: the mechanism of this sin is strength without the memory of being little, and it is not confined to youth.** *When thou wast little in thine own sight ... he was marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction.*
+
+**And tenth: the remedy is the word hidden in the heart, and the refusal to measure oneself by another man's record, and the willingness to be lifted up by God in due time rather than by oneself immediately.** *Thy word have I hid in mine heart, that I might not sin against thee*; *humble yourselves in the sight of the Lord, and he shall lift you up* (James 4:10).
+
+**And eleventh: a young man must be allowed to speak, and the difference between Paul and Absalom is method and audience.** *When I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all* (Galatians 2:14). He said it to him, and in front of them.
+
+### The key scriptures in full
+
+> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil ... Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.
+> — 1 Timothy 3:6; 5:22
+
+> And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more ... And his brethren envied him; but his father observed the saying.
+> — Genesis 37:5, 11
+
+> And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace.
+> — Genesis 41:16
+
+> And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
+> — Numbers 16:3
+
+> Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the Lord ... and seek ye the priesthood also? ... and what is Aaron, that ye murmur against him?
+> — Numbers 16:9–11
+
+> And Absalom said unto him, See, thy matters are good and right; but there is no man deputed of the king to hear thee. Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice! ... so Absalom stole the hearts of the men of Israel.
+> — 2 Samuel 15:3–4, 6
+
+> And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.
+> — 2 Samuel 18:9
+
+> Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place.
+> — 2 Samuel 18:18
+
+> Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him. And his father had not displeased him at any time in saying, Why hast thou done so?
+> — 1 Kings 1:5–6
+
+> And he said, Thou knowest that the kingdom was mine, and that all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother's: for it was his from the Lord.
+> — 1 Kings 2:15
+
+> And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel? ... For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry.
+> — 1 Samuel 15:17, 23
+
+> And his name spread far abroad; for he was marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction: for he transgressed against the Lord his God, and went into the temple of the Lord to burn incense upon the altar of incense.
+> — 2 Chronicles 26:15–16
+
+> And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord ... neither shall it be for thine honour from the Lord God. Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead.
+> — 2 Chronicles 26:18–19
+
+> Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?
+> — 2 Chronicles 25:19
+
+> And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.
+> — 2 Kings 2:23
+
+> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
+> — 1 Corinthians 4:7
+
+> Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
+> — 1 Corinthians 8:1–2
+
+> For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
+> — Romans 12:3
+
+> Wherefore let him that thinketh he standeth take heed lest he fall.
+> — 1 Corinthians 10:12
+
+> But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble ... Humble yourselves in the sight of the Lord, and he shall lift you up.
+> — James 4:6, 10
+
+> When thou art bidden of any man to a wedding, sit not down in the highest room ... But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher ... For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
+> — Luke 14:8–11
+
+> Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word ... Thy word have I hid in mine heart, that I might not sin against thee.
+> — Psalm 119:9, 11
+
+> Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time.
+> — 1 Peter 5:5–6
+
+### For the fathers
+
+- **Ask the question Adonijah's father never asked.** *His father had not displeased him at any time in saying, Why hast thou done so?* An unchallenged son is a prepared rebellion.
+- **Do not promote a novice into a position he cannot yet carry.** *Lay hands suddenly on no man.* The young man's gift is not in question; his season is.
+- **Test the appetite for the next office.** Korah already had a place among those brought near. Ask your young men what they want, and listen carefully to the answer.
+- **And receive a correction that comes to your face.** Paul withstood Peter openly; Absalom stole the gate. **A house where the first is possible does not produce the second.**
+- **And do not be flattered by the young man who agrees with every complainant.** *Thy matters are good and right* is the most dangerous sentence a young leader can say, because he has neither heard the other party nor read the law.
+
+### For the young
+
+- **Keep the dream and let God deliver it.** Twenty-two years lay between Joseph's telling and his promotion, and the sentence he learned in the interval was *it is not in me.*
+- **Ask what you already have before demanding more.** *Seemeth it but a small thing unto you, that God hath separated you ... and seek ye the priesthood also?*
+- **Do not build a following out of other men's grievances.** *Absalom stole the hearts of the men of Israel*, and he did it at the gate, with compliments, before he ever spoke a word against the king.
+- **Refuse the monument.** Absalom had no son and built a pillar with his own name on it. **The covenant carries your name further than any stone you raise.**
+- **Distinguish resistance from rebellion, and let the test be your audience.** Say it to the man, in his presence, on a matter of truth — as Paul did — and not about him to everyone else.
+- **Remember the forty-two at Bethel.** The mockery of the anointed is not a small sin, and the office you despise today may be the one you will hold tomorrow.
+- **And hide the word in your heart, and let God do the lifting.** *Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time.*
+
+### Questions for reflection
+
+1. What have you been given that you have not yet been trusted with, and are you asking for the appointment or for the office?
+2. Where is your gate — the place where you meet other people's grievances without the authority to judge them?
+3. Which father's question was never asked of you, and which question are you refusing to ask of the young men under you?
+4. What monument have you already begun to build to your own name?
+5. When did you last take a correction to a man's face instead of discussing him with everyone else?
