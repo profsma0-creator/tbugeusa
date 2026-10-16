@@ -1,0 +1,349 @@
+<<<CHAPTER 34
+## Rehoboam: The Counsel of Elders Rejected
+
+**If the previous chapter examined the older generation's characteristic error, this one examines the younger's, and it is a real error and it is a grave one.**
+
+**Rehoboam inherited the largest and wealthiest kingdom in the region, and he lost two thirds of it in three days.**
+
+**And the loss was avoidable. The text says so. The elders told him what to say, the advice was sound, the request was reasonable, and the decision to reject the counsel was entirely his own.**
+
+**And yet the same text also says that the cause was from the Lord.** Both statements are in the record, in adjacent verses, and the way they are held together is the theology of this chapter.
+
+### The window of three days
+
+**And the account begins with a delegation and a request that every congregation should study.**
+
+*And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king ... And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying, Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee. And he said unto them, Depart yet for three days, then come again to me* (1 Kings 12:1, 3–5).
+
+**Look at what the people actually asked for, because it is not a rebellion.**
+
+**They asked for relief, and they offered service in exchange: *make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.***
+
+**And the request was just.** The Hebrew for *grievous* is *qasheh*, hard, severe. **Solomon's building programme had been funded by a levy of forced labour, and the burden had been carried by the northern tribes in particular.** The congregation is asking a new king for a lighter hand as the price of their allegiance.
+
+**Which is the ordinary request of a generation to the man who inherits them, and it is not unreasonable. It is the request of a people who will serve, and who are asking to be able to.**
+
+**And the young king's first act is correct: he asks for three days.**
+
+*Depart yet for three days, then come again to me.* **He took time to consult. He recognised that the decision required counsel. And in the interval he did the thing that every young leader should do and that almost none of them does — he went and asked the men who had been there before.**
+
+**And the fact that Scripture gives him exactly three days is not incidental, because three days is precisely the duration of the window in which wise counsel can still be acted on.** Whatever window a man has, it closes, and it closes on a date.
+
+### The counsel of the elders
+
+*And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people? And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever* (1 Kings 12:6–7).
+
+**Three observations about these men.**
+
+**The first is their qualification: *that stood before Solomon his father while he yet lived.***
+
+**They were his father's contemporaries, and they had watched a kingdom being built.** They knew the revenue, the labour levy, the size of the debt the nation had accumulated, the mood of the northern tribes during Solomon's last years, and probably the contents of the prophecies that had been spoken against the house. **They were the memory of the institution, and the memory was the only thing that could have told a young king what he was standing on.**
+
+**The second is the substance of their counsel, and it is startling: *if thou wilt be a servant unto this people this day.***
+
+**The Hebrew is *eved*, servant, and they are advising the king of Israel to adopt the posture of a servant toward his own subjects.** Not for a year, not as a policy: *this day*. **The counsel is that kingship in this nation, at this moment, is exercised by serving.**
+
+**And they prescribe the method in three verbs — serve them, answer them, speak good words to them.** Note that two of the three are about speech. **The elders understood that the substance of the concession mattered less than the manner of the answer.** A king who says the same thing as his father, in good words, and serves the people while saying it, has changed the temperature of the nation without surrendering anything.
+
+**And the third is the promise attached: *then they will be thy servants for ever.***
+
+**This is the wisdom of the tradition, and it is the wisdom that Paul would put at the centre of Christian leadership.** *For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake* (2 Corinthians 4:5). **The elders are stating the paradox that Christian ministry later takes for granted: the way up is down, the way to be obeyed is to serve, and the servant who is truly a servant is followed permanently.**
+
+**And the counsel was also simply accurate as an assessment of the situation.** Ten tribes had come to Shechem with a specific grievance and a conditional pledge. **They could be bound by a single day of graciousness, and they were otherwise lost.**
+
+**And note: the elders did not tell the king to compromise the law, or the worship, or the temple. The taxes, the labour levy and the tone of the royal answer were all within his lawful discretion.** That is what makes the rejection so culpable. **He was not asked to abandon a conviction. He was asked to give up an attitude.**
+
+### The counsel of the peers
+
+*But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him* (1 Kings 12:8).
+
+**The Hebrew for *forsook* is *azav*, to leave, abandon, let go.** And the verse records the abandonment before it records the consultation. **He had already decided, and then he gathered the second opinion he had wanted all along.**
+
+**Which is the ordinary machinery of a bad decision, and it must be named.** A man does not usually reject mature counsel by arguing with it. **He rejects it by collecting a second counsel that is more congenial, and then attributing his decision to the authority of consultation.**
+
+**And the qualification of the second group is the exact opposite of the first: *the young men that were grown up with him.***
+
+**They were his cohort.** They were the prince's companions, the sons of the court, formed in the same palace during the same years. **And whatever a cohort knows, it does not know the years before it. It has no memory of the building, because it was born in the finished building.**
+
+**And their recommendation is in the next verses, and its tone is worth examining closely, because tone is usually the whole of the issue in generational conflict.**
+
+*And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people ... thus shalt thou say unto them, My little finger shall be thicker than my father's loins. And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions* (1 Kings 12:10–11).
+
+**Consider what the young men did not do.** They did not address the request. **They did not weigh the burden or the finances or the loyalty of the tribes. They converted a petition about labour into a contest about strength, and they advised the king to establish his authority by increasing the load.**
+
+**And that is the characteristic error of an inexperienced cohort: it believes that authority is proven by severity, and it cannot imagine deference as anything other than weakness.**
+
+**A man who has watched his father govern for decades knows that the crown can afford to be gracious.** A man who has never carried the crown imagines that graciousness would be fatal to it. **And the sentence they put in the king's mouth — *my little finger shall be thicker than my father's loins* — is the language of a man who needs to be feared because he is not yet sure he is respected.**
+
+**And the phrase *with scorpions* is worse than the yoke.** The whip was a cord; the scorpion was a weighted lash with metal spikes. **They are advising not merely the perpetuation of the burden but its escalation, and the escalation is described in the specific vocabulary of pain.**
+
+**And the king delivered it: *And the king answered the people roughly, and forsook the old men's counsel that they gave him; and spake to them after the counsel of the young men* (1 Kings 12:13–14).**
+
+**He answered roughly.** The Hebrew is *qasheh*, the same word the people had used about the yoke. **They asked for the yoke to be made less *qasheh*, and the answer they received was *qasheh*.**
+
+**And the consequence came in a single verse, and it was permanent.**
+
+*So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents* (1 Kings 12:16).
+
+**There are two things to notice about the answer the people gave.**
+
+**The first is what triggered it: *when all Israel saw that the king hearkened not unto them.***
+
+**They did not react to the taxes and they did not react to the whips. They reacted to the refusal to hear.** The decisive injury was the closed door.
+
+**And the second is that the language is liturgical.** *What portion have we in David? neither have we inheritance in the son of Jesse* — these are the words of covenant loyalty, inverted. **A grievance about forced labour has become a rejection of the Davidic covenant itself, and it takes one verse to make the turn.**
+
+**Which is the practical warning for anyone who inherits a position in a house of God.** A resentful generation does not begin by rejecting your message. **It begins by asking to be heard, and if the answer is severity, the sentiment it then produces is not about your policy at all. It becomes a question about whether they belong to you at all.**
+
+**And note that the man who delivered the answer did not even get to watch the rebellion safely.** He sent Adoram, the minister in charge of the levy, and the people *stoned him with stones, that he died* (12:18), and the king fled to his chariot. **The first cost of the young counsellors' advice was paid by someone else.**
+
+### Why it was already too late
+
+**And now the verse that makes this chapter more than a case study in bad management.**
+
+*Wherefore the king hearkened not unto the people; for the cause was from the Lord, that he might perform his saying, which the Lord spake by Ahijah the Shilonite unto Jeroboam the son of Nebat* (1 Kings 12:15).
+
+**The division of the kingdom had been announced to Jeroboam before Rehoboam ever took the throne, and the announcement was a judgement for Solomon's apostasy.**
+
+*Take thee ten pieces: for thus saith the Lord, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee ... Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways* (1 Kings 11:31, 33).
+
+**So the division was decreed, and the decree was a punishment for the father's idolatry, and the son's folly was the instrument by which it was executed.**
+
+**And this produces two conclusions that must both be held.**
+
+**The first is that Rehoboam's decision was genuinely his, and the second verse of the same account says so.** *And the king answered the people roughly, and forsook the old men's counsel.* **He chose. He was not compelled. The narrative attributes the act to him and blames him for it, and the prophecy did not remove his agency — it described in advance what he would freely do.**
+
+**And the second is that the window had a deadline, and the deadline was set by God rather than by the king.**
+
+**Which is the uncomfortable lesson that wise counsel is frequently offered too late to prevent the thing it addresses, because the situation it is meant to fix was created years before the counsel was asked for.**
+
+**The elders did not fail. Their advice was correct, and it was given on request, and it would have worked — for a young king who had inherited an intact nation.**
+
+**But by the time Rehoboam sat down to consult, forty years of Solomon's compromise had already done their work.** The worship of Ashtoreth and Chemosh and Milcom had been tolerated in the kingdom; the high places had been left standing; the forced levy had strained the northern tribes for a generation; and the judgment had already been pronounced by a prophet in a field with a torn garment.
+
+**And a man who asks for counsel after a decade of neglect is asking a question to which the answer may no longer be available.**
+
+**So the practical instruction from this chapter runs in two directions at once. For the young man: take the counsel of the elders on the first day you have the question, and act on it while the answer still has room to work. And for the older man: give it before you are asked, because a counsel that is only offered when the crisis has arrived is a counsel that has run out of time.**
+
+### "He prepared not his heart"
+
+**And the Chronicler supplies the diagnosis of why the young man rejected the counsel, and it is one sentence, and it is a sentence that every young leader must read about himself.**
+
+*And he did evil, because he prepared not his heart to seek the Lord* (2 Chronicles 12:14).
+
+**The Hebrew for *prepared* is *kun*, and it means to establish, to set in order, to make firm.** The word is used of fixing a nail, arranging a table, establishing a throne, directing a way. **It is a deliberate act, and Rehoboam had not done it.**
+
+**And the object he had failed to prepare his heart for is stated: *to seek the Lord.***
+
+**So the defect is not stupidity and it is not inexperience.** He had a functioning mind and he had the best counsel in the kingdom standing in front of him. **His heart was not set in the direction of God, and therefore the counsel that required him to serve could not be received, and the counsel that flattered his strength could be.**
+
+**Which explains the mechanism of the bad choice, and it is a mechanism worth stating plainly: a man's counsel is chosen by his heart and not by his reason.**
+
+**The elders' advice was better in every measurable respect.** It was cheaper, it secured the allegiance of ten tribes, it was consistent with the law, and it had no risk attached. **And he still could not take it, because taking it would have required him to be a king who serves, and he had not prepared his heart to be that.**
+
+**And the proof that the defect was in the heart and not in the information is what happened next.** Two verses earlier the young men had *grown up with him*, which means Rehoboam had spent his whole life among men who thought as he did. **He did not choose his advisers in the palace that day; he had been assembling them for thirty years by the way he lived.**
+
+**Which is the practical point for any young man now reading this. Your counsel on the day of crisis will not be chosen on the day of crisis. It will be the men you have kept close, and the men you have kept close were selected by the heart you prepared or did not prepare.**
+
+### The name of his mother
+
+**And there is a detail in the record that appears twice, in both accounts, in a position that makes it impossible to overlook.**
+
+*Rehoboam was one and forty years old when he began to reign ... And his mother's name was Naamah an Ammonitess* (2 Chronicles 12:13).
+
+**Both the book of Kings and the book of Chronicles record the name of the queen mother, and both of them add the same designation: an Ammonite.**
+
+**And the Ammonites had been specifically excluded from the congregation of Israel.** *An Ammonite or Moabite shall not enter into the congregation of the Lord; even to their tenth generation shall they not enter into the congregation of the Lord for ever* (Deuteronomy 23:3).
+
+**So Rehoboam was the son of a marriage that the law had forbidden, contracted by his father in the years of his foreign-wife policy, and the fact is recorded in the official record of his reign.**
+
+**And the significance for our subject is not a moral judgement on the man for his mother's origin.** It is a statement about inheritance.
+
+**The father's compromise became the son's environment.**
+
+**Solomon married Ammonite women and built high places for their gods, and the son born of that arrangement reigned in a nation where those high places were standing, and the Chronicler's verdict is that this environment had not been resisted.**
+
+*And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done. For they also built them high places, and images, and groves, on every high hill, and under every green tree* (1 Kings 14:22–23).
+
+**Note the phrase *above all that their fathers had done***.
+
+**The son exceeded the father in the very sin the father had introduced.** And this is the ordinary arithmetic of inherited compromise: a father's tolerance becomes a son's practice, and a son's practice becomes a grandson's religion.
+
+**And the fourth point about Rehoboam is therefore about all of us who inherit anything. A young man does not start from zero, and he does not start from his own choices.** He starts from the environment his predecessors built, and his first act of leadership is to decide what to do with it.
+
+**Rehoboam strengthened it, defended it, and did not prepare his heart.**
+
+### The counsel not taken once is never taken again
+
+**And the last consequence of the three days is the longest, and it is the reason this chapter is in a book about the hidden architecture of generational revelation.**
+
+*So Israel rebelled against the house of David unto this day* (1 Kings 12:19).
+
+**The phrase *unto this day* means the division was still in place when the book was written, which is centuries later.** A three-day window, closed by a single speech, produced a permanent schism.
+
+**And the schism generated its own religion within a generation.**
+
+*And Jeroboam said in his heart, Now shall the kingdom return to the house of David ... Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt* (1 Kings 12:26–28).
+
+**Jeroboam had been given the kingdom by a prophecy, and he secured it with idols.** And the idols stood in Dan and Bethel for the whole life of the northern kingdom, and the phrase *the sin of Jeroboam the son of Nebat, who made Israel to sin* becomes a refrain in Kings across two hundred years.
+
+**So trace the chain.**
+
+**A father's apostasy produced the judgement. The judgement produced a prophet's announcement. The announcement produced a political opportunity. The young king's refusal to hear produced the division. And the division produced a rival worship that corrupted ten tribes for two centuries until Assyria carried them away.**
+
+**And the link between the first and last items in the chain was three days in Shechem, and a decision about tone.**
+
+**Which is the scale on which generational decisions operate.** The young man in that room did not think he was deciding an ecclesiology. **He thought he was deciding how firm to sound. And what he actually did was set the religious future of ten tribes.**
+
+### The mercy that remained
+
+**And the account does not end in unrelieved darkness, and the mercies in it teach us how God works with a reduction.**
+
+**The first mercy is that the war was stopped.**
+
+*Thus saith the Lord, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the Lord, and returned to depart, according to the word of the Lord* (1 Kings 12:24).
+
+**Rehoboam assembled a hundred and eighty thousand chosen men to reunite the kingdom by force, and a prophet told him not to, and he obeyed.**
+
+**So the same king who could not hear the elders in Shechem could hear the word of the Lord once the disaster had occurred.** And that is worth noting about an immature man: he may yet obey God directly and fail to obey him through men. **Even that is a mercy, and God used it to prevent a civil war.**
+
+**And the second mercy is a principle stated in the account of the invasion that followed.**
+
+*Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries* (2 Chronicles 12:8).
+
+**Judah would be subject to Egypt, and the stated purpose is educational: *that they may know my service, and the service of the kingdoms of the countries.***
+
+**Which is a divine answer to a generation that had rejected the counsel of serving.** The elders had offered Rehoboam the opportunity to learn servanthood voluntarily. **He refused it, and he was given a compulsory course in the same subject from a foreign king.**
+
+**This is one of the most recurring patterns in Scripture. When the easy form of a lesson is refused, the hard form of the same lesson is assigned. And the lesson is not changed; only the terms are.**
+
+**And the third mercy is that the reduction that remained was real.**
+
+*And the priests and the Levites that were in all Israel resorted to him out of all their coasts ... And after them out of all the tribes of Israel such as set their hearts to seek the Lord God of Israel came to Jerusalem, to sacrifice unto the Lord God of their fathers. So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon* (2 Chronicles 11:13, 16–17).
+
+**Note who came: the Levites, and then *such as set their hearts to seek the Lord God of Israel.***
+
+**The schism was a disaster for the nation and a purification of the worshippers.** The men who would have gone along in a compromised Jerusalem now had to choose, and the choosing sorted them. **And the ones who chose strengthened the house that remained.**
+
+**And note the duration: *three years.*** The remnant walked in the way of David and Solomon for three years, and the same king who was told at Shechem that three days of humbling would win him the tribes forever. **He had three days, and then three years, and then he stopped.**
+
+**Which is the saddest sentence about Rehoboam in the whole record:** *And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the Lord, and all Israel with him* (2 Chronicles 12:1).
+
+**He forsook it when he was strong.** He had obeyed the prophet, received the remnant, rebuilt the worship for three years — and then, once the kingdom was secure, he departed. **Which means the real defect was never the counsel he took in the three days. It was a heart that sought God in danger and did not seek Him in safety.**
+
+**And there is the final and most searching word about him:** *And he did evil, because he prepared not his heart to seek the Lord.*
+
+### The five elements of the counsel he refused
+
+**And the elders' advice should be reduced to its components, because a young man will receive advice in this form many times and will rarely recognise it.**
+
+**The first element is servanthood: *if thou wilt be a servant unto this people.*** The counsel demanded a posture, not a policy. **And any counsel that tells a young man to serve the people he is called to lead is the counsel of the elders, whoever is giving it.**
+
+**The second element is timing: *this day.*** The window is now, and it does not renew. **And the counsel that is urgent should be examined as to whether it is truly urgent, because the elders' urgency was real.**
+
+**The third element is speech: *answer them, and speak good words to them.*** Two of the three verbs concern the mouth. **The counsel includes the tone, and deliberate roughness was itself the error.**
+
+**The fourth element is duration: *then they will be thy servants for ever.*** The counsel promises a permanent settlement from a one-day concession. **Which means the counsel of the elders is always cheaper up front and always longer lasting, and this is its signature.**
+
+**And the fifth element is what the counsel does not do: it does not flatter, it does not escalate, and it does not treat the request for relief as a threat to be answered.** It answers the question that was actually asked.
+
+**And the contrast with the young men's counsel is exact on every point.** They demanded strength rather than service, they delivered it roughly, they promised nothing permanent, and they treated a request about labour as a referendum on the king.
+
+**Which gives a test that any young man can apply to any advice he receives, and it is a test on the advice and not on the adviser's age.** Does this counsel tell me to serve, or to be feared? **Does it commend the answer or the tone? Does it hold out a durable settlement, or a demonstration?**
+
+**And it should be said that the men whose advice is wise are not always old, and the fool in the book of Ecclesiastes is specified by disposition rather than by years: *Better is a poor and a wise child than an old and foolish king, who will no more be admonished* (Ecclesiastes 4:13).**
+
+**Note the criterion in that verse: *who will no more be admonished.***
+
+**The foolish king is not foolish because he is old. He is foolish because he has stopped being capable of receiving correction.** And Rehoboam, at forty-one, had already become that man — and the men who were *grown up with him* assisted him in it, because a cohort cannot correct a man any more than a man can correct himself.
+
+**And the proverb for the young man who has a father's friends available to him is one line, and it is the last word of this chapter: *Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity* (Proverbs 27:10).**
+
+**He had the sons of the court in his own house, and he went to them in the day of his calamity.** And the men who had stood before his father while he yet lived were left standing there.
+
+### Principles
+
+**First: the request of a generation asking for relief is not a rebellion, and it must be answered as a request.** *Make thou the grievous service of thy father ... lighter, and we will serve thee.* Ten tribes offered loyalty in exchange for a lighter hand.
+
+**Second: the elders are the institutional memory, and their qualification is that they stood before your father.** *The old men, that stood before Solomon his father while he yet lived.* The counsel that knows the years before you is not available from your own cohort.
+
+**Third: the counsel of the elders is servanthood, and its promise is permanence.** *If thou wilt be a servant unto this people this day ... then they will be thy servants for ever.* The signature of wise counsel is that it is cheaper now and durable later.
+
+**Fourth: severity is the counsel of men who have not yet been tested in the office.** *My little finger shall be thicker than my father's loins ... my father hath chastised you with whips, but I will chastise you with scorpions.* A man who has carried the crown can afford to be gracious.
+
+**Fifth: rejecting mature counsel usually happens by collecting a second opinion, not by argument.** *But he forsook the counsel of the old men, and consulted with the young men that were grown up with him.*
+
+**Sixth: the trigger of the break was not the burden but the refusal to hear.** *When all Israel saw that the king hearkened not unto them, the people answered ... What portion have we in David?* A closed door converts an administrative grievance into a question of belonging.
+
+**Seventh: a counsel given too late may be correct and unusable.** The elders were right and the cause was of the Lord, and the deadline had already been set by forty years of the previous reign. **Ask earlier, and give counsel before you are asked.**
+
+**Eighth: the choice of advisers is made before the crisis, by the way you have lived.** *He did evil, because he prepared not his heart to seek the Lord.* A heart not set on God cannot receive counsel that requires God's kind of kingship.
+
+**And ninth: the reduction that remains may be a purification.** The Levites and *such as set their hearts to seek the Lord* came to Jerusalem and strengthened the house that was left. God keeps a remnant when a house is divided, and the remnant is usually the part that was willing to choose.
+
+### The key scriptures in full
+
+> Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee. And he said unto them, Depart yet for three days, then come again to me.
+> — 1 Kings 12:4–5
+
+> And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people? And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.
+> — 1 Kings 12:6–7
+
+> But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him.
+> — 1 Kings 12:8
+
+> Thus shalt thou say unto them, My little finger shall be thicker than my father's loins. And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.
+> — 1 Kings 12:10–11
+
+> And the king answered the people roughly, and forsook the old men's counsel that they gave him; and spake to them after the counsel of the young men.
+> — 1 Kings 12:13–14
+
+> So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David.
+> — 1 Kings 12:16
+
+> Wherefore the king hearkened not unto the people; for the cause was from the Lord, that he might perform his saying, which the Lord spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.
+> — 1 Kings 12:15
+
+> And he did evil, because he prepared not his heart to seek the Lord.
+> — 2 Chronicles 12:14
+
+> And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the Lord, and all Israel with him.
+> — 2 Chronicles 12:1
+
+> Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries.
+> — 2 Chronicles 12:8
+
+> And after them out of all the tribes of Israel such as set their hearts to seek the Lord God of Israel came to Jerusalem, to sacrifice unto the Lord God of their fathers. So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
+> — 2 Chronicles 11:16–17
+
+> Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off.
+> — Proverbs 27:10
+
+> Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
+> — Ecclesiastes 4:13
+
+### For the fathers
+
+- **Give your counsel before it is asked for.** The elders were right and the deadline had already passed, because forty years of a previous reign had set it. A counsel that arrives at the crisis has often arrived too late.
+- **Say the request back to your young man before you answer it.** The tribes asked for relief and offered service. *When all Israel saw that the king hearkened not unto them* — the decisive failure was the refusal to hear.
+- **Teach your successor that authority is exercised by serving, and prove it by your own tenure.** *If thou wilt be a servant unto this people this day.* A son who has watched his father serve can receive that counsel; a son who has only seen him rule cannot.
+- **Watch the cohort you permit around your heir.** *The young men that were grown up with him.* Those men were selected over thirty years, and on the day of the crisis they were the counsel he already wanted.
+- **And know that your compromises will be your son's environment.** Rehoboam's mother is named in the official record as an Ammonitess, and he reigned among the high places his father had built. What you tolerate, he will inhabit.
+
+### For the young
+
+- **Ask the men who stood before your father, and ask them first.** *Thine own friend, and thy father's friend, forsake not.* The memory of the institution is not available from your peers.
+- **Do not ask a second counsel in order to disobey the first.** *He forsook the counsel of the old men ... and consulted with the young men that were grown up with him.* The sequence is recorded, and it is the standard procedure for a bad decision.
+- **Test advice by its direction, not its tone or its age.** Does it tell you to serve or to be feared? Does it promise permanence or a demonstration?
+- **Never make the yoke heavier to prove you are not weak.** *My father hath chastised you with whips, but I will chastise you with scorpions.* Severity in a new leader is almost always the sound of a man who is not yet sure.
+- **Answer the grievance as a grievance.** *Answer them, and speak good words to them.* Two of the three verbs the elders used were about your mouth, and your tone is more of a decision than your policy.
+- **Prepare your heart, and do it before the day you need counsel.** *He did evil, because he prepared not his heart to seek the Lord.* Your advisers on the day of the crisis were chosen by the life you lived before it.
+- **Do not forsake the law of the Lord when the kingdom is secure.** *When Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the Lord.* Prosperity is the test that no crisis administers.
+
+### Questions for reflection
+
+1. Who in your life is the equivalent of the old men who stood before your father, and when did you last ask them anything?
+2. When you have rejected wise counsel, did you argue with it or gather a more agreeable opinion?
+3. What in your manner of answering has convinced a generation that they have no portion in you?
+4. Is there a lesson in serving that you refused to learn voluntarily and are now learning under compulsion?
+5. What have you inherited from your father's compromises, and what are you going to do with it rather than defend it?
