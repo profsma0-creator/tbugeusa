@@ -1,0 +1,11 @@
+# build output
+book.pdf
+*.aux
+*.log
+
+# python
+__pycache__/
+*.pyc
+
+# scratch
+/tmp/
