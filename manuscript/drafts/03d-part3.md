@@ -1,5 +1,5 @@
 <<<CHAPTER 16
-## Timothy: A Young Man in the Shadow of Paul
+
 
 There is a particular kind of loneliness that belongs to the young person who is attached to a great man, and the New Testament does not hide it. Timothy spent roughly fifteen years beside the most consequential apostle in the history of the church, was named as co-author of six of his letters, and was trusted with the hardest assignments Paul had to give. And the letters Paul wrote to him are full of instructions that only make sense if Timothy was struggling.
 

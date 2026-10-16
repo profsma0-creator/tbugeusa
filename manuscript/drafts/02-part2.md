@@ -1,5 +1,5 @@
 <<<CHAPTER 6
-## The Ancient School of Seeing
+
 
 There is a parenthetical remark in the first book of Samuel, dropped into the narrative as an aside, which tells us more about the pre-monarchic religion of Israel than any formal description could.
 

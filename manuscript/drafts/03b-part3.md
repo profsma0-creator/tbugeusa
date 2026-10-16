@@ -1,5 +1,5 @@
 <<<CHAPTER 14
-## Jeremiah: "I Am a Child"
+
 
 There is no book in Scripture in which the interior life of a prophet is exposed as completely as in Jeremiah. He is the only prophet whose prayers we possess at length, and the prayers are not dignified. He accuses God of deceiving him, curses the day of his birth, wishes he had died in the womb, and complains that his calling has made him a laughing-stock. He also weeps, for forty years, over a nation that will not listen.
 

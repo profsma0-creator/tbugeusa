@@ -1,5 +1,5 @@
 <<<CHAPTER 10
-## David: The Young Man Who Saw What the Army Could Not See
+
 
 The story of David and Goliath is the best-known narrative in the Old Testament and, quite possibly, the most thoroughly misunderstood. It has been reduced to a proverb about underdogs, a lesson in self-confidence, and a template for corporate motivational speaking. None of these readings survives contact with the text.
 
@@ -182,7 +182,7 @@ And Scripture records both, because both are true, and because every generation 
 ---
 
 <<<CHAPTER 11
-## Elisha and the Mantle of Succession
+
 
 The phrase *passing the mantle* has entered the common vocabulary of institutions, largely by way of this narrative, and mostly with a meaning that the narrative does not support. In common usage it means the transfer of authority from a retiring leader to a designated successor, and it carries a note of ceremony and completion.
 
@@ -337,7 +337,7 @@ And the promise attached to that road is astonishing: *Where is the Lord God of 
 ---
 
 <<<CHAPTER 12
-## Daniel and the Young Captives Who Outlived Babylon's Wisdom
+
 
 Of all the narratives in the Old Testament, the book of Daniel is the one that most directly addresses the situation of a young person living inside a hostile institution — and its answer is neither assimilation nor withdrawal. It is something much more precise, and it is worth examining carefully, because it is the model for every believer who will spend a career inside a system that does not share his convictions.
 

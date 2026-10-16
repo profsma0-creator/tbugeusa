@@ -1,5 +1,5 @@
 <<<CHAPTER 13
-## "Out of the Mouth of Babes": God's Preference for the Unexpected
+
 
 There is a pattern in Scripture so consistent, so widely distributed across its genres and centuries, and so scandalous to every settled institution, that it cannot be treated as an accident of storytelling. Again and again, when God intends to do something decisive, He selects the person every competent observer would have passed over — and He does it in a way that leaves no room for anyone to claim credit for the outcome.
 

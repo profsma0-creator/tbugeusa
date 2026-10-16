@@ -1,5 +1,5 @@
 <<<CHAPTER 15
-## Josiah: The Boy King Who Rediscovered the Book
+
 
 In the year 640 BC, a boy of eight years old was placed on the throne of Judah. His father had been assassinated after two years of misrule, his grandfather had reigned for fifty-five years and had been the worst king in the nation's history, and the temple built by Solomon was standing in Jerusalem with altars to Baal inside its courts.
 

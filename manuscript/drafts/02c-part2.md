@@ -1,5 +1,5 @@
 <<<CHAPTER 9
-## Samuel: When the Child Heard What the Priest Could Not Hear
+
 
 The third chapter of 1 Samuel is one of the most carefully constructed narratives in the Old Testament, and its craftsmanship is not decoration. The narrator has arranged every detail to make an argument about how a generation loses the capacity to hear God, and how it can be recovered.
 

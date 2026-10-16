@@ -1,5 +1,5 @@
 <<<CHAPTER 7
-## When God Hides a Mystery in a Generation
+
 
 There is a verse in Deuteronomy that functions as a fence around the whole subject of revelation, and it is easy to read past it because it is so neatly balanced.
 
@@ -102,7 +102,7 @@ That is what a generation does with a mystery it cannot resolve. It keeps the re
 ---
 
 <<<CHAPTER 8
-## Joseph: The Young Dreamer in the House of His Fathers
+
 
 There is no story in the Old Testament that is longer, and none that treats the relation between a revelation and a generation with such sustained attention. The account of Joseph occupies fourteen chapters of Genesis — more than the entire account of creation, fall and flood combined — and its central subject is not famine, or Egypt, or even forgiveness. Its central subject is a word of God given to a young man, and what that word does to a family.
 

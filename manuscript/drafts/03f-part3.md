@@ -1,5 +1,5 @@
 <<<CHAPTER 18
-## "Let No Man Despise Thy Youth"
+
 
 This chapter is the hinge of the book. The three parts that precede it have established that God works across generations, that He reveals mysteries to the young that the old cannot see, and that He chooses the unexpected. This chapter turns the argument around and asks the question that all of it raises: **if God consistently entrusts His word to the young, what is required of the young who receive it?**
 

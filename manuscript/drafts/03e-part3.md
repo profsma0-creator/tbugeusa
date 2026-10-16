@@ -1,5 +1,5 @@
 <<<CHAPTER 17
-## Titus and the Theology of Spiritual Reproduction
+
 
 There is a man in the New Testament who is never mentioned in the book of Acts, who appears in only thirteen verses of the letters that bear his name, and whom Paul trusted with three of the most difficult assignments recorded in the apostolic church. He is not the subject of a single miracle, a single sermon, or a single controversy of his own. He exists in the record almost entirely as the man Paul sent.
 
