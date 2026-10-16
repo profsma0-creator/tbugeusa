@@ -1,0 +1,154 @@
+<<<CHAPTER 9
+## Samuel: When the Child Heard What the Priest Could Not Hear
+
+The third chapter of 1 Samuel is one of the most carefully constructed narratives in the Old Testament, and its craftsmanship is not decoration. The narrator has arranged every detail to make an argument about how a generation loses the capacity to hear God, and how it can be recovered.
+
+We will take the chapter in order, because its order is the argument.
+
+### The condition of the institution
+
+The chapter opens with a sentence about a national condition, and its two halves are deliberately placed in tension.
+
+*And the child Samuel ministered unto the Lord before Eli. And the word of the Lord was precious in those days; there was no open vision* (1 Samuel 3:1).
+
+*Precious.* The Hebrew word is *yaqar*, and it denotes something rare, costly, hard to obtain. The narrator is not saying that God had ceased to speak. He is saying that a word from God had become a scarce commodity — the kind of thing people traded in, the kind of thing men travelled to hear.
+
+And then the second clause, which tells us the mechanism of the scarcity: *there was no open vision*. The phrase is *ein chazon niphrats*, and *niphrats* is a word with a strong sense of breaching, breaking through, bursting out. The vision was not breaking through. It was not, as we would say, going out. The channel was blocked.
+
+Now, the crucial question is: blocked on which side?
+
+The chapter will answer it, and the answer is not what a modern reader expects. It was not that God had withdrawn. It was that the human end of the channel had become unusable.
+
+### The condition of the priest
+
+*And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see* (1 Samuel 3:2).
+
+Here we have the first of two men and the first of two beds, and the narrator is careful to give us the physical particulars of each. Eli is old, and his eyes are failing. He lies down in *his place* — the phrase suggests the settled, habitual position of a man who has slept there for decades.
+
+And then: *and ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep* (1 Samuel 3:3).
+
+The lamp. The seven-branched lampstand in the holy place was to burn from evening until morning (Exodus 27:20–21; Leviticus 24:2–3). The Aaronic blessing of Numbers 6:24–26 speaks of the Lord making His face to shine. The lamp is the symbol of the divine presence and the divine light, and the narrator tells us it had not yet gone out.
+
+That detail is doing two things at once. It is a note about the time of night — it is not yet dawn, so the events are happening in the last hours of darkness. And it is a metaphor the reader is meant to hear: the lamp of God in Israel was still burning, but the dawn was close, and the priest's eyes had already failed.
+
+Two men in the same building. An old man whose eyes cannot see and a child whose ears have not yet been opened. The institution is still functioning — the lamp is lit, the ark is in place, the priests are on duty — and the word of the Lord is not coming through.
+
+This is what institutional decline looks like from the inside. It does not look like collapse. It looks like a lamp that has not gone out yet, tended by a man who can no longer see what it illumines.
+
+### The four calls
+
+Now the narrative proper, and its structure is a device: four calls, and the child misreads the first three.
+
+*That the Lord called Samuel: and he answered, Here am I. And he ran unto Eli* (1 Samuel 3:4–5).
+
+Note the verbs. The Lord *called*. Samuel *answered*. And then Samuel *ran*. The child's mistake is not laziness or indifference; it is an excess of the right instinct. He hears a voice, and his response is to serve the man he believes must have called him. He is running to the wrong address with the right intention.
+
+Three times this happens. And the text gives us the explanation in the middle of it: *Now Samuel did not yet know the Lord, neither was the word of the Lord yet revealed unto him* (1 Samuel 3:7).
+
+That sentence deserves close attention, because it is one of the most important statements in the Old Testament about spiritual formation. Samuel is described as:
+- ministering to the Lord before Eli (3:1);
+- sleeping in the temple of the Lord where the ark was (3:3);
+- and yet *not knowing the Lord*, and having no word revealed to him.
+
+He is *religious* without being *acquainted*. He has the position and not the relationship. This is precisely what the narrator wants us to see, because it means that the crisis of the passage is not a crisis of the young man's zeal. It is a crisis of instruction. Samuel could not recognise the voice of God because nobody had ever taught him what it sounded like.
+
+### What Eli did right
+
+And here the story turns, because Eli — old, blind, and presiding over a failing house — does something absolutely correct, and it is the hinge of the whole chapter.
+
+*Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth* (1 Samuel 3:9).
+
+Consider what this sentence accomplishes. Eli does not claim to have heard the voice. He does not dispute the child's experience. He does not tell Samuel that he must have been dreaming, or that children do not receive revelations, or that the word of the Lord is precious and rare and that the boy is mistaken about the whole business. He takes the child's report seriously, and he gives him the words with which to answer.
+
+This is the mechanism of generational transmission in its purest form, and it is worth stating exactly: **Eli could not hear the voice himself, but he could teach someone else how to answer it.**
+
+He gives Samuel five words. *Speak, Lord; for thy servant heareth.* And in giving them, he gives the boy everything he needs. He gives him:
+- the *address* — that it is the Lord, and not the priest, who is speaking;
+- the *posture* — that of a servant;
+- the *consent* — that the proper response to God's approach is availability rather than negotiation.
+
+It is a curriculum in five words. And Eli, whose own sons were destroyed for their wickedness and whose own ears had grown dull, is the man who wrote it.
+
+This is the reason this chapter belongs in a book about generational revelation, and it is also the reason the chapter is so uncomfortable. Eli's failure as a father is the cause of the crisis. And Eli's faithfulness as a teacher is the mechanism of the recovery. The same man is both.
+
+### The word that came
+
+*And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth* (1 Samuel 3:10).
+
+Note the change in the divine approach. In the first three calls, the text says simply *the Lord called*. In the fourth, *the Lord came, and stood*. There is a physicality to the fourth call that was absent from the others. The divine initiative is not merely repetitive; it *intensifies*.
+
+And the double name — *Samuel, Samuel* — is a recurring feature of momentous callings in Scripture. Abraham, Abraham (Genesis 22:11). Moses, Moses (Exodus 3:4). Martha, Martha (Luke 10:41). Saul, Saul (Acts 9:4). The doubling indicates urgency and intimacy at once.
+
+And the answer is the one Eli supplied. The child repeats the teacher's words, and the words work.
+
+### The content of the revelation
+
+We must now look at what God actually said, because it is not what a young man would wish to hear on the first night of his prophetic ministry.
+
+*Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle. In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end. For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not* (1 Samuel 3:11–13).
+
+The first revelation given to the new prophetic era is a judgment on the old one. And not a vague judgment: a specific pronouncement against the household of the man who had, hours earlier, taught Samuel how to answer the voice of God.
+
+Consider the position this put the child in. He has been given a word that will destroy his teacher's family. He knows it. He must decide whether to deliver it. And he is about to be asked in the morning what the Lord said.
+
+The narrator preserves the moment with a restraint that is almost unbearable.
+
+*And Samuel lay until the morning, and opened the doors of the house of the Lord. And Samuel feared to shew Eli the vision. Then Eli called Samuel, and said, Samuel, my son. And he answered, Here am I. And he said, What is the thing that the Lord hath said unto thee? I pray thee hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee* (1 Samuel 3:15–17).
+
+*Samuel feared to shew Eli the vision.* The young man's instinct is to protect the older man from the word of God. And Eli, invoking a curse on himself if Samuel withholds anything, insists on hearing it in full.
+
+This is the moment the book has been describing from the beginning, and it is worth naming its components.
+
+**The older man asked to hear the whole word, including its judgment on himself.** Eli does not say, *tell me the encouraging parts*. He does not say, *I am old, and this is no time for bad news*. He does not accuse Samuel of presumption. He asks for everything, and he attaches a curse to any withholding.
+
+**The younger man was afraid of the cost of speaking.** And this is exactly the fear that God had addressed in Jeremiah's commissioning: *Be not afraid of their faces.*
+
+**And Eli accepted the verdict.** *And he said, It is the Lord: let him do what seemeth him good* (1 Samuel 3:18).
+
+That sentence is the sound of an older generation stepping aside. It is not resignation; it is submission. The old priest has heard that his house is finished, and he acknowledges the justice of it, and he does not attempt to manoeuvre.
+
+### The transmission of the office
+
+And now the outcome. Three verses, and each is a statement about the recovery of prophetic hearing.
+
+*And Samuel grew, and the Lord was with him, and did let none of his words fall to the ground.* (3:19)
+
+The phrase *let none of his words fall to the ground* is a way of saying that everything Samuel said proved true. It is the authentication of a prophet by fulfilment, which is precisely the criterion of Deuteronomy 18:22.
+
+*And all Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of the Lord.* (3:20)
+
+The recognition is corporate and national. *From Dan to Beersheba* is the full geographic extent of the land — the conventional way of saying from the northernmost to the southernmost point. The whole people recognises what has happened.
+
+*And the Lord appeared again in Shiloh: for the Lord revealed himself to Samuel in Shiloh by the word of the Lord.* (3:21)
+
+And that is the sentence that matters most. *The Lord appeared **again**.* The condition described in verse 1 — *there was no open vision* — has been reversed, and the reversal takes place in the same building, at the same shrine, with the ark in the same position and the lamp burning as it had always done.
+
+**What was missing was not the presence of God. What was missing was a man who could hear.**
+
+### The principles this chapter establishes
+
+We can now state what Samuel 3 teaches about generational revelation, and there are five principles, each of which contradicts something commonly held.
+
+**First, the decline of a spiritual institution is a matter of hearing rather than of resources.** Shiloh in verse 1 had the tabernacle, the ark, the priesthood, and the lamp. It was not a poor institution. It was a deaf one.
+
+**Second, the inability to hear is transmitted as surely as the ability to hear.** Eli could not perceive the voice of God, and Samuel, who slept in the same building, did not know what the voice sounded like. The son of a failed father is not neutral. He inherits the deafness until someone intervenes.
+
+**Third, the intervention can come from the failed generation itself.** Eli was the weak link, and Eli taught the child the words. A man who has lost his own hearing may still be able to teach another man how to listen, and Scripture records no reluctance on God's part to use such a man.
+
+**Fourth, the new generation must be willing to deliver a word against the old.** This is the cost of the office, and it is the subject of the next several chapters of this book.
+
+**Fifth — and this is the point that must be stated most carefully — the transmission is not a replacement.** Samuel does not replace Eli. He succeeds him. The tabernacle continues; the priesthood continues; the offerings are made; and when Samuel leads Israel he leads them as a prophet and a judge in a nation where the sanctuary still functions. The record does not include Samuel building a rival institution.
+
+That is the shape of renewal in Scripture. A voice is restored within the structure, not by the destruction of it. And this distinguishes the biblical pattern from the pattern of every generation that has decided to begin again from nothing.
+
+### The boy who had to answer
+
+We should end where the narrator ends, with a detail that is easy to overlook.
+
+The first words out of Samuel's mouth when the voice came were the words of a servant answering a superior: *Here am I.* And he ran to Eli. And the last words out of his mouth in that night's story are the same as the first: *Here am I* (1 Samuel 3:4, 5, 6, 8, 16).
+
+Five times in one chapter, the same answer. And it is worth seeing that the answer *Here am I* is itself a prophetic word — it is what Isaiah says when he sees the Lord high and lifted up: *Here am I; send me* (Isaiah 6:8). And what Abraham says on Moriah (Genesis 22:1). And what Moses says at the burning bush (Exodus 3:4).
+
+Samuel's availability preceded his knowledge. He could not recognise the voice, and he was already answering it. That is very close to the definition of faith, and it is what makes the rest of his life possible — a man who says *Here am I* to a voice he does not recognise, until he knows the voice, and says it still.
+
+The old priest taught him the words. The young man said them. And in the saying of them, an entire generation of hearing was recovered.

@@ -48,11 +48,20 @@ def esc(s: str) -> str:
     return re.sub(r"&(?!(?:amp|lt|gt|nbsp|quot|apos|#\d+);)", "&amp;", s)
 
 
+_IT = r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])"
+
+
+def _bold(m: re.Match) -> str:
+    """**bold**, allowing a single-asterisk italic inside the span."""
+    inner = re.sub(_IT, r"<i>\1</i>", m.group(1))
+    return "<b>" + inner + "</b>"
+
+
 def inline(s: str) -> str:
     s = esc(s)
     s = re.sub(r"\*\*\*(.+?)\*\*\*", r"<b><i>\1</i></b>", s)
-    s = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
-    s = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<i>\1</i>", s)
+    s = re.sub(r"\*\*(.+?)\*\*(?!\*)", _bold, s)
+    s = re.sub(_IT, r"<i>\1</i>", s)
     s = re.sub(r"(?<![\w_])_(?!\s)(.+?)(?<!\s)_(?![\w_])", r"<i>\1</i>", s)
     s = re.sub(r"\^\{([^}]+)\}", r"<super>\1</super>", s)
     s = re.sub(r"~\{([^}]+)\}", r"<sub>\1</sub>", s)
