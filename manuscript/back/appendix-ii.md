@@ -1,5 +1,3 @@
-### The Generational Transitions of Scripture
-
 Ten transitions, each stated in the same four lines: what was handed over, what the receiver had to do, what went wrong, and what Scripture says about the outcome.
 
 #### 1. Abraham → Isaac

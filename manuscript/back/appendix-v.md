@@ -1,5 +1,3 @@
-### Scriptures on Fathers, Sons, Elders and Youth
-
 A thematic index of the passages most directly concerned with the relations between generations.
 
 #### On fathers

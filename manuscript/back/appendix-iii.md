@@ -1,5 +1,3 @@
-### Biblical Profiles of Young People Used by God
-
 Each profile below follows the same shape: the age or stage at which the person appears, the revelation they carried, the opposition they met, and what became of the word in their hands.
 
 #### Joseph

@@ -1,5 +1,3 @@
-### A Biblical Theology of Generational Revelation
-
 The passages below are arranged by theme rather than by canonical order, so that a reader who wishes to trace a single thread through the whole canon may do so. References are to the Authorized Version.
 
 #### The duty to transmit

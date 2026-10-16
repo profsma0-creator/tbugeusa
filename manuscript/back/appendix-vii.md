@@ -1,5 +1,3 @@
-### Questions for Fathers, Mentors and Elders
-
 These are intended for personal examination, for use in an eldership, or for a study group. They are deliberately uncomfortable; a question that everyone can answer immediately is of little use.
 
 #### On what is in your hands

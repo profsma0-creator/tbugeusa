@@ -1,5 +1,3 @@
-### A Framework for Generational Discernment
-
 Seven distinctions, each of which is regularly collapsed in practice. The right-hand column in each case is not the opposite of the left; it is the thing most easily mistaken for it.
 
 #### 1. Inheritance from assignment

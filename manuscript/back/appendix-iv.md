@@ -1,5 +1,3 @@
-### Biblical Profiles of Fathers and Mentors
-
 A companion to Appendix III, with the same method applied to the older generation.
 
 #### Abraham

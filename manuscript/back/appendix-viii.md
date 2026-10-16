@@ -1,5 +1,3 @@
-### Questions for the Young
-
 These are addressed to the reader who is in the receiving position, and they assume that the reader takes both halves of this book seriously: the genuine responsibility of the young to carry what they have been given, and the genuine danger of youthful presumption.
 
 #### On receiving

@@ -1,5 +1,3 @@
-### Primary Sources
-
 The Holy Bible, Authorized (King James) Version, 1769 standard text. Quotations throughout are taken from this version, which is in the public domain. Verse text has been verified against the standard 1769 edition.
 
 *The Greek New Testament*, Nestle-Aland, 28th edition. Used for lexical and textual checks.
