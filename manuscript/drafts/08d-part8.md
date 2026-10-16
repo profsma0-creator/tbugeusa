@@ -1,0 +1,387 @@
+<<<CHAPTER 48
+## When the New Generation Finds the Old Book
+
+**And now the case that every generation of believers has imagined for itself, and that has happened in fact more than once: a young man finds a book his fathers had stopped reading.**
+
+**The setting is the temple in Jerusalem in the eighteenth year of a king who was twenty-six years old.** The building had been standing for more than three hundred years. **It had an altar, a priesthood, a treasury, a staff of carpenters, masons and door-keepers, an annual calendar and an income.** It was functioning.
+
+**And in one of its rooms, in a chest or a recess, there had lain for decades or generations a scroll that the institution had not read.**
+
+**And when it was found and read aloud to the king, the king tore his clothes, and the nation's entire religious life was rearranged in a few months.** And a woman was consulted, and the answer she gave was that the destruction was now fixed and could not be reversed, **and that the king himself would be spared the sight of it because he had wept.**
+
+**Which is the passage this chapter must work through with unusual care, because the ending is not the ending that a devotional account of revival would supply.**
+
+### The father who undid the reform
+
+**And the first thing to establish is the state of the inheritance Josiah received, because the condition of the temple in his day was not caused by pagans or by neglect across centuries. It was caused by the two generations immediately before him.**
+
+**His great-grandfather was Ahaz, whose reign the record describes in terms of deliberate apostasy, including the closing of the doors of the house of the Lord (2 Chronicles 28:24).**
+
+**His grandfather was Hezekiah, and Hezekiah was one of the best kings Judah ever had.**
+
+*He trusted in the Lord God of Israel; so that after him was none like him among all the kings of Judah, nor any that were before him. For he clave to the Lord, and departed not from following him, but kept his commandments, which the Lord commanded Moses. And the Lord was with him; and he prospered whithersoever he went forth* (2 Kings 18:5–7).
+
+**He broke the brazen serpent that Moses had made, because the children of Israel were burning incense to it (18:4). He opened and repaired the temple. He kept the Passover. He withstood Assyria.**
+
+**And his son was Manasseh, who reigned fifty-five years, and who is described by the record as the worst of the kings of Judah:**
+
+*For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them ... But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel ... Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another* (2 Kings 21:3, 9, 16).
+
+**Hezekiah's reform was dismantled by his own son, deliberately and completely, within a single reign.**
+
+**And Hezekiah's own failure in this matter is recorded plainly, and it belongs in this chapter because it is a warning about how a good king prepares for his succession.**
+
+*And Hezekiah said unto Isaiah, Good is the word of the Lord which thou hast spoken ... For he said, Is it not good, if peace and truth be in my days?* (2 Kings 20:19).
+
+**Peace and truth in my days.**
+
+**Which is the sentence of a leader who has secured his own tenure and not his inheritance.** The word of God had told him that everything in his house would be carried to Babylon, and his response was that the calamity would not happen in his lifetime.
+
+**And the record of Manasseh is the fruit of that arrangement.**
+
+**And the last element of Manasseh's life is a genuine repentance, and its limits are as instructive as the sin.**
+
+*And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers, and prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the Lord he was God ... And he took away the strange gods, and the idol out of the house of the Lord ... and he repaired the altar of the Lord* (2 Chronicles 33:12–16).
+
+**The worst king in Judah's history repented and was received.**
+
+**And the nation was not reformed by it.** The high places remained; the people continued to sacrifice at them (2 Kings 21:17 context; 2 Chronicles 33:17); and the record of the fall of Jerusalem attributes the destruction to *the sins of Manasseh* and to *the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the Lord would not pardon* (2 Kings 24:3–4).
+
+**Which is one of the most sobering doctrines in Scripture.**
+
+**A man may end his life in genuine repentance and the institutional damage he caused may not be repaired for generations.**
+
+**And the reason is not that God withheld forgiveness.** Manasseh was intreated and brought back. **The reason is that a generation had been taught, over fifty-five years, that idolatry was the religion of the state, and a decree of repeal does not unteach a nation.**
+
+**Which means that when a younger generation inherits a ruin, the ruin may be recent, may be the work of one long reign, and may have been left in place by a repentant man who died before he could undo what he had built.**
+
+### The four dates of the young king
+
+**And into that condition a boy of eight was placed on the throne, and the record of the next eighteen years is a sequence, and the sequence is the instruction of this chapter.**
+
+*Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem ... And he did that which was right in the sight of the Lord, and walked in all the way of David his father, and turned not aside to the right hand or to the left* (2 Kings 22:1–2).
+
+**And the chronicler supplies the chronology:**
+
+*For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images* (2 Chronicles 34:3).
+
+**Four dates, and every one of them matters.**
+
+**At eight he was crowned.** A child on the throne of a nation that had spent five decades in organised apostasy, **which means the decisions of his first years were made by others and he inherited their arrangements.**
+
+**At sixteen *he began to seek after the God of David his father*** — the phrase specifically names the founder of his line and not his own father Amon, who was assassinated at twenty-four after two years of evil. **The boy went past his father to his father's father's father, and attached himself to a man six generations dead.**
+
+**Which is the first lesson. When a young man's immediate inheritance is worthless, he must reach past it, and Scripture permits him to.**
+
+**At twenty *he began to purge*** — the high places, the groves, the carved images, the molten images. He was old enough to act and young enough to be thorough, **and the purge preceded the book.**
+
+**And at twenty-six he repaired the temple, and the book was found.**
+
+**Which means that Josiah did not find the book in order to begin. He had been seeking God for ten years and purging the land for six before he read a line of it.**
+
+**And that sequence has a doctrinal consequence that must be stated. The book did not create his devotion; it corrected and authorised it.** He had been doing the right things by the light he had, **and the discovery of the law told him what he had been missing and gave him a standard and a sanction.**
+
+**Which is the ordinary way in which a generation's reform begins — with a disposition toward God that predates any accurate knowledge of the means, and a subsequent encounter with the text that converts the disposition into an obedience with a reason.**
+
+### The room where the book was kept
+
+**And the manner of the discovery is told with a plainness that is almost comic, and it is entirely deliberate.**
+
+**The king sent Shaphan the scribe to Hilkiah the high priest with an administrative instruction: take the silver that the door-keepers have collected, and pay the workmen — carpenters, builders, masons, and men to buy timber and hewn stone for the repair of the house (22:4–6).**
+
+**And the record adds a financial detail that most readers skip and which deserves attention:**
+
+*Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully* (2 Kings 22:7).
+
+**No audit, because the men were trustworthy.**
+
+**Which is a small proof that the reform was producing men, and not merely a building.** And it is a fair test of any generation's work: **can the money be handed to the workers without an accounting, because the workers deal faithfully?** Josiah's administration passed that test in the middle of a national religious crisis.
+
+**And then the sentence, delivered in the middle of a progress report:**
+
+*And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the Lord. And Hilkiah gave the book to Shaphan, and he read it* (2 Kings 22:8).
+
+**I have found the book of the law in the house of the Lord.**
+
+**Note what the sentence does not say. It does not say the book was hidden, or stolen, or burned, or taken to Babylon, or buried by the enemy.** It was found *in the house of the Lord.*
+
+**Which means the deposit was not lost abroad. It was lost at home, in the building where it belonged, under the care of the men whose office was to keep it.**
+
+**And the high priest's report is delivered as an administrative item.** He mentions it in the same breath as the silver and the workmen. **Which is exactly how a lost book is discovered: by a workman clearing a room during a repair, and by the priest who was accountable for that room reporting the find as a piece of housekeeping.**
+
+**And then Shaphan the scribe read it — first to himself, and then, by the king's own audience, to the king.**
+
+*And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king. And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes* (2 Kings 22:10–11).
+
+**Which means that the first thing the book did was to convict the man who heard it read.**
+
+**And the king's diagnosis, spoken by a man of twenty-six about his own nation, is a generational diagnosis, and it names the fathers:**
+
+*Go ye, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us* (2 Kings 22:13).
+
+**Our fathers have not hearkened.**
+
+**He was not accusing his contemporaries.** He had already been purging the land for six years and had the evidence in front of him that the people's practice was what their fathers had taught them. **And he named the source of the problem accurately and without bitterness, and then sent men to ask God what to do about it.**
+
+**Which is the right posture for a young man who finds the book his fathers had neglected.** The discovery of the fathers' failure is not the same as the discovery of the fathers' fault; **and the son who reads accurately what God has said is not thereby licensed to despise the men who did not read it.**
+
+### The woman who was consulted
+
+**And the delegation that went to enquire went to a prophetess, and the detail is preserved in full.**
+
+*So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her. And she said unto them, Thus saith the Lord God of Israel, Tell the man that sent you to me* (2 Kings 22:14–15).
+
+**Five men, including the high priest and the secretary of state, went to a woman in Jerusalem for the word of God.**
+
+**And note that the text supplies her domestic identity — the wife of the keeper of the wardrobe — and her location in the college, and then does something more significant: it records her as the person through whom God answered a national crisis.**
+
+**Which ought to have settled the question of women in the prophetic function of the house of God for every generation that reads this chapter.** The men in charge of the reform did not hesitate, did not apologise, and did not go looking for a prophet elsewhere. **They went to her, and they obeyed what she said.**
+
+**And the answer she gave is not good news, and it is delivered in two parts.**
+
+**The first part is about the nation, and it is final:**
+
+*Thus saith the Lord, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read: because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched* (2 Kings 22:16–17).
+
+**Shall not be quenched.**
+
+**The judgement was fixed, and the finding of the book did not reverse it, and the reform that followed did not reverse it.**
+
+**Which is a doctrine of the most serious kind, and the whole account of Judah's last decades depends on it.** A generation can obey God with great thoroughness and still not escape a judgement that has already been determined upon the nation it belongs to.
+
+**And the second part of the answer is about the king, and it is mercy:**
+
+*But to the king of Judah which sent you to enquire of the Lord, thus shall ye say to him, Thus saith the Lord God of Israel, As touching the words which thou hast heard; because thine heart was tender, and thou hast humbled thyself before the Lord, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the Lord. Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place* (2 Kings 22:18–20).
+
+**I also have heard thee.**
+
+**The nation's sentence stood and the man's tears were registered.**
+
+**Which is the answer to the young reformer who asks whether his obedience is pointless because he cannot repair what the previous generation destroyed.**
+
+**He cannot repair it, and God will still hear him, and God will still deal with him personally.**
+
+**And the phrase *thine eyes shall not see* is the strange comfort that a generation is sometimes given.** Josiah would die before the siege. **And the man whose whole administration was built around the temple and the city would not have to watch them come down.**
+
+### The reading, the covenant, and the purge
+
+**And the response to the prophetess's word is the most complete programme of reform in the history of Judah, and it begins with a public reading.**
+
+*And the king went up into the house of the Lord, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the Lord* (2 Kings 23:2).
+
+**Note the four categories present: the men of Judah, the inhabitants of Jerusalem, the priests, and the prophets. And then the phrase that includes everyone else: *both small and great.***
+
+**Which is the pattern Deuteronomy had required:**
+
+*Gather the people together, men, and women, and children, and thy stranger that is within thy gates, that they may hear, and that they may learn, and fear the Lord your God, and observe to do all the words of this law: and that their children, which have not known any thing, may hear, and learn to fear the Lord your God* (Deuteronomy 31:12–13).
+
+**And the reason the scroll had been lost is visible in that command.** Moses had ordered a public reading of the whole law every seven years, to the whole assembly, including the children *which have not known any thing* and the resident foreigners. **And he had ordered that the king write his own copy of the law and read it all his days:**
+
+*And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites: and it shall be with him, and he shall read therein all the days of his life ... that his heart be not lifted up above his brethren* (Deuteronomy 17:18–20).
+
+**A seven-yearly public reading, and a handwritten royal copy.**
+
+**Two ordinary practices, both commanded, both cheap, both repeatedly neglected, and the consequence was a nation that could not find its own law.**
+
+**Which is the mechanism by which the deposit is lost, and it is not persecution.** No king burned the law of Moses; several of them were named after it. **The book was lost because a commanded habit lapsed, and then the lapse was inherited, and then the men who should have been copying the scroll by hand were reading about it in a work order for temple repairs.**
+
+**And a house of God loses its deposit the same way.** Not by prohibition, but by the quiet discontinuation of an unglamorous practice — **the reading, the copying, the reciting, the catechising, the seven-year cycle of public hearing — with nobody deciding to stop it and nobody noticing when it stopped.**
+
+**And then the covenant:**
+
+*And the king stood by a pillar, and made a covenant before the Lord, to walk after the Lord, and to keep his commandments and his testimonies and his statutes with all their heart and all their soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant* (2 Kings 23:3).
+
+**Standing, and an oath, and *all the people stood to the covenant.***
+
+**Which means the reform was not an announcement and not a new liturgy. It was a covenant taken by a king and consented to by a standing assembly, and its terms were the words of a book.**
+
+**And the purge followed, and it went as far as the territory of the northern kingdom, which had already fallen to Assyria a century earlier.**
+
+**The vessels made for Baal and for the host of heaven were brought out of the temple and burned in the fields of the Kidron (23:4). The idolatrous priests were put down. The groves were broken down. The high places from Geba to Beer-sheba were defiled. The altar at Bethel that Jeroboam had made three hundred years earlier — the altar against which the young prophet had cried in the previous chapter — was broken down and defiled (23:15).**
+
+**And the summary of the purge names its criterion:**
+
+*Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the Lord* (2 Kings 23:24).
+
+**That he might perform the words of the law.**
+
+**The reform was the execution of a text, and the text was written down, and the criterion of every act was whether it corresponded to what was written.**
+
+**And the Passover that followed is recorded with a superlative:**
+
+*Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah; but in the eighteenth year of king Josiah, wherein this passover was holden to the Lord in Jerusalem* (2 Kings 23:22–23).
+
+**The best Passover in six hundred years, kept by a man of twenty-six who had not known the law until that year.**
+
+**And the verdict on his life is the highest given to any king:**
+
+*And like unto him was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him* (2 Kings 23:25).
+
+**According to all the law of Moses.**
+
+**Which means the standard of the verdict is the book.** He is judged by his conformity to a text he had found in a furniture repair.
+
+### "Notwithstanding"
+
+**And the next verse begins with the heaviest word in the account.**
+
+*Notwithstanding the Lord turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal. And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there* (2 Kings 23:26–27).
+
+**Notwithstanding.**
+
+**The best king in the history of Judah, with the best Passover in six hundred years, and the judgement was still coming, and it came twenty-three years after his death.**
+
+**And the chronicler's summary of his reign contains the phrase that must be read exactly:**
+
+*And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the Lord their God. And all his days they departed not from following the Lord, the God of their fathers* (2 Chronicles 34:33).
+
+**All his days.**
+
+**The obedience lasted exactly as long as the man did.**
+
+**Which is the distinction that governs the whole of this book, and it is the distinction between a reform and a transmission.**
+
+**A reform changes the practice of a generation, and a reform is accomplished by a person with authority and it lasts while the authority lasts.** A transmission changes what the next generation is, and it is accomplished by parents, teachers, households and habits, and it outlives the person.
+
+**Josiah accomplished a reform of great thoroughness and he died at thirty-nine, and within three months of his death one of his sons was reigning and doing evil.** His son Jehoahaz reigned three months and was taken to Egypt (23:31–34). His son Jehoiakim reigned eleven years and *did that which was evil in the sight of the Lord, according to all that his fathers had done* (23:36–37). **And within twenty-three years the city was gone.**
+
+**And the failure was not in the reform. It was in the fact that a reform conducted by a king, from the top down, over twenty-eight years, had not produced households that would continue without him.**
+
+**Which is the instruction the young reformer needs more than any other in this chapter.** The thoroughness of the purge is not a measure of the depth of the change. **A young man who purges the high places and does not disciple the households will see his work dismantled in his children.**
+
+### And the flaw of the young man himself
+
+**And there is one more part of Josiah's story, and it is uncomfortable, and it belongs in the account because Scripture includes it.**
+
+**In 609 BC, when Josiah had prepared the temple and the reform was at its height, Pharaoh Necho of Egypt marched north to fight the Assyrians at Carchemish, and he came through the coastal plain of Judah. And Josiah went out against him.**
+
+**And the Egyptian king sent ambassadors with a message:**
+
+*What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not. Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo* (2 Chronicles 35:21–22).
+
+**And the archers shot him, and he was carried to Jerusalem, and he died, and all Judah and Jerusalem mourned for him.**
+
+**The chronicler's assessment is blunt: *hearkened not unto the words of Necho from the mouth of God.***
+
+**Which means that God spoke to the reformer through a pagan king and warned him not to fight, and the reformer fought anyway and was killed for it.**
+
+**And the reason is not stated, and can only be inferred from the shape of the man's life.** He was zealous for the Lord, he had cleansed the land, he had kept the greatest Passover in six centuries, **and a foreign power was marching through territory that had belonged to David's kingdom.**
+
+**And the young man of God who has been right about almost everything is in the greatest danger of assuming that his own instinct about the next step is a word from God.** Josiah had the law in his hand and the prophetess within walking distance, **and he went to war without the word, on the momentum of his own record.**
+
+**Which is the last and most personal warning in the chapter for young men whose reforms are succeeding.** The book that had been lost, and the prophetess who had been consulted, and the woman in the college, and the assembly that stood to the covenant — **all of those had been given to him because he asked. And in the last decision of his life he did not ask.**
+
+### And the deposit survived the nation
+
+**And the chapter must end where the account itself ends, which is not with a ruined city but with a book that survived it.**
+
+**Judah fell. Jerusalem was burned. The temple that Josiah had repaired was destroyed by Nebuchadnezzar's captain in 586 BC.**
+
+**And the men who went into exile carried the law of Moses with them.**
+
+**Daniel, taken to Babylon as a boy in the first deportation of 605 BC, read Jeremiah's prophecy and understood the seventy years (Daniel 9:1–2). Ezekiel, a priest among the captives by the river of Chebar, structured his entire prophecy around the covenant sanctions of Leviticus 26. Ezra, who came back from Babylon a century later, was a *ready scribe in the law of Moses* (Ezra 7:6), and he had *prepared his heart to seek the law of the Lord, and to do it, and to teach in Israel* (Ezra 7:10).**
+
+**Which means the scrolls existed in Babylon, and were copied there, and were read there, and the generation that had lost its city kept its book.**
+
+**And the reason they had the scrolls to keep is that a twenty-six-year-old king had found one in a temple storeroom and had it read aloud to the whole assembly, and had copies made, and had men taught to read it.**
+
+**The reform did not save the state. It saved the deposit.**
+
+**Which is the proper conclusion of the chapter, and it is the proper conclusion of the whole of this Part.** Josiah's obedience did not achieve what he intended, in the way and the time he intended it. **He intended the preservation of the city and the nation; he achieved the preservation of the book and the survival of a people in exile who would come back.**
+
+**And God's accounting of the work is not the reformer's own estimate of it, and this is the whole comfort of the passage.** A man may weep over a book and reform a nation and be told that the judgement is fixed, **and his tears are recorded in heaven as the reason he was gathered to his fathers in peace.**
+
+### Principles
+
+**First: the deposit is not usually lost by persecution; it is lost by the lapse of an ordinary commanded practice.** Moses ordered a public reading every seven years and a handwritten royal copy, and the scroll went missing because neither was done.
+
+**Second: the book was found in the house of the Lord, under the care of the men whose office was to keep it.** The loss was internal, and it was reported as an item of housekeeping.
+
+**Third: a young man's devotion may precede his knowledge of the text, and the text then authorises and corrects it.** Josiah began to seek God at sixteen and found the book at twenty-six.
+
+**Fourth: a young man whose immediate inheritance is worthless may reach past it to his fathers in God.** *He began to seek after the God of David his father* — six generations back, and not the son of Amon.
+
+**And fifth: the failure of the fathers may be named accurately, and the fathers honoured.** *Our fathers have not hearkened unto the words of this book.* Josiah diagnosed the source and sent men to ask God what to do, and did not turn a doctrinal discovery into a personal contempt.
+
+**Sixth: the obedience of one generation does not automatically cancel a judgement pronounced on a nation.** *Notwithstanding the Lord turned not from the fierceness of his great wrath ... because of all the provocations that Manasseh had provoked him withal.*
+
+**Seventh: an unrepented institutional legacy outlives a personal repentance.** Manasseh was heard and brought back, and Jerusalem was destroyed for the innocent blood he had shed.
+
+**Eighth: a reform lasts as long as the authority that produced it; a transmission outlives the man.** *And all his days they departed not from following the Lord.*
+
+**And ninth: a man who has been right about everything is in the greatest danger of trusting his own instinct as the word of God.** Josiah *hearkened not unto the words of Necho from the mouth of God*, and died at Megiddo.
+
+**And tenth: the deposit can survive the institution.** The city fell, the temple burned, and the exiles carried the scrolls, and read them, and came back.
+
+### The key scriptures in full
+
+> For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel ... Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another.
+> — 2 Kings 21:3, 16
+
+> For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
+> — 2 Chronicles 34:3
+
+> Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.
+> — 2 Kings 22:7
+
+> And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the Lord. And Hilkiah gave the book to Shaphan, and he read it ... And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.
+> — 2 Kings 22:8, 11
+
+> Go ye, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
+> — 2 Kings 22:13
+
+> So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess ... and they communed with her. And she said unto them, Thus saith the Lord God of Israel, Tell the man that sent you to me.
+> — 2 Kings 22:14–15
+
+> Because thine heart was tender, and thou hast humbled thyself before the Lord, when thou heardest what I spake against this place ... I also have heard thee, saith the Lord. Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place.
+> — 2 Kings 22:19–20
+
+> And the king went up into the house of the Lord, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the Lord. And the king ... made a covenant before the Lord ... And all the people stood to the covenant.
+> — 2 Kings 23:2–3
+
+> Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the Lord.
+> — 2 Kings 23:24
+
+> And like unto him was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
+> — 2 Kings 23:25
+
+> Notwithstanding the Lord turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.
+> — 2 Kings 23:26
+
+> And all his days they departed not from following the Lord, the God of their fathers.
+> — 2 Chronicles 34:33
+
+> Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
+> — 2 Chronicles 35:22
+
+> And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites: and it shall be with him, and he shall read therein all the days of his life.
+> — Deuteronomy 17:18–19
+
+> Gather the people together, men, and women, and children, and thy stranger that is within thy gates, that they may hear, and that they may learn, and fear the Lord your God ... and that their children, which have not known any thing, may hear, and learn to fear the Lord your God.
+> — Deuteronomy 31:12–13
+
+### For the fathers
+
+- **Do not settle for peace and truth in your own days.** Hezekiah's contentment with a calamity deferred to the next generation produced Manasseh.
+- **Know that a long reign of error can outlive a deathbed repentance.** Manasseh was heard, and Jerusalem was destroyed for his blood.
+- **Make the reading and the copying habitual, and audit the habits.** The scroll went missing because a seven-year cycle and a handwritten copy stopped.
+- **Let the young man reach past you if he must.** *He began to seek after the God of David his father.* And let him honour the men of God who are not you.
+- **And do not measure the work by the thoroughness of the purge.** Ask instead whether the households can continue without you, because *all his days* is not a succession.
+
+### For the young
+
+- **Start seeking before you have the text, and expect the text to correct you.** Josiah spent ten years doing right by the light he had, and then found the book and tore his clothes.
+- **Name the failure accurately and without contempt.** *Our fathers have not hearkened unto the words of this book* — and then send for the word of God and obey it.
+- **Consult whoever carries the word, and do not let the culture around you limit who that may be.** Five of the most senior men in Judah went to Huldah and obeyed her, and her name is in the canon.
+- **And be told in advance that your obedience may not avert the judgement you are trying to prevent.** *Notwithstanding.* You may be promised only that your eyes will not see it, and that God heard you weep.
+- **And do not let a good record in the past exempt you from asking now.** Josiah had the law in his hand and went to war without the word, and died at thirty-nine for it.
+- **And remember what can survive a ruin.** The city burned; the scrolls were carried into exile; and the men who read them in Babylon came home.
+- **Take the book to the assembly, *both small and great*, and read it aloud.** That is the act that carried the deposit through the destruction.
+
+### Questions for reflection
+
+1. Where is your equivalent of the temple storeroom — the room in the house where the deposit is kept by men who no longer read it?
+2. Which commanded practice lapsed and took your deposit with it: the reading, the copying, the public assembly, the seven-year cycle?
+3. What was reformed from the top down in your house, and what will happen to it in the three months after you are gone?
+4. Who is the man or woman in your congregation whose word you would be wise to seek, and are you still seeking it, or trusting your own record?
+5. If your generation of obedience lasted only *all its days*, what would remain for the generation after you?

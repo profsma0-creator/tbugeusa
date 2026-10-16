@@ -309,6 +309,7 @@ def main() -> int:
         import pypdfium2 as pdfium
         n_pages = len(pdfium.PdfDocument(out))
         print(f"pass {it}: {n_pages} pages, "
+              f"{len(indexes.split_postponed)} split refusals, "
               f"{len(snapshot['scripture'])} scripture refs, "
               f"{len(snapshot['subject'])} subjects, "
               f"body starts p{document.BODY_START}")

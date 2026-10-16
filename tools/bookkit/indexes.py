@@ -187,6 +187,10 @@ def find_subjects(text: str) -> list[str]:
     return sorted(hits)
 
 
+# counter of paragraphs whose split was refused by the fit guard
+split_postponed: list[int] = []
+
+
 class IndexedParagraph(Paragraph):
     """A paragraph that notes its own page in the indexes as it is drawn."""
 
@@ -205,12 +209,23 @@ class IndexedParagraph(Paragraph):
         """reportlab draws the *first split part*, not the original flowable,
         so the indexing metadata has to travel with it."""
         parts = super().split(availWidth, availHeight)
-        if parts:
-            first = parts[0]
-            if isinstance(first, IndexedParagraph) and first is not self:
-                first._refs = self._refs
-                first._subjects = self._subjects
-                first._figure = self._figure
+        if not parts:
+            return parts
+        first = parts[0]
+        if isinstance(first, IndexedParagraph) and first is not self:
+            first._refs = self._refs
+            first._subjects = self._subjects
+            first._figure = self._figure
+        # Guard against reportlab's "Splitting error(n==2)": if the first
+        # fragment still does not fit the space we were handed, refuse the
+        # split so the whole paragraph is postponed to the next frame.
+        try:
+            _w, h = first.wrap(availWidth, availHeight)
+        except Exception:                      # pragma: no cover - defensive
+            return parts
+        if h > availHeight + 1e-6:
+            split_postponed.append(1)
+            return []
         return parts
 
     def draw(self):
