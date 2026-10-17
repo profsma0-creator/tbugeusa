@@ -1,0 +1,471 @@
+<<<CHAPTER 60
+## How the Young Should Receive From Their Fathers
+
+**And now the other side of the matter, which is not the easier side, because receiving is a discipline and it is a discipline that must be practised by men who have been told all their lives that they are the future.**
+
+**And the reason it is difficult is stated in the promise itself, and the promise is attached to a condition that is unpopular in every generation.**
+
+*Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee* (Exodus 20:12).
+
+**And Paul, quoting it, adds the detail that should be noticed by anybody who has been taught that inheritance is automatic:**
+
+*Honour thy father and mother; (which is the first commandment with promise;) that it may be well with thee, and thou mayest live long on the earth* (Ephesians 6:2–3).
+
+**The first commandment with promise.**
+
+**Which means that among all the instructions of God, this is the first one that carries a reward attached to it, and that the reward is the length of a man's days and the well-being of his life in the land.**
+
+**And the reward is a generational reward, because *thy days* and *the land which the Lord thy God giveth thee* are the same promise that was given to Abraham, Isaac and Jacob.** Which means that the command to honour parents is the hinge on which the whole inheritance turns, **and that a generation which receives this command badly will lose its standing in the land whatever else it does well.**
+
+**And the receiving has seven parts, and they are demonstrated in Scripture as clearly as the eight acts of giving in the previous chapter.**
+
+### The first act: honour, which is not agreement
+
+**And the first thing to establish is what honour is not.**
+
+**Honour is not agreement with everything a father says, and it is not obedience in everything he commands.** The Lord said it plainly about the teachers of His own nation: *all therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not* (Matthew 23:3). **Which distinguishes between the instruction and the example, and commands the honouring of the office while refusing the imitation of the conduct.**
+
+**And the Lord said it more sharply about a requirement that a man's parents were to be relieved of: *thus have ye made the commandment of God of none effect by your tradition* (Matthew 15:6). Which means the obligation to honour a father never outweighs the obligation to obey God, and that a tradition which uses the word *honour* to release a man from a divine command is itself the thing the Lord came to end.**
+
+**And the young men who said such things to the elders of Israel were not dishonouring them.** *Then Peter and the other apostles answered and said, We ought to obey God rather than men* (Acts 5:29) was addressed to the supreme council of the nation, in session, **and the same Peter wrote two epistles with the words *the elders which are among you I exhort, who am also an elder.***
+
+**Which means that honour and disagreement can coexist, and that the shape of the coexistence is that the disagreement is stated to the man and the honour is shown in the manner of stating it.**
+
+**And the practical content of honour is set out in the pastoral letters and it is concrete.**
+
+**Honour means remembering them, and considering what they built.** *Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation* (Hebrews 13:7). **Which means the young man is instructed to study the outcome of an older man's life — the Greek for *end* is *ekbasis*, the way a thing turns out — and to follow the faith that produced it.**
+
+**And honour means material support where a man has laboured in the word.** *Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine* (1 Timothy 5:17). **Which, in the context of that letter, is a statement about wages, and a house that honours its older teachers with greetings and not with provisions has not read the verse.**
+
+**And honour means submission in the ordinary operations of the house, and the reason given is the burden the older men carry:**
+
+*Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you* (Hebrews 13:17).
+
+**That they may do it with joy, and not with grief: for that is unprofitable for you.**
+
+**Which means the consequence of making an older man's account a grief is a loss to the younger man.** And the same instruction is given to the younger men as a class: *likewise, ye younger, submit yourselves unto the elder* (1 Peter 5:5). **Which is not a statement about the elders' quality. It is a statement about the younger men's posture.**
+
+**And the pattern of that posture is given by the Lord, in the only verse in Scripture that describes His conduct as a young man:**
+
+*And he went down with them, and came to Nazareth, and was subject unto them* (Luke 2:51).
+
+**Subject unto them.**
+
+**Which means that the Son of God, at the age of twelve, having just sat among the doctors of the law and astonished them with His understanding, went home and obeyed His parents for eighteen years.** And the reason He had stayed behind in Jerusalem was that He was about His Father's business (2:49), **which means the young man who knows exactly who he is can still be subject to the people who do not know.**
+
+**And the honour was not abandoned when He began His ministry.** At the age of thirty, at His mother's request, He made water into wine at Cana (John 2:1–11) — **and the record notes that this was *the beginning of miracles* (2:11).** Which means His first public miracle was performed at the request of His mother.
+
+**And the last act of His life that touched another person was the same obligation:**
+
+*When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son! Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home* (John 19:26–27).
+
+**Which means that while He was dying, with the sins of the world on Him and less than three hours to live, He made provision for His mother's household.**
+
+**And the application for every young man who has a difficult father is therefore beyond dispute.** The One who had no disobedience to answer for still had to be subject, still honoured the request of a parent, and still arranged her care at the last. **And a generation that can be excused from honouring its fathers because they are imperfect has not read the case, because the only perfect Son honoured His.**
+
+### The second act: wait, and let the yoke be borne in youth
+
+**And the second act is the one that no young man in any century has wanted to hear, and it is stated as a plain observation about what is good for a man.**
+
+*The Lord is good unto them that wait for him, to the soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord. It is good for a man that he bear the yoke in his youth* (Lamentations 3:25–27).
+
+**Bear the yoke in his youth.**
+
+**And the book that contains that sentence is a book of lamentation over a destroyed city, written by a man who had watched everything he built burn to the ground.** Which means the instruction to bear the yoke is not the advice of a comfortable man. **It is the conclusion of a man who had been through the destruction, and what he wished for himself was that he had been trained for it earlier.**
+
+**And the mechanism of the yoke is stated in the most unromantic imagery in the wisdom literature:**
+
+*Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured* (Proverbs 27:18).
+
+**He that keepeth the fig tree.**
+
+**Which means the tree must be tended for years before it produces the fruit, and the tending is the qualification for eating.** And the sentence joins the two halves with *so* — meaning that the waiting on a master and the honour that follows it are the same relation as the tree and the fruit. **There is no other route to the fruit; the tree must be kept by somebody, and the keeper is the one who eats.**
+
+**And the reason the order matters is that an inheritance taken early is not a blessing:**
+
+*An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed* (Proverbs 20:21).
+
+**Which is stated as a general observation and illustrated by the most famous story in the Gospels:**
+
+*And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living* (Luke 15:12–13).
+
+**Give me the portion of goods that falleth to me.**
+
+**Which means he asked for the inheritance before the funeral, and the father gave it, and the son was in a far country within days, and the substance was wasted.**
+
+**And note the exact nature of the failure, because it is not primarily about drink or women.** The failure was that the inheritance arrived at an address with no fig tree attached. **The money came without the household, the land without the yoke, and the son had nothing to keep and therefore nothing to eat, however much he had been given.**
+
+**And the pattern is repeated in the divine order of the tabernacle, and the image is one sentence long:**
+
+*And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle* (Exodus 33:11).
+
+**Departed not out of the tabernacle.**
+
+**Which means that while the leader went back to the camp and attended to the nation, the young man stayed in the tent where the presence of God was.**
+
+**Which is the single most instructive image of youthful waiting in the Old Testament.** Joshua was not leading anything. He was in a building, alone, with a light, **and he stayed there for years, and the man who led the nation out of Egypt later said of him that he was *a man in whom is the spirit* (Numbers 27:18).**
+
+**And the same waiting is documented in the generations that followed,** and it is documented in the biographies of men who had been promised things and who spent decades in situations that did not resemble them. **Joseph in a prison, David in a cave, Moses in Midian, John in the wilderness, Paul in Arabia, and the Lord Himself in a carpenter's shop for eighteen years.**
+
+**Which means the yoke is not an interruption of a young man's usefulness. It is the period in which the yoke is fitted to him.**
+
+### The third act: ask, and be specific
+
+**And the third act is the one that Scripture rewards most visibly, and it is available to any man at any moment, because it does not require a father and it does not require a house.**
+
+**And the clearest case is the beginning of the reign of Solomon, and the whole scene is a single transaction:**
+
+*In Gibeon the Lord appeared to Solomon in a dream by night: and God said, Ask what I shall give thee. And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day. And now, O Lord my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in* (1 Kings 3:5–7).
+
+**Ask what I shall give thee.**
+
+**And take the young man's answer apart, because it is a model of how to ask, and it has three elements.**
+
+**The first is that he recited the history.** He stated what God had done for his father, by name, and what God had promised, and what had come to pass. **Which means the young man who asks is a man who has received the account of the previous generation and has made it his own.**
+
+**And the second is that he acknowledged his own inadequacy in the plainest possible terms: *I am but a little child: I know not how to go out or come in.***
+
+**Which is the sentence that a man who has inherited a work should be able to say without embarrassment.** He does not know how to go out or come in, and the phrase is the same one that Moses used of the congregation needing a shepherd (Numbers 27:17) and that Christ used of Himself *as a shepherd* (John 10:9) — **and it is the standard admission of every man who has been given something too large for him.**
+
+**And the third is that he asked for the thing he needed rather than the thing he wanted:**
+
+*Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?* (1 Kings 3:9).
+
+**An understanding heart.**
+
+**Which is a request for a faculty and not for a result, and the record of the chronicler states the same request in the vocabulary of competence: *give me now wisdom and knowledge, that I may go out and come in before this people* (2 Chronicles 1:10).**
+
+**And note what he did not ask for.** He did not ask for the death of his enemies, the submission of Joab, the confirmation of the men who had supported Adonijah, or a sign to the nation. **He asked for the capacity to do the job, and God added everything else (1 Kings 3:13).**
+
+**And the second case is a young woman asking her father for something specific, and the request is recorded because of what she asked for:**
+
+*And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou? Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs* (Joshua 15:18–19).
+
+**Thou hast given me a south land; give me also springs of water.**
+
+**Which means Achsah accepted the inheritance and then asked for the part that would make it productive.** A south land without water is an inheritance that will not feed anybody, **and the daughter of Caleb was the one who understood that the difference between a plot of ground and a household's livelihood is springs of water, and she asked for them by name, and got both the upper and the nether.**
+
+**And the third case is the man who asked for an inheritance of spirit in the language of the law of inheritance, and was told that he had asked a hard thing (2 Kings 2:9–10).**
+
+**And the direction of all three is the same, and it turns asking into a duty:**
+
+*If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed* (James 1:5–6).
+
+**Which means the verb is *let him ask*, and the promise is attached to the asking, and the condition is the absence of wavering.**
+
+**And a young man who has not asked for anything in a month has not understood where the springs of water come from.**
+
+### The fourth act: serve, and keep the fig tree
+
+**And the fourth act is the one the previous chapter described from the older man's side and which must be described again from the younger's, because it is the whole of the training.**
+
+**Elisha's first recorded act after the mantle was *and he arose, and went after Elijah, and ministered unto him* (1 Kings 19:21).** And twenty years later the national record in the mouth of a servant of the king of Israel was *here is Elisha the son of Shaphat, which poured water on the hands of Elijah* (2 Kings 3:11).
+
+**Which means the man whose name would be attached to more miracles than any other prophet in the Old Testament spent his twenties fetching water for another man.**
+
+**And Joshua's title was *the servant of Moses* (Numbers 11:28) and his location was the tabernacle (Exodus 33:11).**
+
+**And Timothy's credential was stated as conduct: *but ye know the proof of him, that, as a son with the father, he hath served with me in the gospel* (Philippians 2:22).**
+
+**And the Lord Himself, in the middle of the upper room, with the twelve around Him and the knowledge that one of them was about to sell Him, washed their feet and said:**
+
+*Ye call me Master and Lord: and ye say well; for so I am. If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet. For I have given you an example, that ye should do as I have done to you. Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him* (John 13:13–16).
+
+**Which means that the pattern of service was established by the Lord of the house at the moment when His authority was at its most absolute.** He did not wash their feet because He was uncertain of His position. **He washed them because He knew that the Father had given all things into His hands (13:3).**
+
+**And the same instruction is given to those who receive an inheritance from God, in the sentence that must be read by any young man who believes he is destined for greatness:**
+
+*Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time* (1 Peter 5:5–6).
+
+**That he may exalt you in due time.**
+
+**Which means the exaltation is His and the timing is His, and the posture commanded in the meantime is humility clothed as a garment.**
+
+### The fifth act: learn, and then exceed
+
+**And now the act that appears to contradict the fourth, and it must be stated carefully, because the whole point of a succession is that the successor should do more than the predecessor did.**
+
+**And the psalm states the case with a bluntness that a student of an older scholar will find difficult:**
+
+*Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me. I have more understanding than all my teachers: for thy testimonies are my meditation. I understand more than the ancients, because I keep thy precepts* (Psalm 119:98–100).
+
+**I have more understanding than all my teachers.**
+
+**Which means the psalmist claims to have surpassed his teachers, and the ground of the claim is stated twice: mediation on the testimonies and the keeping of the precepts.**
+
+**Which means the mechanism of surpassing is obedience and not independence.** The young man who exceeds his father did not do it by dismissing him. **He did it by meditating on the same text harder and obeying it further, and the difference in his understanding is a consequence of the difference in his practice.**
+
+**And the pattern is in the record of every succession in Scripture.**
+
+**Elisha did what Elijah did, at the same river, with the same mantle — *and he took the mantle of Elijah that fell from him, and smote the waters* (2 Kings 2:14) — and then he did it more often, and the count of his miracles in the book of Kings is more than twice that of his master's.**
+
+**And Solomon built the house his father was forbidden to build, on the specification his father wrote, and the glory filled it (2 Chronicles 5:13–14).**
+
+**And the Lord stated the principle as a promise to the men He was about to leave:**
+
+*Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father* (John 14:12).
+
+**Which means the departure of the predecessor is the condition of the successor's greater work, and that the greater work is not a departure from the deposit but an extension of it.**
+
+**And the whole arrangement is named in the promise to Abraham, and it is worth noting that God told the old man that his heir would be somebody else's son:**
+
+*And in thy seed shall all the nations of the earth be blessed* (Genesis 22:18).
+
+**Which means the man who receives from a father is not being asked to remain his echo. He is being asked to become something the father was promised and did not live to see.**
+
+**And the balance between the fourth act and the fifth is stated in a single verse by the apostle who was the greatest successor in the New Testament:**
+
+*I have planted, Apollos watered; but God gave the increase. So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase. Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour* (1 Corinthians 3:6–8).
+
+**They are one.**
+
+**And every man shall receive his own reward according to his own labour.**
+
+**Which means the two men are one operation and two rewards.** The successor is not in competition with the predecessor and he is not his employee. **He is the next labourer in the same field, and the increase is God's, and the reward is per labour, and there is enough of it for both.**
+
+### The sixth act: keep, and be found faithful
+
+**And the sixth act is the one by which the whole receiving is judged, and it is described in the language of a trust.**
+
+**The deposit is a thing committed, and the man who has received it is a steward, and the standard is fidelity:**
+
+*Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful* (1 Corinthians 4:1–2).
+
+**Moreover it is required in stewards, that a man be found faithful.**
+
+**Which means the requirement is not brilliance, originality, growth, or success. It is that a man be found faithful, which is a verdict that can only be reached by inspection.**
+
+**And the deposit itself is a phrase that occurs three times in Paul's letters to Timothy and it carries the whole idea of an inheritance held in trust:**
+
+*O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings* (1 Timothy 6:20).
+
+*That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us* (2 Timothy 1:14).
+
+**That good thing which was committed unto thee.**
+
+**Which means the deposit is a good thing, it has been handed over, it is now the young man's responsibility, and it is kept by the Holy Spirit and not by diligence alone. And the two clauses of the second verse are the whole instruction: the thing is kept, and it is kept by the Spirit, and neither half works alone.**
+
+**And the Lord stated the economics of the trust in a way that should be read by any man who thinks his inheritance is small:**
+
+*He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much. If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? And if ye have not been faithful in that which is another man's, who shall give you that which is your own?* (Luke 16:10–12).
+
+**If ye have not been faithful in that which is another man's, who shall give you that which is your own?**
+
+**Which means the whole of a young man's training period is described by one phrase: that which is another man's.** The congregation belongs to God and the work belongs to the previous generation, **and the way a man handles what is not his determines what he will be given as his own.**
+
+**And the reward is stated in the parable of the talents, in the words of a servant who traded what he had been given and brought back double:**
+
+*Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord* (Matthew 25:20–21).
+
+**Which means the commendation is not for the size of the gain, and not for the originality of the method. It is for the doubling of what was handed over, and the doubling means the deposit was put to work and the estate came back larger.**
+
+### The seventh act: honour the father whose house is broken
+
+**And the last act is the hardest, and it is for the reader whose father failed, or whose father is failing, or who has no father in the faith at all.**
+
+**And the case in Scripture is the sons of Korah, and it is one of the most surprising mercies in the Old Testament.**
+
+**Their father was the ringleader of the rebellion in the wilderness. He gathered two hundred and fifty princes, argued that the whole congregation was holy, and was answered by an earthquake:**
+
+*And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign. Notwithstanding the children of Korah died not* (Numbers 26:10–11).
+
+**Notwithstanding the children of Korah died not.**
+
+**Which means the sentence was limited to the man who had committed the sin, and his sons were spared, and God made a specific note of it in the census book so that no generation afterwards could assume the opposite.**
+
+**And here is what the sons of that man became.**
+
+**Eleven psalms in the book of Psalms are inscribed *for the sons of Korah*** — including the forty-second, with its opening line *as the hart panteth after the water brooks, so panteth my soul after thee, O God* (42:1); and the forty-fourth, which begins *we have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old* (44:1). **Which is a psalm about the transmission of the record, written by the sons of the man who tried to overthrow the mediator.**
+
+**And in the organisation of the temple, the Korahites were given one of the most trusted positions in the house of God:**
+
+*And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the Lord, were keepers of the entry* (1 Chronicles 9:19).
+
+**Keepers of the gates.**
+
+**Which means the descendants of the man who tried to take the priesthood were set at the doors of the tabernacle, and stayed there for centuries, and their names are in the register of the porters (1 Chronicles 26:1).**
+
+**And the application is direct and it is for every reader who has no honour to inherit.**
+
+**The failure of a father is not transmitted automatically, and God recorded the exemption in the census so that nobody would have to wonder.** *Notwithstanding the children of Korah died not* means that a man may come from the house of a rebel and be numbered among the singers and the gatekeepers.
+
+**And the second part of the answer is that a man may receive a father where none was given to him.** Elisha received Elijah; Timothy received Paul; Ruth received Naomi on a road in Moab with the words that have been read at weddings for three thousand years:
+
+*And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God: where thou diest, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part thee and me* (Ruth 1:16–17).
+
+**Which means the covenant of a son can be made by a woman from another nation, to a woman who had no more sons to give her, on the road between Moab and Bethlehem, at the beginning of a famine.**
+
+**And the third part is that the receiving must be done when it is offered, because the offer does not last.** *And Elisha said unto him, Tarry here, I pray thee; for the Lord hath sent me to Beth-el* — three times the older man offered to leave him behind, **and three times the answer was that he would not leave, and the difference between Elisha and a hundred other men in Israel that day was that answer.**
+
+### The failure modes, and how a young man avoids them
+
+**And the dangers of receiving are as specific as the dangers of giving, and they are five.**
+
+**The first is demanding the inheritance before the yoke.** *Father, give me the portion of goods that falleth to me.* And the record of it is *not many days after* and *wasted his substance with riotous living.* **And the test of whether a man is doing it is whether he wants the position or the work.**
+
+**The second is receiving the authority and despising the relationships.** *And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived ... but he forsook the counsel of the old men, which they had given him* (1 Kings 12:6, 8). **And the cost of that single decision is stated in the sixteenth verse, and it was ten of the twelve tribes, and the kingdom never reunited.**
+
+**And the third is consuming the inheritance.** Which is the prodigal, but it is also the man who inherits a church with a hundred years of teaching and a body of doctrine, and spends five years preaching his own ideas to it, **and calls his consumption of the deposit a fresh start.**
+
+**The fourth is flattery, which is the counterfeit of honour.** *And Absalom said, thy matters are good and right, but there is no man deputed of the king to hear thee* (2 Samuel 15:3–4). **Which means the young man who agrees with every man who has a grievance, and says the most agreeable thing in every room, is not honouring his father. He is dismantling him politely.**
+
+**And the fifth is the permanent assistant — the son who never becomes responsible.** Which is not honour; it is a refusal to grow up, and it is frequently encouraged by the older man and hidden under the phrase *I am still under authority.*
+
+**Which means a house of God can be destroyed in either direction, and the section of Scripture on this is longer than the section on most sins.**
+
+### And the practical list for the young
+
+**And the receiving can be reduced to acts, and every one of them can be begun in a week.**
+
+**Name your father in the faith, out loud, where men can hear it.** If you have one, tell the congregation. If you have none, ask God for one and be honest about it, as Elisha was honest about requesting a hard thing.
+
+**Ask him for something specific and useful.** *Give me also springs of water.* Do not ask for a title, and do not ask for the pulpit. **Ask for the thing that makes the inheritance productive.**
+
+**Find the yoke and put it on.** *It is good for a man that he should bear the yoke in his youth.* And do not wait for a formal appointment; keep a fig tree, and eat its fruit in due season.
+
+**Write down what he taught you, and review it.** The reason *I have more understanding than all my teachers* is given as *for thy testimonies are my meditation* (Psalm 119:99), **and a young man who cannot recite the deposit has not meditated on it, whatever he has heard.**
+
+**Ask about the end of his life and follow the faith that produced it.** *Whose faith follow, considering the end of their conversation* (Hebrews 13:7). **Which means the study of an older man's ministry should be conducted the way a builder studies a finished building.**
+
+**And keep the deposit with the Holy Spirit's help, and inspect your own faithfulness once a year.** *That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.*
+
+**And when the mantle falls, cross the river and strike the water.** *And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the Lord God of Elijah?* Which is the act that turns a son into a father, and it is asked of God and not of a man, **and the question is also the answer, because the God of Elijah is the God of Elisha and He is still there.**
+
+### Principles
+
+**First: the command to honour parents is the first commandment with a promise, and the promise is the length of a man's days in the land.** *Honour thy father and thy mother; which is the first commandment with promise; that it may be well with thee.*
+
+**Second: honour is not agreement, and obedience to God outranks the instruction of men, and both are commanded in the same Scripture.** *All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not*; and *we ought to obey God rather than men.*
+
+**And third: the only perfect Son honoured His parents, obeyed them, made His first miracle at His mother's request, and arranged her household while He was dying on a cross.** *And he went down with them, and came to Nazareth, and was subject unto them.*
+
+**Fourth: the yoke borne in youth is described as a good thing, and the reason is given by a man who had watched a nation be destroyed.** *It is good for a man that he should bear the yoke in his youth.*
+
+**And fifth: waiting on a master is the mechanism of honour, and it is stated as an agricultural fact.** *Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.*
+
+**Sixth: an inheritance taken early is not blessed, and the case is the younger son who demanded his portion and was in a far country within days.** *An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.*
+
+**And seventh: the young man who received the promise of leadership was found in a tent.** *His servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.*
+
+**Eighth: asking is commanded, and the answer is promised, and the condition is the absence of wavering.** *If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not ... But let him ask in faith, nothing wavering.*
+
+**And ninth: the request that is granted is for a faculty and not for a result.** *Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad.*
+
+**And tenth: a specific request makes an inheritance productive.** *Thou hast given me a south land; give me also springs of water* — and *he gave her the upper springs, and the nether springs.*
+
+**Eleventh: the successor is expected to surpass his predecessor, and the mechanism of surpassing is meditation and obedience and not independence.** *I have more understanding than all my teachers: for thy testimonies are my meditation. I understand more than the ancients, because I keep thy precepts.*
+
+**And twelfth: the greater works follow the predecessor's departure, and they continue the same work.** *He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.*
+
+**Thirteenth: the requirement of a steward is that a man be found faithful.** *Moreover it is required in stewards, that a man be found faithful.*
+
+**And fourteenth: faithfulness in that which is another man's is the qualification for receiving that which is his own.** *And if ye have not been faithful in that which is another man's, who shall give you that which is your own?*
+
+**And fifteenth: the failure of a father does not determine the standing of a son, and God made a note of it in the record.** *Notwithstanding the children of Korah died not* — and eleven psalms are inscribed with their name, and they were keepers of the gates of the tabernacle.
+
+### The key scriptures in full
+
+> Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.
+> — Exodus 20:12
+
+> Children, obey your parents in the Lord: for this is right. Honour thy father and mother; (which is the first commandment with promise;) that it may be well with thee, and thou mayest live long on the earth.
+> — Ephesians 6:1–3
+
+> And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
+> — Luke 2:51
+
+> When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son! Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.
+> — John 19:26–27
+
+> Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation ... Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+> — Hebrews 13:7, 17
+
+> Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.
+> — 1 Timothy 5:17
+
+> Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time.
+> — 1 Peter 5:5–6
+
+> The Lord is good unto them that wait for him, to the soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord. It is good for a man that he should bear the yoke in his youth.
+> — Lamentations 3:25–27
+
+> Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.
+> — Proverbs 27:18
+
+> An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.
+> — Proverbs 20:21
+
+> And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.
+> — Luke 15:12–13
+
+> And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
+> — Exodus 33:11
+
+> And God said, Ask what I shall give thee. And Solomon said ... And now, O Lord my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in ... Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad.
+> — 1 Kings 3:5–6, 7, 9
+
+> And Caleb said unto her, What wouldest thou? Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
+> — Joshua 15:18–19
+
+> If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. But let him ask in faith, nothing wavering.
+> — James 1:5–6
+
+> I have more understanding than all my teachers: for thy testimonies are my meditation. I understand more than the ancients, because I keep thy precepts.
+> — Psalm 119:99–100
+
+> He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+> — John 14:12
+
+> I have planted, Apollos watered; but God gave the increase. So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase. Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
+> — 1 Corinthians 3:6–8
+
+> Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful.
+> — 1 Corinthians 4:1–2
+
+> If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? And if ye have not been faithful in that which is another man's, who shall give you that which is your own?
+> — Luke 16:11–12
+
+> O Timothy, keep that which is committed to thy trust ... That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
+> — 1 Timothy 6:20; 2 Timothy 1:14
+
+> Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+> — Matthew 25:20–21
+
+> And the earth opened her mouth, and swallowed them up together with Korah ... Notwithstanding the children of Korah died not.
+> — Numbers 26:10–11
+
+> And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle.
+> — 1 Chronicles 9:19
+
+> And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.
+> — Ruth 1:16
+
+> And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived ... but he forsook the counsel of the old men, which they had given him.
+> — 1 Kings 12:6, 8
+
+### For the fathers
+
+- **Ask for a son and be specific about what he will need.** Solomon asked for an understanding heart; ask God for a man who can *go out and come in*.
+- **Do not hand over your portion before the yoke.** *An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.*
+- **Pay the elders who labour in the word.** *Let the elders that rule well be counted worthy of double honour* — and the verse is about money in its context.
+- **Tell the young men the history, and tell it as a recital and not an anecdote.** Solomon's prayer began with what God had done for David, and the young man learned it from the old man.
+- **And when the emptiness of the far country arrives, go out to the road.** The father in the parable saw his son *a great way off* (Luke 15:20), which means he had been watching the road for years.
+
+### For the young
+
+- **Honour your father in the faith out loud, where it can be heard.** And if you have none, ask God for one and be honest about it.
+- **Ask for something specific and useful, and ask for it by name.** *Give me also springs of water.* Not a title, and not a platform.
+- **Find a fig tree and keep it.** *Whoso keepeth the fig tree shall eat the fruit thereof.* And do not despise the years in which nobody knows your name; Joshua was in the tabernacle.
+- **Read your father's ending as well as his teaching, and follow the faith that produced it.** *Considering the end of their conversation.*
+- **Meditate and obey, and expect the understanding to follow.** *I have more understanding than all my teachers: for thy testimonies are my meditation.*
+- **Keep the deposit, and let the keeping be done with the Holy Spirit and not in your own strength.** *That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.*
+- **And be faithful in that which is another man's.** The congregation is not yours, the pulpit is not yours, and the measure of your stewardship of another man's estate is the condition for receiving your own.
+- **And if your father's house is broken, read the census record.** *Notwithstanding the children of Korah died not.* The gate of the tabernacle has been kept by the sons of a rebel, and their songs are in the book of Psalms.
+
+### Questions for reflection
+
+1. Who is your father in the faith, and does he know that you call him so?
+2. What have you asked him for, specifically, and what did you do with the answer?
+3. Which portion of your inheritance are you carrying without a yoke attached to it, and how is that going?
+4. What did you do with the counsel of the old men who stood before your predecessor?
+5. If your father's house is broken, what has God said about the sons of Korah, and have you believed it?

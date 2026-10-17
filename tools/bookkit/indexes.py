@@ -216,14 +216,56 @@ class IndexedParagraph(Paragraph):
             first._refs = self._refs
             first._subjects = self._subjects
             first._figure = self._figure
-        # Guard against reportlab's "Splitting error(n==2)": if the first
-        # fragment still does not fit the space we were handed, refuse the
-        # split so the whole paragraph is postponed to the next frame.
+        # Guard against reportlab's "Splitting error(n==2)": reportlab's
+        # re-wrap of a split fragment can add a line relative to the first
+        # wrap (its frag state is mutated in place), so probe the fragment
+        # twice and test the taller result.  If it cannot fit the space we
+        # were handed, refuse the split so the whole paragraph is postponed
+        # to the next frame.  Never refuse in a nearly empty frame, or a
+        # paragraph taller than one frame would raise "flowable too large".
+        frame = getattr(self, "_frame", None)
         try:
-            _w, h = first.wrap(availWidth, availHeight)
+            aW = availWidth
+            if frame is not None:
+                try:
+                    aW = frame._getAvailableWidth()
+                except Exception:              # pragma: no cover - defensive
+                    aW = availWidth
+            leading = float(getattr(first.style, "leading", 0) or 0)
+            _w, h1 = first.wrap(aW, availHeight)
+            _w, h2 = first.wrap(aW, availHeight)
+            need = (max(h1, h2)
+                    + float(first.getSpaceBefore() or 0)
+                    + float(first.getSpaceAfter() or 0))
         except Exception:                      # pragma: no cover - defensive
             return parts
-        if h > availHeight + 1e-6:
+        fresh_frame = True
+        if frame is not None:
+            try:
+                fresh_frame = availHeight > (frame._aH - 2.5 * leading)
+            except Exception:                  # pragma: no cover - defensive
+                fresh_frame = True
+        if not fresh_frame and need > availHeight - 1e-6:
+            split_postponed.append(1)
+            return []
+        return parts
+        fresh_frame = True
+        if frame is not None:
+            try:
+                fresh_frame = availHeight > (frame._aH - 2.5 * leading)
+            except Exception:                  # pragma: no cover - defensive
+                fresh_frame = True
+        if not fresh_frame and need > availHeight - 1e-6:
+            split_postponed.append(1)
+            return []
+        return parts
+        fresh_frame = True
+        if frame is not None:
+            try:
+                fresh_frame = availHeight > (frame._aH - 2.5 * leading)
+            except Exception:                  # pragma: no cover - defensive
+                fresh_frame = True
+        if not fresh_frame and need + leading > availHeight - 1e-6:
             split_postponed.append(1)
             return []
         return parts
