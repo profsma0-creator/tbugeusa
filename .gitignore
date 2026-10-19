@@ -1,0 +1,5 @@
+node_modules/
+preview/
+studio/assets/fonts/
+*.log
+.DS_Store
