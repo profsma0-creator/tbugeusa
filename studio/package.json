@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "fonts": "node scripts/sync-fonts.mjs",
-    "build": "node scripts/sync-fonts.mjs && node src/build.mjs"
+    "build": "node scripts/sync-fonts.mjs && node src/build.mjs",
+    "preview": "node src/serve.mjs",
+    "serve": "node src/serve.mjs"
   },
   "keywords": [],
   "author": "",
