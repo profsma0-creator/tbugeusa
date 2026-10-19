@@ -18,6 +18,9 @@ const DECKS = path.join(ROOT, 'decks');
 const PORT = Number(process.env.PORT || 4173);
 const HOST = process.env.HOST || '0.0.0.0';
 
+// Compose the deck metadata once; it is deterministic and read-only.
+const SLIDES = buildSlideList(course);
+
 const TYPES = {
   '.html': 'text/html; charset=utf-8',
   '.css': 'text/css; charset=utf-8',
@@ -60,7 +63,7 @@ function sendFile(res, file, { cache = 'public, max-age=86400', download = null 
 }
 
 function manifest() {
-  const slides = buildSlideList(course);
+  const slides = SLIDES;
   return {
     generated: new Date().toISOString(),
     course: {
@@ -105,7 +108,7 @@ const server = http.createServer((req, res) => {
 
   if (pathname === '/api/health') {
     res.writeHead(200, { 'content-type': 'application/json' });
-    res.end(JSON.stringify({ ok: true, slides: course.slideCount }));
+    res.end(JSON.stringify({ ok: true, slides: SLIDES.length }));
     return;
   }
 
