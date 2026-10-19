@@ -291,8 +291,8 @@ export const DIAGRAMS = {
     const L = Math.hypot(dx, dy);
     const nx = -dy / L, ny = dx / L;
     [-0.032, 0, 0.032].forEach(off => {
-      c.line(mo[0] + nx * off - dx / L * R, mo[1] + ny * off - dy / L * R,
-        da[0] + nx * off + dx / L * R, da[1] + ny * off + dy / L * R,
+      c.line(mo[0] + nx * off + dx / L * R, mo[1] + ny * off + dy / L * R,
+        da[0] + nx * off - dx / L * R, da[1] + ny * off - dy / L * R,
         { stroke: C.copper, sw: 0.55 });
     });
 
@@ -501,7 +501,7 @@ export const DIAGRAMS = {
     c.text(b.x + 1.45, b.y + 2.58, 1.8, 'SPLIT ALLIANCE', { size: 6.6, color: C.copper, caps: true, letterSpacing: 1.3, align: 'center' });
 
     const px = b.x + 7.35;
-    T(c, px, b.y + 0.35, 4.0, 'The alliance is not a dyad', { font: 'serif', size: 13.5, color: INK });
+    T(c, px, b.y + 0.35, 4.0, 'Reading the alliance map', { font: 'serif', size: 13.5, color: INK });
     const pts = [
       ['Triadic by nature', 'Every statement is heard by more than one person, and heard differently.'],
       ['Split alliances', 'A strong bond with one member, paid for by distance from another, reproduces the family’s own triangle.'],
@@ -513,7 +513,7 @@ export const DIAGRAMS = {
       T(c, px + 0.4, y - 0.06, 3.35, h, { size: 9.4, bold: true, color: INK });
       T(c, px + 0.4, y + 0.21, 3.35, s, { size: 8.2, color: MUT, lineHeight: 1.35 });
     });
-    T(c, b.x + 0.6, b.y + 4.02, 4.4, 'Line weight indicates strength of alliance.', { size: 7, italic: true, color: MUT });
+    T(c, b.x + 0.35, b.y + 4.02, 5.0, 'Solid line: strong alliance  ·  dashed: weak or cut-off.', { size: 7, italic: true, color: MUT });
   },
 
   // ───────────────────────────────────────────────────────────────── Genogram ──
@@ -526,7 +526,7 @@ export const DIAGRAMS = {
     c.rect(gf[0] - 0.19, gf[1] - 0.19, 0.38, 0.38, { fill: C.paperWarm, stroke: INK, sw: 0.9 });
     c.line(gm[0] + 0.19, gm[1], gf[0] - 0.19, gf[1], { stroke: INK, sw: 0.9 });
     T(c, gm[0] - 0.62, gm[1] - 0.40, 1.2, 'Grandmother', { size: 6.6, align: 'center', color: MUT });
-    T(c, gf[0] + 0.02, gf[1] - 0.40, 1.2, 'Grandfather', { size: 6.6, align: 'center', color: MUT });
+    T(c, gf[0] - 0.60, gf[1] - 0.40, 1.2, 'Grandfather', { size: 6.6, align: 'center', color: MUT });
     // gen 2
     const mo = [b.x + 1.55, y + 1.85], fa = [b.x + 2.35, y + 1.85];
     c.line((gm[0] + gf[0]) / 2, gm[1] + 0.19, (gm[0] + gf[0]) / 2, y + 1.25, { stroke: INK, sw: 0.8 });
@@ -535,8 +535,8 @@ export const DIAGRAMS = {
     c.circle(mo[0], mo[1], 0.19, { fill: C.paperWarm, stroke: INK, sw: 0.9 });
     c.rect(fa[0] - 0.19, fa[1] - 0.19, 0.38, 0.38, { fill: C.paperWarm, stroke: INK, sw: 0.9 });
     c.line(mo[0] + 0.19, mo[1], fa[0] - 0.19, fa[1], { stroke: INK, sw: 0.9 });
-    T(c, mo[0] - 0.55, mo[1] - 0.42, 1.2, 'Mother, 44', { size: 6.6, align: 'center', color: MUT });
-    T(c, fa[0] - 0.05, fa[1] - 0.42, 1.2, 'Father, 47', { size: 6.6, align: 'center', color: MUT });
+    T(c, mo[0] - 1.15, mo[1] - 0.10, 0.85, 'Mother, 44', { size: 6.6, align: 'right', color: MUT });
+    T(c, fa[0] + 0.30, fa[1] - 0.10, 1.0, 'Father, 47', { size: 6.6, align: 'left', color: MUT });
     // gen 3
     const kids = [[b.x + 0.95, y + 3.15], [b.x + 1.75, y + 3.15], [b.x + 2.55, y + 3.15]];
     const mid = (mo[0] + fa[0]) / 2;
@@ -551,34 +551,46 @@ export const DIAGRAMS = {
     T(c, kids[0][0] - 0.55, y + 3.42, 1.1, 'Daughter, 17', { size: 6.6, align: 'center', color: MUT });
     T(c, kids[1][0] - 0.55, y + 3.42, 1.1, 'Son, 14', { size: 6.6, align: 'center', color: MUT });
     T(c, kids[2][0] - 0.55, y + 3.48, 1.1, 'Daughter, 9\nIP', { size: 6.6, align: 'center', color: C.goldDeep, lineHeight: 1.1 });
-    // close relationship mother–daughter
-    [-0.03, 0, 0.03].forEach(o => c.line(mo[0] + o, mo[1] + 0.19, kids[0][0] + o, y + 2.96, { stroke: C.sage, sw: 0.5, opacity: 0.9 }));
+    // close relationship mother–daughter, clipped to the figures
+    {
+      const ddx = kids[0][0] - mo[0], ddy = (y + 3.15) - mo[1];
+      const dl = Math.hypot(ddx, ddy), ux = ddx / dl, uy = ddy / dl, nx = -uy, ny = ux;
+      [-0.03, 0, 0.03].forEach(o => c.line(
+        mo[0] + ux * 0.19 + nx * o, mo[1] + uy * 0.19 + ny * o,
+        kids[0][0] - ux * 0.19 + nx * o, (y + 3.15) - uy * 0.19 + ny * o,
+        { stroke: C.sage, sw: 0.5, opacity: 0.9 },
+      ));
+    }
     // conflict parents
     c.line(mid, mo[1] + 0.05, mid + 0.09, mo[1] + 0.15, { stroke: C.copper, sw: 1.0 });
     c.line(mid + 0.09, mo[1] + 0.03, mid - 0.06, mo[1] + 0.2, { stroke: C.copper, sw: 1.0 });
 
     // legend
     const lx = b.x + 4.55;
-    card(c, lx, y + 0.15, 4.6, 3.55, { fill: '#FDFAF3' });
+    card(c, lx, y + 0.15, 4.6, 3.72, { fill: '#FDFAF3' });
     T(c, lx + 0.22, y + 0.3, 4.2, 'Genogram conventions', { font: 'serif', size: 12, color: INK });
     const rows = [
-      ['male', 'square'], ['female', 'circle'], ['index patient', 'double'], ['deceased', 'cross'],
-      ['marriage', 'double'], ['conflict', 'zigzag'], ['close / fused', 'triple'], ['cut-off', 'cut'],
+      ['male', 'square'], ['female', 'circle'], ['index patient', 'index'], ['deceased', 'cross'],
+      ['marriage', 'marriage'], ['conflict', 'zigzag'], ['close / fused', 'triple'], ['cut-off', 'cut'],
     ];
     rows.forEach(([lab, type], i) => {
       const yy = y + 0.72 + i * 0.36;
       const sx = lx + 0.34;
       if (type === 'square') c.rect(sx - 0.075, yy - 0.075, 0.15, 0.15, { fill: C.paperWarm, stroke: INK, sw: 0.7 });
       if (type === 'circle') c.circle(sx, yy, 0.075, { fill: C.paperWarm, stroke: INK, sw: 0.7 });
-      if (type === 'double') { c.rect(sx - 0.08, yy - 0.08, 0.16, 0.16, { fill: 'none', stroke: INK, sw: 0.55 }); c.rect(sx - 0.055, yy - 0.055, 0.11, 0.11, { fill: 'none', stroke: INK, sw: 0.55 }); }
+      if (type === 'index') { c.rect(sx - 0.08, yy - 0.08, 0.16, 0.16, { fill: 'none', stroke: INK, sw: 0.55 }); c.rect(sx - 0.055, yy - 0.055, 0.11, 0.11, { fill: 'none', stroke: INK, sw: 0.55 }); }
       if (type === 'cross') { c.rect(sx - 0.075, yy - 0.075, 0.15, 0.15, { fill: C.paperWarm, stroke: INK, sw: 0.7 }); c.line(sx - 0.075, yy - 0.075, sx + 0.075, yy + 0.075, { stroke: INK, sw: 0.6 }); c.line(sx - 0.075, yy + 0.075, sx + 0.075, yy - 0.075, { stroke: INK, sw: 0.6 }); }
-      if (type === 'double') { c.line(sx - 0.14, yy - 0.02, sx + 0.14, yy - 0.02, { stroke: INK, sw: 0.6 }); c.line(sx - 0.14, yy + 0.03, sx + 0.14, yy + 0.03, { stroke: INK, sw: 0.6 }); }
+      if (type === 'marriage') { c.line(sx - 0.14, yy - 0.025, sx + 0.14, yy - 0.025, { stroke: INK, sw: 0.6 }); c.line(sx - 0.14, yy + 0.03, sx + 0.14, yy + 0.03, { stroke: INK, sw: 0.6 }); }
       if (type === 'zigzag') c.poly([[sx - 0.14, yy - 0.05], [sx - 0.05, yy + 0.04], [sx + 0.04, yy - 0.05], [sx + 0.12, yy + 0.04]], { stroke: C.copper, sw: 0.9 });
       if (type === 'triple') [-0.035, 0, 0.035].forEach(o => c.line(sx - 0.14, yy + o, sx + 0.14, yy + o, { stroke: C.sage, sw: 0.5 }));
-      if (type === 'cut') c.line(sx - 0.15, yy, sx - 0.03, yy, { stroke: C.copper, sw: 0.8, dash: 'dash' });
+      if (type === 'cut') {
+        c.line(sx - 0.15, yy, sx + 0.15, yy, { stroke: INK, sw: 0.5 });
+        c.line(sx - 0.07, yy - 0.06, sx - 0.01, yy + 0.06, { stroke: C.copper, sw: 0.8 });
+        c.line(sx + 0.01, yy - 0.06, sx + 0.07, yy + 0.06, { stroke: C.copper, sw: 0.8 });
+      }
       T(c, sx + 0.3, yy - 0.065, 3.5, lab, { size: 8.2, color: SOFT });
     });
-    c.text(lx + 0.22, y + 3.28, 4.2, 'Three generations, one view: pattern, not blame.', { size: 6.9, italic: true, color: MUT });
+    c.text(lx + 0.22, y + 3.46, 4.2, 'Three generations, one view: pattern, not blame.', { size: 6.9, italic: true, color: MUT });
   },
 
   // ─────────────────────────────────────────────────────── Confidentiality tree ──
@@ -627,8 +639,8 @@ export const DIAGRAMS = {
     T(c, cx - 0.8, cy + 0.3, 1.6, 'a stance, not a technique', { size: 7, align: 'center', color: MUT, italic: true });
 
     const items = [
-      'Age & generation', 'Disability', 'Religion & spirituality', 'Ethnic identity',
-      'Socio-economic status', 'Sexual orientation', 'Indigenous heritage', 'National origin',
+      'Age & generation', 'Disability status', 'Religion & spirituality', 'Ethnic identity',
+      'Socio-economic status', 'Sexual orientation', 'Gender', 'Indigenous heritage', 'National origin',
     ];
     items.forEach((label, i) => {
       const ang = -Math.PI / 2 + (i * 2 * Math.PI) / items.length;
@@ -700,8 +712,8 @@ export const DIAGRAMS = {
     T(c, right.x + 0.1, right.y + 0.52, 2.25, 'silence, distance, shutdown', { size: 7.8, color: MUT, align: 'center' });
 
     // mutual arrow between the two positions
-    c.line(cx - 0.56, top + 0.30, cx + 0.52, top + 0.30, { stroke: C.goldDeep, sw: 1.0, arrowEnd: true, arrowSize: 3.4 });
-    c.line(cx + 0.52, top + 0.64, cx - 0.56, top + 0.64, { stroke: C.goldDeep, sw: 1.0, arrowEnd: true, arrowSize: 3.4 });
+    c.line(cx - 0.48, top + 0.30, cx + 0.44, top + 0.30, { stroke: C.goldDeep, sw: 1.0, arrowEnd: true, arrowSize: 4.2 });
+    c.line(cx + 0.44, top + 0.64, cx - 0.48, top + 0.64, { stroke: C.goldDeep, sw: 1.0, arrowEnd: true, arrowSize: 4.2 });
     c.text(cx - 0.72, top - 0.16, 1.44, 'MUTUAL TRIGGER', { size: 6.0, letterSpacing: 1.4, color: C.goldDeep, align: 'center', caps: true });
 
     card(c, fear.x, fear.y, fear.w, fear.h, { fill: C.ink, stroke: C.gold, sw: 0.6 });
@@ -792,8 +804,8 @@ export const DIAGRAMS = {
       c.text(n.x + 0.08, n.y + 0.14, w - 0.16, n.t, { font: 'serif', size: 11.5, color: INK, align: 'center' });
       T(c, n.x + 0.08, n.y + 0.48, w - 0.16, n.s, { size: 7.2, color: MUT, align: 'center', lineHeight: 1.2 });
     });
-    c.text(cx - 0.9, cy - 0.18, 1.8, 'FEEDBACK-INFORMED', { size: 6.6, letterSpacing: 1.4, color: C.goldDeep, align: 'center', caps: true, bold: true });
-    T(c, cx - 0.86, cy + 0.04, 1.72, 'each session, not each discharge', { size: 6.6, italic: true, color: MUT, align: 'center', maxLines: 2 });
+    c.text(cx - 1.55, cy + 1.62, 3.1, 'FEEDBACK-INFORMED', { size: 6.6, letterSpacing: 1.4, color: C.goldDeep, align: 'center', caps: true, bold: true });
+    T(c, cx - 1.55, cy + 1.8, 3.1, 'each session, not each discharge', { size: 6.6, italic: true, color: MUT, align: 'center', maxLines: 1 });
 
     // chart
     const gx = b.x + 6.6, gy = b.y + 0.45, gw = 4.6, gh = 2.75;
