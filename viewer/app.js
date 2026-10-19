@@ -89,6 +89,13 @@
 
   function buildChrome() {
     el.total.textContent = state.slides.length;
+    const total = state.slides.length;
+    const introCount = document.getElementById('introSlideCount');
+    if (introCount) introCount.textContent = `${total} Slides`;
+    const poster = document.getElementById('posterCount');
+    if (poster) poster.textContent = `01 / ${total}`;
+    const drawerCount = document.getElementById('drawerCount');
+    if (drawerCount) drawerCount.textContent = `${total} slides · 16 weeks · 4 phases`;
 
     // week rail (16 ticks)
     el.rail.innerHTML = '';
