@@ -1,1 +1,50 @@
-# tbugeusa
+# MFT Curriculum Decks
+
+Luxurious, cinematic teaching decks for the Master of Marriage and Family Therapy
+programme. Each course is a **sixteen-week seminar**: theory, diagram, clinical case,
+and seminar discussion, week by week.
+
+## MFT 701 — Fundamentals of Marriage and Family Therapy
+
+**Deliverables** (`decks/`)
+
+| File | Purpose |
+| --- | --- |
+| `MFT-701_..._16-Week-Deck.pptx` | Editable PowerPoint. 77 widescreen slides (13.33 × 7.5 in), fully native shapes and text — every diagram is editable, nothing is a flattened picture. Speaker notes on every slide. |
+| `MFT-701_..._16-Week-Deck.pdf` | Print/lecture PDF of the same 77 slides. |
+
+**Structure**
+
+- Front matter (6): cover, course description, learning outcomes, semester arc, weekly rhythm, assessment.
+- Four phases, each opened by a dark chapter plate: Foundations (1–4), Theoretical Cartography (5–8), The Clinical Encounter (9–12), Integration & Transition (13–16).
+- Sixteen week openers: essential question, three outcomes, in-week agenda, key terms, set reading.
+- Forty-eight week slides: one lecture (three-part argument), one bespoke diagram, and either a clinical case or a seminar protocol.
+- Back matter (3): glossary, references, closing plate.
+
+**Diagrams** (hand-composed, not stock): ecological nesting, circular causality, field timeline,
+structural map with genogram conventions, Bowen triangle, Satir stances, modern/postmodern matrix,
+four-model formulation grid, alliance map, three-generation genogram, ethics decision tree,
+ADDRESSING wheel, developmental timeline, pursuer–withdrawer cycle, family life-cycle staircase,
+feedback-informed practice loop, integration Venn.
+
+## Design system — "Midnight & Champagne"
+
+Warm noir (`#0B0D0C`), ivory paper (`#F8F3E9`), antique gold (`#C2A05F`), with sage and copper as
+secondary accents. Georgia for display, Calibri for text — both standard on PowerPoint installs.
+Gelasio and Carlito (metric-compatible) are used only for layout measurement and preview rendering,
+so the browser/PDF preview and the PowerPoint agree line for line.
+
+## Building
+
+```bash
+cd studio
+npm install
+npm run build      # writes decks/*.pptx, decks/*.pdf and preview/*.png
+```
+
+- `studio/src/content/mft701.mjs` — all course copy, weeks, cases, glossary, references.
+- `studio/src/slides.mjs` — slide archetypes (cover, phase plate, week opener, lecture, diagram, case, seminar…).
+- `studio/src/diagrams.mjs` — the diagram library.
+- `studio/src/canvas-svg.mjs` / `canvas-pptx.mjs` — one drawing API, two backends (SVG for preview/PDF,
+  PptxGenJS for native PowerPoint).
+- `studio/src/build.mjs` — orchestrates all three outputs.
