@@ -515,7 +515,6 @@ def front_matter(records, fm_entries=None):
           Paragraph("Published by Triune Biblical University Global Extension, USA "
                     "(Online University, Shirley, New York, USA). "
                     f"{META.IMPRINT_URL}", cp),
-          Paragraph("ISBN to be assigned by the publisher.", cp),
           Paragraph("All rights reserved. No part of this publication may be "
                     "reproduced, distributed, or transmitted in any form or by any "
                     "means without the prior written permission of the publisher, "

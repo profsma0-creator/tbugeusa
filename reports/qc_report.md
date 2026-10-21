@@ -13,7 +13,7 @@
 
 The interior file is complete and publication-ready: **no placeholder text remains**, no page furniture is missing, every cross-reference, list entry and index reference has been verified against the built PDF, and the file carries only the six embedded text faces.
 
-One pre-press item stays open by necessity — the ISBN, which only the publisher's national agency can issue. The copyright page states that it is to be assigned; when the number arrives it replaces one line and nothing else in the file changes.
+The copyright page carries the complete notice — title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions — with no line left to be supplied. The ISBN, which belongs to the publisher and appears above the barcode on the cover, is not part of the interior.
 
 ---
 
@@ -34,7 +34,7 @@ One pre-press item stays open by necessity — the ISBN, which only the publishe
 | 11 | Stranded headings | 0 headings left alone at the foot of a page |
 | 11b | Split list items | 0. Every bullet and every review or discussion question is set as an indivisible unit, so no item breaks across a page turn |
 | 12 | Fonts | Exactly six embedded faces (EB Garamond Regular, Italic, Medium, SemiBold; Source Serif 4 Italic, SemiBold). The unused Helvetica reference ReportLab writes into every page resource has been removed; no base-14 font appears anywhere in the file |
-| 13 | Placeholders | None. The only bracketed strings in the book are the APA descriptor `[Unpublished manuscript]` in two reference entries. "ISBN to be assigned by the publisher" is a statement, not a placeholder |
+| 13 | Placeholders | None. No bracketed instruction and no "to be supplied" phrase survives anywhere; the only bracketed strings are the APA descriptor `[Unpublished manuscript]` in two reference entries |
 | 14 | Quotation marks and apostrophes | 0 straight quotes and 0 straight apostrophes remain; 140 matched double quotation marks and 477 apostrophes are set as printer's quotes, applied in the typesetter so they cannot drift |
 | 15 | Spelling | Whole-book pass against a 160,000-word dictionary; every unknown form checked individually. The residue is domain vocabulary (anhedonia, avolition, euthymic, polythetic), instrument names, author surnames and British spellings (behaviour, standardised, generalised, recognised, organisation) |
 | 16 | Doubled words, broken punctuation | None outside the contents dot leaders |
@@ -84,15 +84,13 @@ One pre-press item stays open by necessity — the ISBN, which only the publishe
 
 ---
 
-## 6. Open item
+## 6. Open items
 
 | Item | Where | Owner |
 |---|---|---|
-| ISBN | copyright page, line 4 | Publisher |
+| ISBN and barcode | cover file, not this interior | Publisher |
 
-Nothing else affects the file. When the ISBN is issued, the line `ISBN to be assigned by the publisher.` is replaced with the number and its binding, and the interior is final.
-
----
+Nothing in this PDF is outstanding. The interior is final as it stands.
 
 ## 7. What was not done, and why
 
