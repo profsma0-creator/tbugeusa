@@ -1,0 +1,25 @@
+{
+  "total_pages": 274,
+  "expected_pages_interior_plus_2_covers": true,
+  "uniform_7_by_10_inch_trim": true,
+  "front_cover_is_full_page_image": true,
+  "front_cover_image_pixels": [
+    1086,
+    1448
+  ],
+  "front_cover_label": "Front cover",
+  "interior_still_starts_at_i": true,
+  "chapter1_still_page_1": true,
+  "back_cover_label": "Back cover",
+  "interior_text_identical_to_final_edition": true,
+  "interior_mismatch_pages": [],
+  "bookmarks": 36,
+  "cover_bookmarks": [
+    "Front cover",
+    "Back cover"
+  ],
+  "chapter_bookmarks_on_mapped_folios": true,
+  "no_proof_or_review_labels": true,
+  "corporate_author_metadata": true,
+  "back_cover_has_no_fabricated_isbn": true
+}

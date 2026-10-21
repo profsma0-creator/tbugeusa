@@ -2,7 +2,11 @@
 
 ## Current status: FINAL EDITION RELEASED
 
-The final edition is:
+The publishable final edition (with front and back covers) is:
+
+`deliverables/final/Advanced_Neurobiology_of_Trauma_TRT903_Publishable_Final.pdf` — 274 pages: publisher-supplied front cover, the certified interior below, and a newly designed back cover. Interior pagination is unchanged; see the certification report's publishable addendum for cover caveats (artwork reads "TRT 903" vs. interior TRT 903; ~155 DPI at trim).
+
+The certified interior on its own is:
 
 `deliverables/final/Advanced_Neurobiology_of_Trauma_TRT903_Final_Edition.pdf`
 
@@ -45,6 +49,8 @@ for n in range(2, 21):
 EOF
 .venv/bin/python scripts/build_final_edition.py
 .venv/bin/python scripts/check_final_edition.py
+.venv/bin/python scripts/build_publishable_edition.py
+.venv/bin/python scripts/check_publishable.py
 .venv/bin/python scripts/check_chapters.py
 ```
 
