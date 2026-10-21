@@ -4,7 +4,7 @@
 **Author:** Triune Biblical University Global Extension, USA (corporate author)
 **Place:** New York, USA
 **Proof:** final, 359 pages
-**Status:** **no placeholder, no bracketed instruction and no "to be assigned" line remains in the book.** The copyright page carries the complete notice.
+**Status:** **no placeholder and no bracketed instruction remains in the book.** The copyright page carries the complete notice: title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions.
 
 ---
 
@@ -21,11 +21,11 @@
 
 ---
 
-## 2. Item closed by instruction
+## 2. Items closed by instruction
 
-The ISBN line has been **removed** from the copyright page at the publisher's direction, so that the interior contains no statement that anything is still to be supplied. The interior is therefore complete as a print-ready file.
+The copyright page has been simplified at the publisher's direction: the identifier line is gone, so the page now reads as a finished notice rather than an instruction. The interior therefore contains no statement that anything is still to be supplied, and it is complete as a print-ready file.
 
-The ISBN itself belongs to the publisher and to the back cover: it is issued by the national ISBN agency, printed above the barcode on the cover, and recorded in the publisher's catalogue. It does not appear anywhere in the text of this book, and the interior needs no further change when it is assigned.
+The book identifier, when the publisher issues one, belongs to the cover — it is printed above the barcode on the back cover and recorded in the catalogue. It does not appear in the text, so nothing in this file changes when it is allocated.
 
 ---
 
@@ -41,6 +41,6 @@ The ISBN itself belongs to the publisher and to the back cover: it is issued by 
 
 ## 4. What the publisher still does outside this file
 
-1. Commission the cover, which carries the ISBN and its barcode.
-2. Record the ISBN in the catalogue and in the library deposit metadata.
+1. Commission the cover, which carries the barcode.
+2. Record the volume in the catalogue and in the library deposit metadata.
 3. Have the academic lead read the book and sign it off as the institution's text (`substantive_issues.md` §2 and §5).

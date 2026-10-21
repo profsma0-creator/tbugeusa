@@ -13,7 +13,7 @@
 
 The interior file is complete and publication-ready: **no placeholder text remains**, no page furniture is missing, every cross-reference, list entry and index reference has been verified against the built PDF, and the file carries only the six embedded text faces.
 
-The copyright page carries the complete notice — title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions — with no line left to be supplied. The ISBN, which belongs to the publisher and appears above the barcode on the cover, is not part of the interior.
+The copyright page carries the complete notice — title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions — with no line left to be supplied. The book identifier, which belongs to the publisher and appears above the barcode on the cover, is not part of the interior.
 
 ---
 
@@ -88,7 +88,7 @@ The copyright page carries the complete notice — title, copyright line, publis
 
 | Item | Where | Owner |
 |---|---|---|
-| ISBN and barcode | cover file, not this interior | Publisher |
+| Barcode and volume identifier | cover file, not this interior | Publisher |
 
 Nothing in this PDF is outstanding. The interior is final as it stands.
 

@@ -511,7 +511,7 @@ def front_matter(records, fm_entries=None):
     f += [Spacer(1, 170),
           Paragraph(f"{META.TITLE}: {META.SUBTITLE}. {META.COURSE}. "
                     f"{META.EDITION}.", cp),
-          Paragraph(f"\u00a9 2026 {META.AUTHOR}. All rights reserved.", cp),
+          Paragraph(f"\u00a9 2026 {META.AUTHOR}.", cp),
           Paragraph("Published by Triune Biblical University Global Extension, USA "
                     "(Online University, Shirley, New York, USA). "
                     f"{META.IMPRINT_URL}", cp),
