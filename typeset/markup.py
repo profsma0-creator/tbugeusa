@@ -28,9 +28,46 @@ import re
 
 INLINE_ESCAPES = (("&", "&amp;"), ("<", "&lt;"), (">", "&gt;"))
 
+OPENERS = " \t([{\u2014\u2013/\u2018"
+CLOSERS = " \t.,;:!?)]}\u2014\u2013/"
+
+
+def typographic(text):
+    """Set straight quotation marks and apostrophes as printer's quotes.
+
+    Applied to every string that reaches the page, so the book carries curly
+    quotes throughout rather than the typewriter characters of the source.
+    """
+    out = []
+    open_dq = True
+    for i, ch in enumerate(text):
+        prev = text[i - 1] if i else " "
+        nxt = text[i + 1] if i + 1 < len(text) else " "
+        if ch == '"':
+            if prev in OPENERS:
+                out.append("\u201c")
+                open_dq = False
+            elif nxt in CLOSERS:
+                out.append("\u201d")
+                open_dq = True
+            else:
+                out.append("\u201c" if open_dq else "\u201d")
+                open_dq = not open_dq
+        elif ch == "'":
+            if prev.isalpha() and (nxt.isalnum() or not nxt.strip()):
+                out.append("\u2019")         # Bayes' theorem, clients'
+            elif nxt.isalpha() and prev in OPENERS:
+                out.append("\u2018")
+            else:
+                out.append("\u2019")
+        else:
+            out.append(ch)
+    return "".join(out)
+
 
 def inline(text):
     """Convert the small inline markup used in the source into RML-ish tags."""
+    text = typographic(text)
     for a, b in INLINE_ESCAPES:
         text = text.replace(a, b)
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)

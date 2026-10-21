@@ -1499,7 +1499,7 @@
    {
     "kind": "section",
     "text": "12.6\u2002\u2002School Records and Teacher Reports",
-    "page": "229",
+    "page": "230",
     "indent": 14,
     "size": 8.8
    },
@@ -1513,14 +1513,14 @@
    {
     "kind": "section",
     "text": "12.8\u2002\u2002Emotional and Behavioural Problems",
-    "page": "231",
+    "page": "232",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "12.9\u2002\u2002Trauma and Safeguarding in Youth Assessment",
-    "page": "232",
+    "page": "233",
     "indent": 14,
     "size": 8.8
    },
@@ -2367,7 +2367,7 @@
     "size": 8.8
    },
    {
-    "text": "Figure 3.2. Positive and negative predictive values for an instrument with sensitivity .90 and specificity .90, plotted against prevalence. The values are computed from Bayes' theorem; the instrument is held constant while the setting varies.",
+    "text": "Figure 3.2. Positive and negative predictive values for an instrument with sensitivity .90 and specificity .90, plotted against prevalence. The values are computed from Bayes\u2019 theorem; the instrument is held constant while the setting varies.",
     "page": "62",
     "indent": 0,
     "size": 8.8

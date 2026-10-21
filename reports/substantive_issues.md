@@ -2,7 +2,7 @@
 
 **Book:** *Advanced Assessment and Diagnosis: A Doctoral-Level Textbook in Counselling Psychology* (CPY 903)
 **Source file:** `CPY_903_Advanced_Assessment_and_Diagnosis_Textbook.pdf`, 1,198 pages
-**Delivered proof:** 359 pages, 74,448 words of body text, 16 chapters in 5 parts
+**Delivered proof:** final, 359 pages, 74,450 words of body text, 16 chapters in 5 parts
 **Status:** the delivered text is publication-ready in form; it is **not** a line-edited version of the source, and the institution must approve it as its own before release. The book is published under a corporate author, Triune Biblical University Global Extension, USA.
 
 ---

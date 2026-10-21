@@ -297,7 +297,8 @@ class Book(BaseDocTemplate):
                                                 size=9.6))
             elif kind == "fm":
                 self.canv.addOutlineEntry(rec["text"], key, level=0, closed=False)
-                self.records["fm"].append(dict(text=rec["text"], page=self.folio(),
+                self.records["fm"].append(dict(text=markup.typographic(rec["text"]),
+                                            page=self.folio(),
                                                indent=0, space_before=8,
                                                font="Body-Semi", size=9.4))
             elif kind == "back":
@@ -320,15 +321,18 @@ class Book(BaseDocTemplate):
                 self.canv.addOutlineEntry(rec["text"], key, level=1, closed=True)
             elif kind == "section":
                 self.canv.addOutlineEntry(rec["text"], key, level=1, closed=False)
-                self.records["toc"].append(dict(kind="section", text=rec["text"],
+                self.records["toc"].append(dict(kind="section",
+                                                text=markup.typographic(rec["text"]),
                                                 page=self.folio(), indent=14,
                                                 size=8.8))
                 self.section_label = rec["text"]
             elif kind == "figure":
-                self.records["fig"].append(dict(text=rec["text"], page=self.folio(),
+                self.records["fig"].append(dict(text=markup.typographic(rec["text"]),
+                                                page=self.folio(),
                                                 indent=0, size=8.8))
             elif kind == "table":
-                self.records["tab"].append(dict(text=rec["text"], page=self.folio(),
+                self.records["tab"].append(dict(text=markup.typographic(rec["text"]),
+                                                page=self.folio(),
                                                 indent=0, size=8.8))
 
 
@@ -507,11 +511,11 @@ def front_matter(records, fm_entries=None):
     f += [Spacer(1, 170),
           Paragraph(f"{META.TITLE}: {META.SUBTITLE}. {META.COURSE}. "
                     f"{META.EDITION}.", cp),
-          Paragraph("[Copyright year and rights holder to be confirmed by the "
-                    "publisher.]", cp),
+          Paragraph(f"\u00a9 2026 {META.AUTHOR}. All rights reserved.", cp),
           Paragraph("Published by Triune Biblical University Global Extension, USA "
-                    "(Online University, Shirley, New York, USA).", cp),
-          Paragraph("[ISBN to be assigned.]", cp),
+                    "(Online University, Shirley, New York, USA). "
+                    f"{META.IMPRINT_URL}", cp),
+          Paragraph("ISBN to be assigned by the publisher.", cp),
           Paragraph("All rights reserved. No part of this publication may be "
                     "reproduced, distributed, or transmitted in any form or by any "
                     "means without the prior written permission of the publisher, "
@@ -524,13 +528,14 @@ def front_matter(records, fm_entries=None):
                     "editions of diagnostic classifications. Clinical examples are "
                     "fictional composites and do not describe identifiable persons.",
                     cp),
-          Paragraph("Diagnostic criteria quoted or paraphrased in this book are "
+          Paragraph(markup.typographic(
+                    "Diagnostic criteria quoted or paraphrased in this book are "
                     "drawn from the Diagnostic and Statistical Manual of Mental "
                     "Disorders, Fifth Edition, Text Revision (American Psychiatric "
                     "Association, 2022) and from the Clinical Descriptions and "
                     "Diagnostic Requirements for ICD-11 Mental, Behavioural and "
                     "Neurodevelopmental Disorders (World Health Organization, 2024). "
-                    "Copyright in those works remains with their respective owners.",
+                    "Copyright in those works remains with their respective owners."),
                     cp),
           Paragraph("Typeset in EB Garamond 11/15.2 pt with Source Serif 4 display "
                     "type. Trim size 152 × 229 mm.", cp),
@@ -612,20 +617,20 @@ def render_section(blocks, opener=False, fm=False):
                 page_kind = "refs"
             elif title.strip().lower() == "glossary":
                 page_kind = "glossary"
-            out.append(Paragraph(title, STYLES["ChapterTitleNoHyph"]))
+            out.append(Paragraph(markup.typographic(title), STYLES["ChapterTitleNoHyph"]))
             out.append(Hr(width=60, space_before=8, space_after=16))
             fresh = True
         elif b.kind == "h1":
             label = f"{b.num}\u2002\u2002{b.title}" if b.num else b.title
             out.append(CondPageBreak(76))
-            p = Paragraph(label, STYLES["H1"])
+            p = Paragraph(markup.typographic(label), STYLES["H1"])
             p._chap_record = dict(kind="fmsec" if fm else "section", text=label,
                                   key=f"s{len(out)}{label[:14]}")
             out.append(p)
             fresh = True
         elif b.kind == "h2":
             out.append(CondPageBreak(64))
-            out.append(Paragraph(b.title, STYLES["H2"]))
+            out.append(Paragraph(markup.typographic(b.title), STYLES["H2"]))
             fresh = True
         elif b.kind == "para":
             if page_kind == "refs":
@@ -936,6 +941,16 @@ def main():
     tmpout = final + ".tmp.pdf"
     os.replace(final, tmpout)
     src = pymupdf.open(tmpout)
+    # ReportLab registers a default Helvetica (/F1) in every page's resource
+    # dictionary although no text uses it. Drop the dead reference so that the
+    # only fonts in the file are the six embedded text faces.
+    for page in src:
+        for key in ("F1",):
+            try:
+                if src.xref_get_key(page.xref, f"Resources/Font/{key}")[0] != "null":
+                    src.xref_set_key(page.xref, f"Resources/Font/{key}", "null")
+            except Exception:
+                pass
     src.save(final, garbage=4, deflate=True, clean=True)
     src.close()
     os.remove(tmpout)

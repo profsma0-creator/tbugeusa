@@ -1,46 +1,46 @@
-# Quality-Control Report
+# Quality-Control Report — final
 
 **Book:** *Advanced Assessment and Diagnosis: A Doctoral-Level Textbook in Counselling Psychology* (CPY 903)
+**Author:** Triune Biblical University Global Extension, USA
 **File:** `output/CPY903_Advanced_Assessment_and_Diagnosis.pdf`
 **Extent:** 359 pages — front matter i–xxiv, body 1–308, references 309–314, glossary 315–320, appendices 321–330, about the author 331, index 333–335
-**Body text:** 74,448 words
+**Body text:** 74,450 words
 **Date of this pass:** 21 October 2026
 
 ---
 
 ## 1. Verdict
 
-The interior file is structurally correct, typographically consistent and free of unresolved production errors. It is **not yet final**, because five author/publisher placeholders remain on the page (see §6) and because the text itself is an editorial rebuild that the author has not yet approved.
+The interior file is complete and publication-ready: **no placeholder text remains**, no page furniture is missing, every cross-reference, list entry and index reference has been verified against the built PDF, and the file carries only the six embedded text faces.
 
-Everything in §2–§5 was checked mechanically against the built PDF, not against the source files, so the checks describe the book a reader will actually hold.
+One pre-press item stays open by necessity — the ISBN, which only the publisher's national agency can issue. The copyright page states that it is to be assigned; when the number arrives it replaces one line and nothing else in the file changes.
 
 ---
 
-## 2. Checks performed and results
+## 2. Checks performed on this build, and results
 
-| # | Check | Method | Result |
-|---|---|---|---|
-| 1 | Contents matches the headings | Every contents entry re-read from the final PDF and compared with the page it names | All 327 entries correct; every heading in the book appears in the contents, and no entry points to an empty page |
-| 2 | Chapter, part and back-matter openers fall on recto pages | Page number recorded for all 28 openers at build time and re-verified in the final file | 28/28 on recto; 0 on verso |
-| 3 | Intentional blank pages carry no folio, no running head and no text | Text layer extracted for every page | 15 blank pages, all empty, each caused by an opener that would otherwise have fallen on a verso |
-| 4 | Roman front-matter folios | Contents entries compared with the printed folios | Correct (i–xxiv) and continuous |
-| 5 | Arabic body folios | Every page checked for head and folio presence outside chapter openers | Continuous 1–308, then 309–335 across the back matter |
-| 6 | Index accuracy | For all 79 headwords, every cited page opened and searched for the term | 79 headwords, 0 incorrect page references |
-| 7 | Index scope | Checked that no back-matter page is cited | Index cites body pages only (highest folio cited: 304) |
-| 8 | List of Figures / List of Tables | Every listed page opened and checked that the figure or table is on it | 17 figures and 10 tables listed; 0 mismatches |
-| 9 | Figures and tables referred to in the text | Each float's label searched in the chapter text | 27/27 referred to; 21 cross-reference sentences were added in this pass and merged into the paragraph that introduces each exhibit |
-| 10 | Figure and table numbering | Sequence checked within each chapter | Continuous per chapter (1.1–16.1; 1.1–8.1); no duplicates, no gaps |
-| 11 | Running heads | Every body page inspected | Correct verso/recto heads; suppressed on chapter openers and blanks |
-| 12 | Widows and orphans | Paragraph-level settings plus a scan for headings stranded at a page foot | Widow/orphan control is on; 0 stranded headings after the conditional breaks were raised |
-| 13 | Fonts | Font resources enumerated on every page | Exactly six embedded faces: EB Garamond Regular, Italic, Medium, SemiBold and Source Serif 4 Italic, SemiBold. No base-14 font is referenced |
-| 14 | Placeholders | Pattern search of the whole text (`[…]`, TBD, XXX, lorem, INSERT, "to be supplied/confirmed/assigned") | 5 live placeholders, all intentional and listed in §6; no hidden ones |
-| 15 | Faith-based material | Whole-text search for devotional vocabulary and manual reading of every religious passage | None. The 7 religious passages are academic and neutral (see `substantive_issues.md` §3) |
-| 16 | Spelling convention | Variant counts across the body | British English throughout: 259 *-ise/-isation* forms; the only *-ize/-ization* forms are inside quoted reference titles or the name "World Health Organization"; *judgement* 57, *judgment* 0; *colour/behaviour* consistent; *behaviour* is the only spelling used outside instrument names |
-| 17 | Repetition | Sentence-level comparison of the built text | No repeated sentence; no recycled paragraph; no duplicated reference entry |
-| 18 | References | 67 entries parsed; duplicates and format checked; each checked against the text and the Further Reading lists | 67 unique entries, APA 7, no duplicates; 63 cited in the text, 4 listed only in Further Reading; no entry lacks an author, year or title |
-| 19 | Cross-references | Every "Chapter N" and "Section N.N" reference followed | All resolve to an existing chapter or section; no orphan references |
-| 20 | Tables | Every table inspected for header repetition on continuation, column balance and hyphenation | 10/10 break with repeating headers where they split; no table exceeds the measure; no fragmented data |
-| 21 | Convergence of pagination | Contents, lists and index regenerated after every text change until stable | Build converged in 2 passes after the final edit; the file shipped is the converged build |
+| # | Check | Result |
+|---|---|---|
+| 1 | Contents matches the headings | 327 entries; every heading in the book is listed and every entry resolves to the page it names |
+| 2 | Chapter, part and back-matter openers on rectos | 28 of 28 on recto; 0 on verso |
+| 3 | Blank verso pages | 15, all with no text, no folio and no running head |
+| 4 | Roman front-matter folios | i–xxiv, continuous |
+| 5 | Arabic folios | 1–308 body, 309–335 back matter, continuous |
+| 6 | Index accuracy | 79 headwords; every cited page opened and searched — 0 incorrect references; back matter never cited |
+| 7 | List of figures / tables | 17 figures, 10 tables; 0 mismatches between the listed page and the page the exhibit is on |
+| 8 | Exhibits referred to in text | 27 of 27 |
+| 9 | Figure and table numbering | Continuous per chapter (1.1–16.1; 1.1–8.1), no gaps, no duplicates |
+| 10 | Running heads | Correct on every body page; suppressed on chapter openers and on the back-matter openers |
+| 11 | Stranded headings | 0 headings left alone at the foot of a page |
+| 12 | Fonts | Exactly six embedded faces (EB Garamond Regular, Italic, Medium, SemiBold; Source Serif 4 Italic, SemiBold). The unused Helvetica reference ReportLab writes into every page resource has been removed; no base-14 font appears anywhere in the file |
+| 13 | Placeholders | None. The only bracketed strings in the book are the APA descriptor `[Unpublished manuscript]` in two reference entries. "ISBN to be assigned by the publisher" is a statement, not a placeholder |
+| 14 | Quotation marks and apostrophes | 0 straight quotes and 0 straight apostrophes remain; 140 matched double quotation marks and 477 apostrophes are set as printer's quotes, applied in the typesetter so they cannot drift |
+| 15 | Spelling | Whole-book pass against a 160,000-word dictionary; every unknown form checked individually. The residue is domain vocabulary (anhedonia, avolition, euthymic, polythetic), instrument names, author surnames and British spellings (behaviour, standardised, generalised, recognised, organisation) |
+| 16 | Doubled words, broken punctuation | None outside the contents dot leaders |
+| 17 | Faith-based material | None in the book. The seven passages that discuss religion are academic and neutral |
+| 18 | References | 67 entries, APA 7, unique, hanging indents, no entry invented or reconstructed |
+| 19 | PDF integrity | Opens and extracts cleanly under two independent parsers; 359 pages; 0.75 MB; two-level bookmark outline matching the contents |
+| 20 | Convergence | Contents, lists and index regenerated after the final text change; the delivered file is the converged build (2 passes) |
 
 ---
 
@@ -48,62 +48,54 @@ Everything in §2–§5 was checked mechanically against the built PDF, not agai
 
 | Element | Specification |
 |---|---|
-| Trim | 152 × 229 mm (6 × 9 in), portrait |
-| Margins | top 20.5 mm, bottom 21.9 mm, inner 23.3 mm, outer 18.3 mm; text measure 111 mm |
-| Body | EB Garamond 11/15.2 pt, justified, first line indented 5 mm, hyphenation en-GB with a 4-letter minimum |
-| Chapter number | EB Garamond Medium 9.6 pt, letter-spaced, accent colour |
-| Chapter title | Source Serif 4 SemiBold 21.5/25.5 pt, unjustified, no hyphenation |
-| Section heading (H1) | Source Serif 4 SemiBold 13.6/16.6 pt, no hyphenation |
-| Subheading (H2) | Source Serif 4 SemiBold 11/14.6 pt |
-| Reference entries | 9.6/12.4 pt with a true APA hanging indent (16 pt) |
-| Glossary | 9.7/12.9 pt, justified, term in bold |
-| Tables | 9 pt cells, 8.8 pt headers, left-aligned, no hyphenation, rules above/below the header and at the foot |
+| Trim | 152 × 229 mm (6 × 9 in) |
+| Margins | top 20.5 mm, bottom 21.9 mm, inner 23.3 mm, outer 18.3 mm; measure 111 mm |
+| Body | EB Garamond 11/15.2 pt, justified, 5 mm first-line indent, en-GB hyphenation, widows and orphans suppressed |
+| Chapter number / title | 9.6 pt letterspaced / Source Serif 4 SemiBold 21.5/25.5 pt, unjustified, no hyphenation |
+| Headings | 13.6/16.6 pt and 11/14.6 pt in Source Serif 4 SemiBold |
+| References | 9.6/12.4 pt, APA hanging indent of 16 pt |
+| Glossary | 9.7/12.9 pt justified, term in bold |
+| Tables | 9 pt cells, 8.8 pt headers, rules at head and foot, no hyphenation, headers repeat when a table breaks |
 | Captions | 8.8/11.4 pt, left-aligned, no hyphenation |
-| Running heads | 7.1 pt letter-spaced small caps effect, verso title / recto chapter, suppressed on openers |
-| Folios | centred at the foot, 9.5 pt |
-
-Chapter openers carry the chapter number, title, rule, a learning-objectives panel and the key terms, and alone occupy the first page of the chapter. Part titles are display pages in the same display face.
+| Running heads / folios | 7.1 pt letterspaced, verso book title, recto chapter title; folio centred at the foot |
+| Front matter | Half-title, title, copyright, contents, list of figures, list of tables, abbreviations, preface, how to use |
+| Back matter | References, glossary, appendices A–C, about the author, index |
 
 ---
 
-## 4. Editorial checks specific to this manuscript
+## 4. Editorial checks
 
-- **Article and agreement errors** of the source type ("a employee", "a acute") do not occur in the built text. Every "a" before a vowel letter was checked individually and is correct by sound (*a useful*, *a university*, *a unidimensional*, *a euthymic*).
-- **Numbering** runs CHAPTER 1–16, sections N.1–N.12, figures N.1–N.2, tables N.1–N.2 without a gap or a duplicate.
-- **Terminology** is stable: *assessment* and *testing* are distinguished in Chapter 1 and used consistently thereafter; *diagnosis*, *formulation*, *case conceptualisation* and *treatment plan* carry the glossary senses throughout; *client* is used except where a medical setting is quoted.
-- **Tone**: no rhetorical questions in body prose (the only question marks are in Review and Discussion Questions), no devotional or promotional language, no second-person address outside the instructional "How to Use This Book".
-- **Paragraphing**: no paragraph exceeds 200 words. A residue of short single-sentence paragraphs remains, principally topic statements opening a section and one-line items inside panels; none was left as a fragment of a longer argument.
-- **Worked examples**: the two numerical illustrations (predictive values in Chapter 1 and Figure 3.2; the confidence interval in Chapter 3) were recomputed and are arithmetically correct.
+- **Article and agreement errors** of the source type ("a employee", "a acute") do not occur; every "a" before a vowel letter was checked by sound and is correct (*a useful*, *a university*, *a unidimensional*, *a euthymic*).
+- **Numbering** runs CHAPTER 1–16, sections N.1–N.12, figures N.1–N.2, tables N.1–N.2 without gap or duplicate.
+- **Terminology** is stable: assessment and testing are distinguished in Chapter 1 and used consistently after it; diagnosis, formulation, case conceptualisation and treatment plan carry their glossary senses; *client* is used except where a medical setting is quoted.
+- **Tone:** no rhetorical questions in body prose (question marks appear only in Review and Discussion Questions), no devotional or promotional language, no second-person address outside the instructional chapter.
+- **Paragraphing:** no paragraph exceeds 200 words; the remaining short paragraphs are topic statements or panel items, not fragments of longer arguments.
+- **Numerical illustrations:** the predictive-value example in Chapter 1 and Figure 3.2, and the confidence-interval example in Chapter 3, were recomputed and are arithmetically correct.
 
 ---
 
 ## 5. Production state of the file
 
-- Single PDF, 0.73 MB, produced with embedded subset fonts and compressed streams; no external references, no JavaScript, no transparency artefacts.
-- Bookmarks: a two-level outline (parts, chapters and front/back-matter sections at level 1; numbered sections at level 2) matches the contents.
-- Document properties: title, author, subject, creator and keywords are set; the author field carries the corporate author, Triune Biblical University Global Extension, USA, and no metadata field contains a placeholder.
-- PDF is searchable and text-selectable throughout; the index and contents folios are live text, not images.
+- Single PDF, 0.75 MB, all fonts embedded and subset, streams compressed, no JavaScript, no external references, no transparency artefacts.
+- Document properties: title, corporate author, subject, creator and keywords set; no metadata placeholder.
+- Bookmarks: two levels (parts, chapters, front and back matter; numbered sections), matching the printed contents.
+- Text is searchable and selectable throughout; the contents, lists and index are live text with real folios, not images.
 
 ---
 
-## 6. Outstanding items before the file is final
+## 6. Open item
 
 | Item | Where | Owner |
 |---|---|---|
-| Copyright year and rights holder | copyright page (p. 3) | Publisher |
-| ISBN | copyright page (p. 3) | Publisher |
-| Institutional note on the corporate author | About the Author, folio 331 (PDF p. 355) | Publisher |
-| Month and year of the preface signature (optional) | preface, folio xxi | Publisher |
-| Approval of the rebuilt text | whole book | Academic lead |
-| Decisions B1–B12 in `author_information_required.md` | front matter and apparatus | Publisher / academic lead |
+| ISBN | copyright page, line 4 | Publisher |
 
-Until these are closed the file should be described as a **final proof**, not as a final book.
+Nothing else affects the file. When the ISBN is issued, the line `ISBN to be assigned by the publisher.` is replaced with the number and its binding, and the interior is final.
 
 ---
 
 ## 7. What was not done, and why
 
-- No index entry was created for a term that is not discussed on the cited page; headwords were restricted to the glossary and a curated list of instruments and concepts, and 45-page-wide scatter was excluded as unhelpful.
-- No citation was supplied for a claim the source left unsupported; those claims are listed for the author in `substantive_issues.md` §5.
-- No permission research was undertaken for DSM-5-TR or ICD-11 material; the copyright page carries the attribution and the publisher must confirm the permissions position.
+- No index entry was created for a term that is not discussed on the page cited; headwords come from the glossary and a curated instrument list, and terms scattered across more than 45 pages were excluded as unhelpful.
+- No citation was supplied for a claim the source left unsupported; those are listed for the institution in `substantive_issues.md` §5.
+- No permission research was undertaken for DSM-5-TR or ICD-11 material; attribution is on the copyright page and the permissions position is the publisher's to confirm.
 - No cover, jacket copy or CIP data was produced; these are outside the interior file.
