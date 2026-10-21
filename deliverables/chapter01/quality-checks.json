@@ -1,0 +1,31 @@
+{
+  "page_count": 23,
+  "two_vector_figures_present": true,
+  "two_tables_present": true,
+  "no_internal_assembly_tokens": true,
+  "corporate_author_present": true,
+  "all_pages_labelled_not_approved": true,
+  "outline_present": true,
+  "contents_links_present": true,
+  "no_out_of_page_text": true,
+  "actual_text_fonts": [
+    "SourceSerif4-Bold",
+    "SourceSerif4-Italic",
+    "SourceSerif4-Regular"
+  ],
+  "all_actual_text_uses_source_serif": true,
+  "all_used_font_faces_embedded": true,
+  "seven_reconstruction_references_rendered": true,
+  "twenty_original_reference_entries_archived": true,
+  "edited_prose_coverage": true,
+  "missing_prose_blocks": [],
+  "docx_has_two_tables": true,
+  "docx_has_two_figures": true,
+  "source_bibliography_entries": 7,
+  "visual_layout_inspection": "Representative title, contents, table and figure pages inspected; not a complete independent proofread.",
+  "scientific_accuracy_verified": false,
+  "selective_source_verification": "Seven records checked with bounded support documented in Source_Verification_Register.md; not a full chapter or whole-book evidence audit.",
+  "full_book_edited": false,
+  "release_status": "HOLD \u2014 selective reconstruction checked; remaining manuscript and independent subject review outstanding",
+  "layout_issues": []
+}
