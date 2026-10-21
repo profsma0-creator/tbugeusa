@@ -3,7 +3,7 @@
 **Book:** *Advanced Assessment and Diagnosis: A Doctoral-Level Textbook in Counselling Psychology* (CPY 903)
 **Source file:** `CPY_903_Advanced_Assessment_and_Diagnosis_Textbook.pdf`, 1,198 pages
 **Delivered proof:** 359 pages, 74,448 words of body text, 16 chapters in 5 parts
-**Status:** the delivered text is publication-ready in form; it is **not** a line-edited version of the source, and the author must approve it as his or her own before release.
+**Status:** the delivered text is publication-ready in form; it is **not** a line-edited version of the source, and the institution must approve it as its own before release. The book is published under a corporate author, Triune Biblical University Global Extension, USA.
 
 ---
 
@@ -37,7 +37,7 @@ The book was **rebuilt** to the source's own architecture rather than patched:
 
 This is an editorial rebuild, not a copy-edit. That must be stated in any contract, preface or catalogue description. Two consequences follow, and both are the author's to decide:
 
-1. **Authorship and approval.** The prose is new. The author must read the delivered proof as a new manuscript and either adopt it or ask for sections to be rewritten. The editor's reconstruction cannot be presented as the author's original wording.
+1. **Authorship and approval.** The prose is new. The institution's designated academic lead must read the delivered proof as a new manuscript and either adopt it or ask for sections to be rewritten. The editor's reconstruction cannot be presented as the institution's original wording.
 2. **Attribution of claims.** No finding, statistic, quotation, case or citation has been introduced that was not already in the source. Where a claim needs support that the source did not give, it has been left as a claim without a citation rather than given a fabricated one, and it is listed in §5 below.
 
 ---
@@ -66,9 +66,9 @@ This is an editorial rebuild, not a copy-edit. That must be stated in any contra
 
 ---
 
-## 5. Claims and passages requiring the author's verification
+## 5. Claims and passages requiring verification
 
-These are substantive matters a copy-editor must not settle. Each needs a citation, a correction or an explicit endorsement from the author.
+These are substantive matters a copy-editor must not settle. Each needs a citation, a correction or an explicit endorsement from the institution's academic lead.
 
 | # | Location (folio) | Issue | What is needed |
 |---|---|---|---|
@@ -101,4 +101,4 @@ These are substantive matters a copy-editor must not settle. Each needs a citati
 
 ## 7. Recommendation
 
-Release the proof to the author for reading and approval (item B7), with §5 as the reading guide. On return, apply corrections to the affected chapters, rebuild, re-verify the contents, lists and index, and proof only the changed pages. The book should not be described as "final" until the author's approval and the five placeholders in `author_information_required.md` §A are resolved.
+Release the proof to the institution's academic lead for reading and approval (item B3), with §5 as the reading guide. On return, apply corrections to the affected chapters, rebuild, re-verify the contents, lists and index, and proof only the changed pages. The book should not be described as "final" until that approval and the placeholders in `author_information_required.md` §A are resolved.

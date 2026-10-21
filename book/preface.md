@@ -26,4 +26,4 @@ Diagnostic systems are revised. This edition refers to the *Diagnostic and Stati
 
 British spelling has been used throughout, except in the titles of published instruments, organisations and works, which retain their original spelling.
 
-[AUTHOR TO SUPPLY: place and date of writing]
+New York, USA

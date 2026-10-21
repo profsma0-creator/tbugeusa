@@ -81,7 +81,7 @@ Chapter openers carry the chapter number, title, rule, a learning-objectives pan
 
 - Single PDF, 0.73 MB, produced with embedded subset fonts and compressed streams; no external references, no JavaScript, no transparency artefacts.
 - Bookmarks: a two-level outline (parts, chapters and front/back-matter sections at level 1; numbered sections at level 2) matches the contents.
-- Document properties: title, author line (imprint), subject, creator and keywords are set; no metadata field contains a placeholder except the author name, which is recorded as the imprint.
+- Document properties: title, author, subject, creator and keywords are set; the author field carries the corporate author, Triune Biblical University Global Extension, USA, and no metadata field contains a placeholder.
 - PDF is searchable and text-selectable throughout; the index and contents folios are live text, not images.
 
 ---
@@ -90,13 +90,12 @@ Chapter openers carry the chapter number, title, rule, a learning-objectives pan
 
 | Item | Where | Owner |
 |---|---|---|
-| Author name | title page (PDF p. 2) | Author |
 | Copyright year and rights holder | copyright page (p. 3) | Publisher |
 | ISBN | copyright page (p. 3) | Publisher |
-| Place and date of writing | preface, folio xx | Author |
-| Biographical note | About the Author, folio 333 | Author |
-| Author approval of the rebuilt text | whole book | Author |
-| Decisions B1–B4, B7–B13 in `author_information_required.md` | front matter and apparatus | Author / publisher |
+| Institutional note on the corporate author | About the Author, folio 331 (PDF p. 355) | Publisher |
+| Month and year of the preface signature (optional) | preface, folio xxi | Publisher |
+| Approval of the rebuilt text | whole book | Academic lead |
+| Decisions B1–B12 in `author_information_required.md` | front matter and apparatus | Publisher / academic lead |
 
 Until these are closed the file should be described as a **final proof**, not as a final book.
 

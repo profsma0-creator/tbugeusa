@@ -7,12 +7,16 @@ IMPRINT = "Triune Biblical University Global Extension, USA"
 IMPRINT_SUB = "Online University, Shirley, New York, USA"
 IMPRINT_URL = "www.tbuglobalextensionusa.com"
 EDITION = "First edition"
+AUTHOR = "TRIUNE BIBLICAL UNIVERSITY GLOBAL EXTENSION, USA"
+PLACE = "New York, USA"
+# The corporate author and the publisher are the same institution, so the
+# title page carries the name once, as author, and the city at the foot.
 
 # Running-head title (verso pages)
 RUNNING_TITLE = "Advanced Assessment and Diagnosis"
 
 # Editorial placeholders that require author or publisher input.
-AIR_MARK = "[AUTHOR TO SUPPLY]"
+AIR_MARK = "[AUTHOR TO SUPPLY]"  # no longer used: author supplied by publisher
 
 PARTS = [
     ("PART I", "Foundations and Measurement",

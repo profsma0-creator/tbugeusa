@@ -23,6 +23,7 @@ import re
 import sys
 
 from reportlab.lib import colors
+from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase.pdfmetrics import stringWidth
@@ -194,7 +195,7 @@ class Book(BaseDocTemplate):
             leftMargin=M_INNER, rightMargin=M_OUTER,
             topMargin=M_TOP, bottomMargin=M_BOTTOM,
             title=f"{META.COURSE}: {META.TITLE}. {META.SUBTITLE}",
-            author=f"{META.IMPRINT}",
+            author=f"{META.AUTHOR}",
             subject=("Doctoral-level textbook in counselling psychology: "
                      "psychological assessment, psychometrics, diagnosis and "
                      "case formulation"),
@@ -481,16 +482,24 @@ def front_matter(records, fm_entries=None):
           Paragraph(META.TITLE, ParagraphStyle("t2", parent=S["FMTitle"],
                                                fontSize=29, leading=33)),
           Spacer(1, 10),
-          Hr(width=70, space_before=0, space_after=0),
+          Table([[Hr(width=70, space_before=0, space_after=0)]],
+                colWidths=[TEXT_W],
+                style=TableStyle([("ALIGN", (0, 0), (-1, -1), "CENTER"),
+                                  ("LEFTPADDING", (0, 0), (-1, -1), 0),
+                                  ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+                                  ("TOPPADDING", (0, 0), (-1, -1), 0),
+                                  ("BOTTOMPADDING", (0, 0), (-1, -1), 0)])),
           Spacer(1, 12),
-          Paragraph(META.SUBTITLE, S["FMSub"]),
+          Paragraph(META.SUBTITLE, ParagraphStyle("sub2", parent=S["FMSub"],
+                                                  alignment=TA_CENTER)),
           Spacer(1, 40),
-          Paragraph(META.AIR_MARK, ParagraphStyle("air", parent=S["FMCentre"],
-                                                  fontSize=8, textColor=INK_SOFT)),
+          Paragraph(META.AUTHOR, ParagraphStyle("auth", parent=S["FMCentre"],
+                                                fontSize=10.2, leading=15,
+                                                tracking=1.0)),
           Spacer(1, 120),
           Paragraph(META.EDITION, S["FMCentre"]),
-          Spacer(1, 18),
-          Paragraph(META.IMPRINT, S["FMImprint"]),
+          Spacer(1, 9),
+          Paragraph(META.PLACE, S["FMCentre"]),
           PageBreak()]
 
     # -------------------------------------------------------- copyright page
@@ -815,6 +824,7 @@ def back_matter(doc, records, index_entries):
         if key in doc.blank_before:
             out.append(_Blank(doc))
             out.append(PageBreak())
+        out.append(_Opener(doc))
         out.append(_Mark(doc, key))
         out += render_section(blocks)
         out.append(PageBreak())
