@@ -1,0 +1,27 @@
+# Author Information Required
+
+**Status:** unresolved author-dependent information. Nothing below has been guessed or inserted into the manuscript. Please supply the details that should appear, or explicitly confirm that an item should be omitted.
+
+| ID | Location and exact text/status | Information required | Why it is needed | Suggested replacement format (template only) |
+|---|---|---|---|---|
+| 1 | **Source PDF p. 1; proof PDF p. 1; DOCX title page.** Exact text: **“Author”** | Author’s preferred credited name; earned degree(s) and professional credentials, if desired; affiliation and author order if there is more than one author. Confirm whether a corresponding-author email or ORCID should appear. | “Author” is an unresolved cover placeholder. A name, credentials, email, or ORCID must not be inferred. | `<Preferred full name>, <earned degree(s)>, <professional credential(s)>`  
+`<Department or affiliation, if approved>`  
+`<Corresponding email and/or ORCID, if approved>` |
+| 2 | **Source PDF pp. 1–2; proof PDF pp. 1–2.** Exact cover/front-matter text: **“TRIUNE BIBLICAL UNIVERSITY GLOBAL EXTENSION, USA”; “Shirley, New York, USA”; “www.tbuglobalextensionusa.com”; “PhD in Counseling Psychology”** | Confirm the institution’s current official/legal name, authorised display form, location, website, and the exact official programme title. Confirm whether the American spelling in the programme title is intentional and must remain unchanged. | These are institutional and programme identifiers, not editorially replaceable wording. The programme title is preserved as an official name while the surrounding text follows British English. | `<Official institution name>`  
+`<Official school/extension, if applicable>`  
+`<City, region/state, country>`  
+`<Official website>`  
+`<Official programme title>` |
+| 3 | **Source PDF p. 1:** **“NOT-FOR-SALE”**. **Proof PDF/DOCX title page:** **“NOT FOR SALE”** | Confirm the institution’s required wording, punctuation, and whether this notice is an internal-use statement or a formal distribution restriction. | The proof normalises the hyphenation, but this may be a branded or legally significant phrase. | Insert only the approved wording, e.g. `<approved distribution statement>`; do not use either version until confirmed. |
+| 4 | **Source PDF pp. 1–4; not stated in the proof’s front matter.** Exact status: **“No copyright, publisher/imprint, edition/revision date, ISBN/eISBN, or publication contact is stated in the source front matter.”** | Supply the copyright holder and year; publisher or institutional imprint; edition/revision designation and date; ISBN/eISBN if assigned; and any approved publication contact. Confirm which items are intentionally absent. | These details cannot be invented. They are commonly needed to identify, distribute, and cite an academic book. | `© <year> <rights holder>.`  
+`<Edition/revision, date>`  
+`<Publisher/imprint>`  
+`<ISBN / eISBN, or “not assigned”>`  
+`<Approved contact, if required>` |
+| 5 | **Source PDF p. 2; proof PDF p. 2.** Source claim: **“Case examples are fictional composites created for teaching. They do not represent real clients.”** | Confirm that every case is wholly fictional or sufficiently composite and de-identified, that no recognisable real-client information remains, and that the proof’s paraphrased notice is accurate. | This is a substantive ethical and privacy representation; editorial review cannot verify the origin of cases. | Retain or replace with the author-approved statement: `<accurate case-material and de-identification statement>` |
+| 6 | **Source PDF p. 1222; proof PDF p. 16 and chapter-opening figures.** Source claim: **“Original PNG teaching diagrams are integrated into the corresponding chapters.”** The proof redraws all 16 diagrams. | Confirm authorship and reuse rights for the original diagrams, and review each redrawn title, label, and relationship for fidelity. Identify any third-party material requiring attribution or permission. | Redrawing improves legibility but does not establish ownership, permissions, or complete semantic equivalence. Figure 16’s longest differential label was shortened to fit its box and requires author approval. | `<Author-owned figure / permission statement / required attribution>`; provide corrections by figure number and exact replacement label. |
+| 7 | **Source PDF pp. 2–4; proof front matter.** Exact source heading: **“Preface”** and the original **“Publication and Academic Use Notice”**; both have been rewritten for the proof. | Confirm that the revised institutional, educational-use, diagnostic-currency, and scope statements express the author’s intended policy. Supply any approved disclaimer, acknowledgements, funding statement, or contributor note—or confirm that these should be omitted. | Front matter includes institutional and professional representations and was not a purely mechanical copy-edit. | Provide approved wording or mark each item “retain as drafted” / “omit.” |
+
+## Reply format
+
+You can answer using the item numbers above. For any item that should remain absent, write **“omit”**. Do not send sensitive credentials or personal contact details unless they are intended for publication.
