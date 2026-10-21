@@ -1,0 +1,1223 @@
+{
+ "records": {
+  "toc": [
+   {
+    "kind": "part",
+    "text": "Part I: Foundations and Measurement",
+    "page": "1",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 1. Foundations of Advanced Psychological Assessment and Diagnosis",
+    "page": "2",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "2",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.1\u2002\u2002The Place of Assessment in Counselling Psychology",
+    "page": "4",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.2\u2002\u2002Assessment as a Decision Process",
+    "page": "6",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.3\u2002\u2002From Referral Question to Assessment Plan",
+    "page": "7",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.4\u2002\u2002Diagnosis, Formulation and Treatment Planning",
+    "page": "9",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.5\u2002\u2002Dimensional and Categorical Thinking",
+    "page": "10",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.6\u2002\u2002Sources of Assessment Evidence",
+    "page": "11",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.7\u2002\u2002Base Rates and Clinical Probability",
+    "page": "13",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.8\u2002\u2002Functional Impairment and Context",
+    "page": "14",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.9\u2002\u2002Evidence-Based Assessment",
+    "page": "15",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.10\u2002\u2002Interprofessional Assessment",
+    "page": "17",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.11\u2002\u2002Limits of Assessment Conclusions",
+    "page": "18",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "1.12\u2002\u2002Integrating Findings into Responsible Decisions",
+    "page": "19",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "22",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "22",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "22",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "23",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part I: Foundations and Measurement",
+    "page": "25",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 2. Clinical Interviewing, Mental Status Examination and Diagnostic Reasoning",
+    "page": "26",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "26",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.1\u2002\u2002Designing a Purposeful Clinical Interview",
+    "page": "27",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.2\u2002\u2002Opening the Interview and Establishing Rapport",
+    "page": "29",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.3\u2002\u2002History of Presenting Concerns",
+    "page": "30",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.4\u2002\u2002Developmental, Family and Social History",
+    "page": "32",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.5\u2002\u2002Mental Status Examination",
+    "page": "33",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.6\u2002\u2002Symptom Chronology and Course",
+    "page": "36",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.7\u2002\u2002Collateral Information and Records",
+    "page": "38",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.8\u2002\u2002Differential Diagnosis",
+    "page": "39",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.9\u2002\u2002Medical and Substance-Related Explanations",
+    "page": "40",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.10\u2002\u2002Interviewing Under Conditions of Distress",
+    "page": "41",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.11\u2002\u2002Structured and Semi-Structured Interviews",
+    "page": "42",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "2.12\u2002\u2002Documenting Diagnostic Reasoning",
+    "page": "43",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "46",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "46",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "46",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "47",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part I: Foundations and Measurement",
+    "page": "49",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 3. Psychometrics: Reliability, Validity, Norms and Measurement Error",
+    "page": "50",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "50",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.1\u2002\u2002Measurement Models and Observed Scores",
+    "page": "51",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.2\u2002\u2002Reliability and Score Consistency",
+    "page": "53",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.3\u2002\u2002Standard Error and Confidence Intervals",
+    "page": "55",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.4\u2002\u2002Validity as Evidence for Interpretation",
+    "page": "56",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.5\u2002\u2002Content and Response Process Evidence",
+    "page": "57",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.6\u2002\u2002Relations with Other Variables",
+    "page": "58",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.7\u2002\u2002Internal Structure",
+    "page": "59",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.8\u2002\u2002Norms, Percentiles and Standard Scores",
+    "page": "61",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.9\u2002\u2002Sensitivity, Specificity and Predictive Values",
+    "page": "62",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.10\u2002\u2002Cut Scores and Classification Accuracy",
+    "page": "64",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.11\u2002\u2002Fairness and Measurement Invariance",
+    "page": "65",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "3.12\u2002\u2002Evaluating Technical Manuals",
+    "page": "66",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "69",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "69",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "69",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "70",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part I: Foundations and Measurement",
+    "page": "71",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 4. Test Selection, Administration, Scoring and Interpretation",
+    "page": "72",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "72",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.1\u2002\u2002Matching Measures to Referral Questions",
+    "page": "73",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.2\u2002\u2002Evaluating Test Quality and Suitability",
+    "page": "75",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.3\u2002\u2002Qualifications and Scope of Practice",
+    "page": "76",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.4\u2002\u2002Preparing the Assessment Environment",
+    "page": "77",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.5\u2002\u2002Standardised Administration",
+    "page": "78",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.6\u2002\u2002Accommodations and Accessibility",
+    "page": "79",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.7\u2002\u2002Scoring and Quality Control",
+    "page": "80",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.8\u2002\u2002Response Styles and Validity Indicators",
+    "page": "81",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.9\u2002\u2002Interpreting Profiles and Score Patterns",
+    "page": "83",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.10\u2002\u2002Combining Tests with Other Evidence",
+    "page": "84",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.11\u2002\u2002Technology-Assisted Assessment",
+    "page": "85",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "4.12\u2002\u2002Avoiding Common Interpretation Errors",
+    "page": "86",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "88",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "88",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "88",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "89",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part Ii: Assessing Dispositions and Abilities",
+    "page": "90",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 5. Personality Assessment and Interpersonal Functioning",
+    "page": "91",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "91",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.1\u2002\u2002Purposes of Personality Assessment",
+    "page": "92",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.2\u2002\u2002Trait and Dimensional Models",
+    "page": "94",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.3\u2002\u2002Broad-Band Personality Inventories",
+    "page": "95",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.4\u2002\u2002Narrow-Band Measures",
+    "page": "97",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.5\u2002\u2002Interpersonal and Attachment Assessment",
+    "page": "98",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.6\u2002\u2002Response Style and Impression Management",
+    "page": "99",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.7\u2002\u2002Performance-Based and Projective Approaches",
+    "page": "100",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.8\u2002\u2002Personality Functioning and Severity",
+    "page": "101",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.9\u2002\u2002Personality Assessment in Case Formulation",
+    "page": "102",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.10\u2002\u2002Feedback from Personality Assessment",
+    "page": "103",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.11\u2002\u2002Cultural Interpretation of Personality Scores",
+    "page": "104",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "5.12\u2002\u2002Integrating Personality Findings",
+    "page": "105",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "107",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "108",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "108",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "109",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part Ii: Assessing Dispositions and Abilities",
+    "page": "110",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 6. Cognitive, Intellectual and Neuropsychological Assessment",
+    "page": "111",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "111",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.1\u2002\u2002Questions Addressed by Cognitive Assessment",
+    "page": "112",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.2\u2002\u2002Theories of Intellectual Functioning",
+    "page": "114",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.3\u2002\u2002Interpreting Cognitive Profiles",
+    "page": "115",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.4\u2002\u2002Attention and Processing Speed",
+    "page": "116",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.5\u2002\u2002Learning and Memory",
+    "page": "117",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.6\u2002\u2002Executive Functions",
+    "page": "118",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.7\u2002\u2002Language and Visuospatial Skills",
+    "page": "119",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.8\u2002\u2002Neuropsychological Screening",
+    "page": "120",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.9\u2002\u2002Performance Validity",
+    "page": "121",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.10\u2002\u2002Medical and Neurological Context",
+    "page": "122",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.11\u2002\u2002Functional Implications of Cognitive Findings",
+    "page": "123",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "6.12\u2002\u2002Communicating Cognitive Results",
+    "page": "124",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "127",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "127",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "127",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "128",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part Ii: Assessing Dispositions and Abilities",
+    "page": "129",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 7. Achievement, Aptitude, Career and Functional Assessment",
+    "page": "130",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "130",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.1\u2002\u2002Academic Achievement Assessment",
+    "page": "131",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.2\u2002\u2002Reading, Writing and Mathematics",
+    "page": "133",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.3\u2002\u2002Aptitude and Learning Potential",
+    "page": "134",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.4\u2002\u2002Career Interests and Values",
+    "page": "135",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.5\u2002\u2002Work Personality and Work Adjustment",
+    "page": "136",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.6\u2002\u2002Adaptive Behaviour",
+    "page": "137",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.7\u2002\u2002Functional Capacity and Daily Activities",
+    "page": "138",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.8\u2002\u2002Disability and Accommodation Decisions",
+    "page": "139",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.9\u2002\u2002Career Assessment with Adults in Transition",
+    "page": "140",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.10\u2002\u2002Integrating Educational and Career Data",
+    "page": "141",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.11\u2002\u2002Ethical Use of Occupational Tests",
+    "page": "142",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "7.12\u2002\u2002Writing Functional Recommendations",
+    "page": "143",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "145",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "146",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "146",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "147",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part Iii: Assessing Clinical Presentations",
+    "page": "148",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 8. Assessment of Mood, Anxiety, Obsessive-Compulsive, Trauma and Stress-Related Problems",
+    "page": "149",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "149",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.1\u2002\u2002Assessing Depressive Presentations",
+    "page": "150",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.2\u2002\u2002Assessing Anxiety Presentations",
+    "page": "152",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.3\u2002\u2002Panic and Agoraphobic Symptoms",
+    "page": "153",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.4\u2002\u2002Obsessions and Compulsions",
+    "page": "154",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.5\u2002\u2002Trauma Exposure and Post-Traumatic Symptoms",
+    "page": "155",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.6\u2002\u2002Stress and Adjustment Problems",
+    "page": "156",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.7\u2002\u2002Somatic Overlap and Medical Explanations",
+    "page": "157",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.8\u2002\u2002Severity Measures and Symptom Monitoring",
+    "page": "158",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.9\u2002\u2002Functional Analysis of Avoidance",
+    "page": "159",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.10\u2002\u2002Differential Diagnosis Across Internalising Problems",
+    "page": "160",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.11\u2002\u2002Comorbidity and Diagnostic Hierarchy",
+    "page": "161",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "8.12\u2002\u2002Integrated Formulation and Feedback",
+    "page": "162",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "164",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Review Questions",
+    "page": "165",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Discussion Questions",
+    "page": "165",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Further Reading",
+    "page": "166",
+    "indent": 14,
+    "size": 8.8
+   }
+  ],
+  "fig": [
+   {
+    "text": "Figure 1.1. The movement from referral question to responsible decision. Each step constrains the next; the final decision inherits the uncertainties recorded at every earlier step.",
+    "page": "3",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 2.1. The structure of a diagnostic interview. Each element supplies evidence for a different claim, and the mental status examination is interpreted against, not instead of, the history.",
+    "page": "27",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 3.1. The psychometric chain. Each link is a separate empirical claim, and no link can be inferred from the strength of the others.",
+    "page": "51",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 3.2. Positive and negative predictive values for an instrument with sensitivity .90 and specificity .90, plotted against prevalence. The values are computed from Bayes' theorem; the instrument is held constant while the setting varies.",
+    "page": "63",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 4.1. The test-use cycle. Selection, administration and scoring each protect or threaten the validity of the interpretation that follows.",
+    "page": "73",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 5.1. Personality assessment integrates model, method and context. No single instrument supplies the construct; the assessor must construct it.",
+    "page": "92",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 6.1. Cognitive assessment as a sequence of claims, each requiring its own evidence. Capacity, context and consequence are separate questions.",
+    "page": "112",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 7.1. Functional assessment links capacity, demand and support. The decision concerns the fit between them, not the capacity alone.",
+    "page": "131",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 8.1. Assessment across the internalising spectrum. Overlapping presentations require explicit discrimination rather than reliance on the most salient symptom.",
+    "page": "150",
+    "indent": 0,
+    "size": 8.8
+   }
+  ],
+  "tab": [
+   {
+    "text": "Table 1.1. Planning decisions, their rationale, and the failure they prevent",
+    "page": "8",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 1.2. Sources of assessment evidence: contribution and characteristic limitation",
+    "page": "12",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 2.1. The mental status examination: domains and observations",
+    "page": "35",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 3.1. Forms of reliability and the error each addresses",
+    "page": "53",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 3.2. Common score scales and their interpretation",
+    "page": "61",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 4.1. Criteria for evaluating a candidate instrument",
+    "page": "75",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 5.1. Representative personality instruments and their principal uses",
+    "page": "96",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 7.1. Academic domains, component skills and assessment implications",
+    "page": "134",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 7.2. Weak and strong functional recommendations",
+    "page": "144",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Table 8.1. Discriminating features among commonly confused internalising presentations",
+    "page": "161",
+    "indent": 0,
+    "size": 8.8
+   }
+  ],
+  "ol": []
+ },
+ "body_start": 11,
+ "pages": 180
+}
