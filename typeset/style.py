@@ -53,19 +53,21 @@ FONTS = {
 def register_fonts():
     for name, filename in FONTS.items():
         pdfmetrics.registerFont(TTFont(name, os.path.join(FONT_DIR, filename)))
+    # bold is mapped to the semibold cut: EB Garamond's true bold is visually
+    # too heavy against the regular at text sizes
     pdfmetrics.registerFontFamily(
         "Body",
         normal="Body",
-        bold="Body-Bold",
+        bold="Body-Semi",
         italic="Body-Italic",
         boldItalic="Body-SemiIt",
     )
     pdfmetrics.registerFontFamily(
         "Disp",
         normal="Disp",
-        bold="Disp-Bold",
+        bold="Disp-Semi",
         italic="Disp-Italic",
-        boldItalic="Disp-Bold",
+        boldItalic="Disp-Semi",
     )
 
 
@@ -96,11 +98,14 @@ def build_styles():
 
     # ---- lists
     ss.add(_p("Bullet", firstLineIndent=0, leftIndent=15, bulletIndent=2,
-              spaceBefore=1.6, spaceAfter=1.6))
+              spaceBefore=3.2, spaceAfter=3.2, bulletFontName="Body",
+              bulletFontSize=11, bulletDedent=4))
     ss.add(_p("Numbered", firstLineIndent=0, leftIndent=17, bulletIndent=2,
               spaceBefore=1.6, spaceAfter=1.6))
     ss.add(_p("RefEntry", firstLineIndent=-14, leftIndent=14, fontSize=9.6,
               leading=12.6, alignment=TA_LEFT, spaceBefore=3.2))
+    ss.add(_p("IndexEntry", firstLineIndent=-10, leftIndent=10, fontSize=8.8,
+              leading=11.4, alignment=TA_LEFT, spaceBefore=1.4))
     ss.add(_p("GlossTerm", firstLineIndent=-12, leftIndent=12, fontSize=9.8,
               leading=12.8, spaceBefore=4.0))
 

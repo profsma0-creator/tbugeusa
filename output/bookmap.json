@@ -118,39 +118,9 @@
     "size": 8.8
    },
    {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "22",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "22",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "23",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part I: Foundations and Measurement",
-    "page": "25",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
-   },
-   {
     "kind": "chapter",
     "text": "Chapter 2. Clinical Interviewing, Mental Status Examination and Diagnostic Reasoning",
-    "page": "26",
+    "page": "25",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -159,135 +129,105 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "26",
+    "page": "25",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.1\u2002\u2002Designing a Purposeful Clinical Interview",
-    "page": "27",
+    "page": "26",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.2\u2002\u2002Opening the Interview and Establishing Rapport",
-    "page": "29",
+    "page": "28",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.3\u2002\u2002History of Presenting Concerns",
-    "page": "30",
+    "page": "29",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.4\u2002\u2002Developmental, Family and Social History",
-    "page": "32",
+    "page": "31",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.5\u2002\u2002Mental Status Examination",
-    "page": "33",
+    "page": "32",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.6\u2002\u2002Symptom Chronology and Course",
-    "page": "36",
+    "page": "35",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.7\u2002\u2002Collateral Information and Records",
-    "page": "38",
+    "page": "37",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.8\u2002\u2002Differential Diagnosis",
-    "page": "39",
+    "page": "38",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.9\u2002\u2002Medical and Substance-Related Explanations",
-    "page": "40",
+    "page": "39",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.10\u2002\u2002Interviewing Under Conditions of Distress",
-    "page": "41",
+    "page": "40",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.11\u2002\u2002Structured and Semi-Structured Interviews",
-    "page": "42",
+    "page": "41",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "2.12\u2002\u2002Documenting Diagnostic Reasoning",
-    "page": "43",
+    "page": "42",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "46",
+    "page": "44",
     "indent": 14,
     "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "46",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "46",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "47",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part I: Foundations and Measurement",
-    "page": "49",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
    },
    {
     "kind": "chapter",
     "text": "Chapter 3. Psychometrics: Reliability, Validity, Norms and Measurement Error",
-    "page": "50",
+    "page": "48",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -296,135 +236,105 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "50",
+    "page": "49",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.1\u2002\u2002Measurement Models and Observed Scores",
-    "page": "51",
+    "page": "50",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.2\u2002\u2002Reliability and Score Consistency",
-    "page": "53",
+    "page": "51",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.3\u2002\u2002Standard Error and Confidence Intervals",
-    "page": "55",
+    "page": "53",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.4\u2002\u2002Validity as Evidence for Interpretation",
-    "page": "56",
+    "page": "54",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.5\u2002\u2002Content and Response Process Evidence",
-    "page": "57",
+    "page": "55",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.6\u2002\u2002Relations with Other Variables",
-    "page": "58",
+    "page": "56",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.7\u2002\u2002Internal Structure",
-    "page": "59",
+    "page": "57",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.8\u2002\u2002Norms, Percentiles and Standard Scores",
-    "page": "61",
+    "page": "59",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.9\u2002\u2002Sensitivity, Specificity and Predictive Values",
-    "page": "62",
+    "page": "60",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.10\u2002\u2002Cut Scores and Classification Accuracy",
-    "page": "64",
+    "page": "62",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.11\u2002\u2002Fairness and Measurement Invariance",
-    "page": "65",
+    "page": "63",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "3.12\u2002\u2002Evaluating Technical Manuals",
-    "page": "66",
+    "page": "64",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "69",
+    "page": "66",
     "indent": 14,
     "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "69",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "69",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "70",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part I: Foundations and Measurement",
-    "page": "71",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
    },
    {
     "kind": "chapter",
     "text": "Chapter 4. Test Selection, Administration, Scoring and Interpretation",
-    "page": "72",
+    "page": "69",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -433,126 +343,105 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "72",
+    "page": "69",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.1\u2002\u2002Matching Measures to Referral Questions",
-    "page": "73",
+    "page": "70",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.2\u2002\u2002Evaluating Test Quality and Suitability",
-    "page": "75",
+    "page": "72",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.3\u2002\u2002Qualifications and Scope of Practice",
-    "page": "76",
+    "page": "73",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.4\u2002\u2002Preparing the Assessment Environment",
-    "page": "77",
+    "page": "74",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.5\u2002\u2002Standardised Administration",
-    "page": "78",
+    "page": "75",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.6\u2002\u2002Accommodations and Accessibility",
-    "page": "79",
+    "page": "76",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.7\u2002\u2002Scoring and Quality Control",
-    "page": "80",
+    "page": "77",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.8\u2002\u2002Response Styles and Validity Indicators",
-    "page": "81",
+    "page": "78",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.9\u2002\u2002Interpreting Profiles and Score Patterns",
-    "page": "83",
+    "page": "80",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.10\u2002\u2002Combining Tests with Other Evidence",
-    "page": "84",
+    "page": "81",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.11\u2002\u2002Technology-Assisted Assessment",
-    "page": "85",
+    "page": "82",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "4.12\u2002\u2002Avoiding Common Interpretation Errors",
-    "page": "86",
+    "page": "83",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "88",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "88",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "88",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "89",
+    "page": "85",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "part",
-    "text": "Part Ii: Assessing Dispositions and Abilities",
-    "page": "90",
+    "text": "Part II: Assessing Dispositions and Abilities",
+    "page": "87",
     "indent": 0,
     "space_before": 11,
     "font": "Body-Semi",
@@ -561,7 +450,7 @@
    {
     "kind": "chapter",
     "text": "Chapter 5. Personality Assessment and Interpersonal Functioning",
-    "page": "91",
+    "page": "88",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -570,272 +459,212 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "91",
+    "page": "88",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.1\u2002\u2002Purposes of Personality Assessment",
-    "page": "92",
+    "page": "89",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.2\u2002\u2002Trait and Dimensional Models",
-    "page": "94",
+    "page": "91",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.3\u2002\u2002Broad-Band Personality Inventories",
-    "page": "95",
+    "page": "92",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.4\u2002\u2002Narrow-Band Measures",
-    "page": "97",
+    "page": "94",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.5\u2002\u2002Interpersonal and Attachment Assessment",
-    "page": "98",
+    "page": "95",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.6\u2002\u2002Response Style and Impression Management",
-    "page": "99",
+    "page": "96",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.7\u2002\u2002Performance-Based and Projective Approaches",
-    "page": "100",
+    "page": "97",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.8\u2002\u2002Personality Functioning and Severity",
-    "page": "101",
+    "page": "98",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.9\u2002\u2002Personality Assessment in Case Formulation",
-    "page": "102",
+    "page": "99",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.10\u2002\u2002Feedback from Personality Assessment",
-    "page": "103",
+    "page": "100",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.11\u2002\u2002Cultural Interpretation of Personality Scores",
-    "page": "104",
+    "page": "101",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "5.12\u2002\u2002Integrating Personality Findings",
-    "page": "105",
+    "page": "102",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
+    "page": "104",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 6. Cognitive, Intellectual and Neuropsychological Assessment",
+    "page": "107",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
     "page": "107",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
-    "text": "Review Questions",
-    "page": "108",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "108",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "109",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part Ii: Assessing Dispositions and Abilities",
-    "page": "110",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
-   },
-   {
-    "kind": "chapter",
-    "text": "Chapter 6. Cognitive, Intellectual and Neuropsychological Assessment",
-    "page": "111",
-    "indent": 0,
-    "space_before": 9,
-    "font": "Body-Semi",
-    "size": 9.4
-   },
-   {
-    "kind": "section",
-    "text": "Introduction",
-    "page": "111",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
     "text": "6.1\u2002\u2002Questions Addressed by Cognitive Assessment",
-    "page": "112",
+    "page": "108",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.2\u2002\u2002Theories of Intellectual Functioning",
-    "page": "114",
+    "page": "110",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.3\u2002\u2002Interpreting Cognitive Profiles",
-    "page": "115",
+    "page": "111",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.4\u2002\u2002Attention and Processing Speed",
-    "page": "116",
+    "page": "112",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.5\u2002\u2002Learning and Memory",
-    "page": "117",
+    "page": "113",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.6\u2002\u2002Executive Functions",
-    "page": "118",
+    "page": "114",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.7\u2002\u2002Language and Visuospatial Skills",
-    "page": "119",
+    "page": "115",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.8\u2002\u2002Neuropsychological Screening",
-    "page": "120",
+    "page": "116",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.9\u2002\u2002Performance Validity",
-    "page": "121",
+    "page": "117",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.10\u2002\u2002Medical and Neurological Context",
-    "page": "122",
+    "page": "118",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.11\u2002\u2002Functional Implications of Cognitive Findings",
-    "page": "123",
+    "page": "119",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "6.12\u2002\u2002Communicating Cognitive Results",
-    "page": "124",
+    "page": "120",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "127",
+    "page": "122",
     "indent": 14,
     "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "127",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "127",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "128",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part Ii: Assessing Dispositions and Abilities",
-    "page": "129",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
    },
    {
     "kind": "chapter",
     "text": "Chapter 7. Achievement, Aptitude, Career and Functional Assessment",
-    "page": "130",
+    "page": "125",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -844,126 +673,105 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "130",
+    "page": "125",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.1\u2002\u2002Academic Achievement Assessment",
-    "page": "131",
+    "page": "126",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.2\u2002\u2002Reading, Writing and Mathematics",
-    "page": "133",
+    "page": "128",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.3\u2002\u2002Aptitude and Learning Potential",
-    "page": "134",
+    "page": "129",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.4\u2002\u2002Career Interests and Values",
-    "page": "135",
+    "page": "130",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.5\u2002\u2002Work Personality and Work Adjustment",
-    "page": "136",
+    "page": "131",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.6\u2002\u2002Adaptive Behaviour",
-    "page": "137",
+    "page": "132",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.7\u2002\u2002Functional Capacity and Daily Activities",
-    "page": "138",
+    "page": "133",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.8\u2002\u2002Disability and Accommodation Decisions",
-    "page": "139",
+    "page": "134",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.9\u2002\u2002Career Assessment with Adults in Transition",
-    "page": "140",
+    "page": "135",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.10\u2002\u2002Integrating Educational and Career Data",
-    "page": "141",
+    "page": "136",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.11\u2002\u2002Ethical Use of Occupational Tests",
-    "page": "142",
+    "page": "137",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "7.12\u2002\u2002Writing Functional Recommendations",
-    "page": "143",
+    "page": "138",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "145",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "146",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "146",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "147",
+    "page": "140",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "part",
-    "text": "Part Iii: Assessing Clinical Presentations",
-    "page": "148",
+    "text": "Part III: Assessing Clinical Presentations",
+    "page": "143",
     "indent": 0,
     "space_before": 11,
     "font": "Body-Semi",
@@ -972,7 +780,7 @@
    {
     "kind": "chapter",
     "text": "Chapter 8. Assessment of Mood, Anxiety, Obsessive-Compulsive, Trauma and Stress-Related Problems",
-    "page": "149",
+    "page": "144",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -981,272 +789,212 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "149",
+    "page": "144",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.1\u2002\u2002Assessing Depressive Presentations",
-    "page": "150",
+    "page": "145",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.2\u2002\u2002Assessing Anxiety Presentations",
-    "page": "152",
+    "page": "147",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.3\u2002\u2002Panic and Agoraphobic Symptoms",
-    "page": "153",
+    "page": "148",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.4\u2002\u2002Obsessions and Compulsions",
-    "page": "154",
+    "page": "149",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.5\u2002\u2002Trauma Exposure and Post-Traumatic Symptoms",
-    "page": "155",
+    "page": "150",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.6\u2002\u2002Stress and Adjustment Problems",
-    "page": "156",
+    "page": "151",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.7\u2002\u2002Somatic Overlap and Medical Explanations",
-    "page": "157",
+    "page": "152",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.8\u2002\u2002Severity Measures and Symptom Monitoring",
-    "page": "158",
+    "page": "153",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.9\u2002\u2002Functional Analysis of Avoidance",
-    "page": "159",
+    "page": "154",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.10\u2002\u2002Differential Diagnosis Across Internalising Problems",
-    "page": "160",
+    "page": "155",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.11\u2002\u2002Comorbidity and Diagnostic Hierarchy",
-    "page": "161",
+    "page": "156",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "8.12\u2002\u2002Integrated Formulation and Feedback",
+    "page": "157",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "159",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 9. Assessment of Bipolar, Psychotic and Other Severe Mental Disorders",
+    "page": "162",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
     "page": "162",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
-    "text": "Chapter Summary",
-    "page": "164",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "165",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "165",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "166",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part Iii: Assessing Clinical Presentations",
-    "page": "167",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
-   },
-   {
-    "kind": "chapter",
-    "text": "Chapter 9. Assessment of Bipolar, Psychotic and Other Severe Mental Disorders",
-    "page": "168",
-    "indent": 0,
-    "space_before": 9,
-    "font": "Body-Semi",
-    "size": 9.4
-   },
-   {
-    "kind": "section",
-    "text": "Introduction",
-    "page": "168",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
     "text": "9.1\u2002\u2002Recognising Manic and Hypomanic Presentations",
-    "page": "169",
+    "page": "163",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.2\u2002\u2002Assessing Psychotic Experiences",
-    "page": "171",
+    "page": "165",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.3\u2002\u2002Thought Form and Thought Content",
-    "page": "172",
+    "page": "166",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.4\u2002\u2002Negative Symptoms and Functional Decline",
-    "page": "173",
+    "page": "167",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.5\u2002\u2002Mood Disorders with Psychotic Features",
-    "page": "174",
+    "page": "168",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.6\u2002\u2002Substance-Induced and Medical Presentations",
-    "page": "175",
+    "page": "169",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.7\u2002\u2002Developmental and Cultural Explanations",
-    "page": "176",
+    "page": "170",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.8\u2002\u2002Collateral History and Longitudinal Evidence",
-    "page": "177",
+    "page": "171",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.9\u2002\u2002Insight, Judgement and Decision-Making Capacity",
-    "page": "177",
+    "page": "171",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.10\u2002\u2002Risk and Immediate Safety Needs",
-    "page": "178",
+    "page": "172",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.11\u2002\u2002Diagnostic Uncertainty and Provisional Conclusions",
-    "page": "179",
+    "page": "173",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "9.12\u2002\u2002Communicating Findings in Severe Presentations",
-    "page": "180",
+    "page": "174",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
-    "page": "183",
+    "page": "176",
     "indent": 14,
     "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Review Questions",
-    "page": "183",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Discussion Questions",
-    "page": "183",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
-    "page": "184",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "part",
-    "text": "Part Iii: Assessing Clinical Presentations",
-    "page": "185",
-    "indent": 0,
-    "space_before": 11,
-    "font": "Body-Semi",
-    "size": 9.6
    },
    {
     "kind": "chapter",
     "text": "Chapter 10. Assessment of Personality Disorders and Enduring Relational Patterns",
-    "page": "186",
+    "page": "179",
     "indent": 0,
     "space_before": 9,
     "font": "Body-Semi",
@@ -1255,119 +1003,758 @@
    {
     "kind": "section",
     "text": "Introduction",
-    "page": "186",
+    "page": "179",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.1\u2002\u2002Understanding Enduring Personality Patterns",
-    "page": "187",
+    "page": "180",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.2\u2002\u2002Trait-Based and Categorical Approaches",
-    "page": "188",
+    "page": "182",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.3\u2002\u2002Identity and Self-Functioning",
-    "page": "190",
+    "page": "183",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.4\u2002\u2002Interpersonal Functioning",
-    "page": "191",
+    "page": "184",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.5\u2002\u2002Longitudinal and Developmental Evidence",
-    "page": "192",
+    "page": "185",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.6\u2002\u2002Differentiating State from Trait",
-    "page": "192",
+    "page": "185",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.7\u2002\u2002Personality and Trauma",
-    "page": "194",
+    "page": "187",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.8\u2002\u2002Personality and Neurodevelopmental Conditions",
-    "page": "195",
+    "page": "188",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.9\u2002\u2002Personality and Substance Use",
-    "page": "196",
+    "page": "189",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.10\u2002\u2002Structured Personality Interviews",
-    "page": "196",
+    "page": "189",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.11\u2002\u2002Feedback without Stigma",
-    "page": "197",
+    "page": "190",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "10.12\u2002\u2002Formulating Enduring Relational Patterns",
-    "page": "198",
+    "page": "191",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
     "text": "Chapter Summary",
+    "page": "193",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 11. Assessment of Substance Use, Behavioural Addictions and Risk Behaviour",
+    "page": "196",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "196",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.1\u2002\u2002Patterns of Substance Use",
+    "page": "197",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.2\u2002\u2002Screening and Case Finding",
+    "page": "198",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.3\u2002\u2002Intoxication and Withdrawal",
+    "page": "199",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.4\u2002\u2002Severity and Functional Consequences",
     "page": "200",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
-    "text": "Review Questions",
+    "text": "11.5\u2002\u2002Polysubstance Use",
     "page": "201",
     "indent": 14,
     "size": 8.8
    },
    {
     "kind": "section",
-    "text": "Discussion Questions",
-    "page": "201",
-    "indent": 14,
-    "size": 8.8
-   },
-   {
-    "kind": "section",
-    "text": "Further Reading",
+    "text": "11.6\u2002\u2002Substance-Induced Mental Symptoms",
     "page": "202",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.7\u2002\u2002Behavioural Addictions",
+    "page": "203",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.8\u2002\u2002Motivation and Readiness for Change",
+    "page": "204",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.9\u2002\u2002Medical and Social Risk",
+    "page": "205",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.10\u2002\u2002Collateral Data and Biological Measures",
+    "page": "206",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.11\u2002\u2002Assessment for Harm Reduction Planning",
+    "page": "207",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "11.12\u2002\u2002Integrated Diagnostic Formulation",
+    "page": "208",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "210",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part IV: Development, Culture and Relational Systems",
+    "page": "212",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 12. Child and Adolescent Assessment",
+    "page": "213",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "213",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.1\u2002\u2002Developmentally Informed Assessment",
+    "page": "214",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.2\u2002\u2002Multi-Informant Assessment",
+    "page": "215",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.3\u2002\u2002Parent and Caregiver Interviews",
+    "page": "216",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.4\u2002\u2002Interviewing Children and Adolescents",
+    "page": "217",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.5\u2002\u2002Behavioural Observation",
+    "page": "219",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.6\u2002\u2002School Records and Teacher Reports",
+    "page": "220",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.7\u2002\u2002Neurodevelopmental Assessment",
+    "page": "220",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.8\u2002\u2002Emotional and Behavioural Problems",
+    "page": "222",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.9\u2002\u2002Trauma and Safeguarding in Youth Assessment",
+    "page": "222",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.10\u2002\u2002Family and Cultural Context",
+    "page": "224",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.11\u2002\u2002Consent, Assent and Confidentiality",
+    "page": "225",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "12.12\u2002\u2002Integrated Youth Formulation and Feedback",
+    "page": "225",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "228",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 13. Couples, Family and Systemic Assessment",
+    "page": "230",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "230",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.1\u2002\u2002The Unit of Assessment in Relational Work",
+    "page": "231",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.2\u2002\u2002Relationship History and Presenting Concerns",
+    "page": "232",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.3\u2002\u2002Dyadic Interaction and Communication",
+    "page": "233",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.4\u2002\u2002Conflict Patterns and Repair",
+    "page": "234",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.5\u2002\u2002Attachment and Relationship Security",
+    "page": "235",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.6\u2002\u2002Family Structure and Boundaries",
+    "page": "236",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.7\u2002\u2002Parenting and Co-Parenting",
+    "page": "236",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.8\u2002\u2002Violence, Coercion and Safety Screening",
+    "page": "237",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.9\u2002\u2002Individual Symptoms in Relational Context",
+    "page": "239",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.10\u2002\u2002Cultural and Socioeconomic Context",
+    "page": "239",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.11\u2002\u2002Measures of Relationship Functioning",
+    "page": "240",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "13.12\u2002\u2002Systemic Formulation and Feedback",
+    "page": "241",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "243",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 14. Multicultural, Language, Disability and Fairness Considerations in Assessment",
+    "page": "245",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "245",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.1\u2002\u2002Culture and the Meaning of Symptoms",
+    "page": "246",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.2\u2002\u2002Language Proficiency and Interpreter Use",
+    "page": "248",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.3\u2002\u2002Test Translation and Adaptation",
+    "page": "249",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.4\u2002\u2002Bias and Fairness",
+    "page": "250",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.5\u2002\u2002Normative Samples and Representativeness",
+    "page": "251",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.6\u2002\u2002Disability and Reasonable Accommodations",
+    "page": "251",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.7\u2002\u2002Migration, Acculturation and Context",
+    "page": "252",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.8\u2002\u2002Socioeconomic Conditions and Opportunity",
+    "page": "253",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.9\u2002\u2002Community Values and Cultural Context",
+    "page": "254",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.10\u2002\u2002Gender and Sexuality in Assessment",
+    "page": "255",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.11\u2002\u2002Intersection of Multiple Social Positions",
+    "page": "256",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "14.12\u2002\u2002Culturally Responsible Formulation",
+    "page": "257",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "259",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "part",
+    "text": "Part V: Risk, Integration and Communication",
+    "page": "261",
+    "indent": 0,
+    "space_before": 11,
+    "font": "Body-Semi",
+    "size": 9.6
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 15. Risk Assessment: Suicide, Self-Harm, Violence, Abuse and Safeguarding",
+    "page": "262",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "262",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.1\u2002\u2002Principles of Risk Assessment",
+    "page": "263",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.2\u2002\u2002Suicidal Thoughts and Behaviour",
+    "page": "264",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.3\u2002\u2002Non-Suicidal Self-Injury",
+    "page": "266",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.4\u2002\u2002Violence and Aggression Risk",
+    "page": "266",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.5\u2002\u2002Domestic Abuse and Coercive Control",
+    "page": "267",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.6\u2002\u2002Child and Vulnerable Adult Safeguarding",
+    "page": "268",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.7\u2002\u2002Static and Dynamic Risk Factors",
+    "page": "269",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.8\u2002\u2002Protective Factors and Reasons for Living",
+    "page": "270",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.9\u2002\u2002Structured Professional Judgement",
+    "page": "271",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.10\u2002\u2002Safety Planning and Immediate Intervention",
+    "page": "272",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.11\u2002\u2002Documentation and Communication of Risk",
+    "page": "272",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "15.12\u2002\u2002Reassessment and Continuity of Care",
+    "page": "273",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "275",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "chapter",
+    "text": "Chapter 16. Integrated Case Formulation, Differential Diagnosis, Report Writing and Feedback",
+    "page": "278",
+    "indent": 0,
+    "space_before": 9,
+    "font": "Body-Semi",
+    "size": 9.4
+   },
+   {
+    "kind": "section",
+    "text": "Introduction",
+    "page": "278",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.1\u2002\u2002Integrating Multimethod Evidence",
+    "page": "279",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.2\u2002\u2002Weighing Conflicting Findings",
+    "page": "280",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.3\u2002\u2002Differential Diagnosis as Hypothesis Testing",
+    "page": "281",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.4\u2002\u2002Formulation beyond Diagnostic Labels",
+    "page": "282",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.5\u2002\u2002Linking Assessment to Treatment Planning",
+    "page": "283",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.6\u2002\u2002Writing Clear Psychological Reports",
+    "page": "284",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.7\u2002\u2002Communicating Uncertainty",
+    "page": "285",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.8\u2002\u2002Feedback as a Clinical Intervention",
+    "page": "286",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.9\u2002\u2002Ethical and Legal Responsibilities",
+    "page": "287",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.10\u2002\u2002Digital Assessment and Artificial Intelligence",
+    "page": "288",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.11\u2002\u2002Quality Assurance and Peer Consultation",
+    "page": "289",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "16.12\u2002\u2002Advanced Case Conference and Final Synthesis",
+    "page": "290",
+    "indent": 14,
+    "size": 8.8
+   },
+   {
+    "kind": "section",
+    "text": "Chapter Summary",
+    "page": "292",
     "indent": 14,
     "size": 8.8
    }
@@ -1381,61 +1768,97 @@
    },
    {
     "text": "Figure 2.1. The structure of a diagnostic interview. Each element supplies evidence for a different claim, and the mental status examination is interpreted against, not instead of, the history.",
-    "page": "27",
+    "page": "26",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 3.1. The psychometric chain. Each link is a separate empirical claim, and no link can be inferred from the strength of the others.",
-    "page": "51",
+    "page": "49",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 3.2. Positive and negative predictive values for an instrument with sensitivity .90 and specificity .90, plotted against prevalence. The values are computed from Bayes' theorem; the instrument is held constant while the setting varies.",
-    "page": "63",
+    "page": "61",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 4.1. The test-use cycle. Selection, administration and scoring each protect or threaten the validity of the interpretation that follows.",
-    "page": "73",
+    "page": "70",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 5.1. Personality assessment integrates model, method and context. No single instrument supplies the construct; the assessor must construct it.",
-    "page": "92",
+    "page": "89",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 6.1. Cognitive assessment as a sequence of claims, each requiring its own evidence. Capacity, context and consequence are separate questions.",
-    "page": "112",
+    "page": "108",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 7.1. Functional assessment links capacity, demand and support. The decision concerns the fit between them, not the capacity alone.",
-    "page": "131",
+    "page": "126",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 8.1. Assessment across the internalising spectrum. Overlapping presentations require explicit discrimination rather than reliance on the most salient symptom.",
-    "page": "150",
+    "page": "145",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 9.1. Assessment of severe presentations. Each domain supplies evidence that may support or undermine the others, and no single domain is decisive.",
-    "page": "169",
+    "page": "163",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Figure 10.1. Assessment of personality disorder. Severity, traits, development and context must converge before a diagnosis is warranted.",
-    "page": "187",
+    "page": "180",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 11.1. Assessment of substance use. Description, consequence and context must be established before diagnosis or planning.",
+    "page": "197",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 12.1. Child assessment. Development, multiple informants and multiple settings must be integrated before conclusions are drawn.",
+    "page": "214",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 13.1. Relational assessment. Safety screening precedes all other assessment; formulation concerns patterns between people, not deficits within one.",
+    "page": "231",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 14.1. Culturally responsible assessment. Culture and language condition every stage, from construct definition to feedback.",
+    "page": "246",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 15.1. Risk assessment as a process. Information, formulation, plan and review matter more than a summary judgement.",
+    "page": "263",
+    "indent": 0,
+    "size": 8.8
+   },
+   {
+    "text": "Figure 16.1. Integration and communication. The evidence is weighed, formulated, written and discussed; each stage is an opportunity to lose or gain accuracy.",
+    "page": "279",
     "indent": 0,
     "size": 8.8
    }
@@ -1455,55 +1878,82 @@
    },
    {
     "text": "Table 2.1. The mental status examination: domains and observations",
-    "page": "35",
+    "page": "34",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 3.1. Forms of reliability and the error each addresses",
-    "page": "53",
+    "page": "51",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 3.2. Common score scales and their interpretation",
-    "page": "61",
+    "page": "59",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 4.1. Criteria for evaluating a candidate instrument",
-    "page": "75",
+    "page": "72",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 5.1. Representative personality instruments and their principal uses",
-    "page": "96",
+    "page": "93",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 7.1. Academic domains, component skills and assessment implications",
-    "page": "134",
+    "page": "129",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 7.2. Weak and strong functional recommendations",
-    "page": "144",
+    "page": "139",
     "indent": 0,
     "size": 8.8
    },
    {
     "text": "Table 8.1. Discriminating features among commonly confused internalising presentations",
-    "page": "161",
+    "page": "156",
     "indent": 0,
     "size": 8.8
    }
   ],
-  "ol": []
+  "ol": [],
+  "fm": []
  },
- "body_start": 13,
- "pages": 218
+ "fm": [
+  {
+   "text": "Abbreviations",
+   "page": "xiii",
+   "indent": 0,
+   "space_before": 8,
+   "font": "Body-Semi",
+   "size": 9.4
+  },
+  {
+   "text": "Preface",
+   "page": "xvii",
+   "indent": 0,
+   "space_before": 8,
+   "font": "Body-Semi",
+   "size": 9.4
+  },
+  {
+   "text": "How to Use This Book",
+   "page": "xx",
+   "indent": 0,
+   "space_before": 8,
+   "font": "Body-Semi",
+   "size": 9.4
+  }
+ ],
+ "body_start": 23,
+ "pages": 341
 }
