@@ -32,6 +32,7 @@ One pre-press item stays open by necessity — the ISBN, which only the publishe
 | 9 | Figure and table numbering | Continuous per chapter (1.1–16.1; 1.1–8.1), no gaps, no duplicates |
 | 10 | Running heads | Correct on every body page; suppressed on chapter openers and on the back-matter openers |
 | 11 | Stranded headings | 0 headings left alone at the foot of a page |
+| 11b | Split list items | 0. Every bullet and every review or discussion question is set as an indivisible unit, so no item breaks across a page turn |
 | 12 | Fonts | Exactly six embedded faces (EB Garamond Regular, Italic, Medium, SemiBold; Source Serif 4 Italic, SemiBold). The unused Helvetica reference ReportLab writes into every page resource has been removed; no base-14 font appears anywhere in the file |
 | 13 | Placeholders | None. The only bracketed strings in the book are the APA descriptor `[Unpublished manuscript]` in two reference entries. "ISBN to be assigned by the publisher" is a statement, not a placeholder |
 | 14 | Quotation marks and apostrophes | 0 straight quotes and 0 straight apostrophes remain; 140 matched double quotation marks and 477 apostrophes are set as printer's quotes, applied in the typesetter so they cannot drift |

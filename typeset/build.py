@@ -641,11 +641,15 @@ def render_section(blocks, opener=False, fm=False):
                 out.append(para(b.text, "BodyFirst" if fresh else "Body"))
             fresh = False
         elif b.kind == "bullet":
-            out.append(Paragraph(markup.inline(b.text), STYLES["Bullet"],
-                                 bulletText="\u2022"))
+            # a list item is kept whole: a question or a checklist line split
+            # across a page turn is unreadable in a textbook
+            out.append(KeepTogether(
+                [Paragraph(markup.inline(b.text), STYLES["Bullet"],
+                           bulletText="\u2022")]))
         elif b.kind == "numbered":
-            out.append(Paragraph(markup.inline(b.text), STYLES["Numbered"],
-                                 bulletText=b.label))
+            out.append(KeepTogether(
+                [Paragraph(markup.inline(b.text), STYLES["Numbered"],
+                           bulletText=b.label)]))
         elif b.kind == "quote":
             out.append(Paragraph(markup.inline(b.text), STYLES["Quote"]))
         elif b.kind == "panel":
