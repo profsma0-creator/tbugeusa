@@ -80,7 +80,15 @@ def _p(name, **kw):
         alignment=TA_JUSTIFY,
         spaceBefore=0,
         spaceAfter=0,
-        hyphenationLang="",
+        hyphenationLang="en_GB",
+        hyphenMinWord=8,
+        hyphenMinPrefix=4,
+        hyphenMinSuffix=4,
+        uriWasteReduce=0,
+        embeddedHyphenation=1,
+        splitLongWords=1,
+        allowWidows=0,
+        allowOrphans=0,
     )
     base.update(kw)
     return ParagraphStyle(name, **base)
@@ -101,7 +109,8 @@ def build_styles():
               spaceBefore=3.2, spaceAfter=3.2, bulletFontName="Body",
               bulletFontSize=11, bulletDedent=4))
     ss.add(_p("Numbered", firstLineIndent=0, leftIndent=17, bulletIndent=2,
-              spaceBefore=1.6, spaceAfter=1.6))
+              spaceBefore=3.0, spaceAfter=3.0, bulletFontName="Body",
+              bulletFontSize=10.4))
     ss.add(_p("RefEntry", firstLineIndent=-14, leftIndent=14, fontSize=9.6,
               leading=12.6, alignment=TA_LEFT, spaceBefore=3.2))
     ss.add(_p("IndexEntry", firstLineIndent=-10, leftIndent=10, fontSize=8.8,
@@ -137,7 +146,8 @@ def build_styles():
               alignment=TA_LEFT))
 
     # ---- panels
-    ss.add(_p("Panel", fontSize=9.8, leading=13.4))
+    ss.add(_p("Panel", fontSize=9.8, leading=13.4, bulletFontName="Body",
+              bulletFontSize=9.8))
     ss.add(_p("PanelHead", fontName="Body-Semi", fontSize=9.8, leading=13.4,
               spaceAfter=3))
     ss.add(_p("Quote", fontSize=9.8, leading=13.4, leftIndent=18, rightIndent=14,

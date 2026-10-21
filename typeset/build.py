@@ -23,6 +23,7 @@ import sys
 
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
+from reportlab.pdfgen import canvas
 from reportlab.pdfbase.pdfmetrics import stringWidth
 from reportlab.platypus import (BaseDocTemplate, CondPageBreak, Flowable, Frame,
                                 FrameBreak, KeepTogether, NextPageTemplate,
@@ -174,10 +175,21 @@ class LeaderList(Flowable):
 # --------------------------------------------------------------------------
 # document template
 # --------------------------------------------------------------------------
+class BookCanvas(canvas.Canvas):
+    """Canvas whose initial font is the book's serif, not Helvetica, so that no
+    non-embedded base-14 font resources enter the PDF."""
+
+    def __init__(self, *a, **kw):
+        kw.setdefault("initialFontName", "Body")
+        kw.setdefault("initialFontSize", 11)
+        kw.setdefault("initialLeading", 15.2)
+        canvas.Canvas.__init__(self, *a, **kw)
+
+
 class Book(BaseDocTemplate):
     def __init__(self, filename, pagemap=None, index_entries=None, **kw):
         BaseDocTemplate.__init__(
-            self, filename, pagesize=(PAGE_W, PAGE_H),
+            self, filename, pagesize=(PAGE_W, PAGE_H), canvasmaker=BookCanvas,
             leftMargin=M_INNER, rightMargin=M_OUTER,
             topMargin=M_TOP, bottomMargin=M_BOTTOM,
             title=f"{META.COURSE}: {META.TITLE}. {META.SUBTITLE}",
@@ -803,6 +815,16 @@ def main():
     story += body_story(d2)
     story += back_matter(d2, d2.records, index_entries)
     d2.build(story)
+
+    # final pass: drop unused resources and compress streams so that the only
+    # fonts in the file are the embedded text faces
+    import pymupdf
+    tmpout = final + ".tmp.pdf"
+    os.replace(final, tmpout)
+    src = pymupdf.open(tmpout)
+    src.save(final, garbage=4, deflate=True, clean=True)
+    src.close()
+    os.remove(tmpout)
 
     with open(os.path.join(OUT, "bookmap.json"), "w") as fh:
         json.dump({"records": records, "fm": fm_entries,

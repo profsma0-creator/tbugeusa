@@ -1,0 +1,12 @@
+# build by-products
+output/.pass1.pdf
+output/.pass1.pdf.fm.pdf
+output/.t.pdf
+output/.a.pdf
+output/.p1.pdf
+output/.fm.pdf
+__pycache__/
+*.pyc
+
+# the source PDF and working extracts are not part of the book
+work/

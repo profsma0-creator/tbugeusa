@@ -1,6 +1,6 @@
 # REFERENCES|References
 
-This list contains every work cited in the chapter reading lists and in the text. Entries follow APA 7th edition. Works are listed once, even where they are cited in more than one chapter; the chapters in which they are discussed are indicated in the reading lists at the end of each chapter.
+This list contains every work cited in the text and in the further reading at the end of each chapter. Entries follow APA 7th edition. Works are listed once, even where they are cited in several chapters.
 
 American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
 
@@ -36,7 +36,11 @@ First, M. B., Williams, J. B. W., Karg, R. S., & Spitzer, R. L. (2016). *Structu
 
 Fletcher, J. M., Lyon, G. R., Fuchs, L. S., & Barnes, M. A. (2019). *Learning disabilities: From identification to intervention* (2nd ed.). Guilford Press.
 
+Flynn, J. R. (1987). Massive IQ gains in 14 nations: What IQ tests really measure. *Psychological Bulletin, 101*(2), 171–191.
+
 Folstein, M. F., Folstein, S. E., & McHugh, P. R. (1975). "Mini-mental state": A practical method for grading the cognitive state of patients for the clinician. *Journal of Psychiatric Research, 12*(3), 189–198.
+
+George, C., Kaplan, N., & Main, M. (1985). *Adult Attachment Interview* [Unpublished manuscript]. Department of Psychology, University of California, Berkeley.
 
 Gottman, J. M. (1999). *The marriage clinic: A scientifically based marital therapy*. W. W. Norton.
 
@@ -57,6 +61,8 @@ Kirmayer, L. J. (2012). Cultural competence and evidence-based practice in menta
 Kovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. *Psychological Inquiry, 27*(3), 151–177.
 
 Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. *Journal of General Internal Medicine, 16*(9), 606–613.
+
+Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174.
 
 Large, M., Kaneson, M., Myles, N., Myles, H., Gunaratne, P., & Ryan, C. (2016). Meta-analysis of longitudinal cohort studies of suicide risk assessment among psychiatric patients: Heterogeneity in results and lack of improvement over time. *PLOS ONE, 11*(6), e0156322.
 
