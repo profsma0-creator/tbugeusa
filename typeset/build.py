@@ -954,6 +954,10 @@ def main():
                     src.xref_set_key(page.xref, f"Resources/Font/{key}", "null")
             except Exception:
                 pass
+    # the press wants the interior as a file of its own, without the cover
+    src.save(os.path.join(OUT, "CPY903_interior_press.pdf"),
+             garbage=4, deflate=True, clean=True)
+
     # the supplied front cover opens the book as one unnumbered page, after
     # which every interior page and folio reference in the map moves down one
     cover = os.path.join(os.path.dirname(os.path.abspath(__file__)),

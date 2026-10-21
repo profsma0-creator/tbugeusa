@@ -91,9 +91,10 @@ The book opens with the supplied front cover and the copyright page carries the 
 |---|---|---|
 | Back cover and spine (full wrap) | cover file, not this interior | Publisher |
 | Barcode and volume identifier | back cover | Publisher |
-| Cover artwork at print resolution (300 dpi) | cover file; the supplied JPEG is about 136 dpi at trim width | Publisher |
+| Cover artwork at print resolution (300 dpi) and trim proportion (2:3) | cover file; the supplied JPEG is 3:4 at about 136 dpi | Publisher |
+| Back cover and spine artwork | cover file; dimensions in `print_specification.md` §5 | Publisher |
 
-Nothing in this PDF is outstanding. The interior is final as it stands, and the front cover is set.
+Nothing in this PDF is outstanding. The interior is final as it stands, and the front cover is set. Press files and the specification the printer needs are listed in `print_specification.md`; the deposit record is `catalogue_record.md`.
 
 ## 7. What was not done, and why
 

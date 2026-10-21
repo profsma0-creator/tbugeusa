@@ -42,9 +42,14 @@ The book identifier, when the publisher issues one, belongs to the cover — it 
 
 ## 4. What the publisher still does outside this file
 
-1. Complete the cover: the supplied artwork is the **front cover only**. A printed book needs the back cover and spine (a full wrap), and the barcode with the volume identifier sits on the back. The front artwork is reproduced unchanged; it is placed at the interior trim width (152 mm) at its own 3:4 proportions.
-2. Supply the artwork at print resolution if a print run is planned. The file received is 815 px wide, about 136 dpi at trim width — fine for the digital edition, low for offset or POD, which want 300 dpi.
-3. Record the volume in the catalogue and in the library deposit metadata.
-4. Have the academic lead read the book and sign it off as the institution's text (`substantive_issues.md` §2 and §5).
+The full press specification is in `print_specification.md` and the deposit record in `catalogue_record.md`. In short:
+
+1. **Re-export the front cover artwork at trim proportion and print resolution.** The file received is 3:4 (815 × 1086 px, about 136 dpi) while the trim is 2:3 (152.4 × 228.6 mm, 6 × 9 in). It fills the digital edition's cover page at its own proportions, but for press the designer must re-proportion the layout to **158.4 × 234.6 mm including 3 mm bleed, ≥ 300 dpi** — not crop the existing artwork, which would cut the left instrument list and the right frameworks panel.
+2. **Supply the back cover and spine panels** to the same bleed, keeping the lower right of the back clear for the barcode reserve (40 × 30 mm white, ≥ 20 mm above the bottom trim, ≥ 15 mm inside the outer edge). Spine width is fixed only when the printer confirms the paper caliper (`print_specification.md` §3).
+3. **Decide on the barcode.** The volume identifier is the publisher's to assign; the book is not for sale, so it may be issued without one.
+4. Record the volume in the catalogue and in the library deposit metadata — the record is drafted in `catalogue_record.md` §9.
+5. Have the academic lead read the book and sign it off as the institution's text (`substantive_issues.md` §2 and §5).
+
+Two notes on the cover, neither of which alters any file: the cover reads "COUNSELING PSYCHOLOGY" in American spelling while the text uses British "Counselling" — the artwork is the publisher's and was not edited; and the President/Chancellor is named on the cover in institutional capacity while the interior keeps the corporate author — if the institution wants the name on the title page or in the About note, it is a one-line change.
 
 Two notes on the cover, neither of which alters any file: the cover reads "COUNSELING PSYCHOLOGY" in American spelling while the text uses British "Counselling" — the artwork is the publisher's and was not edited; and the President/Chancellor is named on the cover in institutional capacity while the interior keeps the corporate author — if the institution wants the name on the title page or in the About note, it is a one-line change.
