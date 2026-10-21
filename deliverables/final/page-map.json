@@ -1,0 +1,1633 @@
+{
+  "front_matter_pages": 7,
+  "main_matter_pages": 265,
+  "physical_pages": 272,
+  "chapters": {
+    "1": 1,
+    "2": 23,
+    "3": 53,
+    "4": 64,
+    "5": 73,
+    "6": 82,
+    "7": 92,
+    "8": 102,
+    "9": 112,
+    "10": 122,
+    "11": 132,
+    "12": 141,
+    "13": 150,
+    "14": 159,
+    "15": 168,
+    "16": 178,
+    "17": 187,
+    "18": 196,
+    "19": 205,
+    "20": 214
+  },
+  "back_matter": {
+    "Acronyms and abbreviations": 241,
+    "Appendix A. Critical appraisal template": 243,
+    "Appendix B. Trauma-informed assessment checklist": 244,
+    "Appendix C. Research protocol outline": 245,
+    "Appendix D. Statistical and methodological terms": 246,
+    "Research resources": 247,
+    "Laboratory and classroom teaching protocols": 248,
+    "Professional standards and scope of practice": 250,
+    "Further reading": 251,
+    "References": 262,
+    "Glossary": 223,
+    "Learner worksheets": 253
+  },
+  "mapping": [
+    {
+      "book_arabic_page": 1,
+      "physical_pdf_page": 8,
+      "component": "chapter01",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 2,
+      "physical_pdf_page": 9,
+      "component": "chapter01",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 3,
+      "physical_pdf_page": 10,
+      "component": "chapter01",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 4,
+      "physical_pdf_page": 11,
+      "component": "chapter01",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 5,
+      "physical_pdf_page": 12,
+      "component": "chapter01",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 6,
+      "physical_pdf_page": 13,
+      "component": "chapter01",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 7,
+      "physical_pdf_page": 14,
+      "component": "chapter01",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 8,
+      "physical_pdf_page": 15,
+      "component": "chapter01",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 9,
+      "physical_pdf_page": 16,
+      "component": "chapter01",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 10,
+      "physical_pdf_page": 17,
+      "component": "chapter01",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 11,
+      "physical_pdf_page": 18,
+      "component": "chapter01",
+      "component_source_page": 11
+    },
+    {
+      "book_arabic_page": 12,
+      "physical_pdf_page": 19,
+      "component": "chapter01",
+      "component_source_page": 12
+    },
+    {
+      "book_arabic_page": 13,
+      "physical_pdf_page": 20,
+      "component": "chapter01",
+      "component_source_page": 13
+    },
+    {
+      "book_arabic_page": 14,
+      "physical_pdf_page": 21,
+      "component": "chapter01",
+      "component_source_page": 14
+    },
+    {
+      "book_arabic_page": 15,
+      "physical_pdf_page": 22,
+      "component": "chapter01",
+      "component_source_page": 15
+    },
+    {
+      "book_arabic_page": 16,
+      "physical_pdf_page": 23,
+      "component": "chapter01",
+      "component_source_page": 16
+    },
+    {
+      "book_arabic_page": 17,
+      "physical_pdf_page": 24,
+      "component": "chapter01",
+      "component_source_page": 17
+    },
+    {
+      "book_arabic_page": 18,
+      "physical_pdf_page": 25,
+      "component": "chapter01",
+      "component_source_page": 18
+    },
+    {
+      "book_arabic_page": 19,
+      "physical_pdf_page": 26,
+      "component": "chapter01",
+      "component_source_page": 19
+    },
+    {
+      "book_arabic_page": 20,
+      "physical_pdf_page": 27,
+      "component": "chapter01",
+      "component_source_page": 20
+    },
+    {
+      "book_arabic_page": 21,
+      "physical_pdf_page": 28,
+      "component": "chapter01",
+      "component_source_page": 21
+    },
+    {
+      "book_arabic_page": 22,
+      "physical_pdf_page": 29,
+      "component": "chapter01",
+      "component_source_page": 22
+    },
+    {
+      "book_arabic_page": 23,
+      "physical_pdf_page": 30,
+      "component": "chapter02",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 24,
+      "physical_pdf_page": 31,
+      "component": "chapter02",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 25,
+      "physical_pdf_page": 32,
+      "component": "chapter02",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 26,
+      "physical_pdf_page": 33,
+      "component": "chapter02",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 27,
+      "physical_pdf_page": 34,
+      "component": "chapter02",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 28,
+      "physical_pdf_page": 35,
+      "component": "chapter02",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 29,
+      "physical_pdf_page": 36,
+      "component": "chapter02",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 30,
+      "physical_pdf_page": 37,
+      "component": "chapter02",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 31,
+      "physical_pdf_page": 38,
+      "component": "chapter02",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 32,
+      "physical_pdf_page": 39,
+      "component": "chapter02",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 33,
+      "physical_pdf_page": 40,
+      "component": "chapter02",
+      "component_source_page": 11
+    },
+    {
+      "book_arabic_page": 34,
+      "physical_pdf_page": 41,
+      "component": "chapter02",
+      "component_source_page": 12
+    },
+    {
+      "book_arabic_page": 35,
+      "physical_pdf_page": 42,
+      "component": "chapter02",
+      "component_source_page": 13
+    },
+    {
+      "book_arabic_page": 36,
+      "physical_pdf_page": 43,
+      "component": "chapter02",
+      "component_source_page": 14
+    },
+    {
+      "book_arabic_page": 37,
+      "physical_pdf_page": 44,
+      "component": "chapter02",
+      "component_source_page": 15
+    },
+    {
+      "book_arabic_page": 38,
+      "physical_pdf_page": 45,
+      "component": "chapter02",
+      "component_source_page": 16
+    },
+    {
+      "book_arabic_page": 39,
+      "physical_pdf_page": 46,
+      "component": "chapter02",
+      "component_source_page": 17
+    },
+    {
+      "book_arabic_page": 40,
+      "physical_pdf_page": 47,
+      "component": "chapter02",
+      "component_source_page": 18
+    },
+    {
+      "book_arabic_page": 41,
+      "physical_pdf_page": 48,
+      "component": "chapter02",
+      "component_source_page": 19
+    },
+    {
+      "book_arabic_page": 42,
+      "physical_pdf_page": 49,
+      "component": "chapter02",
+      "component_source_page": 20
+    },
+    {
+      "book_arabic_page": 43,
+      "physical_pdf_page": 50,
+      "component": "chapter02",
+      "component_source_page": 21
+    },
+    {
+      "book_arabic_page": 44,
+      "physical_pdf_page": 51,
+      "component": "chapter02",
+      "component_source_page": 22
+    },
+    {
+      "book_arabic_page": 45,
+      "physical_pdf_page": 52,
+      "component": "chapter02",
+      "component_source_page": 23
+    },
+    {
+      "book_arabic_page": 46,
+      "physical_pdf_page": 53,
+      "component": "chapter02",
+      "component_source_page": 24
+    },
+    {
+      "book_arabic_page": 47,
+      "physical_pdf_page": 54,
+      "component": "chapter02",
+      "component_source_page": 25
+    },
+    {
+      "book_arabic_page": 48,
+      "physical_pdf_page": 55,
+      "component": "chapter02",
+      "component_source_page": 26
+    },
+    {
+      "book_arabic_page": 49,
+      "physical_pdf_page": 56,
+      "component": "chapter02",
+      "component_source_page": 27
+    },
+    {
+      "book_arabic_page": 50,
+      "physical_pdf_page": 57,
+      "component": "chapter02",
+      "component_source_page": 28
+    },
+    {
+      "book_arabic_page": 51,
+      "physical_pdf_page": 58,
+      "component": "chapter02",
+      "component_source_page": 29
+    },
+    {
+      "book_arabic_page": 52,
+      "physical_pdf_page": 59,
+      "component": "chapter02",
+      "component_source_page": 30
+    },
+    {
+      "book_arabic_page": 53,
+      "physical_pdf_page": 60,
+      "component": "chapter03",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 54,
+      "physical_pdf_page": 61,
+      "component": "chapter03",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 55,
+      "physical_pdf_page": 62,
+      "component": "chapter03",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 56,
+      "physical_pdf_page": 63,
+      "component": "chapter03",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 57,
+      "physical_pdf_page": 64,
+      "component": "chapter03",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 58,
+      "physical_pdf_page": 65,
+      "component": "chapter03",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 59,
+      "physical_pdf_page": 66,
+      "component": "chapter03",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 60,
+      "physical_pdf_page": 67,
+      "component": "chapter03",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 61,
+      "physical_pdf_page": 68,
+      "component": "chapter03",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 62,
+      "physical_pdf_page": 69,
+      "component": "chapter03",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 63,
+      "physical_pdf_page": 70,
+      "component": "chapter03",
+      "component_source_page": 11
+    },
+    {
+      "book_arabic_page": 64,
+      "physical_pdf_page": 71,
+      "component": "chapter04",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 65,
+      "physical_pdf_page": 72,
+      "component": "chapter04",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 66,
+      "physical_pdf_page": 73,
+      "component": "chapter04",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 67,
+      "physical_pdf_page": 74,
+      "component": "chapter04",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 68,
+      "physical_pdf_page": 75,
+      "component": "chapter04",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 69,
+      "physical_pdf_page": 76,
+      "component": "chapter04",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 70,
+      "physical_pdf_page": 77,
+      "component": "chapter04",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 71,
+      "physical_pdf_page": 78,
+      "component": "chapter04",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 72,
+      "physical_pdf_page": 79,
+      "component": "chapter04",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 73,
+      "physical_pdf_page": 80,
+      "component": "chapter05",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 74,
+      "physical_pdf_page": 81,
+      "component": "chapter05",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 75,
+      "physical_pdf_page": 82,
+      "component": "chapter05",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 76,
+      "physical_pdf_page": 83,
+      "component": "chapter05",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 77,
+      "physical_pdf_page": 84,
+      "component": "chapter05",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 78,
+      "physical_pdf_page": 85,
+      "component": "chapter05",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 79,
+      "physical_pdf_page": 86,
+      "component": "chapter05",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 80,
+      "physical_pdf_page": 87,
+      "component": "chapter05",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 81,
+      "physical_pdf_page": 88,
+      "component": "chapter05",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 82,
+      "physical_pdf_page": 89,
+      "component": "chapter06",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 83,
+      "physical_pdf_page": 90,
+      "component": "chapter06",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 84,
+      "physical_pdf_page": 91,
+      "component": "chapter06",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 85,
+      "physical_pdf_page": 92,
+      "component": "chapter06",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 86,
+      "physical_pdf_page": 93,
+      "component": "chapter06",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 87,
+      "physical_pdf_page": 94,
+      "component": "chapter06",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 88,
+      "physical_pdf_page": 95,
+      "component": "chapter06",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 89,
+      "physical_pdf_page": 96,
+      "component": "chapter06",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 90,
+      "physical_pdf_page": 97,
+      "component": "chapter06",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 91,
+      "physical_pdf_page": 98,
+      "component": "chapter06",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 92,
+      "physical_pdf_page": 99,
+      "component": "chapter07",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 93,
+      "physical_pdf_page": 100,
+      "component": "chapter07",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 94,
+      "physical_pdf_page": 101,
+      "component": "chapter07",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 95,
+      "physical_pdf_page": 102,
+      "component": "chapter07",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 96,
+      "physical_pdf_page": 103,
+      "component": "chapter07",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 97,
+      "physical_pdf_page": 104,
+      "component": "chapter07",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 98,
+      "physical_pdf_page": 105,
+      "component": "chapter07",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 99,
+      "physical_pdf_page": 106,
+      "component": "chapter07",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 100,
+      "physical_pdf_page": 107,
+      "component": "chapter07",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 101,
+      "physical_pdf_page": 108,
+      "component": "chapter07",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 102,
+      "physical_pdf_page": 109,
+      "component": "chapter08",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 103,
+      "physical_pdf_page": 110,
+      "component": "chapter08",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 104,
+      "physical_pdf_page": 111,
+      "component": "chapter08",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 105,
+      "physical_pdf_page": 112,
+      "component": "chapter08",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 106,
+      "physical_pdf_page": 113,
+      "component": "chapter08",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 107,
+      "physical_pdf_page": 114,
+      "component": "chapter08",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 108,
+      "physical_pdf_page": 115,
+      "component": "chapter08",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 109,
+      "physical_pdf_page": 116,
+      "component": "chapter08",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 110,
+      "physical_pdf_page": 117,
+      "component": "chapter08",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 111,
+      "physical_pdf_page": 118,
+      "component": "chapter08",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 112,
+      "physical_pdf_page": 119,
+      "component": "chapter09",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 113,
+      "physical_pdf_page": 120,
+      "component": "chapter09",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 114,
+      "physical_pdf_page": 121,
+      "component": "chapter09",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 115,
+      "physical_pdf_page": 122,
+      "component": "chapter09",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 116,
+      "physical_pdf_page": 123,
+      "component": "chapter09",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 117,
+      "physical_pdf_page": 124,
+      "component": "chapter09",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 118,
+      "physical_pdf_page": 125,
+      "component": "chapter09",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 119,
+      "physical_pdf_page": 126,
+      "component": "chapter09",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 120,
+      "physical_pdf_page": 127,
+      "component": "chapter09",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 121,
+      "physical_pdf_page": 128,
+      "component": "chapter09",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 122,
+      "physical_pdf_page": 129,
+      "component": "chapter10",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 123,
+      "physical_pdf_page": 130,
+      "component": "chapter10",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 124,
+      "physical_pdf_page": 131,
+      "component": "chapter10",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 125,
+      "physical_pdf_page": 132,
+      "component": "chapter10",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 126,
+      "physical_pdf_page": 133,
+      "component": "chapter10",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 127,
+      "physical_pdf_page": 134,
+      "component": "chapter10",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 128,
+      "physical_pdf_page": 135,
+      "component": "chapter10",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 129,
+      "physical_pdf_page": 136,
+      "component": "chapter10",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 130,
+      "physical_pdf_page": 137,
+      "component": "chapter10",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 131,
+      "physical_pdf_page": 138,
+      "component": "chapter10",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 132,
+      "physical_pdf_page": 139,
+      "component": "chapter11",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 133,
+      "physical_pdf_page": 140,
+      "component": "chapter11",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 134,
+      "physical_pdf_page": 141,
+      "component": "chapter11",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 135,
+      "physical_pdf_page": 142,
+      "component": "chapter11",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 136,
+      "physical_pdf_page": 143,
+      "component": "chapter11",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 137,
+      "physical_pdf_page": 144,
+      "component": "chapter11",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 138,
+      "physical_pdf_page": 145,
+      "component": "chapter11",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 139,
+      "physical_pdf_page": 146,
+      "component": "chapter11",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 140,
+      "physical_pdf_page": 147,
+      "component": "chapter11",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 141,
+      "physical_pdf_page": 148,
+      "component": "chapter12",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 142,
+      "physical_pdf_page": 149,
+      "component": "chapter12",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 143,
+      "physical_pdf_page": 150,
+      "component": "chapter12",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 144,
+      "physical_pdf_page": 151,
+      "component": "chapter12",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 145,
+      "physical_pdf_page": 152,
+      "component": "chapter12",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 146,
+      "physical_pdf_page": 153,
+      "component": "chapter12",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 147,
+      "physical_pdf_page": 154,
+      "component": "chapter12",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 148,
+      "physical_pdf_page": 155,
+      "component": "chapter12",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 149,
+      "physical_pdf_page": 156,
+      "component": "chapter12",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 150,
+      "physical_pdf_page": 157,
+      "component": "chapter13",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 151,
+      "physical_pdf_page": 158,
+      "component": "chapter13",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 152,
+      "physical_pdf_page": 159,
+      "component": "chapter13",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 153,
+      "physical_pdf_page": 160,
+      "component": "chapter13",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 154,
+      "physical_pdf_page": 161,
+      "component": "chapter13",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 155,
+      "physical_pdf_page": 162,
+      "component": "chapter13",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 156,
+      "physical_pdf_page": 163,
+      "component": "chapter13",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 157,
+      "physical_pdf_page": 164,
+      "component": "chapter13",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 158,
+      "physical_pdf_page": 165,
+      "component": "chapter13",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 159,
+      "physical_pdf_page": 166,
+      "component": "chapter14",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 160,
+      "physical_pdf_page": 167,
+      "component": "chapter14",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 161,
+      "physical_pdf_page": 168,
+      "component": "chapter14",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 162,
+      "physical_pdf_page": 169,
+      "component": "chapter14",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 163,
+      "physical_pdf_page": 170,
+      "component": "chapter14",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 164,
+      "physical_pdf_page": 171,
+      "component": "chapter14",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 165,
+      "physical_pdf_page": 172,
+      "component": "chapter14",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 166,
+      "physical_pdf_page": 173,
+      "component": "chapter14",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 167,
+      "physical_pdf_page": 174,
+      "component": "chapter14",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 168,
+      "physical_pdf_page": 175,
+      "component": "chapter15",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 169,
+      "physical_pdf_page": 176,
+      "component": "chapter15",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 170,
+      "physical_pdf_page": 177,
+      "component": "chapter15",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 171,
+      "physical_pdf_page": 178,
+      "component": "chapter15",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 172,
+      "physical_pdf_page": 179,
+      "component": "chapter15",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 173,
+      "physical_pdf_page": 180,
+      "component": "chapter15",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 174,
+      "physical_pdf_page": 181,
+      "component": "chapter15",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 175,
+      "physical_pdf_page": 182,
+      "component": "chapter15",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 176,
+      "physical_pdf_page": 183,
+      "component": "chapter15",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 177,
+      "physical_pdf_page": 184,
+      "component": "chapter15",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 178,
+      "physical_pdf_page": 185,
+      "component": "chapter16",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 179,
+      "physical_pdf_page": 186,
+      "component": "chapter16",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 180,
+      "physical_pdf_page": 187,
+      "component": "chapter16",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 181,
+      "physical_pdf_page": 188,
+      "component": "chapter16",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 182,
+      "physical_pdf_page": 189,
+      "component": "chapter16",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 183,
+      "physical_pdf_page": 190,
+      "component": "chapter16",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 184,
+      "physical_pdf_page": 191,
+      "component": "chapter16",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 185,
+      "physical_pdf_page": 192,
+      "component": "chapter16",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 186,
+      "physical_pdf_page": 193,
+      "component": "chapter16",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 187,
+      "physical_pdf_page": 194,
+      "component": "chapter17",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 188,
+      "physical_pdf_page": 195,
+      "component": "chapter17",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 189,
+      "physical_pdf_page": 196,
+      "component": "chapter17",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 190,
+      "physical_pdf_page": 197,
+      "component": "chapter17",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 191,
+      "physical_pdf_page": 198,
+      "component": "chapter17",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 192,
+      "physical_pdf_page": 199,
+      "component": "chapter17",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 193,
+      "physical_pdf_page": 200,
+      "component": "chapter17",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 194,
+      "physical_pdf_page": 201,
+      "component": "chapter17",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 195,
+      "physical_pdf_page": 202,
+      "component": "chapter17",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 196,
+      "physical_pdf_page": 203,
+      "component": "chapter18",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 197,
+      "physical_pdf_page": 204,
+      "component": "chapter18",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 198,
+      "physical_pdf_page": 205,
+      "component": "chapter18",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 199,
+      "physical_pdf_page": 206,
+      "component": "chapter18",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 200,
+      "physical_pdf_page": 207,
+      "component": "chapter18",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 201,
+      "physical_pdf_page": 208,
+      "component": "chapter18",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 202,
+      "physical_pdf_page": 209,
+      "component": "chapter18",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 203,
+      "physical_pdf_page": 210,
+      "component": "chapter18",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 204,
+      "physical_pdf_page": 211,
+      "component": "chapter18",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 205,
+      "physical_pdf_page": 212,
+      "component": "chapter19",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 206,
+      "physical_pdf_page": 213,
+      "component": "chapter19",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 207,
+      "physical_pdf_page": 214,
+      "component": "chapter19",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 208,
+      "physical_pdf_page": 215,
+      "component": "chapter19",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 209,
+      "physical_pdf_page": 216,
+      "component": "chapter19",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 210,
+      "physical_pdf_page": 217,
+      "component": "chapter19",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 211,
+      "physical_pdf_page": 218,
+      "component": "chapter19",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 212,
+      "physical_pdf_page": 219,
+      "component": "chapter19",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 213,
+      "physical_pdf_page": 220,
+      "component": "chapter19",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 214,
+      "physical_pdf_page": 221,
+      "component": "chapter20",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 215,
+      "physical_pdf_page": 222,
+      "component": "chapter20",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 216,
+      "physical_pdf_page": 223,
+      "component": "chapter20",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 217,
+      "physical_pdf_page": 224,
+      "component": "chapter20",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 218,
+      "physical_pdf_page": 225,
+      "component": "chapter20",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 219,
+      "physical_pdf_page": 226,
+      "component": "chapter20",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 220,
+      "physical_pdf_page": 227,
+      "component": "chapter20",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 221,
+      "physical_pdf_page": 228,
+      "component": "chapter20",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 222,
+      "physical_pdf_page": 229,
+      "component": "chapter20",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 223,
+      "physical_pdf_page": 230,
+      "component": "glossary",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 224,
+      "physical_pdf_page": 231,
+      "component": "glossary",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 225,
+      "physical_pdf_page": 232,
+      "component": "glossary",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 226,
+      "physical_pdf_page": 233,
+      "component": "glossary",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 227,
+      "physical_pdf_page": 234,
+      "component": "glossary",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 228,
+      "physical_pdf_page": 235,
+      "component": "glossary",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 229,
+      "physical_pdf_page": 236,
+      "component": "glossary",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 230,
+      "physical_pdf_page": 237,
+      "component": "glossary",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 231,
+      "physical_pdf_page": 238,
+      "component": "glossary",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 232,
+      "physical_pdf_page": 239,
+      "component": "glossary",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 233,
+      "physical_pdf_page": 240,
+      "component": "glossary",
+      "component_source_page": 11
+    },
+    {
+      "book_arabic_page": 234,
+      "physical_pdf_page": 241,
+      "component": "glossary",
+      "component_source_page": 12
+    },
+    {
+      "book_arabic_page": 235,
+      "physical_pdf_page": 242,
+      "component": "glossary",
+      "component_source_page": 13
+    },
+    {
+      "book_arabic_page": 236,
+      "physical_pdf_page": 243,
+      "component": "glossary",
+      "component_source_page": 14
+    },
+    {
+      "book_arabic_page": 237,
+      "physical_pdf_page": 244,
+      "component": "glossary",
+      "component_source_page": 15
+    },
+    {
+      "book_arabic_page": 238,
+      "physical_pdf_page": 245,
+      "component": "glossary",
+      "component_source_page": 16
+    },
+    {
+      "book_arabic_page": 239,
+      "physical_pdf_page": 246,
+      "component": "glossary",
+      "component_source_page": 17
+    },
+    {
+      "book_arabic_page": 240,
+      "physical_pdf_page": 247,
+      "component": "backmatter",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 241,
+      "physical_pdf_page": 248,
+      "component": "backmatter",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 242,
+      "physical_pdf_page": 249,
+      "component": "backmatter",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 243,
+      "physical_pdf_page": 250,
+      "component": "backmatter",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 244,
+      "physical_pdf_page": 251,
+      "component": "backmatter",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 245,
+      "physical_pdf_page": 252,
+      "component": "backmatter",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 246,
+      "physical_pdf_page": 253,
+      "component": "backmatter",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 247,
+      "physical_pdf_page": 254,
+      "component": "backmatter",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 248,
+      "physical_pdf_page": 255,
+      "component": "backmatter",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 249,
+      "physical_pdf_page": 256,
+      "component": "backmatter",
+      "component_source_page": 10
+    },
+    {
+      "book_arabic_page": 250,
+      "physical_pdf_page": 257,
+      "component": "backmatter",
+      "component_source_page": 11
+    },
+    {
+      "book_arabic_page": 251,
+      "physical_pdf_page": 258,
+      "component": "backmatter",
+      "component_source_page": 12
+    },
+    {
+      "book_arabic_page": 252,
+      "physical_pdf_page": 259,
+      "component": "backmatter",
+      "component_source_page": 13
+    },
+    {
+      "book_arabic_page": 253,
+      "physical_pdf_page": 260,
+      "component": "worksheets",
+      "component_source_page": 1
+    },
+    {
+      "book_arabic_page": 254,
+      "physical_pdf_page": 261,
+      "component": "worksheets",
+      "component_source_page": 2
+    },
+    {
+      "book_arabic_page": 255,
+      "physical_pdf_page": 262,
+      "component": "worksheets",
+      "component_source_page": 3
+    },
+    {
+      "book_arabic_page": 256,
+      "physical_pdf_page": 263,
+      "component": "worksheets",
+      "component_source_page": 4
+    },
+    {
+      "book_arabic_page": 257,
+      "physical_pdf_page": 264,
+      "component": "worksheets",
+      "component_source_page": 5
+    },
+    {
+      "book_arabic_page": 258,
+      "physical_pdf_page": 265,
+      "component": "worksheets",
+      "component_source_page": 6
+    },
+    {
+      "book_arabic_page": 259,
+      "physical_pdf_page": 266,
+      "component": "worksheets",
+      "component_source_page": 7
+    },
+    {
+      "book_arabic_page": 260,
+      "physical_pdf_page": 267,
+      "component": "worksheets",
+      "component_source_page": 8
+    },
+    {
+      "book_arabic_page": 261,
+      "physical_pdf_page": 268,
+      "component": "worksheets",
+      "component_source_page": 9
+    },
+    {
+      "book_arabic_page": 262,
+      "physical_pdf_page": 269,
+      "component": "references",
+      "component_source_page": 14
+    },
+    {
+      "book_arabic_page": 263,
+      "physical_pdf_page": 270,
+      "component": "references",
+      "component_source_page": 15
+    },
+    {
+      "book_arabic_page": 264,
+      "physical_pdf_page": 271,
+      "component": "references",
+      "component_source_page": 16
+    },
+    {
+      "book_arabic_page": 265,
+      "physical_pdf_page": 272,
+      "component": "references",
+      "component_source_page": 17
+    }
+  ]
+}

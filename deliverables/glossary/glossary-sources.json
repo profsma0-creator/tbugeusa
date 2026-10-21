@@ -1,0 +1,74 @@
+[
+  {
+    "id": "G01",
+    "reference": "OpenStax. (n.d.). Chapter 12: Key terms. Anatomy and Physiology.",
+    "url": "https://openstax.org/books/anatomy-and-physiology/pages/12-key-terms",
+    "access": "Page chunks 1–2 read; foundational terminology. Corporate website attribution, not a claim that the textbook has no named authors.",
+    "scope": "Neuronal processes, membrane signalling, neural tissue and glia. These short source definitions support the core concepts, not every explanatory qualification in the reconstruction."
+  },
+  {
+    "id": "G02",
+    "reference": "National Human Genome Research Institute. (n.d.). Talking glossary of genomic and genetic terms.",
+    "url": "https://www.genome.gov/genetics-glossary",
+    "access": "Chunks 0, 4 and 5 read. Only allele assigned a checked definition in this pass.",
+    "scope": "Allele. Other genetics entries remain uncoded pending checking of their exact definitions and qualifications."
+  },
+  {
+    "id": "G03",
+    "reference": "Centers for Disease Control and Prevention. (n.d.). Glossary. Principles of Epidemiology.",
+    "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/glossary.html",
+    "access": "Archived page chunks 0–1 read; search excerpts for sensitivity and specificity. Validity checked against the separate current CDC epidemiology glossary excerpt as well.",
+    "scope": "Confounding, sensitivity, specificity and measurement validity. Advanced validity wording requires a further methodological source.",
+    "additional_url": "https://www.cdc.gov/reproductive-health/glossary/index.html"
+  },
+  {
+    "id": "G04",
+    "reference": "Google for Developers. (n.d.). Machine learning glossary.",
+    "url": "https://developers.google.com/machine-learning/glossary",
+    "access": "Chunk 0 read; search excerpts for overfitting and test set. Training/test distinctions additionally checked against the Google course excerpt below.",
+    "scope": "Overfitting and separation of training, validation and test data. Other computational terms are not marked checked.",
+    "additional_url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets"
+  },
+  {
+    "id": "G05",
+    "reference": "National Child Traumatic Stress Network. (n.d.). Effects. Complex trauma.",
+    "url": "https://www.nctsn.org/what-is-child-trauma/trauma-types/complex-trauma/effects",
+    "access": "Both page chunks read. Child-focused explanatory resource, not a formal adult diagnostic glossary.",
+    "scope": "Adaptation, attachment, emotional regulation, dissociation, negative self-concept and relational difficulties. Definitions are editorial syntheses; do not generalise the resource's child-focused associations into universal causal claims."
+  },
+  {
+    "id": "G06",
+    "reference": "National Institute of Mental Health. (n.d.). Post-traumatic stress disorder.",
+    "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "access": "Search excerpt containing symptom domains, duration and impairment read. Full page not read in this pass.",
+    "scope": "PTSD symptom-domain overview, avoidance, intrusions, arousal, negative cognitions and functional interference. Glossary does not reproduce a complete diagnostic checklist or collapse DSM and ICD formulations."
+  },
+  {
+    "id": "G07",
+    "reference": "National Center for PTSD. (n.d.). Dissociative subtype of PTSD. U.S. Department of Veterans Affairs.",
+    "url": "https://www.ptsd.va.gov/professional/treat/essentials/dissociative_subtype.asp",
+    "access": "Search excerpt defining depersonalisation and derealisation read; not a full literature review.",
+    "scope": "Distinction between detachment from self and unreality of surroundings. No prevalence or neuroimaging results imported."
+  },
+  {
+    "id": "G09",
+    "reference": "Godoy, L. D., Rossignoli, M. T., Delfino-Pereira, P., Garcia-Cairasco, N., & de Lima Umeoka, E. H. (2018). A comprehensive overview on stress neurobiology: Basic concepts and clinical implications. Frontiers in Behavioral Neuroscience, 12, Article 127. https://doi.org/10.3389/fnbeh.2018.00127",
+    "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2018.00127/full",
+    "access": "Previously checked selectively for Chapter 1: chunks 0–1 and 48. Full bibliographic record remains in chapter01-verified-references.json.",
+    "scope": "Stress-regulatory framework and HPA/SAM terminology. Indicator selection for allostatic load still requires a dedicated measurement source; do not label the glossary a comprehensive verification of this topic."
+  },
+  {
+    "id": "G10",
+    "reference": "U.S. Food and Drug Administration. (n.d.). About biomarkers and qualification.",
+    "url": "https://www.fda.gov/drugs/biomarker-qualification-program/about-biomarkers-and-qualification",
+    "access": "Page chunk 0 previously read for Chapter 1.",
+    "scope": "Biomarker definition and context of use. No claim that a PTSD biomarker has been qualified."
+  },
+  {
+    "id": "G11",
+    "reference": "National Human Genome Research Institute. (n.d.). Epigenomics fact sheet.",
+    "url": "https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet",
+    "access": "Search excerpt concerning DNA/protein modification, gene expression and DNA methylation read.",
+    "scope": "Core epigenetic and methylation concepts. No claim of demonstrated human transgenerational transmission of trauma."
+  }
+]

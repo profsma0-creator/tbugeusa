@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1.1",
+    "title": "Levels of analysis, methods, and interpretative limits",
+    "columns": ["Level", "Question", "Evidence or method", "Interpretative limit"],
+    "rows": [
+      ["Cellular and molecular", "Which cellular or molecular processes are being examined?", "Cell culture, molecular assays, genetics, animal models", "Mechanistic evidence requires caution when applied to an individual."],
+      ["Circuit and systems", "How are the relevant processes organised across circuits and systems?", "Imaging, electrophysiology, lesion evidence, task performance", "Regional activation is not a diagnosis."],
+      ["Endocrine and immune", "How are measured responses related to bodily regulation?", "Hormone and immune assays; repeated sampling", "Timing, health, medication, sleep, and assay variation affect results."],
+      ["Behaviour and function", "How are observed responses related to daily functioning?", "Interviews, questionnaires, behavioural tasks, records", "Symptom measures require interpretation alongside function and meaning."],
+      ["Social context and implementation", "How does application vary across settings?", "Qualitative and mixed-methods research; implementation and policy evaluation", "Resources, culture, law, and unequal access shape application."]
+    ],
+    "note": "Adapted editorially from original PDF pages 130–131. Questions have been clarified without adding measurements or findings; author approval is required. No single row provides a complete explanation."
+  },
+  {
+    "id": "1.2",
+    "title": "Professional applications and quality safeguards",
+    "columns": ["Setting", "Decision", "Evidence or method", "Quality safeguard"],
+    "rows": [
+      ["Clinical services", "What action may improve safety or functioning?", "Collaborative assessment; outcome monitoring", "Avoid unsupported biological testing and deterministic explanations."],
+      ["Education", "What support may improve participation and learning?", "Observation, consultation, accessible teaching", "Do not infer trauma or diagnosis from behaviour alone."],
+      ["Healthcare", "How can care reduce avoidable threat and improve continuity?", "Medical review, communication, referral, quality data", "Protect consent, privacy, and appropriate professional scope."],
+      ["Government", "Which population-level action has evidence and resources?", "Surveillance, programme evaluation, policy analysis", "Examine fairness, opportunity costs, and unintended harm."],
+      ["Organisations", "How can exposure management and recovery support improve?", "Risk assessment, confidential referral, workforce indicators", "Do not substitute individual training for safer systems."]
+    ],
+    "note": "Adapted editorially from original PDF pages 131–132. These are questions for planning and appraisal, not demonstrated intervention effects."
+  }
+]

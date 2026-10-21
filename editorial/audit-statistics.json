@@ -1,0 +1,112 @@
+{
+  "pdf_pages": 1722,
+  "raw_extracted_words": 446458,
+  "chapter_openings": [
+    [
+      54,
+      1,
+      "Foundations and Historical Development of Trauma Neurobiology"
+    ],
+    [
+      136,
+      2,
+      "Functional Neuroanatomy of Threat, Memory, and Regulation"
+    ],
+    [
+      216,
+      3,
+      "Brain Development Across the Lifespan and Developmental Timing of Trauma"
+    ],
+    [
+      297,
+      4,
+      "Cellular Neuroscience: Neurons, Glia, Myelin, and Neural Tissue Responses"
+    ],
+    [
+      378,
+      5,
+      "Molecular Neuroscience and Synaptic Transmission in Traumatic Stress"
+    ],
+    [
+      459,
+      6,
+      "Neurotransmitters, Neuromodulators, and Neuroendocrine Signalling"
+    ],
+    [
+      541,
+      7,
+      "Neuroplasticity, Learning, Memory, and Reconsolidation"
+    ],
+    [
+      622,
+      8,
+      "Stress Physiology: HPA Axis, Autonomic Regulation, and Allostasis"
+    ],
+    [
+      704,
+      9,
+      "Genetics, Epigenetics, and Gene-Environment Interplay"
+    ],
+    [
+      786,
+      10,
+      "Threat Learning, Fear Conditioning, and Traumatic Memory"
+    ],
+    [
+      869,
+      11,
+      "Emotion Regulation, Interoception, and Dissociation"
+    ],
+    [
+      950,
+      12,
+      "Neurobiology of Post-Traumatic Stress Disorder"
+    ],
+    [
+      1030,
+      13,
+      "Complex Trauma, Developmental Trauma, and Childhood Adversity"
+    ],
+    [
+      1112,
+      14,
+      "Neurobiology of Resilience, Recovery, and Adaptive Regulation"
+    ],
+    [
+      1193,
+      15,
+      "Neuroinflammation and Psychoneuroimmunology of Trauma"
+    ],
+    [
+      1275,
+      16,
+      "Biomarkers, Precision Neuroscience, and Individualised Prediction"
+    ],
+    [
+      1356,
+      17,
+      "Neuroimaging, Electrophysiology, and Advanced Brain Mapping"
+    ],
+    [
+      1436,
+      18,
+      "Neurobiological Mechanisms of Treatment and Recovery Interventions"
+    ],
+    [
+      1518,
+      19,
+      "Artificial Intelligence, Machine Learning, and Emerging Neurotechnologies"
+    ],
+    [
+      1598,
+      20,
+      "Advanced Research Methods, Translation, Ethics, Policy, and Future Directions"
+    ]
+  ],
+  "bracketed_occurrences": 116,
+  "visual_placeholders": 40,
+  "generic_glossary_phrase_occurrences": 182,
+  "repeated_sentence_groups_on_5_or_more_pages": 301,
+  "caution_formula_occurrences": 1508,
+  "programmeme_occurrences": 41
+}
