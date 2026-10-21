@@ -111,43 +111,50 @@ def build_styles():
     ss.add(_p("Numbered", firstLineIndent=0, leftIndent=17, bulletIndent=2,
               spaceBefore=3.0, spaceAfter=3.0, bulletFontName="Body",
               bulletFontSize=10.4))
-    ss.add(_p("RefEntry", firstLineIndent=-14, leftIndent=14, fontSize=9.6,
-              leading=12.6, alignment=TA_LEFT, spaceBefore=3.2))
+    ss.add(_p("RefEntry", firstLineIndent=-16, leftIndent=16, fontSize=9.6,
+              leading=12.4, alignment=TA_LEFT, spaceBefore=5.0, spaceAfter=0))
     ss.add(_p("IndexEntry", firstLineIndent=-10, leftIndent=10, fontSize=8.8,
               leading=11.4, alignment=TA_LEFT, spaceBefore=1.4))
-    ss.add(_p("GlossTerm", firstLineIndent=-12, leftIndent=12, fontSize=9.8,
-              leading=12.8, spaceBefore=4.0))
+    ss.add(_p("GlossTerm", firstLineIndent=0, leftIndent=0, fontSize=9.7,
+              leading=12.9, spaceBefore=5.0, alignment=TA_JUSTIFY))
 
     # ---- headings
     ss.add(_p("ChapterNumber", fontName="Body-Med", fontSize=9.6, leading=12,
               alignment=TA_LEFT, textColor=ACCENT, spaceAfter=6, tracking=1.4))
     ss.add(_p("ChapterTitle", fontName="Disp-Semi", fontSize=21.5, leading=25.5,
-              alignment=TA_LEFT, spaceAfter=4))
+              alignment=TA_LEFT, spaceAfter=4, hyphenationLang=""))
+    ss.add(_p("ChapterTitleNoHyph", fontName="Disp-Semi", fontSize=21.5,
+              leading=25.5, alignment=TA_LEFT, spaceAfter=4, hyphenationLang="",
+              splitLongWords=0))
     ss.add(_p("H1", fontName="Disp-Semi", fontSize=13.6, leading=16.6,
-              alignment=TA_LEFT, spaceBefore=19, spaceAfter=6.5, tracking=0.15))
+              alignment=TA_LEFT, spaceBefore=19, spaceAfter=6.5, tracking=0.15,
+              hyphenationLang=""))
     ss.add(_p("H2", fontName="Disp-Semi", fontSize=11.0, leading=14.6,
               alignment=TA_LEFT, spaceBefore=15, spaceAfter=4.2, tracking=0.2,
-              textColor=INK))
+              textColor=INK, hyphenationLang=""))
     ss.add(_p("RunIn", fontName="Body-Semi", fontSize=11, leading=15.2,
               alignment=TA_JUSTIFY, spaceBefore=8))
 
     # ---- figure & table furniture
     ss.add(_p("Caption", fontName="Body", fontSize=8.8, leading=11.4,
-              alignment=TA_LEFT, textColor=INK, spaceBefore=5, spaceAfter=2))
+              alignment=TA_LEFT, textColor=INK, spaceBefore=5, spaceAfter=2,
+              hyphenationLang=""))
     ss.add(_p("CaptionNum", fontName="Body-Semi", fontSize=8.8, leading=11.4,
-              alignment=TA_LEFT, spaceBefore=5, spaceAfter=2))
+              alignment=TA_LEFT, spaceBefore=5, spaceAfter=2,
+              hyphenationLang=""))
     ss.add(_p("TableCaption", fontName="Body-Semi", fontSize=8.8, leading=11.4,
-              alignment=TA_LEFT, spaceBefore=12, spaceAfter=4))
+              alignment=TA_LEFT, spaceBefore=12, spaceAfter=4,
+              hyphenationLang=""))
     ss.add(_p("TableNote", fontName="Body", fontSize=7.8, leading=10,
               alignment=TA_LEFT, textColor=INK_SOFT, spaceBefore=3, spaceAfter=6))
     ss.add(_p("TableCell", fontName="Body", fontSize=9.0, leading=11.6,
-              alignment=TA_LEFT))
+              alignment=TA_LEFT, hyphenationLang=""))
     ss.add(_p("TableHead", fontName="Body-Semi", fontSize=8.8, leading=11.2,
-              alignment=TA_LEFT))
+              alignment=TA_LEFT, hyphenationLang=""))
 
     # ---- panels
     ss.add(_p("Panel", fontSize=9.8, leading=13.4, bulletFontName="Body",
-              bulletFontSize=9.8))
+              bulletFontSize=9.8, alignment=TA_LEFT, hyphenationLang=""))
     ss.add(_p("PanelHead", fontName="Body-Semi", fontSize=9.8, leading=13.4,
               spaceAfter=3))
     ss.add(_p("Quote", fontSize=9.8, leading=13.4, leftIndent=18, rightIndent=14,
@@ -155,15 +162,15 @@ def build_styles():
 
     # ---- front matter
     ss.add(_p("FMHalfTitle", fontName="Disp-Semi", fontSize=18, leading=23,
-              alignment=TA_CENTER))
+              alignment=TA_CENTER, hyphenationLang=""))
     ss.add(_p("FMTitle", fontName="Disp-Semi", fontSize=27, leading=31,
-              alignment=TA_CENTER))
+              alignment=TA_CENTER, hyphenationLang=""))
     ss.add(_p("FMSub", fontName="Disp-Italic", fontSize=12.6, leading=17,
               alignment=TA_CENTER))
     ss.add(_p("FMImprint", fontName="Body-Med", fontSize=10, leading=15,
               alignment=TA_CENTER))
     ss.add(_p("FMCopy", fontName="Body", fontSize=8.4, leading=11.4,
-              alignment=TA_LEFT))
+              alignment=TA_LEFT, hyphenationLang=""))
     ss.add(_p("FMCentre", fontName="Body", fontSize=10, leading=14,
               alignment=TA_CENTER))
     ss.add(_p("TOCLevel1", fontName="Body-Semi", fontSize=10, leading=13.4,

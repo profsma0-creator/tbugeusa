@@ -38,9 +38,9 @@ class ConceptualMap(Flowable):
     node is drawn as the integrative outcome of the sequence.
     """
 
-    BOX_W = 148.0
-    BOX_H = 46.0
-    GAP_Y = 20.0
+    BOX_W = TEXT_W * 0.455
+    BOX_H = 42.0
+    GAP_Y = 24.0
     ROW_H = BOX_H + GAP_Y
     PAD = 2.0
 
@@ -52,7 +52,7 @@ class ConceptualMap(Flowable):
 
     def _compute_height(self):
         rows = math.ceil(len(self.nodes) / 2.0)
-        self.height = rows * self.ROW_H - self.GAP_Y + 2 * self.PAD + 8
+        self.height = rows * self.ROW_H - self.GAP_Y + 2 * self.PAD + 6
 
     # ------------------------------------------------------------------ draw
     def draw(self):
@@ -64,71 +64,90 @@ class ConceptualMap(Flowable):
         right_x = self.width - box_w
         y_top = self.height - self.PAD
 
-        centres = []
+        pos = []
         for idx, label in enumerate(self.nodes):
-            row = idx // 2
-            col = idx % 2
-            x = left_x if col == 0 else right_x
+            row, col = divmod(idx, 2)
+            if idx == n - 1 and n % 2 == 1:
+                # a single closing node is centred across the measure
+                x = (self.width - box_w) / 2.0
+            else:
+                x = left_x if col == 0 else right_x
             y = y_top - box_h - row * self.ROW_H
-            centres.append((x + box_w / 2.0, y, x, y))
-            final = idx == n - 1
-            self._node(c, x, y, box_w, box_h, idx + 1, label, final)
+            pos.append((x, y))
+            self._node(c, x, y, box_w, box_h, idx + 1, label,
+                       idx == n - 1)
 
-        # connectors
         for i in range(n - 1):
-            x1, y1, _, _ = centres[i]
-            x2, y2, _, _ = centres[i + 1]
-            self._elbow(c, x1, y1, x2, y2 + box_h)
+            self._elbow(c, pos[i], pos[i + 1], box_w, box_h)
         c.restoreState()
 
     # --------------------------------------------------------------- helpers
     def _node(self, c, x, y, w, h, number, label, final):
-        c.setLineWidth(0.55)
-        c.setStrokeColor(ACCENT if final else colors.HexColor("#3F3F3F"))
+        edge = ACCENT if final else colors.HexColor("#4A4A4A")
+        c.setLineWidth(0.6)
+        c.setStrokeColor(edge)
         c.setFillColor(colors.white)
         c.rect(x, y, w, h, stroke=1, fill=1)
 
-        # roundel with the step number
-        cx, cy, r = x, y + h / 2.0, 8.0
+        # roundel with the step number, set inside the box
+        cx, cy, r = x + 14.0, y + h / 2.0, 7.6
         c.setFillColor(ACCENT if final else colors.white)
-        c.setStrokeColor(ACCENT if final else colors.HexColor("#3F3F3F"))
+        c.setStrokeColor(edge)
         c.circle(cx, cy, r, stroke=1, fill=1)
         c.setFillColor(colors.white if final else ACCENT)
-        c.setFont("Body-Semi", 7.4)
-        c.drawCentredString(cx, cy - 2.6, str(number))
+        c.setFont("Body-Semi", 7.2)
+        c.drawCentredString(cx, cy - 2.5, str(number))
 
         # label
         font = "Body-Med" if final else "Body"
         c.setFillColor(INK)
         c.setFont(font, 8.3)
-        lines = wrap(label, font, 8.3, w - 26)
-        total = len(lines) * 9.8
-        ty = y + h / 2.0 + total / 2.0 - 7.6
+        lines = wrap(label, font, 8.3, w - 34)
+        step = 9.6
+        first = cy + (len(lines) - 1) * step / 2.0 - 3.1
         for ln in lines:
-            c.drawString(x + 17, ty, ln)
-            ty -= 9.8
+            c.drawString(x + 27, first, ln)
+            first -= step
 
-    def _elbow(self, c, x1, y1, x2, y2):
-        """Connector from bottom of node i to top of node i+1."""
-        c.setStrokeColor(colors.HexColor("#5A5A5A"))
-        c.setLineWidth(0.55)
-        p = c.beginPath()
-        if abs(x1 - x2) < 0.5:
-            p.moveTo(x1, y1)
-            p.lineTo(x2, y2 + 5)
-        else:
-            mid = (y1 + y2) / 2.0
-            p.moveTo(x1, y1)
+    def _elbow(self, c, src, dst, w, h):
+        """Connector between consecutive nodes: horizontal within a row,
+        an elbow between rows."""
+        colour = colors.HexColor("#5A5A5A")
+        c.setStrokeColor(colour)
+        c.setFillColor(colour)
+        c.setLineWidth(0.6)
+        sx, sy = src
+        dx, dy = dst
+        if abs(sy - dy) < 0.5:                      # same row: straight across
+            y = sy + h / 2.0
+            x0, x1 = sx + w, dx
+            c.line(x0, y, x1 - 4.6, y)
+            self._arrow(c, x1, y, "right")
+        else:                                       # next row: down, across, down
+            mid = sy - self.GAP_Y / 2.0
+            x0, x1 = sx + w / 2.0, dx + w / 2.0
+            top = dy + h
+            p = c.beginPath()
+            p.moveTo(x0, sy)
+            p.lineTo(x0, mid)
             p.lineTo(x1, mid)
-            p.lineTo(x2, mid)
-            p.lineTo(x2, y2 + 5)
-        c.drawPath(p)
-        # arrowhead
-        c.setFillColor(colors.HexColor("#5A5A5A"))
-        c.setStrokeColor(colors.HexColor("#5A5A5A"))
-        ah = 4.6
-        c.line(x2 - 2.6, y2 + 1.2, x2, y2 - 0.4)
-        c.line(x2 + 2.6, y2 + 1.2, x2, y2 - 0.4)
+            p.lineTo(x1, top + 4.6)
+            c.drawPath(p)
+            self._arrow(c, x1, top, "down")
+
+    def _arrow(self, c, x, y, direction):
+        s = 4.6
+        p = c.beginPath()
+        if direction == "right":
+            p.moveTo(x, y)
+            p.lineTo(x - s, y + s * 0.58)
+            p.lineTo(x - s, y - s * 0.58)
+        else:
+            p.moveTo(x, y)
+            p.lineTo(x - s * 0.58, y + s)
+            p.lineTo(x + s * 0.58, y + s)
+        p.close()
+        c.drawPath(p, stroke=0, fill=1)
 
 
 class CurveFigure(Flowable):

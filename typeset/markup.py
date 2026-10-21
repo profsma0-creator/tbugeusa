@@ -132,11 +132,11 @@ def parse(text):
         if stripped.startswith("# "):
             flush_para()
             payload = stripped[2:]
-            if "|" in payload:
-                num, title = payload.split("|", 1)
-            else:
-                num, title = "", payload
-            blocks.append(Block("chapter", num=num.strip(), title=title.strip()))
+            parts = [p.strip() for p in payload.split("|")]
+            num = parts[0] if len(parts) > 1 else ""
+            title = parts[1] if len(parts) > 1 else parts[0]
+            toc = parts[2] if len(parts) > 2 else ""
+            blocks.append(Block("chapter", num=num, title=title, toc=toc))
             i += 1
             continue
         if stripped.startswith("## "):

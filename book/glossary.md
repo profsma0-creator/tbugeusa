@@ -1,4 +1,4 @@
-# GLOSSARY|Glossary
+# |Glossary
 
 Definitions are given for the sense in which each term is used in this book. Where a term has a different technical meaning in another tradition, the difference is noted.
 

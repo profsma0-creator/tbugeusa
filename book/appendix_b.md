@@ -1,4 +1,4 @@
-# APPENDIX B|Appendix B: Structure for an Integrated Psychological Report
+# APPENDIX B|Structure for an Integrated Psychological Report|Appendix B: Structure for an Integrated Psychological Report
 
 The structure below is adaptable to setting and purpose. Its logic is that the report should state the question, present the evidence, show the reasoning and answer the question, in that order.
 

@@ -55,7 +55,8 @@ def build_index(pdf_path, body_start_page=1):
     # locate the start of References so the index does not cite back matter
     end = doc.page_count
     for i in range(doc.page_count):
-        if body_pages[i].startswith("REFERENCES") or "\nREFERENCES\n" in doc[i].get_text():
+        first = doc[i].get_text().strip().split("\n")[0].strip()
+        if first in ("References", "REFERENCES", "Glossary", "GLOSSARY"):
             end = i
             break
 

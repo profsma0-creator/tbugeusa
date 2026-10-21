@@ -1,4 +1,4 @@
-# APPENDIX C|Appendix C: Case Formulation Template
+# APPENDIX C|Case Formulation Template|Appendix C: Case Formulation Template
 
 The template supports the formulation described in Chapters 1 and 16. It is intended to be completed in note form and then written as prose.
 

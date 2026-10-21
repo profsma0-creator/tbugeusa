@@ -1,4 +1,4 @@
-# APPENDIX A|Appendix A: Assessment Planning and Quality Checklist
+# APPENDIX A|Assessment Planning and Quality Checklist|Appendix A: Assessment Planning and Quality Checklist
 
 The checklist is intended for use before, during and after an assessment. It is not a substitute for clinical judgement; it is a device for making the reasoning explicit and for catching the omissions that recur in practice.
 

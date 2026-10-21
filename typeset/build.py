@@ -16,6 +16,7 @@ Running:  python3 typeset/build.py [--final]
 
 import argparse
 import glob
+import math
 import json
 import os
 import re
@@ -211,6 +212,9 @@ class Book(BaseDocTemplate):
         self.head = "none"            # none | verso_title
         self.records = {"toc": [], "fig": [], "tab": [], "ol": [], "fm": []}
         self.part_count = 0
+        self.marks = {}
+        self.blank_before = set()
+        self.blank_pages = set()
         self._build_templates()
 
     # ---------------------------------------------------------------- pages
@@ -253,6 +257,9 @@ class Book(BaseDocTemplate):
         canv.saveState()
         page = self.page
         in_body = self.body_start is not None and page >= self.body_start
+        if page in self.blank_pages:
+            canv.restoreState()
+            return
         if in_body and not getattr(self, "page_opener", False):
             head = self.chapter_label
             if head:
@@ -306,12 +313,12 @@ class Book(BaseDocTemplate):
                                                 space_before=9, font="Body-Semi",
                                                 size=9.4))
                 self.chapter_label = rec["short"]
+            elif kind == "fmsec":
+                # front-matter subheads appear in the PDF outline but not in
+                # the printed contents, which lists the front matter only once
+                self.canv.addOutlineEntry(rec["text"], key, level=1, closed=True)
             elif kind == "section":
                 self.canv.addOutlineEntry(rec["text"], key, level=1, closed=False)
-                head = rec["text"].split("\u2002")[-1]
-                if head in ("Review Questions", "Discussion Questions",
-                            "Further Reading"):
-                    return
                 self.records["toc"].append(dict(kind="section", text=rec["text"],
                                                 page=self.folio(), indent=14,
                                                 size=8.8))
@@ -356,21 +363,21 @@ def make_table(block):
                 lw = max(lw, stringWidth(word, f, s_))
         natural.append(w + 8)
         longest_word.append(lw + 7)
-    if sum(natural) > TEXT_W:
-        floor = []
-        for n, lw in zip(natural, longest_word):
-            floor.append(min(n, max(lw, TEXT_W * 0.10)))
-        spare = TEXT_W - sum(floor)
-        if spare < 0:
-            k = TEXT_W / sum(floor)
-            widths = [f * k for f in floor]
-        else:
-            extra = [max(0.0, n - f) for n, f in zip(natural, floor)]
-            tot = sum(extra) or 1.0
-            widths = [f + spare * e / tot for f, e in zip(floor, extra)]
-    else:
-        widths = natural
-        widths[widths.index(max(widths))] += TEXT_W - sum(natural)
+    # balance the measure: allocate space by the square root of each column's
+    # natural width, so a long prose column does not squeeze a short one to a
+    # ribbon, then raise any column that would break its longest word
+    total = sum(math.sqrt(max(n, 1.0)) for n in natural) or 1.0
+    widths = [TEXT_W * math.sqrt(max(n, 1.0)) / total for n in natural]
+    for _ in range(4):
+        short = [i for i, w in enumerate(widths) if w < longest_word[i]]
+        if not short:
+            break
+        fixed = sum(longest_word[i] for i in short)
+        free = [i for i in range(ncols) if i not in short]
+        tot = sum(math.sqrt(max(natural[i], 1.0)) for i in free) or 1.0
+        for i in range(ncols):
+            widths[i] = (longest_word[i] if i in short else
+                         (TEXT_W - fixed) * math.sqrt(max(natural[i], 1.0)) / tot)
 
     data = [[Paragraph(markup.inline(cell), STYLES["TableHead" if i < head_rows
                                                  else "TableCell"])
@@ -529,15 +536,21 @@ def front_matter(records, fm_entries=None):
           PageBreak()]
 
     # -------------------------------------------------------- list of figures
-    f += [Paragraph("Figures", ParagraphStyle("lofh", parent=S["FMTitle"],
-                                             fontSize=20, leading=24, alignment=0)),
+    lof = Paragraph("List of Figures", ParagraphStyle("lofh", parent=S["FMTitle"],
+                                                      fontSize=20, leading=24,
+                                                      alignment=0))
+    lof._chap_record = dict(kind="fm", text="List of Figures", key="lof")
+    f += [lof,
           Hr(width=54, space_before=4, space_after=14),
           LeaderList(records["fig"], size=9.0, leading=11.8),
           PageBreak()]
 
     # --------------------------------------------------------- list of tables
-    f += [Paragraph("Tables", ParagraphStyle("loth", parent=S["FMTitle"],
-                                            fontSize=20, leading=24, alignment=0)),
+    lot = Paragraph("List of Tables", ParagraphStyle("loth", parent=S["FMTitle"],
+                                                     fontSize=20, leading=24,
+                                                     alignment=0))
+    lot._chap_record = dict(kind="fm", text="List of Tables", key="lot")
+    f += [lot,
           Hr(width=54, space_before=4, space_after=14),
           LeaderList(records["tab"], size=9.0, leading=11.8),
           PageBreak()]
@@ -560,6 +573,7 @@ def render_section(blocks, opener=False, fm=False):
     """Render a run of blocks that begins with a '# ' page title."""
     out = []
     fresh = True        # next paragraph starts a section: no first-line indent
+    page_kind = ""      # 'refs' | 'glossary' | '' : drives paragraph style
     for b in blocks:
         if b.kind == "chapter":
             label = b.num.strip()
@@ -581,26 +595,36 @@ def render_section(blocks, opener=False, fm=False):
                     p = Paragraph("", STYLES["ChapterNumber"])
                 else:
                     p = Paragraph(label, STYLES["ChapterNumber"])
-                p._chap_record = dict(kind="fm" if fm else "back", text=title,
-                                      short=title,
+                p._chap_record = dict(kind="fm" if fm else "back",
+                                      text=(b.toc or title), short=title,
                                       key=f"bk{len(out)}{title[:12]}")
                 out.append(p)
-            out.append(Paragraph(title, STYLES["ChapterTitle"]))
+            if title.strip().lower() == "references":
+                page_kind = "refs"
+            elif title.strip().lower() == "glossary":
+                page_kind = "glossary"
+            out.append(Paragraph(title, STYLES["ChapterTitleNoHyph"]))
             out.append(Hr(width=60, space_before=8, space_after=16))
             fresh = True
         elif b.kind == "h1":
             label = f"{b.num}\u2002\u2002{b.title}" if b.num else b.title
-            out.append(CondPageBreak(52))
+            out.append(CondPageBreak(76))
             p = Paragraph(label, STYLES["H1"])
-            p._chap_record = dict(kind="section", text=label, key=f"s{len(out)}{label[:14]}")
+            p._chap_record = dict(kind="fmsec" if fm else "section", text=label,
+                                  key=f"s{len(out)}{label[:14]}")
             out.append(p)
             fresh = True
         elif b.kind == "h2":
-            out.append(CondPageBreak(40))
+            out.append(CondPageBreak(64))
             out.append(Paragraph(b.title, STYLES["H2"]))
             fresh = True
         elif b.kind == "para":
-            out.append(para(b.text, "BodyFirst" if fresh else "Body"))
+            if page_kind == "refs":
+                out.append(para(b.text, "RefEntry"))
+            elif page_kind == "glossary":
+                out.append(para(b.text, "GlossTerm"))
+            else:
+                out.append(para(b.text, "BodyFirst" if fresh else "Body"))
             fresh = False
         elif b.kind == "bullet":
             out.append(Paragraph(markup.inline(b.text), STYLES["Bullet"],
@@ -697,14 +721,52 @@ def body_story(doc):
                 story.append(_BodyStart(doc))
             part = part_lookup[chapter_no]
             if part[3][0] == chapter_no:
-                story += part_page(part)
+                if f"part{chapter_no}" in doc.blank_before:
+                    story.append(_Blank(doc))
+                    story.append(PageBreak())
+                pp = part_page(part)
+                pp.insert(0, _Mark(doc, f"part{chapter_no}"))
+                story += pp
         elif not first:
             story.append(PageBreak())
-        # chapter openers begin a fresh page without a running head
+        # chapter openers begin on a recto page without a running head
+        if f"ch{chapter_no}" in doc.blank_before:
+            story.append(_Blank(doc))
+            story.append(PageBreak())
+        story.append(_Mark(doc, f"ch{chapter_no}"))
         story.append(_Opener(doc))
         story += render_section(blocks)
         first = False
     return story
+
+
+class _Mark(Flowable):
+    """Zero-height marker that records the physical page it lands on."""
+
+    def __init__(self, doc, key):
+        Flowable.__init__(self)
+        self.doc = doc
+        self.key = key
+
+    def wrap(self, aw, ah):
+        return (0, 0)
+
+    def draw(self):
+        self.doc.marks[self.key] = self.doc.page
+
+
+class _Blank(Flowable):
+    """Flags the current page as an intentional blank (no folio, no head)."""
+
+    def __init__(self, doc):
+        Flowable.__init__(self)
+        self.doc = doc
+
+    def wrap(self, aw, ah):
+        return (0, 0)
+
+    def draw(self):
+        self.doc.blank_pages.add(self.doc.page)
 
 
 class _BodyStart(Flowable):
@@ -742,18 +804,27 @@ class _Opener(Flowable):
 # back matter
 # --------------------------------------------------------------------------
 def back_matter(doc, records, index_entries):
-    out = [_Opener(doc)]
+    out = [PageBreak(), _Opener(doc)]
     for name in ("references.md", "glossary.md", "appendix_a.md",
                  "appendix_b.md", "appendix_c.md", "about.md"):
         path = os.path.join(BOOK, name)
         if not os.path.exists(path):
             continue
         blocks = markup.parse(open(path, encoding="utf-8").read())
+        key = "back" + name
+        if key in doc.blank_before:
+            out.append(_Blank(doc))
+            out.append(PageBreak())
+        out.append(_Mark(doc, key))
         out += render_section(blocks)
         out.append(PageBreak())
     if index_entries:
+        if "backindex" in doc.blank_before:
+            out.append(_Blank(doc))
+            out.append(PageBreak())
+        out.append(_Mark(doc, "backindex"))
         out.append(_Opener(doc))
-        out += render_section(markup.parse("# INDEX|Index"))
+        out += render_section(markup.parse("# |Index"))
         for e in index_entries:
             out.append(Paragraph(
                 f"{markup.inline(e['term'])}, {e['pages']}", STYLES["IndexEntry"]))
@@ -777,6 +848,16 @@ def build(path, pagemap=None, index_entries=None, body_only=False):
     return doc
 
 
+def _assemble(doc, records, fm_entries, pad):
+    story = front_matter(records, fm_entries)
+    if pad:
+        story.append(Spacer(1, 1))
+        story.append(PageBreak())
+    story += body_story(doc)
+    story += back_matter(doc, doc.records, doc._index_entries)
+    return story
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--final", action="store_true")
@@ -785,21 +866,7 @@ def main():
 
     tmp = os.path.join(OUT, ".pass1.pdf")
     d1 = build(tmp, body_only=True)
-    records = d1.records
-
-    # the front-matter sections carry roman folios that are listed in the
-    # contents, so build the front matter until those folios stop moving
-    fm_entries = []
-    for _ in range(4):
-        probe = Book(tmp + ".fm.pdf")
-        probe.build(front_matter(records, fm_entries))
-        new = list(probe.records["fm"])
-        signature = [(e["text"], e["page"]) for e in new]
-        if signature == [(e["text"], e["page"]) for e in fm_entries]:
-            break
-        fm_entries = new
-    fm_pages = probe.page
-    pad = fm_pages % 2 == 1
+    records = {k: list(v) for k, v in d1.records.items()}
 
     final = os.path.join(OUT, "CPY903_Advanced_Assessment_and_Diagnosis.pdf")
     index_path = os.path.join(OUT, "index.json")
@@ -807,14 +874,51 @@ def main():
     if os.path.exists(index_path) and os.environ.get("SKIPINDEX") != "1":
         index_entries = json.load(open(index_path))
 
-    d2 = Book(final)
-    story = front_matter(records, fm_entries)
-    if pad:
-        story.append(Spacer(1, 1))
-        story.append(PageBreak())
-    story += body_story(d2)
-    story += back_matter(d2, d2.records, index_entries)
-    d2.build(story)
+    fm_entries, pages, blanks, pad = [], 0, set(), False
+    for attempt in range(6):
+        # the front-matter sections carry roman folios that are listed in the
+        # contents, so build the front matter until those folios stop moving
+        for _ in range(4):
+            probe = Book(tmp + ".fm.pdf")
+            probe.build(front_matter(records, fm_entries))
+            new = list(probe.records["fm"])
+            if [(e["text"], e["page"]) for e in new] == \
+               [(e["text"], e["page"]) for e in fm_entries]:
+                break
+            fm_entries = new
+        fm_pages = probe.page
+        pad = fm_pages % 2 == 1
+
+        # base layout: every chapter, part and back-matter section should open
+        # on a recto page. A blank page carries no text, so the pages that must
+        # be inserted can be simulated exactly from this single base layout.
+        base = Book(final)
+        base._index_entries = index_entries
+        base.build(_assemble(base, records, fm_entries, pad))
+        marks = dict(base.marks)
+        shift, blanks = 0, set()
+        for page, key in sorted((p, k) for k, p in marks.items()):
+            if (page + shift) % 2 == 0:
+                blanks.add(key)
+                shift += 1
+
+        doc = Book(final)
+        doc._index_entries = index_entries
+        doc.blank_before = blanks
+        if pad:
+            # the strut that evens out the front matter leaves one empty page
+            # before the part title; it carries neither head nor folio
+            doc.blank_pages.add(base.body_start - 1)
+        doc.build(_assemble(doc, records, fm_entries, pad))
+        pages = doc.page
+
+        # the contents and the lists must cite the final pagination
+        if [(e["text"], e["page"]) for e in doc.records["toc"]] == \
+           [(e["text"], e["page"]) for e in records["toc"]]:
+            break
+        records["toc"] = doc.records["toc"]
+        records["fig"] = doc.records["fig"]
+        records["tab"] = doc.records["tab"]
 
     # final pass: drop unused resources and compress streams so that the only
     # fonts in the file are the embedded text faces
@@ -828,9 +932,11 @@ def main():
 
     with open(os.path.join(OUT, "bookmap.json"), "w") as fh:
         json.dump({"records": records, "fm": fm_entries,
-                   "body_start": d2.body_start, "pages": d2.page}, fh, indent=1)
+                   "body_start": doc.body_start, "pages": pages,
+                   "marks": doc.marks, "blanks": sorted(blanks)}, fh, indent=1)
     print("pass A pages:", d1.page, "| front matter:", fm_pages,
-          "| pass B pages:", d2.page, "| body starts at", d2.body_start)
+          "| pages:", pages, "| body starts at", doc.body_start,
+          "| blanks:", len(blanks), "| attempts:", attempt + 1)
 
 
 if __name__ == "__main__":

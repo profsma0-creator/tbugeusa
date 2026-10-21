@@ -1,318 +1,318 @@
 [
  {
   "term": "Accommodation",
-  "pages": "74, 75, 82, 123, 126, 132, 133, 243, 250"
+  "pages": "78, 79, 86, 129, 139, 257, 264"
  },
  {
   "term": "Acculturation",
-  "pages": "251"
- },
- {
-  "term": "Adaptive behaviour",
-  "pages": "123, 130, 131, 139"
- },
- {
-  "term": "Adjustment disorder",
-  "pages": "149, 154, 158"
- },
- {
-  "term": "Adult Attachment Interview",
-  "pages": "93"
- },
- {
-  "term": "Anchoring",
-  "pages": "19"
- },
- {
-  "term": "Anhedonia",
-  "pages": "53"
- },
- {
-  "term": "Aptitude",
-  "pages": "123, 127, 128, 134, 138, 139"
- },
- {
-  "term": "AUDIT",
-  "pages": "197, 209"
- },
- {
-  "term": "Autism Diagnostic Observation Schedule",
-  "pages": "219"
- },
- {
-  "term": "Base rate",
-  "pages": "2, 13, 14, 116"
- },
- {
-  "term": "Behavioural addiction",
-  "pages": "194, 195, 201, 208"
- },
- {
-  "term": "Broad-band inventory",
-  "pages": "86"
- },
- {
-  "term": "Capacity",
-  "pages": "5, 17, 40, 72, 96, 106, 109, 123, 124, 131, 132, 139, 160, 169"
- },
- {
-  "term": "Case formulation",
-  "pages": "2"
- },
- {
-  "term": "Cattell–Horn–Cattell model",
-  "pages": "105"
- },
- {
-  "term": "Coercive control",
-  "pages": "228, 236, 241, 260, 265"
- },
- {
-  "term": "Collateral information",
-  "pages": "36"
- },
- {
-  "term": "Comorbidity",
-  "pages": "148, 154, 155, 180"
- },
- {
-  "term": "Competing hypotheses",
-  "pages": "2"
- },
- {
-  "term": "Compulsion",
-  "pages": "147"
- },
- {
-  "term": "Construct validity",
-  "pages": "23"
- },
- {
-  "term": "Cultural formulation",
-  "pages": "255"
- },
- {
-  "term": "Cut score",
-  "pages": "60, 248"
- },
- {
-  "term": "Differential diagnosis",
-  "pages": "37, 276, 279"
- },
- {
-  "term": "Differential item functioning",
-  "pages": "61"
- },
- {
-  "term": "Dyadic Adjustment Scale",
-  "pages": "238"
- },
- {
-  "term": "Ecological validity",
-  "pages": "117"
- },
- {
-  "term": "Evidence-based assessment",
-  "pages": "2"
- },
- {
-  "term": "Executive function",
-  "pages": "105, 112, 113, 120"
- },
- {
-  "term": "Functional analysis",
-  "pages": "142, 152"
- },
- {
-  "term": "Functional capacity",
-  "pages": "123, 131"
- },
- {
-  "term": "g factor",
-  "pages": "105"
- },
- {
-  "term": "HCR-20",
   "pages": "265"
  },
  {
-  "term": "Hypomania",
-  "pages": "162"
+  "term": "Adaptive behaviour",
+  "pages": "129, 137, 145"
  },
  {
-  "term": "Idiom of distress",
-  "pages": "257"
+  "term": "Adjustment disorder",
+  "pages": "156, 161"
  },
  {
-  "term": "Impairment",
-  "pages": "14, 15, 63, 115, 178–182, 191, 250"
+  "term": "Adult Attachment Interview",
+  "pages": "98"
  },
  {
-  "term": "Incremental validity",
-  "pages": "55"
+  "term": "Anchoring",
+  "pages": "20"
  },
  {
-  "term": "Insight",
-  "pages": "147, 160, 169"
+  "term": "Anhedonia",
+  "pages": "56"
  },
  {
-  "term": "International Test Commission",
-  "pages": "258"
+  "term": "Aptitude",
+  "pages": "129, 133, 134, 140, 145"
  },
  {
-  "term": "Intersectionality",
-  "pages": "254"
+  "term": "AUDIT",
+  "pages": "206, 218"
  },
  {
-  "term": "Level of personality functioning",
-  "pages": "86"
+  "term": "Autism Diagnostic Observation Schedule",
+  "pages": "231"
  },
  {
-  "term": "Likelihood ratio",
-  "pages": "59"
+  "term": "Base rate",
+  "pages": "3, 14, 15, 122"
  },
  {
-  "term": "Measurement invariance",
-  "pages": "61"
+  "term": "Behavioural addiction",
+  "pages": "203, 204, 210, 211, 217"
  },
  {
-  "term": "Mental status examination",
-  "pages": "24, 25, 31"
- },
- {
-  "term": "Minnesota Multiphasic Personality Inventory",
-  "pages": "90"
- },
- {
-  "term": "Montreal Cognitive Assessment",
-  "pages": "115"
- },
- {
-  "term": "Multi-informant assessment",
-  "pages": "211"
- },
- {
-  "term": "Negative symptoms",
-  "pages": "160, 165"
- },
- {
-  "term": "NEO Personality Inventory",
+  "term": "Broad-band inventory",
   "pages": "91"
  },
  {
-  "term": "Norms",
-  "pages": "46, 47, 99, 238, 249, 257"
+  "term": "Capacity",
+  "pages": "6, 18, 41, 76, 101, 112, 115, 129, 130, 137, 138, 145, 167, 176"
  },
  {
-  "term": "Obsession",
-  "pages": "147"
+  "term": "Case formulation",
+  "pages": "3"
  },
  {
-  "term": "Percentile rank",
-  "pages": "57"
+  "term": "Cattell–Horn–Cattell model",
+  "pages": "111"
  },
  {
-  "term": "Performance validity",
-  "pages": "63, 77, 105, 115"
+  "term": "Coercive control",
+  "pages": "241, 249, 254, 275, 280"
  },
  {
-  "term": "Personality Assessment Inventory",
-  "pages": "90"
+  "term": "Collateral information",
+  "pages": "37"
  },
  {
-  "term": "Positive predictive value",
+  "term": "Comorbidity",
+  "pages": "155, 161, 162, 188"
+ },
+ {
+  "term": "Competing hypotheses",
+  "pages": "3"
+ },
+ {
+  "term": "Compulsion",
+  "pages": "154"
+ },
+ {
+  "term": "Construct validity",
+  "pages": "24"
+ },
+ {
+  "term": "Cultural formulation",
+  "pages": "269"
+ },
+ {
+  "term": "Cut score",
+  "pages": "63, 262"
+ },
+ {
+  "term": "Differential diagnosis",
+  "pages": "38, 291, 294"
+ },
+ {
+  "term": "Differential item functioning",
+  "pages": "64"
+ },
+ {
+  "term": "Dyadic Adjustment Scale",
+  "pages": "252"
+ },
+ {
+  "term": "Ecological validity",
+  "pages": "123"
+ },
+ {
+  "term": "Evidence-based assessment",
+  "pages": "3"
+ },
+ {
+  "term": "Executive function",
+  "pages": "111, 118, 119, 126"
+ },
+ {
+  "term": "Functional analysis",
+  "pages": "149, 159"
+ },
+ {
+  "term": "Functional capacity",
+  "pages": "129, 138"
+ },
+ {
+  "term": "g factor",
+  "pages": "111"
+ },
+ {
+  "term": "HCR-20",
+  "pages": "280"
+ },
+ {
+  "term": "Hypomania",
+  "pages": "169"
+ },
+ {
+  "term": "Idiom of distress",
+  "pages": "270"
+ },
+ {
+  "term": "Impairment",
+  "pages": "15, 16, 107, 121, 186–190, 199, 264, 304"
+ },
+ {
+  "term": "Incremental validity",
   "pages": "58"
  },
  {
+  "term": "Insight",
+  "pages": "34, 154, 167, 176, 177, 182"
+ },
+ {
+  "term": "International Test Commission",
+  "pages": "272"
+ },
+ {
+  "term": "Intersectionality",
+  "pages": "268"
+ },
+ {
+  "term": "Level of personality functioning",
+  "pages": "91"
+ },
+ {
+  "term": "Likelihood ratio",
+  "pages": "62"
+ },
+ {
+  "term": "Measurement invariance",
+  "pages": "64"
+ },
+ {
+  "term": "Mental status examination",
+  "pages": "25, 26, 33"
+ },
+ {
+  "term": "Minnesota Multiphasic Personality Inventory",
+  "pages": "95"
+ },
+ {
+  "term": "Montreal Cognitive Assessment",
+  "pages": "121"
+ },
+ {
+  "term": "Multi-informant assessment",
+  "pages": "223"
+ },
+ {
+  "term": "Negative symptoms",
+  "pages": "167, 172"
+ },
+ {
+  "term": "NEO Personality Inventory",
+  "pages": "96"
+ },
+ {
+  "term": "Norms",
+  "pages": "49, 50, 104, 251, 263, 271"
+ },
+ {
+  "term": "Obsession",
+  "pages": "154"
+ },
+ {
+  "term": "Percentile rank",
+  "pages": "60"
+ },
+ {
+  "term": "Performance validity",
+  "pages": "66, 81, 111, 121"
+ },
+ {
+  "term": "Personality Assessment Inventory",
+  "pages": "95"
+ },
+ {
+  "term": "Positive predictive value",
+  "pages": "62"
+ },
+ {
   "term": "Premorbid functioning",
-  "pages": "107"
+  "pages": "113"
  },
  {
   "term": "Protective factor",
-  "pages": "260, 262, 268"
+  "pages": "275, 277, 283, 284"
  },
  {
   "term": "Provisional diagnosis",
-  "pages": "21"
+  "pages": "22"
  },
  {
   "term": "Psychometrics",
-  "pages": "47, 63"
+  "pages": "50, 67"
  },
  {
   "term": "Reification",
-  "pages": "86"
+  "pages": "91"
  },
  {
   "term": "Reliability",
-  "pages": "46, 47, 49–52, 56, 64"
+  "pages": "49, 50, 52–54, 56, 59, 67, 68"
  },
  {
   "term": "Safeguarding",
-  "pages": "204, 211, 221, 260, 266, 273"
+  "pages": "213, 223, 233, 275, 281, 288"
  },
  {
   "term": "Safety planning",
-  "pages": "260"
+  "pages": "285"
  },
  {
   "term": "Scalar invariance",
-  "pages": "61"
+  "pages": "64"
  },
  {
   "term": "Sensitivity",
-  "pages": "46, 58, 59, 115"
+  "pages": "49, 61, 62, 121"
  },
  {
   "term": "Specificity",
-  "pages": "46, 58, 59"
+  "pages": "49, 61, 62"
  },
  {
   "term": "Standard error of measurement",
-  "pages": "46, 64"
+  "pages": "49, 68"
  },
  {
   "term": "Standard error of the difference",
-  "pages": "51, 109"
+  "pages": "54, 115"
  },
  {
   "term": "Standardised administration",
-  "pages": "68"
+  "pages": "72"
  },
  {
   "term": "Static and dynamic risk factors",
-  "pages": "260"
+  "pages": "275"
  },
  {
   "term": "Structured Clinical Interview for DSM-5",
-  "pages": "45"
+  "pages": "46"
  },
  {
   "term": "Structured interview",
-  "pages": "21, 24, 40"
+  "pages": "22, 25, 41"
  },
  {
   "term": "Structured professional judgement",
-  "pages": "265, 269"
+  "pages": "280, 284"
  },
  {
   "term": "Systemic formulation",
-  "pages": "239"
+  "pages": "252"
  },
  {
   "term": "Test–retest reliability",
-  "pages": "50"
+  "pages": "53"
  },
  {
   "term": "Thought form",
-  "pages": "164"
+  "pages": "171"
  },
  {
   "term": "Working memory",
-  "pages": "82, 112"
+  "pages": "86, 118"
  },
  {
   "term": "Yale–Brown Obsessive Compulsive Scale",
-  "pages": "151"
+  "pages": "158"
  }
 ]

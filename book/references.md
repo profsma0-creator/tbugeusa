@@ -1,6 +1,6 @@
-# REFERENCES|References
+# |References|References
 
-This list contains every work cited in the text and in the further reading at the end of each chapter. Entries follow APA 7th edition. Works are listed once, even where they are cited in several chapters.
+This list contains every work cited in the text and in the further reading at the end of each chapter. Entries follow APA 7th edition and are listed once, even where they are cited in several chapters.
 
 American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
 
