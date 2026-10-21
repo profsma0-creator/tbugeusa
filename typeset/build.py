@@ -954,6 +954,11 @@ def main():
                     src.xref_set_key(page.xref, f"Resources/Font/{key}", "null")
             except Exception:
                 pass
+    # the block ends on a recto; close it with its blank verso so that the
+    # interior is an even 360 pages (180 leaves) and needs no press padding
+    r = src[0].rect
+    src.new_page(width=r.width, height=r.height)
+
     # the press wants the interior as a file of its own, without the cover
     src.save(os.path.join(OUT, "CPY903_interior_press.pdf"),
              garbage=4, deflate=True, clean=True)
@@ -985,7 +990,8 @@ def main():
 
     with open(os.path.join(OUT, "bookmap.json"), "w") as fh:
         json.dump({"records": records, "fm": fm_entries,
-                   "body_start": doc.body_start + shift, "pages": pages + shift,
+                   "body_start": doc.body_start + shift,
+                   "pages": pages + 1 + shift,
                    "marks": {k: v + shift for k, v in doc.marks.items()},
                    "blanks": sorted(blanks)}, fh, indent=1)
     print("pass A pages:", d1.page, "| front matter:", fm_pages,

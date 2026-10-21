@@ -12,9 +12,9 @@
 
 | File | Content | Use |
 |---|---|---|
-| `output/CPY903_interior_press.pdf` | Interior only, 359 pages, 152.4 × 228.6 mm | **The file for the printing press.** Text block of the book; contains no cover |
+| `output/CPY903_interior_press.pdf` | Interior only, 360 pages (359 numbered + closing blank), 152.4 × 228.6 mm | **The file for the printing press.** Text block of the book; contains no cover |
 | `output/CPY903_front_cover.pdf` | Front cover artwork, one page, 152 × 202.7 mm | Reference for the cover designer; not at trim size (see §5) |
-| `output/CPY903_Advanced_Assessment_and_Diagnosis.pdf` | Complete digital edition: front cover + 359-page interior | Screen reading, review copies, institutional deposit |
+| `output/CPY903_Advanced_Assessment_and_Diagnosis.pdf` | Complete digital edition: front cover + 360-page interior | Screen reading, review copies, institutional deposit |
 | `output/bookmap.json`, `output/index.json` | Production maps (folio references, index verification) | Quality control; not for press |
 | `reports/qc_report.md` | Twenty-point quality-control report on the interior | Sign-off record |
 
@@ -23,7 +23,7 @@
 | Property | Value |
 |---|---|
 | Trim size | 152.4 × 228.6 mm (6 × 9 in) |
-| Extent | 359 pages: preliminary pages i–xxiv, text 1–335. Pad to **360 pages (180 leaves)** — the file ends on a recto and the press should add the final blank |
+| Extent | **360 pages (180 leaves)**: preliminary pages i–xxiv, text 1–335, and the closing blank verso supplied in the file. The block already ends on an even extent — no press padding required |
 | Binding | Perfect bound, softcover. Saddle stitching is not suitable at this extent |
 | Paper | 80–100 gsm uncoated book paper, white or cream, suitable for text printing at 11 pt. The publisher chooses the stock; the choice sets the spine (§3) |
 | Colour | Interior **black (1/1) only**. The 17 figures and 10 tables are vector line art — no raster images, no colour pages, no inserts |
@@ -67,7 +67,7 @@ All type on the cover must sit at least 5 mm inside the trim (10 mm recommended 
 
 ## 6. Imposition checklist for the press
 
-- [ ] Interior imposed to the signature scheme (359 pp padded to 360; multiples of 4 or 8 preferred)
+- [ ] Interior imposed to the signature scheme (360 pp / 180 leaves as supplied; multiples of 4 or 8 preferred)
 - [ ] Blank versos preserved — 15 intentional blanks within the text carry no ink
 - [ ] Chapter openers confirmed on rectos after imposition
 - [ ] Cover proofed in CMYK against the designer's colour reference

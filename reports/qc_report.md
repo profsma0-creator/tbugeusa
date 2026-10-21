@@ -3,7 +3,7 @@
 **Book:** *Advanced Assessment and Diagnosis: A Doctoral-Level Textbook in Counselling Psychology* (CPY 903)
 **Author:** Triune Biblical University Global Extension, USA
 **File:** `output/CPY903_Advanced_Assessment_and_Diagnosis.pdf`
-**Extent:** 360 pages — front cover, then 359 numbered pages: front matter i–xxiv, body 1–308, references 309–314, glossary 315–320, appendices 321–330, about the author 331, index 333–335
+**Extent:** 361 pages — front cover, then the interior block of 360 pages (180 leaves): front matter i–xxiv, body 1–308, references 309–314, glossary 315–320, appendices 321–330, about the author 331, index 333–335, and the closing blank verso that ends the block on an even extent
 **Body text:** 74,450 words
 **Date of this pass:** 21 October 2026
 
@@ -41,7 +41,7 @@ The book opens with the supplied front cover and the copyright page carries the 
 | 16 | Doubled words, broken punctuation | None outside the contents dot leaders |
 | 17 | Faith-based material | None in the book. The seven passages that discuss religion are academic and neutral |
 | 18 | References | 67 entries, APA 7, unique, hanging indents, no entry invented or reconstructed |
-| 19 | PDF integrity | Opens and extracts cleanly under two independent parsers; 360 pages; 1.21 MB; two-level bookmark outline matching the contents |
+| 19 | PDF integrity | Opens and extracts cleanly under two independent parsers; 361 pages; 1.2 MB; two-level bookmark outline matching the contents |
 | 20 | Convergence | Contents, lists and index regenerated after the final text change; the delivered file is the converged build (2 passes) |
 
 ---
@@ -94,7 +94,7 @@ The book opens with the supplied front cover and the copyright page carries the 
 | Cover artwork at print resolution (300 dpi) and trim proportion (2:3) | cover file; the supplied JPEG is 3:4 at about 136 dpi | Publisher |
 | Back cover and spine artwork | cover file; dimensions in `print_specification.md` §5 | Publisher |
 
-Nothing in this PDF is outstanding. The interior is final as it stands, and the front cover is set. Press files and the specification the printer needs are listed in `print_specification.md`; the deposit record is `catalogue_record.md`.
+Nothing in this PDF is outstanding. The interior is final as it stands, ends on an even 180-leaf extent with no press padding required, and the front cover is set. Press files and the specification the printer needs are listed in `print_specification.md`; the deposit record is `catalogue_record.md`.
 
 ## 7. What was not done, and why
 

@@ -29,8 +29,8 @@
 
 | Field | Value |
 |---|---|
-| Extent | xxiv, 335 pages : illustrations ; 152.4 × 228.6 mm (6 × 9 in) |
-| Format | PDF (digital edition: cover + interior; print file is the interior alone) |
+| Extent | xxiv, 335, [1] pages : illustrations ; 152.4 × 228.6 mm (6 × 9 in). ([1] = the closing blank verso; printed extent 360 pages / 180 leaves) |
+| Format | PDF (digital edition: cover + interior; print file is the interior alone, 360 pages) |
 | Illustrations | 17 figures (vector diagrams), 10 tables |
 | Language | English; British spelling throughout, original spelling retained in the titles of instruments, organisations and published works |
 
