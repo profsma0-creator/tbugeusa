@@ -3,7 +3,7 @@
 **Book:** *Advanced Assessment and Diagnosis: A Doctoral-Level Textbook in Counselling Psychology* (CPY 903)
 **Author:** Triune Biblical University Global Extension, USA
 **File:** `output/CPY903_Advanced_Assessment_and_Diagnosis.pdf`
-**Extent:** 359 pages — front matter i–xxiv, body 1–308, references 309–314, glossary 315–320, appendices 321–330, about the author 331, index 333–335
+**Extent:** 360 pages — front cover, then 359 numbered pages: front matter i–xxiv, body 1–308, references 309–314, glossary 315–320, appendices 321–330, about the author 331, index 333–335
 **Body text:** 74,450 words
 **Date of this pass:** 21 October 2026
 
@@ -13,7 +13,7 @@
 
 The interior file is complete and publication-ready: **no placeholder text remains**, no page furniture is missing, every cross-reference, list entry and index reference has been verified against the built PDF, and the file carries only the six embedded text faces.
 
-The copyright page carries the complete notice — title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions — with no line left to be supplied. The book identifier, which belongs to the publisher and appears above the barcode on the cover, is not part of the interior.
+The book opens with the supplied front cover and the copyright page carries the complete notice — title, copyright line, publisher, rights statement and the DSM-5-TR and ICD-11 attributions — with no line left to be supplied. The book identifier, which belongs to the publisher and appears above the barcode on the back cover, is not part of the interior.
 
 ---
 
@@ -21,6 +21,7 @@ The copyright page carries the complete notice — title, copyright line, publis
 
 | # | Check | Result |
 |---|---|---|
+| 0 | Front cover | Supplied artwork opens the book at PDF page 1, full-bleed at 152 × 202.7 mm (the artwork's own 3:4 proportions at the interior trim width), nothing cropped or letterboxed; the same artwork is issued as `output/CPY903_front_cover.pdf` for the printer. Title, course code and imprint on the cover agree with the title page |
 | 1 | Contents matches the headings | 327 entries; every heading in the book is listed and every entry resolves to the page it names |
 | 2 | Chapter, part and back-matter openers on rectos | 28 of 28 on recto; 0 on verso |
 | 3 | Blank verso pages | 15, all with no text, no folio and no running head |
@@ -40,7 +41,7 @@ The copyright page carries the complete notice — title, copyright line, publis
 | 16 | Doubled words, broken punctuation | None outside the contents dot leaders |
 | 17 | Faith-based material | None in the book. The seven passages that discuss religion are academic and neutral |
 | 18 | References | 67 entries, APA 7, unique, hanging indents, no entry invented or reconstructed |
-| 19 | PDF integrity | Opens and extracts cleanly under two independent parsers; 359 pages; 0.75 MB; two-level bookmark outline matching the contents |
+| 19 | PDF integrity | Opens and extracts cleanly under two independent parsers; 360 pages; 1.21 MB; two-level bookmark outline matching the contents |
 | 20 | Convergence | Contents, lists and index regenerated after the final text change; the delivered file is the converged build (2 passes) |
 
 ---
@@ -88,13 +89,15 @@ The copyright page carries the complete notice — title, copyright line, publis
 
 | Item | Where | Owner |
 |---|---|---|
-| Barcode and volume identifier | cover file, not this interior | Publisher |
+| Back cover and spine (full wrap) | cover file, not this interior | Publisher |
+| Barcode and volume identifier | back cover | Publisher |
+| Cover artwork at print resolution (300 dpi) | cover file; the supplied JPEG is about 136 dpi at trim width | Publisher |
 
-Nothing in this PDF is outstanding. The interior is final as it stands.
+Nothing in this PDF is outstanding. The interior is final as it stands, and the front cover is set.
 
 ## 7. What was not done, and why
 
 - No index entry was created for a term that is not discussed on the page cited; headwords come from the glossary and a curated instrument list, and terms scattered across more than 45 pages were excluded as unhelpful.
 - No citation was supplied for a claim the source left unsupported; those are listed for the institution in `substantive_issues.md` §5.
 - No permission research was undertaken for DSM-5-TR or ICD-11 material; attribution is on the copyright page and the permissions position is the publisher's to confirm.
-- No cover, jacket copy or CIP data was produced; these are outside the interior file.
+- The front cover is set from the supplied artwork; a back cover, spine and jacket copy were not produced — the full wrap is the publisher's cover file.

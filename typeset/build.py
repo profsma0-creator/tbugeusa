@@ -954,16 +954,39 @@ def main():
                     src.xref_set_key(page.xref, f"Resources/Font/{key}", "null")
             except Exception:
                 pass
+    # the supplied front cover opens the book as one unnumbered page, after
+    # which every interior page and folio reference in the map moves down one
+    cover = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                         "cover_cpy903.jpg")
+    shift = 0
+    if os.path.exists(cover):
+        img = pymupdf.open(cover)
+        iw, ih = img[0].rect.width, img[0].rect.height
+        img.close()
+        cw = 152 * 72 / 25.4  # the interior trim width
+        ch = cw * ih / iw
+        cov = src.new_page(pno=0, width=cw, height=ch)
+        cov.insert_image(cov.rect, filename=cover)
+        # the printer also wants the cover as a file of its own
+        covdoc = pymupdf.open()
+        cp = covdoc.new_page(width=cw, height=ch)
+        cp.insert_image(cp.rect, filename=cover)
+        covdoc.save(os.path.join(OUT, "CPY903_front_cover.pdf"),
+                    deflate=True, garbage=4)
+        covdoc.close()
+        shift = 1
     src.save(final, garbage=4, deflate=True, clean=True)
     src.close()
     os.remove(tmpout)
 
     with open(os.path.join(OUT, "bookmap.json"), "w") as fh:
         json.dump({"records": records, "fm": fm_entries,
-                   "body_start": doc.body_start, "pages": pages,
-                   "marks": doc.marks, "blanks": sorted(blanks)}, fh, indent=1)
+                   "body_start": doc.body_start + shift, "pages": pages + shift,
+                   "marks": {k: v + shift for k, v in doc.marks.items()},
+                   "blanks": sorted(blanks)}, fh, indent=1)
     print("pass A pages:", d1.page, "| front matter:", fm_pages,
           "| pages:", pages, "| body starts at", doc.body_start,
+          "| cover pages:", shift,
           "| blanks:", len(blanks), "| attempts:", attempt + 1)
 
 
