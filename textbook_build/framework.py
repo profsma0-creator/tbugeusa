@@ -235,7 +235,7 @@ def element_flows(key, content, style_body="element_body"):
             if isinstance(item, tuple) and item and item[0] == "code":
                 flows.extend(code_block(item[1], caption=item[2] if len(item) > 2 else None))
             elif isinstance(item, tuple) and item and item[0] == "bullets":
-                flows.extend(bullets(item[1]))
+                flows.append(bullets(item[1]))
             elif isinstance(item, tuple) and len(item) == 2:
                 flows.append(Paragraph("<b>%d. %s.</b> %s" % (idx, _esc(item[0]), _esc(item[1])), S[style_body]))
             elif isinstance(item, tuple) and len(item) == 4:
