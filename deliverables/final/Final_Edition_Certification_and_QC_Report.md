@@ -61,3 +61,21 @@ Contents integrity (exhaustive, scripted): every entry in every chapter's "In th
 ## Reproduction
 
 `.venv/bin/python scripts/build_final_edition.py` rebuilds this file from the manuscript sources in `manuscript/`; `scripts/check_final_edition.py` and `scripts/check_chapters.py` re-verify it. Standalone per-chapter PDFs in `deliverables/chapterNN/` are production components (the `_final` variants feed the book build) and retain internal production furniture; the publisher's master is this final file.
+
+## Publishable edition (covers added after certification)
+
+`deliverables/final/Advanced_Neurobiology_of_Trauma_TRT903_Publishable_Final.pdf` (274 pages:
+front cover + the certified 272-page interior + back cover). The front-cover artwork was
+supplied by the publisher (`assets/cover/front-cover.jpg`, 1086 x 1448 px) and is placed at
+full trim width on a background sampled from the artwork's own edges; the back cover was
+designed for this edition from verified book facts only (no endorsements, no ISBN or barcode
+fabricated). Covers sit outside the page-numbering scheme (labels "Front cover"/"Back cover");
+interior folios i-vii and 1-265 are unchanged, and interior text is byte-identical to the
+certified final edition (`scripts/check_publishable.py`, all checks pass).
+
+Known cover issues for the publisher to resolve before print: (a) the front-cover artwork
+reads "TRT 903" whereas the interior and back cover use the confirmed code TRT 903;
+(b) the artwork is ~155 DPI at trim width - adequate for digital distribution, below the
+300 DPI print standard (supply a 2100 x 3000 px or larger original, plus printer bleed/spine
+specifications, for a print wrap); (c) the front cover names an individual office-holder,
+whereas the front matter credits the corporate author only.
