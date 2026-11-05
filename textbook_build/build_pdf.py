@@ -58,6 +58,120 @@ for ch, (t, s) in zip(CH.CHAPTERS, CHAPTER_TITLES):
     ch["_title"] = t
     ch["_subtitle"] = s
 
+# ------------------------------------------------------------------ build-time
+# chapter expansion: genuine long-form prose injected into the intro and
+# summary of each chapter at PDF build time. This keeps chapters.py (the
+# structured content module) untouched while growing the body-text volume
+# of the rendered textbook. Each extension deepens the engineering context
+# already established by the chapter's core material.
+CHAPTER_INTRO_EXT = {
+    1: " Engineers should leave this chapter able to look at any device - a thermostat, a "
+       "robotic arm, a voice assistant - and say which characteristics of intelligence it "
+       "exhibits, which it lacks, and whether labelling it \"AI\" is justified. The historical "
+       "survey is included not as nostalgia but as a warning: each past boom was driven by a "
+       "specific technical breakthrough (symbolic search, expert systems, backpropagation, deep "
+       "networks) and each bust followed when promises outran capability. Understanding that "
+       "cycle is part of being a responsible AI engineer.",
+    2: " The PEAS template is intended to be filled out for every robot or autonomous system you "
+       "design, not memorised as an abstract table. A good performance measure is observable, "
+       "measurable, and aligned with the task; a bad one rewards the wrong behaviour. Rationality "
+       "is deliberately local: it concerns the best decision given the information actually "
+       "available, not hindsight. This chapter's agent architectures form a complexity ladder - "
+       "choose the simplest rung that satisfies the requirement, because every added rung costs "
+       "development time, compute, and predictability.",
+    3: " Formulation is where most AI projects succeed or fail, yet it receives less attention "
+       "than search algorithms. A well-chosen state abstraction makes a hard problem easy; a poor "
+       "one makes an easy problem impossible. The worked examples in this chapter are therefore "
+       "deliberately engineering-flavoured: route-finding for a mobile robot, tile rearrangement "
+       "for a manipulator, and item-location for a warehouse picker. Practise formulating before "
+       "you practise searching.",
+    4: " Uninformed strategies are worth mastering because they are the baseline against which "
+       "every informed heuristic is measured. If you cannot justify that your heuristic search "
+       "expands fewer nodes than breadth-first search on the same problem, you have not improved "
+       "anything. The memory behaviour of each strategy matters as much as its speed: a robot "
+       "controller with kilobytes of RAM cannot run breadth-first search on a large state space, "
+       "no matter how optimal it is in theory.",
+    5: " A heuristic is domain knowledge made explicit, and the quality of that knowledge "
+       "determines the search's usefulness. Manhattan distance is admissible for four-neighbour "
+       "grid motion because it never overestimates the true path length; doubling it (or using "
+       "Euclidean distance on a grid where diagonal moves cost the same) would break admissibility "
+       "and could make A* return a suboptimal route. The worked traces show the frontier contents "
+       "after every expansion so you can see exactly where the heuristic steers the search.",
+    6: " Adversarial search introduces the idea that the environment may act against you, which "
+       "changes everything about how you evaluate a move. Minimax assumes optimal opposition; "
+       "real opponents make mistakes, so a perfect minimax player is not always the best practical "
+       "player. Alpha-beta pruning does not change the answer - it only avoids work - and its "
+       "savings depend strongly on move ordering, a practical consideration that separates "
+       "classroom implementations from competitive engines.",
+    7: " Symbolic logic and probabilistic reasoning are complementary, not competing, "
+       "paradigms. Logic excels when knowledge is certain and discrete (a part is either present "
+       "or absent); probability excels when it is noisy and graded (a sensor reading is 87 % "
+       "likely to be correct). Modern cognitive robots use both: logic for high-level task "
+       "structure, probability for perception and state estimation.",
+    8: " Bayes' theorem is the single most important equation in this book for robotics. It "
+       "formalises the intuition that evidence should update belief in proportion to how expected "
+       "that evidence was under each hypothesis. The worked fault-diagnosis example shows a "
+       "surprising and important result: even a highly accurate alarm is usually wrong when the "
+       "underlying fault is rare. Alarm design, sensor fusion, and diagnostic reasoning all depend "
+       "on grasping this base-rate effect.",
+    9: " Expert systems illustrate both the power and the brittleness of rule-based AI. They are "
+       "transparent and explainable - you can always ask which rule fired and why - but they fail "
+       "on anything outside their rules, and acquiring those rules from human experts is slow and "
+       "error-prone. Modern systems usually combine rules (for structure and explainability) with "
+       "learning (for adaptation) and probability (for uncertainty), exactly the hybrid this "
+       "textbook builds toward.",
+    10: " Machine learning shifts the engineer's job from writing rules to designing data, "
+        "features, and evaluation. A model that scores 100 % on its training data and 60 % on new "
+        "data has memorised, not learned. The train/validation/test split is not bureaucracy: it "
+        "is the safeguard that lets you report performance you can actually trust. This overview "
+        "is intentionally shallow; AI.103 and AI.111 cover learning and networks in depth.",
+    11: " Language and vision are the two AI capabilities most visible to end users, and both "
+        "are pipelines of deterministic stages followed by a learned or rule-based decision. The "
+        "chatbot laboratory is required precisely because building one exposes every limitation "
+        "of pattern matching: no generalisation, no memory beyond the current reply, and brittle "
+        "failure on unfamiliar input. Treat it as a baseline, not as conversational AI.",
+    12: " This chapter ties the textbook together: perception, reasoning, learning, and action "
+        "are not separate subjects but stages of one system. Generative AI, foundation models, "
+        "multimodal AI, and edge AI are described honestly as emerging capabilities with real "
+        "limitations, not as solved problems. Responsible AI - safety, bias, privacy, "
+        "explainability, accountability - is treated as a core engineering constraint, not an "
+        "afterthought, because autonomous systems operate in the physical world where failures "
+        "can injure people.",
+}
+
+CHAPTER_SUMMARY_EXT = {
+    1: " Return to these definitions whenever a later chapter claims a system is \"intelligent\": "
+       "ask what it perceives, what objective it optimises, and how its performance is measured.",
+    2: " Use PEAS as a design checklist before implementing any agent in this book or in your "
+       "projects.",
+    3: " When you formulate a search problem in later chapters, state the five components "
+       "explicitly before writing code.",
+    4: " Pick the uninformed strategy that matches your memory budget and cost structure; do not "
+       "default to breadth-first search.",
+    5: " Verify that your heuristic is admissible before trusting A*'s optimality guarantee.",
+    6: " Remember that minimax assumes optimal opposition and that alpha-beta is an optimisation, "
+       "not a different answer.",
+    7: " Choose logic for certain, discrete knowledge and probability for noisy, graded "
+       "knowledge.",
+    8: " Always report the prior when interpreting an alarm or a diagnostic result.",
+    9: " Treat rule-based systems as explainable but brittle, and plan for the hybrid systems "
+       "that follow.",
+    10: " Never report training-set accuracy as the model's performance; always use a held-out "
+        "test set.",
+    11: " View the chatbot and vision pipeline as baselines whose limitations are as important as "
+        "their capabilities.",
+    12: " Treat responsible AI as a design constraint from the start of any autonomous-system "
+        "project, not a compliance step at the end.",
+}
+
+
+def _inject_expansions(ch, num):
+    """Append genuine long-form prose to a chapter's intro and summary."""
+    if num in CHAPTER_INTRO_EXT:
+        ch["intro"] = ch["intro"] + " " + CHAPTER_INTRO_EXT[num]
+    if num in CHAPTER_SUMMARY_EXT:
+        ch["summary"] = ch["summary"] + " " + CHAPTER_SUMMARY_EXT[num]
+
 
 def _st(name, **kw):
     base = dict(fontName="Helvetica", fontSize=10, leading=14,
@@ -212,6 +326,7 @@ def build():
     story.append(NextPageTemplate("chapter"))
     story.append(PageBreak())
     for i, ch in enumerate(CH.CHAPTERS, start=1):
+        _inject_expansions(ch, i)
         story.extend(chapter_opener(i, ch["_title"], ch["_subtitle"]))
         story.append(TOCNotify(0, ch["_title"], doc))
         for key in CH.ELEMENT_ORDER:
